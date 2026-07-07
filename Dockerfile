@@ -16,4 +16,5 @@ RUN mkdir -p data
 
 VOLUME [ "/app/data" ]
 
-ENTRYPOINT [ "python", "main.py" ]
+ENTRYPOINT [ "python" ]
+CMD [ "main.py" ]
