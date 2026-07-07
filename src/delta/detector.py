@@ -24,6 +24,7 @@ class DeltaDetector:
             for k, v in articles_data.items():
                 articles_state[k] = ArticleState(
                     id=v["id"],
+                    slug=v.get("slug", ""),
                     hash_val=v["hash_val"],
                     updated_at=v["updated_at"],
                     gemini_file_name=v.get("gemini_file_name", ""),
@@ -48,6 +49,7 @@ class DeltaDetector:
             "articles": {
                 k: {
                     "id": v.id,
+                    "slug": v.slug,
                     "hash_val": v.hash_val,
                     "updated_at": v.updated_at,
                     "gemini_file_name": v.gemini_file_name,

@@ -1,4 +1,3 @@
-import argparse
 import sys
 from src.core.config import load_config
 from src.core.pipeline import SyncPipeline
@@ -7,17 +6,9 @@ from src.utils.logger import setup_logger
 logger = setup_logger("main")
 
 def main():
-    parser = argparse.ArgumentParser(description="OptiBot ETL Help Center Data Sync Pipeline")
-    parser.add_argument(
-        "--config", 
-        type=str, 
-        default="config.yaml", 
-        help="Path to configuration file (default: config.yaml)"
-    )
-    args = parser.parse_args()
-    
     try:
-        config = load_config(args.config)
+        # Load configuration from environment variables / .env file
+        config = load_config()
         pipeline = SyncPipeline(config)
         pipeline.run()
     except Exception as e:

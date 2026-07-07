@@ -32,7 +32,7 @@ class SyncPipeline:
         try:
             fetched_articles = self.extractor.fetch_articles()
         except Exception as e:
-            logger.critical(f"Failed to fetch articles from Zendesk: {e}. Aborting pipeline.")
+            logger.critical(f"Failed to fetch articles: {e}. Aborting pipeline.")
             return
 
         logger.info("Transforming HTML bodies to Markdown and computing hashes...")
@@ -42,7 +42,8 @@ class SyncPipeline:
             
             locale_dir = os.path.join(self.config.pipeline.articles_dir, article.locale)
             os.makedirs(locale_dir, exist_ok=True)
-            article.file_path = os.path.abspath(os.path.join(locale_dir, f"{article.id}.md"))
+            # Use slug for filename scheme as requested
+            article.file_path = os.path.abspath(os.path.join(locale_dir, f"{article.slug}.md"))
 
         added, updated, deleted = self.detector.detect_deltas(fetched_articles, prev_state)
         
@@ -61,17 +62,24 @@ class SyncPipeline:
                 logger.error(f"Failed to write article file for {art.id} to {art.file_path}: {e}")
                 return False
 
+        # Track successfully processed deltas to build logging statistics
+        added_count = 0
+        updated_count = 0
+        deleted_count = 0
+
         for article in added:
             logger.info(f"Processing new article {article.id} ({article.title})")
             if write_article_file(article):
                 if self.loader.upload_article(article):
                     new_articles_state[str(article.id)] = ArticleState(
                         id=article.id,
+                        slug=article.slug,
                         hash_val=article.hash_val,
                         updated_at=article.updated_at.isoformat() if article.updated_at else datetime.now(timezone.utc).isoformat(),
                         gemini_file_name=article.gemini_file_name,
                         gemini_uri=article.gemini_uri
                     )
+                    added_count += 1
 
         for article in updated:
             logger.info(f"Processing updated article {article.id} ({article.title})")
@@ -79,20 +87,22 @@ class SyncPipeline:
                 if self.loader.upload_article(article):
                     new_articles_state[str(article.id)] = ArticleState(
                         id=article.id,
+                        slug=article.slug,
                         hash_val=article.hash_val,
                         updated_at=article.updated_at.isoformat() if article.updated_at else datetime.now(timezone.utc).isoformat(),
                         gemini_file_name=article.gemini_file_name,
                         gemini_uri=article.gemini_uri
                     )
+                    updated_count += 1
 
         for state in deleted:
             logger.info(f"Processing deleted article {state.id}")
             if state.gemini_file_name:
-                self.loader.delete_gemini_file(state.gemini_file_name)
+                self.loader.delete_gemini_document(state.gemini_file_name)
             
             found_local_file = False
             for root, _, files in os.walk(self.config.pipeline.articles_dir):
-                filename = f"{state.id}.md"
+                filename = f"{state.slug}.md"
                 if filename in files:
                     file_to_delete = os.path.join(root, filename)
                     try:
@@ -102,9 +112,10 @@ class SyncPipeline:
                     except Exception as e:
                         logger.error(f"Failed to remove local file {file_to_delete}: {e}")
             if not found_local_file:
-                logger.info(f"Local file for deleted article {state.id} was not found on disk.")
+                logger.info(f"Local file for deleted article {state.id} ({state.slug}.md) was not found on disk.")
                 
             new_articles_state.pop(str(state.id), None)
+            deleted_count += 1
 
         new_state = PipelineState(
             last_sync=start_time.isoformat(),
@@ -112,4 +123,15 @@ class SyncPipeline:
         )
         self.detector.save_state(new_state)
         
+        # Calculate skipped (articles that were already up to date)
+        skipped_count = len(fetched_articles) - len(added) - len(updated)
+        
+        # Log job counts as explicitly required
+        logger.info("=========================================")
+        logger.info("Sync Job Execution Counts:")
+        logger.info(f" - Added: {added_count} (Remote & Local)")
+        logger.info(f" - Updated: {updated_count} (Remote & Local)")
+        logger.info(f" - Deleted: {deleted_count} (Remote & Local)")
+        logger.info(f" - Skipped: {skipped_count} (Already up-to-date)")
+        logger.info("=========================================")
         logger.info("Pipeline sync run completed successfully.")
