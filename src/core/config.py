@@ -1,13 +1,14 @@
 import os
-import yaml
 from dataclasses import dataclass
 from typing import List
+from dotenv import load_dotenv
+
+# Load env variables from .env if it exists
+load_dotenv()
 
 @dataclass
 class ZendeskConfig:
-    subdomain: str
-    email: str
-    token: str
+    base_url: str
     locales: List[str]
 
 @dataclass
@@ -27,33 +28,23 @@ class AppConfig:
     gemini: GeminiConfig
     pipeline: PipelineConfig
 
-def load_config(config_path: str = "config.yaml") -> AppConfig:
-    if not os.path.exists(config_path):
-        raise FileNotFoundError(f"Configuration file not found at: {config_path}")
-        
-    with open(config_path, "r", encoding="utf-8") as f:
-        data = yaml.safe_load(f) or {}
+def load_config() -> AppConfig:
+    # Zendesk Config (Public scraping)
+    base_url = os.environ.get("SUPPORT_BASE_URL", "https://support.optisigns.com").rstrip("/")
+    locales_raw = os.environ.get("SUPPORT_LOCALES", "en-us")
+    locales = [lang.strip() for lang in locales_raw.split(",") if lang.strip()]
 
-    # Extract sections with safe defaults
-    zd_data = data.get("zendesk", {})
-    gemini_data = data.get("gemini", {})
-    pipe_data = data.get("pipeline", {})
+    # Gemini Config
+    api_key = os.environ.get("API_KEY") or os.environ.get("GEMINI_API_KEY", "")
+    model = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
 
-    # Apply environment variable overrides for sensitive values
-    subdomain = os.environ.get("ZENDESK_SUBDOMAIN", zd_data.get("subdomain", ""))
-    email = os.environ.get("ZENDESK_EMAIL", zd_data.get("email", ""))
-    token = os.environ.get("ZENDESK_TOKEN", zd_data.get("token", ""))
-    locales = zd_data.get("locales", ["en-us"])
-
-    api_key = os.environ.get("GEMINI_API_KEY", gemini_data.get("api_key", ""))
-    model = os.environ.get("GEMINI_MODEL", gemini_data.get("model", "gemini-2.5-flash"))
-
-    data_dir = pipe_data.get("data_dir", "data")
-    articles_dir = pipe_data.get("articles_dir", "data/articles")
-    state_file = pipe_data.get("state_file", "data/state.json")
+    # Pipeline Config
+    data_dir = os.environ.get("SYNC_DATA_DIR", "data")
+    articles_dir = os.environ.get("SYNC_ARTICLES_DIR", "data/articles")
+    state_file = os.environ.get("SYNC_STATE_FILE", "data/state.json")
 
     return AppConfig(
-        zendesk=ZendeskConfig(subdomain=subdomain, email=email, token=token, locales=locales),
+        zendesk=ZendeskConfig(base_url=base_url, locales=locales),
         gemini=GeminiConfig(api_key=api_key, model=model),
         pipeline=PipelineConfig(data_dir=data_dir, articles_dir=articles_dir, state_file=state_file)
     )

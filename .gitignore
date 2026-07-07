@@ -31,8 +31,6 @@ Thumbs.db
 # OptiBot configuration (contains sensitive tokens and credentials)
 config.yaml
 
-# OptiBot local data sync (articles, state.json)
-data/
 
 # IDE Agents and local configurations
 .agent/
