@@ -2,6 +2,7 @@
 
 **Article ID:** 360039566974
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360039566974-How-to-install-OptiSigns-as-channel-app-on-Roku
 **Last Updated:** 2025-09-02T19:35:39+00:00
 ---
 
@@ -54,14 +55,9 @@ There are 2 ways to install OptiSigns.
 2. Search for Optisigns on your Roku device  
     On your Roku TV, Search for OptiSigns Channel.
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360058620454)
-
 Add the Channel
 
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/360058620534)
-
-First time when launched, you will see this screen:  
-![mceclip5.png](https://support.optisigns.com/hc/article_attachments/360058622134)
+First time when launched, you will see this screen:
 
 #### **2) Pair your screen with OptiSigns Portal and start assigning content to it**
 

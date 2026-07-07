@@ -2,6 +2,7 @@
 
 **Article ID:** 52412502456083
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/52412502456083-Connect-Google-Meet-Hardware-to-OptiSigns-Digital-Signage
 **Last Updated:** 2026-06-15T19:14:07+00:00
 ---
 
@@ -45,8 +46,6 @@ OptiSigns generates a secure **signage URL** for each screen you want to show on
 
 In OptiSigns, open **Devices** in the top navigation, then in the left sidebar under **Room Integrations**, click **Google Meet**. If you haven't connected yet, you'll see the connect methods.
 
-![OptiSigns Google Meet — choose how to connect: Signage URL (recommended), Service Account, and Marketplace OAuth (coming soon)](https://support.optisigns.com/hc/article_attachments/52412499875091)
-
 Pick your method below.
 
 ---
@@ -58,8 +57,6 @@ No Google Cloud setup. You'll mint a URL in OptiSigns, give it content, and past
 ### Step 1 — Mint a Signage URL
 
 On the **Signage URL** card, click **Mint URLs**. In the **New Signage URL** dialog, give the URL a **Name** (for example, your room or location). The optional **Target label** is just a note to help you remember where you'll paste it; it doesn't control anything. Click **Next**.
-
-![The New Signage URL dialog — name the URL, then click Next](https://support.optisigns.com/hc/article_attachments/52412466531475)
 
 ### Step 2 — Assign content
 
@@ -83,8 +80,6 @@ This connects a **read-only** Google Cloud service account so OptiSigns can disc
 
 On the **Service Account** card, click **View setup steps**. OptiSigns walks you through creating the service account and lists the two read-only scopes it needs.
 
-![The setup-steps dialog — the five steps and the two read-only Admin SDK scopes; use Copy all scopes](https://support.optisigns.com/hc/article_attachments/52412466682259)
-
 In the Google Cloud Console (as a Workspace super-admin):
 
 1. Create a project and enable the **Admin SDK API**.
@@ -107,11 +102,7 @@ Back on the **Service Account** card, click **Add Service Account** and fill in:
 
 Click **Test Connection**. OptiSigns validates the credentials against Google and shows your workspace domain on success — then **Save & Connect** lights up. Click it.
 
-![The Add Service Account dialog — fill the fields, then Test Connection before Save & Connect](https://support.optisigns.com/hc/article_attachments/52412503183251)
-
 Within a few minutes your Meet hardware appears in the **Devices** tab, each with its model and live online/offline status.
-
-![The connected Devices tab — discovered Google Meet hardware with status and model](https://support.optisigns.com/hc/article_attachments/52412490811667)
 
 ### Put content on a room
 

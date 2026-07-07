@@ -2,6 +2,7 @@
 
 **Article ID:** 360016253694
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360016253694-Is-there-storage-limit-for-my-account
 **Last Updated:** 2025-07-30T06:36:27+00:00
 ---
 

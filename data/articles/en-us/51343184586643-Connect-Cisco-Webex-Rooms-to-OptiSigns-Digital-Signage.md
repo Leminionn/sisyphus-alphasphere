@@ -2,6 +2,7 @@
 
 **Article ID:** 51343184586643
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/51343184586643-Connect-Cisco-Webex-Rooms-to-OptiSigns-Digital-Signage
 **Last Updated:** 2026-07-01T16:55:46+00:00
 ---
 
@@ -55,8 +56,6 @@ Go to [**app.optisigns.com**](https://app.optisigns.com/) and sign in (or create
 
 In the top navigation, open **Devices**. In the left sidebar under **Room Integrations**, click **Webex Rooms**. Since you haven't connected yet, you'll see the **Control Hub OAuth** card with everything you need to get started.
 
-![OptiSigns Devices — Room Integrations — Webex Rooms, the not-connected Control Hub OAuth card](https://support.optisigns.com/hc/article_attachments/53086251042067)
-
 ---
 
 ## Step 3 — Authorize OptiSigns in Cisco Control Hub
@@ -73,8 +72,6 @@ A new browser tab opens at Cisco Control Hub. Sign in as a **Webex Full Administ
 | `spark:xapi_statuses` | Reads device health signals (online state, peripheral status). |
 | `spark-admin:organizations_read` | Reads org metadata to sanity-check the Org ID you paste. |
 
-![The Connect with Cisco Control Hub OAuth dialog — the four setup steps and all five required scopes](https://support.optisigns.com/hc/article_attachments/53086189046803)
-
 > If you see a permission error, you're not signed in as a Full Administrator. Ask your Webex admin to either approve OptiSigns for the org or grant you the Full Administrator role.
 
 ---
@@ -84,8 +81,6 @@ A new browser tab opens at Cisco Control Hub. Sign in as a **Webex Full Administ
 Return to the OptiSigns tab. In the **Webex Organization ID** field, paste your organization's ID (find it in Control Hub under **Organization Settings → identifier**), then click **Verify Connection**.
 
 OptiSigns mints Service App tokens and begins syncing. Within a few seconds the header flips to **Connected**, and your Webex rooms appear in the list alongside any Android, ChromeOS, or Linux signage devices on your account. Use **Sync now** any time to pull the latest inventory.
-
-![Connected: the Webex Rooms list showing the org, rooms synced, and per-room push state](https://support.optisigns.com/hc/article_attachments/53086220405011)
 
 ---
 
@@ -97,15 +92,11 @@ By default, rooms are listed but **not activated**. Activation is per-room billi
 2. Click **Activate Signage License**. The drawer shows how many licenses are available.
 3. Confirm — your subscription updates immediately.
 
-![The room detail drawer with the Activate Signage License button and available license count](https://support.optisigns.com/hc/article_attachments/53086189311507)
-
 ---
 
 ## Step 6 — Push content
 
 With the room activated, you can assign content like any other OptiSigns screen. In the room drawer, click **Assign Content** (or **Change Content** if something is already playing), pick an **Asset**, **Playlist**, or **Schedule**, and save. The drawer shows what's currently playing and the room's signage URL.
-
-![The activated room drawer — currently-playing content, Change Content and Remove Signage, and the signage URL](https://support.optisigns.com/hc/article_attachments/53086235851027)
 
 Walk to the device. Within 10–30 seconds, your content appears during Standby. Try a test call — content should clear instantly when the call connects.
 
@@ -123,8 +114,6 @@ In the room drawer, the **Webex Settings** card lets you tune how signage plays 
 | **Enable** | Master on/off for digital signage — disabling preserves the URL so you can re-enable later | On |
 
 Click **Save** to apply. Changes reach the device within about 10 seconds via Webex's API.
-
-![The Webex Settings card — Interaction Mode, Auto-refresh, Mute, and Enable](https://support.optisigns.com/hc/article_attachments/53086189585299)
 
 ---
 

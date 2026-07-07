@@ -2,6 +2,7 @@
 
 **Article ID:** 360063098753
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360063098753-How-to-mass-deploy-OptiSigns-on-Raspberry-Pi-devices
 **Last Updated:** 2025-09-04T15:34:40+00:00
 ---
 

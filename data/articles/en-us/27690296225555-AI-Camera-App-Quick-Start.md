@@ -2,6 +2,7 @@
 
 **Article ID:** 27690296225555
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/27690296225555-AI-Camera-App-Quick-Start
 **Last Updated:** 2026-06-29T19:26:02+00:00
 ---
 
@@ -19,13 +20,9 @@ In this guide, we will:
 
 1. Set up the AI Camera to display suit sales when a male person is detected and yoga wear sales when a female person is detected.
 
-[![](https://support.optisigns.com/hc/article_attachments/27855243843091)](https://support.optisigns.com/hc/article_attachments/27855243843091)
-
 2. Review the data collected by the app on the portal's reporting page.
 
 Ex:
-
-![Screenshot 2024-03-22 141025.png](https://support.optisigns.com/hc/article_attachments/27696211826835)
 
 From there, you can modify the set-up to fit your needs.
 
@@ -51,21 +48,11 @@ If you are running on your Windows Laptop, you can use the built-in camera; no a
 
 Go to the **Engage** Tab at the top of the screen.
 
-**![annotely_image (19).jpeg](https://support.optisigns.com/hc/article_attachments/27690296203923)**
-
 Click New App on the top right corner:
-
-**![annotely_image (20).jpeg](https://support.optisigns.com/hc/article_attachments/27690263765011)**
 
 First, click the "**AI Camera**" tab on the left side. Then, click the "**Build**" button in the bottom right corner.
 
-**![annotely_image (21).jpeg](https://support.optisigns.com/hc/article_attachments/27690263766035)**
-
 You will then be directed to the AI Camera Build page.
-
-![Screenshot 2024-03-22 101159.png](https://support.optisigns.com/hc/article_attachments/27690263767315)
-
-![Screenshot 2024-03-22 101449.png](https://support.optisigns.com/hc/article_attachments/27690296216979)
 
 You can view how the asset is configured
 
@@ -84,37 +71,23 @@ We recommend to keep Play for at least and Rest for at 3s, to give smooth feelin
 
 After completing the previous steps, you will be directed to the "Assign to Screen" page. Here, you will assign the AI camera to the specific screen on which you want the camera to trigger.
 
-![Screenshot 2024-03-28 112724.png](https://support.optisigns.com/hc/article_attachments/27882861309971)
-
 **3.) Assign the AI Camera app to your Screen:**
 
 1. Go to the **Screen** tab and click **Edit**.
 
 2. Click **Advanced**.
 
-![annotely_image (22).jpeg](https://support.optisigns.com/hc/article_attachments/27696211732627)
-
 3. Click **More**.
-
-![](https://support.optisigns.com/hc/article_attachments/27974903303571)
 
 4.  **Activate** the AI Add-on.
 
-![](https://support.optisigns.com/hc/article_attachments/27974903309715)
-
 If you want the device to send data for Analytics purposes, please leave the Send AI Data box checked as well. You can learn more about what data we collect [here](https://support.optisigns.com/hc/en-us/articles/360058259834-OptiSigns-AI-Camera-FAQs).
-
-![](https://support.optisigns.com/hc/article_attachments/27974888673171)
 
 5. Change the **AI Add-on** and it will bring you to the select Asset Page.
 
 6. Click **Engage**
 
-![annotely_image (25).jpeg](https://support.optisigns.com/hc/article_attachments/27696232098195)
-
 7. Choose your **AI App** and then save.
-
-![annotely_image (26).jpeg](https://support.optisigns.com/hc/article_attachments/27696211793555)
 
 **4**.) **Set up camera & app on your device**
 
@@ -126,14 +99,10 @@ If you are using Windows just download & run [optisigns-ai-detection.exe.](https
 
 The app will log events it detected like below.
 
-[![](https://support.optisigns.com/hc/article_attachments/27805047501843)](https://support.optisigns.com/hc/article_attachments/27805047501843)
-
 **That's all!**
 
 Once OptiSigns AI detection is running, you'll notice it's using the camera to detect and send events to the OptiSigns Player to change content as appropriate. In this case, if a male person is in front of the camera, the Suit Sales ad will be displayed. If a female person is in front of the camera, the Yoga ad will be displayed.
 
 If you leave "Send AI data" on, you can view the analytics report here:
-
-![Screenshot 2024-03-22 141025.png](https://support.optisigns.com/hc/article_attachments/27696211826835)
 
 Please let us know if you have any questions or feedback.

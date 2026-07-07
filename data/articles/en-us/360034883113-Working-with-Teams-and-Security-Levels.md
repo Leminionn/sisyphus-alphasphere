@@ -2,6 +2,7 @@
 
 **Article ID:** 360034883113
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360034883113-Working-with-Teams-and-Security-Levels
 **Last Updated:** 2026-06-01T19:53:55+00:00
 ---
 
@@ -41,56 +42,32 @@ This article will guide you through how to work with Teams, and set security for
 Click on your name on top right for drop down menu, then click Account Members.  
 Then Click Add Team.
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360045401633)
-
 Give your team a Name, and allocate a number of screens you want the team to have.  
 It cannot exceed # of screens subscription you have available.  
 Then Click Add.
 
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/360045401733)
-
 Notice the team is created.
-
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/360045401793)
 
 You can edit the team any time by clicking the ... menu and select Update Team.  
 There you can change team's Name, # of screens allocation.
-
-![mceclip4.png](https://support.optisigns.com/hc/article_attachments/360045401853)
-
-![mceclip5.png](https://support.optisigns.com/hc/article_attachments/360045401893)
 
 ## **Invite members to teams**
 
 To invite members to teams, click Manage Members.
 
-![mceclip3.png](https://support.optisigns.com/hc/article_attachments/360044551154)
-
 Then click Invite Member:
 
-![mceclip6.png](https://support.optisigns.com/hc/article_attachments/360045401933)
-
 Enter email address and information about the team member you want to invite and click Invite.
-
-![mceclip8.png](https://support.optisigns.com/hc/article_attachments/360044551414)
 
 Your team member will get an email with a link to sign up.  
 Once signed up, they will have access to the team immediately.
 
-![mceclip9.png](https://support.optisigns.com/hc/article_attachments/360044551454)
-
 Notice the team name when user logged on.  
 If user belong to more than 1 team, they can drop down and select to switch and manage screens of another team.
-
-![mceclip10.png](https://support.optisigns.com/hc/article_attachments/360045402113)
 
 ## **Set/change member's security level**
 
 To change a member's security level/role, just click on the ... next to the member's name, and select change role.
-
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360044864594)
-
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/360045726613)
 
 ## **Remove a member from a team**
 
@@ -98,19 +75,13 @@ Removing a team member will remove the member from the team, the person can stil
 
 To remove a member from a team click on the ... next to the team member, and select Remove Member.
 
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/360045728493)
-
 ## **Delete a user**
 
 Delete a user will remove the user from all teams and completely delete it from the system. This cannot be undone.
 
 To delete a user, click on the ... button next to the user and select Delete User.
 
-![mceclip3.png](https://support.optisigns.com/hc/article_attachments/360044867014)
-
 ## **Switch between teams, for users belong to more than 1 team**
 
 If you belong to more than 1 team, you can switch between teams to manage screens for each team.  
 To do so, simply click on your name on the top right, then in the drop-down click the team name to expand and select the team you want to switch to.
-
-![mceclip6.png](https://support.optisigns.com/hc/article_attachments/360045728873)

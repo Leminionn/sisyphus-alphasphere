@@ -2,6 +2,7 @@
 
 **Article ID:** 1500003161182
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/1500003161182-How-to-move-screen-to-other-team
 **Last Updated:** 2025-09-04T15:11:08+00:00
 ---
 
@@ -15,8 +16,6 @@ To move your screen, go to Screens on your web portal.
 
 Click the three-period button on the screen. Then click "**Move To Team**".
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/1500003190142)
-
 Then you can select which team you want to move to.
 
 That's it. Your screen will move to the specific team.
@@ -29,15 +28,9 @@ It means you need to update the **Number of screens limit** for your team.
 
 1. You can go to the Account Members.
 
-![mceclip3.png](https://support.optisigns.com/hc/article_attachments/360104227633)
-
 2. Click the three-period button to Update the team.
 
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/1500003230301)
-
 3. Update the Number of screens limit in the team
-
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/360104227553)
 
 Then you are good to move the screen to the team.
 

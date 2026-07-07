@@ -2,6 +2,7 @@
 
 **Article ID:** 360043621953
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360043621953-How-to-Create-and-Use-Nested-Playlists
 **Last Updated:** 2025-09-04T20:17:22+00:00
 ---
 
@@ -27,26 +28,18 @@ To add an existing Global Playlist into the new Regional playlist, you can navig
 
 Click "Add Playlist" button
 
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/360058309474)
-
 Select the playlist you want to add as nested playlist.  
 In this case it's the Global Playlist.  
 Then click Add.
 
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/360058309374)
-
 Now you can see your Global Playlist inside your Regional playlist.  
 You can move the order of the Global Playlist just like any other playlist items.
-
-![mceclip3.png](https://support.optisigns.com/hc/article_attachments/360059221433)
 
 That's it, you can now assign this Regional playlist to any screens and it will play contents in the order as arranged.
 
 Just like other playlist items, you can set limit duration of the Child playlist in the Parent playlist (to control how long this item will be played).  
 If the child playlist duration is shorter than this duration, it will be repeated till this duration is done.  
 If the child playlist duration is longer than this duration, it will get cut off at this duration.
-
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360065122574)
 
 **Note:**About playlist transition.
 

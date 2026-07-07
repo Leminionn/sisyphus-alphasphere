@@ -2,6 +2,7 @@
 
 **Article ID:** 23566927217939
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/23566927217939-How-to-use-Check-in-app-with-SMS-follow-up
 **Last Updated:** 2025-09-04T15:04:03+00:00
 ---
 
@@ -23,15 +24,9 @@ Elevate your business operations and boost customer engagement with our intuitiv
 
 Log in to your OptiSigns account -> click on **Engage** -> **New App**
 
-![](https://support.optisigns.com/hc/article_attachments/23566944283283)
-
 Select **Check-In Management** and then click on **Build**
 
-![](https://support.optisigns.com/hc/article_attachments/23566934954771)
-
 On the Build page, you can configure several essential settings to customize the appearance of your check-in page on your tablet or iPad.
-
-![](https://support.optisigns.com/hc/article_attachments/23566950441875)
 
 Let's go over each configuration in detail:
 
@@ -60,27 +55,17 @@ Let's go over each configuration in detail:
 * **SMS message type** - Choose an SMS message type to be sent to the customer after they have checked out.
   + ****Thank You**** - Customers will get an SMS with a link to leave a Google review, sent to the phone number they provided during check-in.
 
-![](https://support.optisigns.com/hc/article_attachments/23863025847187)
-
 * + **CSAT Questions** - Customers will receive an SMS with CSAT questions to gather feedback on their satisfaction. The Check-in system will record all customer responses.
-
-![](https://support.optisigns.com/hc/article_attachments/23862608100371)
 
 Once you have set your configuration settings, click **Review**to continue to the next page.
 
 * On the Review page, you can review all of your configuration settings and preview the screen before committing your changes. You can also preview in full screen by clicking on 'Preview Full Screen' at the bottom.
 
-![](https://support.optisigns.com/hc/article_attachments/24134179036435)
-
 Click **Assign**to continue to the next page.
 
 * On this page, you can assign your check-in app to a specific screen/tablet or screens/tablets with a specific tag.
 
-![](https://support.optisigns.com/hc/article_attachments/24134162893203)
-
 When ready, click **Complete**.
-
-![](https://support.optisigns.com/hc/article_attachments/24134179048979)
 
 From here, you could either **Return to Apps** or **Start a New App.**
 
@@ -88,10 +73,6 @@ Upon assigning the app to a screen or tablet, customers can initiate the check-i
 
 * Tapping on the screen
 * Scanning a QR code on their phone if the Touchless Walk-In feature is activated.
-
-![](https://support.optisigns.com/hc/article_attachments/23566944294035)
-
-![](https://support.optisigns.com/hc/article_attachments/23566919107347)
 
 You can go to [Engage Hub setting](https://app.optisigns.com/app/crm-management) to view:
 
@@ -101,15 +82,11 @@ You can go to [Engage Hub setting](https://app.optisigns.com/app/crm-management)
 
 **Engage Hub Dashboard**
 
-![](https://support.optisigns.com/hc/article_attachments/24134409892755)
-
 Customize the date range to explore visitor trends, interaction tracking, and returning visitor statistics with a pie chart.
 
 You can also review check-in and analytics on check-in activities (i.e. who rated Positive, Negative experience, who has clicked on links to write a review, etc.)
 
 **Engage Hub Visitor Log**
-
-**![](https://support.optisigns.com/hc/article_attachments/24134425387923)**
 
 In the visitor log, users can efficiently manage visitor data with a range of features:
 
@@ -127,19 +104,13 @@ In the visitor log, users can efficiently manage visitor data with a range of fe
 
 #### **🔑Very important:** Please put your Google Maps link to your business here, that's where your customers will be sent to to write review. Click [here](https://support.optisigns.com/hc/en-us/articles/23629657318547-How-to-get-Google-Review-link) to learn more on Google review link.
 
-![](https://support.optisigns.com/hc/article_attachments/23566956610963)
-
 Note that the {{shop.name}} used in SMS message is the Company Name in your [company profile](https://app.optisigns.com/app/s/company-profile)
 
 If you have multiple locations, you can reach out to us to learn about how to set up Functional Locations so each location will have their own name.
 
-![](https://support.optisigns.com/hc/article_attachments/23566944306579)
-
 Due to SMS regulation, very limited changes, and customization can be done to the SMS message. The message content has to remain pretty much constant, the only thing that can be changed is the company name.
 
 By default, the customer will receive an SMS message **4 hours** after check-in asking about their experience and write a review for you on Google.
-
-![](https://support.optisigns.com/hc/article_attachments/23566934988179)
 
 ## **That's all! It's just that simple!**
 

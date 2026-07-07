@@ -2,6 +2,7 @@
 
 **Article ID:** 360049518313
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360049518313-How-to-use-Google-Drive-App
 **Last Updated:** 2025-08-29T19:49:24+00:00
 ---
 
@@ -21,27 +22,15 @@ Then log on to our portal: <http://app.optisigns.com/>
 
 Go to Files/Assets, and Click on "App".
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360073809433)
-
 Click Google Drive app:
-
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/360073809453)
 
 Sign in with Google.
 
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/360072635634)
-
 And allow OptiSigns to access your Google Drive.
-
-![mceclip4.png](https://support.optisigns.com/hc/article_attachments/360072635854)
 
 Select the folder you want to use:
 
-![mceclip5.png](https://support.optisigns.com/hc/article_attachments/360073809813)
-
  Enter information for your Google Drive app
-
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/11413360638995)
 
 * Name: Name of your Google Drive App, this is the name of the wall in your asset list. It will **not** be displayed on your screens.
 * Transition Effect: Transition effect between your images, videos in the folder.
@@ -51,16 +40,12 @@ Select the folder you want to use:
 
 **Advanced option:**
 
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/26482263775507)
-
 * Force Sync Interval: By default, the system will force sync every 12 hours. The minimum is 1 hour.
 
 Click Save.  
 Depend on how many files you have in the folders, **it make take a moment** to sync to OptiSigns, as all the files will be synced, copied to our servers.
 
 Files will be sorted and played by name. You can control the order of playback by changing the name of the files in your Google Drive.
-
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/360072641254)
 
 ## **That's all! Congratulations!**
 
@@ -76,8 +61,6 @@ You can put the created social walls in a Playlist, Schedule too.
 When files changes, add or removed from your Google Drive Folder, OptiSigns will automatically sync the changes. You can check when's the last time changed were made and what's the last file synced by opening the app modal again.
 
 You can also force refresh, sync by clicking the Refresh Data button.
-
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/11413365726739)
 
 **Limitations:**
 

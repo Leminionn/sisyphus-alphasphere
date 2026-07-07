@@ -2,6 +2,7 @@
 
 **Article ID:** 20425113117459
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/20425113117459-Navigating-Through-OptiSigns-Template-Library
 **Last Updated:** 2025-09-04T14:39:07+00:00
 ---
 
@@ -23,8 +24,6 @@
 
 OptiSigns' template library is your one-stop destination for creating captivating and dynamic digital signage content. A treasure trove of professionally designed templates ready to breathe life into your digital signage projects.
 
-In this article, we will guide you through the effortless process of exploring and uncovering captivating templates within the library, empowering you to elevate your digital signage content creation and take your message to the next level.
-
 |  |
 | --- |
 | Watch this 3min video to learn more: |
@@ -41,8 +40,6 @@ You can access our Template library in **four different ways**, as show below:
 ## Navigating the Template Library
 
 Once you've accessed the template library, you should be taken to this home page:
-
-![image (17).jpg](https://support.optisigns.com/hc/article_attachments/40159929432851)
 
 1. **New Design:** Click to access a blank canvas and create your own design.
 2. **Your Designs:** Designs that you have created.
@@ -66,8 +63,6 @@ To learn more about how to use OptiSigns' Designer app to be able to customize y
 Once you're done customizing your template, click the **Save**icon.
 
 You can also directly push this template to your screens or do so from the screens page. Follow [this guide](https://support.optisigns.com/hc/en-us/articles/18988049363859) to learn more about assigning content to your screens.
-
-![](https://support.optisigns.com/hc/article_attachments/42858434514579)
 
 ## That's it!
 

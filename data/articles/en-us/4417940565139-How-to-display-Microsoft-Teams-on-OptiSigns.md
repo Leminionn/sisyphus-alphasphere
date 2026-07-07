@@ -2,6 +2,7 @@
 
 **Article ID:** 4417940565139
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/4417940565139-How-to-display-Microsoft-Teams-on-OptiSigns
 **Last Updated:** 2025-09-04T18:24:28+00:00
 ---
 
@@ -17,13 +18,7 @@ Then log on to our portal: <http://app.optisigns.com/>
 
 Go to Files/Assets, Click on "App", find and click on Microsoft Teams
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/4418060030611)
-
 Click the Sign In button to logon with your own team account:
-
-![](https://support.optisigns.com/hc/article_attachments/19610106065171)
-
-![](https://support.optisigns.com/hc/article_attachments/19610297597203)
 
 * Name: Name of your Team asset, this is the name shown in the asset list. It will **not** be displayed on your screens.
 * Team: Select from one of the team that you are part of.
@@ -41,8 +36,6 @@ You can click Advanced and set:
 * Filter Posts: By Time (i.e last 30 days) or by last XX number of posts.
 * Scrolling Strip Font Size: If you put the Team app to a SplitScreen zone that is a scrolling strip, you can set how big you want the scrolling text to be.
 * Continue Playing Content in Playlist: In the playlist, the Team app plays 10 items in the 1st round, and it will start with #11 item in the 2nd round.
-
-![](https://support.optisigns.com/hc/article_attachments/19616829419539)
 
 Click Save.  
 After Saving, you can Preview the Team chat. It may take several seconds for the app to fetch posts and prepare your wall, so please be patient.

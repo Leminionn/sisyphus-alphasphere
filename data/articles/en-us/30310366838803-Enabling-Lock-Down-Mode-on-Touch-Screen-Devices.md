@@ -2,6 +2,7 @@
 
 **Article ID:** 30310366838803
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/30310366838803-Enabling-Lock-Down-Mode-on-Touch-Screen-Devices
 **Last Updated:** 2026-04-21T19:22:05+00:00
 ---
 
@@ -44,8 +45,6 @@
 
 ## How to Turn On Lock Down Mode
 
-![mceclip0 (1).png](https://support.optisigns.com/hc/article_attachments/32404360390803)
-
 1. Open the OptiSigns portal and go to the [**Screens**](https://app.optisigns.com/app/screenManagement)page
 2. Click **Edit Screen**on the preferred screen.
 3. Open the **Advanced** section, expand the **More** settings**.**
@@ -53,8 +52,6 @@
 5. Confirm you'd like to Activate.
 6. **Set an unlock password** when prompted.
    * This password allows you to unlock the device.
-
-![mceclip1 (2).png](https://support.optisigns.com/hc/article_attachments/32404554501779)
 
 1. Click **Save** at the bottom of the Edit Screen pop-up.
 
@@ -66,7 +63,7 @@ The device is now in lock down mode.
 
 ### In the OptiSigns Portal
 
-### mceclip1 (1) (3).png
+### 
 
 1. Open the OptiSigns portal and go to the [**Screens**](https://app.optisigns.com/app/screenManagement)page
 2. Click **Edit Screen**on the preferred screen.
@@ -90,8 +87,6 @@ The device is now in lock down mode.
 ## **Lock Down Mode by Device**
 
 ## OptiSigns Devices (OptiStick, Pro Player, ProMax)
-
-![file (1) (2) (1).png](https://support.optisigns.com/hc/article_attachments/32404354955027)
 
 ***Recommended Device***
 
@@ -146,18 +141,13 @@ Since we lack permission on the device, we can't pin the OptiSigns app or run it
 | **NOTE** |
 | The following instructions will only need to be followed if your Pro Player looks like the one below. Otherwise, follow [these instructions](#androidplayer). |
 
-![](https://support.optisigns.com/hc/article_attachments/51024070327059)
-
 To fully lockdown the OptiSigns Pro Player (Gen 2), you will need to follow these additional steps:
 
-1. Open **Extension Manager** on your Pro Player (Gen 2).  
-   ![](https://support.optisigns.com/hc/article_attachments/32401202740499)
+1. Open **Extension Manager** on your Pro Player (Gen 2).
 2. Go to the **Browse** section.
-3. Search for "**gestures**".  
-   ![](https://support.optisigns.com/hc/article_attachments/32401202744851)
+3. Search for "**gestures**".
 4. Find and install the **"Disable Gestures 2021"** extension.
-5. Go to the **Installed** section, and ensure that the **"Disable Gestures 2021"** extension is enabled.  
-   ![](https://support.optisigns.com/hc/article_attachments/32404664184083)
+5. Go to the **Installed** section, and ensure that the **"Disable Gestures 2021"** extension is enabled.
 6. **Restart** the Pro Player.
 7. **Activate Device Lockdown** for that screen in the OptiSigns app.
 

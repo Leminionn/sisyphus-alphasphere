@@ -2,6 +2,7 @@
 
 **Article ID:** 1500012522362
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/1500012522362-How-to-use-the-Web-Scripting-App
 **Last Updated:** 2026-05-14T16:05:37+00:00
 ---
 
@@ -41,8 +42,6 @@ If your dashboard requires login with the 2FA, OptiSigns supports the 2FA in the
 
 ## **Record Your Script**
 
-In this article, we will show you how to use a tool called Burp Suite Navigation Recorder. You can use other tools if that can generate similar scripts that works too. We recommend Burp Suite because it's a reputable tool used by many companies, including the Fortune 500.
-
 **1. You need to install Burp Suite Navigation Recorder.**
 
 Open **Chrome Browser**.
@@ -51,33 +50,21 @@ Go to Chrome Web Store: <https://chrome.google.com/webstore/category/extensions>
 
 Search for: "**Burp Suite Navigation Recorder**".
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/1500019933121)
-
 Click on it.
 
 Then click **Add to Chrome.**
 
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/1500019933141)
-
 Burp Suite Navigation Recorder is installed
-
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/1500019660122)
 
 Click on the **Navigation Recorder Icon.**
 
 Then click **Open Settings** to finish set up.
 
-![mceclip3.png](https://support.optisigns.com/hc/article_attachments/1500019660142)
-
 Scroll down and click **"Allow in Incognito".**
-
-![mceclip4.png](https://support.optisigns.com/hc/article_attachments/1500019660162)
 
 Close this tab.
 
 Now, if you click on the Navigation Recorder icon again, you will have option to Start Recording.
-
-![mceclip5.png](https://support.optisigns.com/hc/article_attachments/1500019933161)
 
 **2. Record your Script**
 
@@ -94,21 +81,15 @@ Then fill out the forms. (such as, entering your username, password and click Lo
 | **Always click the Login button,** instead of Enter. |
 | **Correctly enter your fields in 1 attempt!** Type slow and carefully. Don't use backspaces or arrows keys to modify. If you mess up, please restart this step from the beginning. |
 
-![mceclip6.png](https://support.optisigns.com/hc/article_attachments/1500019660182)
-
 You can click around, navigate to certain page, position on page etc.
 
 Once you are done,  click on the **Navigation Recorder Extension icon** and click **Stop Recording.**
 
 This will close the Incognito window that you are working on.
 
-![mceclip7.png](https://support.optisigns.com/hc/article_attachments/1500019933181)
-
 Go back to Chrome, click **Navigation Recorder icon.**  
 Click "**Copy to Clipboard**". This will copy your script to clipboard.  
 Now you are ready to put in use in OptiSigns.
-
-![mceclip8.png](https://support.optisigns.com/hc/article_attachments/1500019660322)
 
 ---
 
@@ -118,11 +99,7 @@ If 2FA is enabled on your login, you'll need to obtain a **Secret Key**.
 
 To get this, click the "I Can't Scan the QR Code" button on your authenticator:
 
-![](/attachments/token/xOjvcQdIqA9avnfjpzeOZVRqG/?name=image.png)
-
 It will provide you with a Secret Key:
-
-![](/attachments/token/0MBnE1wGrWf20KsUlRNDpncuK/?name=image.png)
 
 Copy this Secret Key for use later, then finish the 2FA process.
 
@@ -145,19 +122,13 @@ Click **File/Assets**
 
 Click **Apps** and select **Web Scripting.**
 
-![](https://support.optisigns.com/hc/article_attachments/51710297906323)
-
 Enter the information for your Web Scripting asset:
-
-![](https://support.optisigns.com/hc/article_attachments/51710297909011)
 
 * **Name:** Name of your asset your asset list. It will **not** be displayed on your screens.
 * **Master Password:** By default, OptiSigns will encrypt the whole script with OptiSigns private key to protect your script, especially username, password in the script. You can add another protection layer by entering a Master Password. If you enter Master Password here, at each device, you will need to enter that Master Password one time in OptiSigns app so it can decrypt the content.
 * **Recorded Script:** Paste the script recorded by the Navigation Recorder here. You can take notice to the script, it's actually not very complicated, you can make some minor changes if you need to.
 * **Scripts Injection:** Allows you to add specific scripts into your web script.
 * **Block third-party cookies:** Has the web script block third-party cookies.
-
-  ![web scripting app section 2](https://support.optisigns.com/hc/article_attachments/51710297911443)
 * **Secret 2FA:** This is the Secret Key mentioned in the 2FA section. Only needed if your login requires 2FA.
 * **Recorded 2FA Code:** If your login requires 2FA, this is where you input the code you received. Paired with the Secret Key, this keeps your 2FA channel open for this asset to use repeatedly.
 * **Delay Execute 2FA JavaScript:** Delays execution of JavaScript elements on the 2FA element by a set amount of time, measured in seconds.
@@ -181,15 +152,11 @@ If you choose to use Master Password and our Zero Knowledge Encryption framework
 
 When anyone other than the creator of a Web Scripting asset looks at it, it will look like this:
 
-![web scripting security other owner](https://support.optisigns.com/hc/article_attachments/51710297912979)
-
 Sensitive information will be hidden, and the **Override** button must be hit before the Recorded Script or Injection can be altered. There is no way for any non-owner to actually see what the script says.
 
 If a **Master Password** is enabled, the owner will have to enter a password before the script is revealed.
 
 **Here's how the encryption flow works:**
-
-![mceclip12.png](https://support.optisigns.com/hc/article_attachments/1500019937601)
 
 If you want to add additional security by utilizing a Master Password and our Zero Knowledge Encryption framework you will have to enter your Master Password when:
 

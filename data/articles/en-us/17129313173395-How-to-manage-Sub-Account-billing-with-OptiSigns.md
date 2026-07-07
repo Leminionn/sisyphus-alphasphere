@@ -2,6 +2,7 @@
 
 **Article ID:** 17129313173395
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/17129313173395-How-to-manage-Sub-Account-billing-with-OptiSigns
 **Last Updated:** 2026-06-24T17:40:46+00:00
 ---
 
@@ -19,26 +20,16 @@ Log on to our portal: <https://app.optisigns.com/app/s/sub-account-billing>
 
 Go to "**Sub-Account Billing**" and Click "**Add Sub-account**"
 
-![](https://support.optisigns.com/hc/article_attachments/17128740809491)
-
 You will have two options.
 
 * Link an existing OptiSigns account | Click Link Account
 * Create a new sub-account for your new department | Create New Account
 
-![](https://support.optisigns.com/hc/article_attachments/17128808299667)
-
 Once you link to the account, it will send the email notification to that email account.
-
-![](https://support.optisigns.com/hc/article_attachments/17128964490771)
 
 After the sub-account approve the request. It will show the subscription detail.
 
-![](https://support.optisigns.com/hc/article_attachments/17129028739731)
-
 You can update the payment method for the sub-account.
-
-![](https://support.optisigns.com/hc/article_attachments/17129119195795)
 
 You can only do these for your sub-account
 

@@ -2,6 +2,7 @@
 
 **Article ID:** 20153471319187
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/20153471319187-External-Storage-on-OptiSigns-Devices
 **Last Updated:** 2026-06-05T16:36:27+00:00
 ---
 
@@ -11,8 +12,7 @@ If you feel there is not enough storage on your device, you can use the USB driv
 
 After you plug in the USB drive or micro SD card on your device, go to the **Edit Screen** tab.
 
-Click **Advanced**, then click **More:**  
-![](https://support.optisigns.com/hc/article_attachments/20153104606995)
+Click **Advanced**, then click **More:**
 
 Check "**Use external Storage**" and select Auto Detect in the "**External Storage Path**".
 

@@ -2,6 +2,7 @@
 
 **Article ID:** 8098889840531
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/8098889840531-How-to-use-RTSP-Streams-on-OptiSigns-Devices
 **Last Updated:** 2026-03-16T15:03:03+00:00
 ---
 
@@ -17,11 +18,7 @@ Go to our portal: <http://app.optisigns.com/>
 
 Then go to **Files/Assets**, click on **App**, then search for and add the **RTSP Stream** app to your Account.
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/26500916181267)
-
 Enter your RTSP Stream app information:
-
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/8099265055251)
 
 * Name: Name of your RTSP Stream app, this is the name of the app in your asset list. It will **not** be displayed on your screens.
 * URL: the URL link to the RTSP Stream link you want to display.

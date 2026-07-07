@@ -2,29 +2,9 @@
 
 **Article ID:** 40147900639891
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/40147900639891-OptiStick-Troubleshooting-Guide
 **Last Updated:** 2026-06-26T13:52:36+00:00
 ---
-
-### In this article, we will troubleshoot the most common issues people encounter using our OptiStick Player.
-
-* [Identify Your Device](#Identify)
-* [Best Practices](#BestPractices)
-* [The Troubleshooting Option](#Troubleshooting)
-* [Hardware Troubleshooting](#Hardware)
-  + [Network Troubleshooting](#Network)
-  + [Power Troubleshooting](#Power)
-  + [HDMI & TV Connection Troubleshooting](#HDMI)
-  + [Remote Control Troubleshooting](#RemoteControl)
-  + [Changing Device Time Zone](#TimeZone)
-  + [Blank Screen Troubleshooting](#BlankScreen)
-  + [How to Factory Reset the OptiStick Player](#FactoryReset)
-* [Content Playback Troubleshooting](#ContentPlayback)
-  + [Website display or sizing issues](#WebsiteDisplay)
-  + [Designer or template sizing issues](#DesignerSizing)
-  + [Screen color distortion](#ScreenColor)
-  + [Fixing the OnHold warning](#OnHold)
-  + [App crashing](#AppCrashing)
-* [OptiStick Player RMA Process](#RMA)
 
 If you’ve got an OptiStick Player and you’re having issues, you’ve come to the right place. For first time setup, see our article on how to [Set Up the OptiStick Player](https://support.optisigns.com/hc/en-us/articles/27267311796243-OptiSigns-OptiStick-Digital-Signage-Player).
 
@@ -33,8 +13,6 @@ If you’ve got an OptiStick Player and you’re having issues, you’ve come to
 ## Identify Your Device
 
 There have been several versions of the OptiStick over the years. The most common are the Gen 2 and Gen 3 devices:
-
-![android player comparison gen2 vs gen3](https://support.optisigns.com/hc/article_attachments/40147900608403)
 
 Functionally, these are quite similar. Both use the latest versions of the OptiSigns software. Most of their differences lie in [**Networking**](#Network)**.**
 
@@ -50,8 +28,6 @@ We recommend certain best practices to keep your OptiStick Player running at pea
 
 By default, an OptiStick Player has an [**Operational Schedule**](https://support.optisigns.com/hc/en-us/articles/28598173096723-How-To-Create-and-Use-Operational-Schedules-HDMI-CEC-RS-232) built in to ensure it has 8 hours of downtime per day:
 
-![operational schedule image](https://support.optisigns.com/hc/article_attachments/40147917435923)
-
 If you require 24/7 uptime, more than 3 zones on a split screen, a heavy Website Dashboard (including Tableau or Power BI reports), or plan to use the player in hot or cold environments, consider the [**OptiSigns Pro Player**](https://shop.optisigns.com/products/optisigns-digital-signage-player) or [**ProMax Player**](https://shop.optisigns.com/products/optisigns-promax-signage-player).
 
 ---
@@ -62,11 +38,7 @@ Your first stop when running into a problem with the OptiStick Player should be 
 
 To access it, press the **Three-Bar button** on your remote to open the side menu of the OptiSigns app. Navigate to **Troubleshooting** under the **Advanced Options** section.
 
-![open troubleshooting page optisigns app](https://support.optisigns.com/hc/article_attachments/40147917438355)
-
 Now you can view detailed information about the app’s status and connectivity to assist with troubleshooting.
-
-![troubleshooting page optisigns](https://support.optisigns.com/hc/article_attachments/40147917440787)
 
 * **Check Internet Connection**: Verifies whether the device has an active internet connection.
 * **Check Connection to API Services**: Tests the device's connection to OptiSigns services.
@@ -114,11 +86,7 @@ To identify and resolve network issues:
 
 To see what network you’re connected to, go to the Side Menu and hit **Exit**. This will close the OptiSigns app.
 
-![exit optisigns app](https://support.optisigns.com/hc/article_attachments/40147917441555)
-
 Next, open the menu on the side using the remote. If connected to a network, it should appear here. If not, you'll need to set that back up.
-
-![access network optisigns player](https://support.optisigns.com/hc/article_attachments/40147900613907)
 
 ### Power Troubleshooting
 
@@ -144,16 +112,12 @@ The OptiStick Player ships with a Remote Control. Which remote control you have 
 
 **Gen 3 Remote:**
 
-**![gen 3 remote control](https://support.optisigns.com/hc/article_attachments/40147917443347)**
-
 |  |
 | --- |
 | **NOTE** |
 | To pair or re-pair this remote, hold the **Back**and **Home**buttons. |
 
 **Gen 2 Remote:**
-
-![gen 2 remote control](https://support.optisigns.com/hc/article_attachments/40147900615827)
 
 |  |
 | --- |
@@ -187,23 +151,13 @@ When [**setting a schedule**](https://support.optisigns.com/hc/en-us/articles/36
 
 To do this, you'll need to change it. Start by pressing the **Home button**on your remote (or hit **Exit App** from the Side Menu), and navigate to the **Settings** menu.
 
-![settings menu](https://support.optisigns.com/hc/article_attachments/41497198237971)
-
 Select **Device Preferences**.
-
-![device preferences option android side menu](https://support.optisigns.com/hc/article_attachments/41497175224851)
 
 Select **Date & Time**.
 
-![date & time option android side menu](https://support.optisigns.com/hc/article_attachments/41497198242323)
-
 Select **Set time zone**.
 
-![select time zone option android side menu](https://support.optisigns.com/hc/article_attachments/41497198243347)
-
 For some reason, Android devices lead with Midway Island, in the middle of the Pacific (some things in life are best left a mystery). Navigate to your preferred time zone and select it.
-
-![time zone options android](https://support.optisigns.com/hc/article_attachments/41497198244627)
 
 Now your device and schedule should sync properly.
 
@@ -224,8 +178,6 @@ A soft reset can be performed if the system is still accessible and operational.
 
 On the Home screen, go to **Settings**. Hit **Device Preferences,** then choose **About**. Finally, choose **Factory Reset.**
 
-![factory reset settings](https://support.optisigns.com/hc/article_attachments/40147900617363)
-
 It will ask if you’re sure you’d like to perform this function. If you are, hit **OK**. The soft factory reset will take place.
 
 #### Hard Reset
@@ -236,19 +188,11 @@ To perform one, you’ll need a small tool. Think paperclip, needle, or SIM card
 
 Next, use your small tool to press into the small hole on the side of the device. Hold it, then plug in the power cable while the tool is still pressing the button in the small hole.
 
-![optisigns gen 3 player hard reset hole](https://support.optisigns.com/hc/article_attachments/40147900618259)
-
 The system will then boot into recovery mode. You can use the button to navigate between selections and will need to press and hold for 1-2 secs to confirm selection. Choose **wipe data/factory reset**, and the factory reset will start.
-
-![boot mode wipe data option](https://support.optisigns.com/hc/article_attachments/40147900620563)
 
 Then choose **Factory data reset:**
 
-**![boot mode factory data reset option](https://support.optisigns.com/hc/article_attachments/40147917447443)**
-
 Once the process is complete, you’ll see a **Data Wipe Complete** message at the bottom of the screen. From there, select **Reboot System Now** to finish.
-
-![boot mode reboot system now option](https://support.optisigns.com/hc/article_attachments/40147917449235)
 
 Your OptiStick will be fully factory reset.
 
@@ -279,8 +223,6 @@ If your screen is showing distorted colors or displays, try:
 * Turning off everything transmitting data between the screen and OptiStick, such as the HDMI-CEC, Dolby Vision, or auto adapting resolution
 
 ### Fixing the OnHold Warning
-
-![device is onhold message](https://support.optisigns.com/hc/article_attachments/40147900625555)
 
 This warning displays when the device is in the [**OnHold Folder**](https://support.optisigns.com/hc/en-us/articles/1500003244381-About-the-OnHold-Devices-Folder). This happens when you’ve ordered more devices than you had licenses for. Any devices above your license limit will automatically be placed in the OnHold folder and will need to be removed, even when the license limit has been raised.
 

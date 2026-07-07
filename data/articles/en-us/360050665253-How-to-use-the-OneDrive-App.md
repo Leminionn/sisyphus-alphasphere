@@ -2,6 +2,7 @@
 
 **Article ID:** 360050665253
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360050665253-How-to-use-the-OneDrive-App
 **Last Updated:** 2026-01-29T15:45:29+00:00
 ---
 
@@ -21,27 +22,15 @@ Then log on to our portal: <http://app.optisigns.com/>
 
 Go to Files/Assets, Click on "App" and add the OneDrive app to your Account.
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/26400546709779)
-
 Click OneDrive app:
-
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360076676833)
 
 Sign in with Microsoft account.
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/11413102757907)
-
 Enter your Microsoft Credential and allow OptiSigns to access your OneDrive.
-
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/360076676853)
 
 Select the folder you want to use:
 
-![mceclip3.png](https://support.optisigns.com/hc/article_attachments/360076676873)
-
  Enter information for your OneDrive app
-
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/11413154341267)
 
 * Name: Name of your OneDrive App, this is the name of the wall in your asset list. It will **not** be displayed on your screens.
 * Folder: Your folder name from OneDrive.
@@ -52,16 +41,12 @@ Select the folder you want to use:
 
 **Advanced option:**
 
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/26400515453075)
-
 * Force Sync Interval: By default, the system will force sync every 12 hours. The minimum is 1 hour.
 
 Click Save.  
 Depend on how many files you have in the folders, **it may take a moment** to sync to OptiSigns, as all the files will be synced, copied to our servers.
 
 Files will be sorted and played by name. You can control the order of playback by changing the name of the files in your OneDrive.
-
-![mceclip6.png](https://support.optisigns.com/hc/article_attachments/360076676913)
 
 ### Switching Between Microsoft Accounts
 
@@ -70,8 +55,6 @@ If you create another OneDrive asset, you will notice you're automatically logge
 Unfortunately, Microsoft authentication tokens are tied to the browser used, making this difficult.
 
 However, there is a workaround. To do it, you'll need to switch browsers (i.e. if you added the first Microsoft account on Chrome, use Edge or Firefox), or create a new Chrome profile:
-
-![](https://support.optisigns.com/hc/article_attachments/46697859996051)
 
 Another option is to switch devices.
 
@@ -89,8 +72,6 @@ You can put the created social walls in a Playlist, Schedule too.
 When files change, add, or remove from your OneDrive Folder, OptiSigns will automatically sync the changes. You can check when the last time changes were made and what the last file synced by opening the app modal again.
 
 You can also force refresh, and sync by clicking the Refresh Data button.
-
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/11413157953299)
 
 **Release Notes & Limitations:**
 

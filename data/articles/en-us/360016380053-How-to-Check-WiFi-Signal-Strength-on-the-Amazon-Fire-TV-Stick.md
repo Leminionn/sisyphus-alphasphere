@@ -2,6 +2,7 @@
 
 **Article ID:** 360016380053
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360016380053-How-to-Check-WiFi-Signal-Strength-on-the-Amazon-Fire-TV-Stick
 **Last Updated:** 2025-09-05T15:00:49+00:00
 ---
 

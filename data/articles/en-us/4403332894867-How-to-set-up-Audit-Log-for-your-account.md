@@ -2,6 +2,7 @@
 
 **Article ID:** 4403332894867
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/4403332894867-How-to-set-up-Audit-Log-for-your-account
 **Last Updated:** 2026-03-18T22:16:52+00:00
 ---
 
@@ -28,35 +29,23 @@ Go to your [account settings page](https://app.optisigns.com/app/s/preference-se
 
 Click Enable Audit Log.
 
-![](https://support.optisigns.com/hc/article_attachments/50055310528787)
-
 After that audit events will automatically be logged.
 
 **To view, search, export Audit Log data:**
 
 Go to account settings & click Audit Log, or go directly here: <https://app.optisigns.com/app/security-audit-logging> 
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/4403335839507)
-
 You will be taken to the Audit Log page. Here's how it looks:
-
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/4403348112275)
 
 You can filter for certain data that you need.
 
 For example here we filter for changes to playlist in last 7 days.
 
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/4403335848723)
-
 You can also search.
 
 For example here we are searching for all changes related to "Lobby" to find changes to our Lobby TV
 
-![mceclip3.png](https://support.optisigns.com/hc/article_attachments/4403335852819)
-
 You can also export the data out to CSV, Excel or PDF:
-
-![mceclip4.png](https://support.optisigns.com/hc/article_attachments/4403335855123)
 
 #### **That's it!**
 

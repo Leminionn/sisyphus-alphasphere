@@ -2,6 +2,7 @@
 
 **Article ID:** 7592123111699
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/7592123111699-Host-your-HTML-JS-or-Create-your-own-Web-App-with-Hosted-Website
 **Last Updated:** 2025-08-29T20:55:40+00:00
 ---
 
@@ -33,13 +34,9 @@ The easiest way to use a Hosted Website is to upload a zip file with your HTML/J
 
 Click Files/Assets -> Apps -> find Hosted Website
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/7591499747603)
-
 Click Upload Zip
 
 **IMPORTANT: your Zip file must have /index.html**, that's the entry point to be loaded by default.
-
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/7591641274259)
 
 Give your app a name, this is only to be used in Files/Assets to manage your app.
 
@@ -47,11 +44,7 @@ Browse your Zip file and click Save.
 
 If you have index.html, the preview will show up on the right.
 
-![mceclip4.png](https://support.optisigns.com/hc/article_attachments/7592317466259)
-
 The asset will be created in your library:
-
-![mceclip5.png](https://support.optisigns.com/hc/article_attachments/7592420396819)
 
 You can click the Preview button to open the hosted URL.
 
@@ -59,16 +52,10 @@ Here's an example:
 
 <https://hosted-website.optisigns.com/62c703f3cf5c1b001536c8eb/>
 
-![mceclip6.png](https://support.optisigns.com/hc/article_attachments/7592419609875)
-
 **That's it!** you can use this Hosted Website app just like any assets on your screens, playlist, kiosk, etc.
 
 With Hosted Website app there's built in Editor & Templates that you can use to build simple webapp or make quick updates to your sites.
 
-![mceclip7.png](https://support.optisigns.com/hc/article_attachments/7592614767891)
-
 To use this editor, you will need to either Import your project Zip file (not the minified, compiled version), create it from scratch, or with one of our templates.
-
-![mceclip8.png](https://support.optisigns.com/hc/article_attachments/7592678796819)
 
 If you need API to push data to device level and use your web app to consume this data, or if you further questions on how to use a Hosted Website please contact us at [support@optisigns.com](mailto:support@optisigns.com)

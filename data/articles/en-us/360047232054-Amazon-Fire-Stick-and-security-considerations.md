@@ -2,6 +2,7 @@
 
 **Article ID:** 360047232054
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360047232054-Amazon-Fire-Stick-and-security-considerations
 **Last Updated:** 2025-08-29T17:00:38+00:00
 ---
 

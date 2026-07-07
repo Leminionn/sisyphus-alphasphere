@@ -2,6 +2,7 @@
 
 **Article ID:** 360016252654
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360016252654-Does-OptiSigns-offer-Non-profit-Education-discount
 **Last Updated:** 2026-07-02T17:12:40+00:00
 ---
 

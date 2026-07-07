@@ -2,15 +2,9 @@
 
 **Article ID:** 360023848334
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360023848334-How-to-Use-the-Facebook-Page-App
 **Last Updated:** 2026-02-02T17:17:28+00:00
 ---
-
-### In this article, we'll explain how to set up a Facebook app to display information off Facebook on your digital signs.
-
-* [What You'll Need](#WhatYouNeed)
-* [Setting Up a Facebook App](#SettingUp)
-  + [Advanced](#Advanced)
-* [Deploying a Facebook App](#Deploying)
 
 With the Facebook app, you're able to display posts and such from public-facing Facebook pages you have ownership access over.
 
@@ -31,27 +25,17 @@ Let's get started.
 
 On the OptiSigns portal, go to **Assets → Add Asset → Apps.**
 
-![](https://support.optisigns.com/hc/article_attachments/48749277912467)
-
 Select **Facebook**:
 
-![](https://support.optisigns.com/hc/article_attachments/48749293297299)
-
 Login to Facebook. If this is the first time registering it with OptiSigns, you will need to hit **Connect Facebook Pages** then log in.
-
-![](https://support.optisigns.com/hc/article_attachments/48749277917715)
 
 The Facebook App allows you to register numerous Facebook accounts. If you have already registered your account, you can choose it with the **Select** option.
 
 After logging on with Facebook in the Facebook popup window, select the Pages you want OptiSigns to access data to create your Wall.
 
-![mceclip5.png](https://support.optisigns.com/hc/article_attachments/48749277921427)
-
 Click **Next**, then Click **Done**.
 
 Whether you connect a new Facebook page or choose it from an existing on, you'll see the below screen:
-
-![](https://support.optisigns.com/hc/article_attachments/48749277928595)
 
 After that, you can enter information for your wall.
 
@@ -65,8 +49,6 @@ After that, you can enter information for your wall.
 * **Display Mode**: Choose how you want your Facebook page to display. There are numerous options here - play around with them, and they should automatically populate the Preview area on the right. Choose the one which suits you best!
 * **Theme**: Change between Light and Dark themes.
 * **Speed**: This determines how quickly your Facebook posts cycle. Choose between **Slow**, **Medium**, **Fast**, and **Custom**. When Custom is chosen, you will see the following slider:
-
-  ![](https://support.optisigns.com/hc/article_attachments/48749277931283)
 * **Font Size**: Set the font size. Default is 20, but this can be set to **Custom** and changed to whatever you wish.
 * **Landscape / Portrait:** Choose the orientation for the Preview.
 
@@ -74,11 +56,7 @@ After that, you can enter information for your wall.
 
 Click the **Advanced** option to
 
-![](https://support.optisigns.com/hc/article_attachments/48749277935763)
-
 * **Moderation:** Clicking Moderation opens up a popup:
-
-![](https://support.optisigns.com/hc/article_attachments/48749293318419)
 
 This screen allows you to determine which posts will appear on your app - you can change the settings to disallow certain posts.
 
@@ -88,8 +66,6 @@ This screen allows you to determine which posts will appear on your app - you ca
 * **Scrolling Strip Font Size:** Set the font size of the scrolling strip. Default is 20, but this can be set to **Custom** and changed to whatever you wish.
 * **Continue Playing Content in Playlist:** When checked, if the Facebook wall is placed in a Playlist, it will continue displaying posts from where it left off. Otherwise, it will always start with the first post in your sequence.
 * **Show QR Code**: When checked, allows you to add a QR code. You can choose for the QR code to go to the Facebook page, or to any other page by choosing **Custom**.
-
-  ![](https://support.optisigns.com/hc/article_attachments/48749293325203)
 
 Click Save to the QR code and the Facebook app page.
 
@@ -103,17 +79,11 @@ You can deploy your new Facebook app as an individual asset, or as part of a [Sp
 
 To get your new Facebook asset to a screen, go to the **Screens** tab, then click the screen you want to assign it to.
 
-![](https://support.optisigns.com/hc/article_attachments/48749277954707)
-
 This brings up the **Edit Screen** tab:
-
-![](https://support.optisigns.com/hc/article_attachments/48749277959699)
 
 Here, select **Asset** under Content type, then hit **Select Asset**.
 
 Then, select your created Facebook Asset:
-
-![](https://support.optisigns.com/hc/article_attachments/48749293336467)
 
 Now hit **Save**. Your Facebook asset will now display on screen.
 

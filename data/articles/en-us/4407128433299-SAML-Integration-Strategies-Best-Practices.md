@@ -2,6 +2,7 @@
 
 **Article ID:** 4407128433299
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/4407128433299-SAML-Integration-Strategies-Best-Practices
 **Last Updated:** 2026-02-05T20:22:33+00:00
 ---
 
@@ -23,8 +24,6 @@ During set up, we recommend leaving Enable Username & Password login, and creati
 
 You can disable this account later once your implementation is completed.
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/4407128153235)
-
 In this case, you are planning not to use email as the unique identifier for the user, and use a username or employee ID instead. We recommend having this on, so the account owner and admin account will be able to manage the account without interruption, e.g. forgetting the password, or an issue with identifying the provider.
 
 ## **Strategies for using SAML:**
@@ -36,8 +35,6 @@ SAML can be used to enforce identity verification, but also to enforce user, tea
 With this approach you will map all users to groups in your IDP, and map the IDP groups to OptiSigns teams/roles. When there's a change in IDP (for example, a user is added or changes groups), it will automatically reflect in OptiSigns.
 
 To implement this, check **Enable User Override**. When checked, every time a user logs in using SAML, OptiSigns will check to see if their name or group assignment has changed. It will then enforce that accordingly. If their name or assignment has updated, it will also update OptiSigns.
-
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/4407135779603)
 
 Map all your appropriate groups to roles & teams in OptiSigns.
 
@@ -52,7 +49,7 @@ The mapping should be like below:
 |  |  |
 | --- | --- |
 | **OKTA** | **ENTRA** |
-| mceclip3.png | For Entra, your "Group Name" within OptiSigns corresponds to your "Object ID" within Entra. See [our article](https://support.optisigns.com/hc/en-us/articles/4407252213395-How-to-Set-Up-SAML-2-0-with-OptiSigns-and-MS-Entra-ID-formerly-Azure-AD#AssignMap) for more information. |
+|  | For Entra, your "Group Name" within OptiSigns corresponds to your "Object ID" within Entra. See [our article](https://support.optisigns.com/hc/en-us/articles/4407252213395-How-to-Set-Up-SAML-2-0-with-OptiSigns-and-MS-Entra-ID-formerly-Azure-AD#AssignMap) for more information. |
 
 With this set up, let's say a user belongs to Marketing West Coast. You want to move them to Marketing East Coast. Simply update your IDP and move them from West Coast to East Coast. The next time they log in to OptiSigns, that will be reflected and they will belong to the Marketing West Coast team and can only see that content in OptiSigns.
 
@@ -64,8 +61,6 @@ SAML can be used to enforce your MFA, Password policy, and remove users and revo
 
 To implement this, uncheck **Enable User Override.**
 
-![mceclip4.png](https://support.optisigns.com/hc/article_attachments/4407136124435)
-
 Going back to our earlier example: when a user moves from Marketing West Coast to Marketing East Coast, you will need to go to OptiSigns and move the user's team assignment, if necessary.
 
 Also if when the user update, change their name, you will have to update OptiSigns as well to keep it in sync.
@@ -76,8 +71,6 @@ We recommend keeping this option checked. When enabled, if users are authenticat
 
 If disabled, you will have to create each user first in OptiSigns before they can log in with SAML SSO.
 
-![mceclip5.png](https://support.optisigns.com/hc/article_attachments/4407136156819)
-
 Going back to our old example. Let's say there are 20 users belong to Marketing West Coast group in your IDP, and Marketing West Coast is mapped to the Marketing West Coast team in OptiSigns.
 
 If a user in Marketing West Coast group logs in to OptiSigns, they will be automatically created and can immediately access West Coast Team screens and content.
@@ -87,7 +80,5 @@ The other 19 users are not created in OptiSigns until they attempt to log in.
 You can also map **Unmapped users/groups** to **No Team (Disable)**. This way, if a user belongs to some other group in your IDP and tries to log in, they will get an error and the user is not created in OptiSigns.
 
 This way you can keep the system clean and only users needing access to the app are replicated.
-
-![mceclip6.png](https://support.optisigns.com/hc/article_attachments/4407136240659)
 
 If you have any questions or need help with SAML integration please feel free to reach out to us at [support@optisigns.com](mailto:support@optisigns.com)

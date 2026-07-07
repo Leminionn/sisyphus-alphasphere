@@ -2,6 +2,7 @@
 
 **Article ID:** 53216900345875
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/53216900345875-What-Access-Does-OptiSigns-Have-to-My-Account-and-Devices
 **Last Updated:** 2026-07-06T15:29:04+00:00
 ---
 
@@ -54,8 +55,6 @@ For OptiSigns players, a secure connection called **SecureLink** lets our team v
 Making a change to your actual device requires **Remote Support Access**, which is off by default. You either turn it on in Account Settings, or approve the specific change when our team requests it. Either way, the change is shown to you and recorded.
 
 To turn on Remote Support Access, go to **Preferences** in your Account tab:
-
-![](https://support.optisigns.com/hc/article_attachments/53216937405075)
 
 This allows our support team to remotely access your devices.
 

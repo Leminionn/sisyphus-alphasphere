@@ -2,6 +2,7 @@
 
 **Article ID:** 28295104605843
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/28295104605843-How-to-Create-Use-Playlists
 **Last Updated:** 2026-03-31T21:42:16+00:00
 ---
 

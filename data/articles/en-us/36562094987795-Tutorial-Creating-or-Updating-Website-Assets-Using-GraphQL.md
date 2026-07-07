@@ -2,6 +2,7 @@
 
 **Article ID:** 36562094987795
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/36562094987795-Tutorial-Creating-or-Updating-Website-Assets-Using-GraphQL
 **Last Updated:** 2025-09-04T18:54:21+00:00
 ---
 
@@ -41,11 +42,7 @@ mutation saveAsset ($payload: AssetInput!, $teamId: String)
 }
 ```
 
-![](https://support.optisigns.com/hc/article_attachments/36562094972435)
-
 This Mutation, once run, will create a new asset:
-
-![](https://support.optisigns.com/hc/article_attachments/36562091083539)
 
 This asset can now be assigned to a device, queried for additional information, or added to a playlist or schedule.
 
@@ -66,8 +63,6 @@ Updating assets is as simple as running the same Mutation while providing an \_i
   }  
 }
 ```
-
-![](https://support.optisigns.com/hc/article_attachments/36562091085843)
 
 **Previous Article - [Tutorial: Create, Update, Add, Remove Items from Playlists](https://support.optisigns.com/hc/en-us/articles/4414558295955-Tutorial-Create-Update-Add-Remove-items-from-Playlists)**
 

@@ -2,6 +2,7 @@
 
 **Article ID:** 1500005889381
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/1500005889381-How-to-use-the-MindMeister-App
 **Last Updated:** 2025-08-28T20:06:43+00:00
 ---
 
@@ -13,26 +14,17 @@ You can create Mind Meister app with OptiSigns.
 
 Go to Files/Assets, Click on "App" and add MindMeister to your Account.
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/1500007877262)
-
 Then go to MindMeister and get embed code:
 
 1. Click the "Share" button on the bottom right of your MindMeister. Then click "Publishing setting".
 
-![mceclip3.png](https://support.optisigns.com/hc/article_attachments/1500008067421)
-
 2. Then click "Embed map"
 
-![mceclip4.png](https://support.optisigns.com/hc/article_attachments/1500008067461)
-
-3. Copy the embed code. Then prase it to the Embed Code section.  
-![mceclip5.png](https://support.optisigns.com/hc/article_attachments/1500007877422)
+3. Copy the embed code. Then prase it to the Embed Code section.
 
 **Note**: You can set the Frame width and Frame height in your embed code.
 
 Then come back to OptiSigns and enter in your MindMeister info.
-
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/1500008067281)
 
 * Name: Name of your Instagram Wall, this is the name of the wall in your asset list. It will **not** be displayed on your screens.
 * Embed Code: Paste your MindMeister embed code.

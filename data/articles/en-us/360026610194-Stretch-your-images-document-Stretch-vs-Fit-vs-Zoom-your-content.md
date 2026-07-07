@@ -2,6 +2,7 @@
 
 **Article ID:** 360026610194
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360026610194-Stretch-your-images-document-Stretch-vs-Fit-vs-Zoom-your-content
 **Last Updated:** 2025-08-29T18:50:02+00:00
 ---
 
@@ -10,13 +11,7 @@ Most likely your big screens TV will have resolution of: 1920 x 1080 pixels (Ful
 
 However, if you upload an image or document that is smaller than your screen's resolution. You can select to Fit or Stretch or Zoom it so that it can fill the screen.
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360094225073)
-
 This option is available in Playlist's Option:
-
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/360092017254)
-
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/360092017274)
 
 If you only have 1 asset and want to apply the Stretch, Fit, Zoom feature to an Asset or Schedule, you can create a playlist and just put that asset in there, set the Stretch, Fit, Zoom options and assign that playlist to your screen or schedule.
 

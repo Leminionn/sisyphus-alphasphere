@@ -2,6 +2,7 @@
 
 **Article ID:** 360042424294
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360042424294-How-far-back-or-how-many-posts-will-be-fetched-for-my-Social-Walls
 **Last Updated:** 2025-09-05T15:04:21+00:00
 ---
 

@@ -2,6 +2,7 @@
 
 **Article ID:** 17604055961747
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/17604055961747-How-to-Create-a-Content-Library-Kiosk
 **Last Updated:** 2025-08-29T19:38:25+00:00
 ---
 
@@ -35,8 +36,6 @@ Here is a live example of a Content Library Kiosk:
 
 * [Example](https://virtualscreen.optisigns.com/#VTJGc2RHVmtYMStYM1dSMnRjKzBBb29MeFBYbnpoaTFHaDhNcStLWk4xenhTeGFHbVFnOXlSOWxpd2RxMlVUN29hc3JPZnZXaXJSQnFkUFlZbXJLaVE9PQ==)
 
-In this article, we'll show you how to create a Content Library Kiosk that turns waiting times into engaging, fun experiences, enhancing service quality.
-
 |  |
 | --- |
 | **NOTE** |
@@ -50,18 +49,11 @@ Once the library is ready, you can begin to create your content library kiosk ap
 
 Go to Engage, then click **New App.**
 
-![](https://support.optisigns.com/hc/article_attachments/23035917641363)
-
-Select **Touch Screen Kiosks**. Then, go to the next step to **Select App.**  
-![](https://support.optisigns.com/hc/article_attachments/23696559854227)
+Select **Touch Screen Kiosks**. Then, go to the next step to **Select App.**
 
 On the Select App page, click on **Content Library Kiosk app** then continue to **Build**.
 
-![](https://support.optisigns.com/hc/article_attachments/23696533418515)
-
 On the **Build** page, you will have several key features that you can customize and configure. Let's dive into each configuration detail:
-
-![](https://support.optisigns.com/hc/article_attachments/23696559863443)
 
 * **Name**: A unique identifier for the asset, not visible on the kiosk
 * **Header**: The title displayed on the content library kiosk.
@@ -85,8 +77,6 @@ On the **Build** page, you will have several key features that you can customize
 
 **Advanced Settings**:
 
-![](https://support.optisigns.com/hc/article_attachments/23696559863955)
-
 * **Timeout Asset Viewing**: Set duration in seconds before automatic closure of displayed assets
 * **Timeout Browsing**: Set a time limit in seconds for user inactivity before returning to the main screen.
 * **Background Image**: Customize the image for the kiosk background.
@@ -95,18 +85,12 @@ Once you have set your configuration settings, click **Review** to continue to t
 
 * On the Review page, you can review all of your configuration settings and preview the screen before committing your changes. You can also preview in full screen by clicking on 'Preview Full Screen' at the bottom.
 
-![](https://support.optisigns.com/hc/article_attachments/23696476261267)
-
 Click **Assign** to continue to the next page.
 
 * On this page, you can assign your content library kiosk to a Screen or Screens with a specific tag.
 * You can also choose to Assign Later.
 
-![](https://support.optisigns.com/hc/article_attachments/29266141478291)
-
 When you have signed your Screens, click **Complete**.
-
-![](https://support.optisigns.com/hc/article_attachments/23696476280083)
 
 |  |
 | --- |
@@ -117,19 +101,9 @@ When you have signed your Screens, click **Complete**.
 
 The content library kiosk app typically uses folder names as titles on the screen. However, when there are individual files without folders, there might be no header.
 
-![](https://support.optisigns.com/hc/article_attachments/23697224834963)
-
-![](https://support.optisigns.com/hc/article_attachments/23697239704339)
-
 To add one, click the three dots in the top right corner of the folder containing the individual files or assets, then choose '**Edit Folder Description**.'
 
-![](https://support.optisigns.com/hc/article_attachments/23697239705107)
-
-![](https://support.optisigns.com/hc/article_attachments/23697224842515)
-
 This description will appear on the kiosk screen to describe the list of individual files.
-
-![](https://support.optisigns.com/hc/article_attachments/23697239712019)
 
 ## **That's all! It's just that simple!**
 

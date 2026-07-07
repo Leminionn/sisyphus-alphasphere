@@ -2,6 +2,7 @@
 
 **Article ID:** 32129032857875
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/32129032857875-Where-to-Buy-OptiSigns-Devices
 **Last Updated:** 2026-03-30T17:22:38+00:00
 ---
 

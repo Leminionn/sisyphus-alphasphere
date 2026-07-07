@@ -2,6 +2,7 @@
 
 **Article ID:** 360060202914
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360060202914-How-to-use-YouTube-Channel-with-OptiSigns
 **Last Updated:** 2025-08-29T20:51:56+00:00
 ---
 
@@ -18,15 +19,9 @@ Then log on to our portal: <http://app.optisigns.com/>
 
 Go to Files/Assets, Click on "App".
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360102767333)
-
 Click YouTube Channel app:
 
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/1500001754981)
-
 Enter your YouTube Channel information:
-
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/360102767413)
 
 * Name: Give your YouTube Channel a name. This is for displaying in your asset list only. The app will try to get the video's title and use it as a name, but you can change it to something else.
 * URL: Paste the link to your YouTube Channel here.
@@ -44,8 +39,6 @@ Here is how to obtain it.
 * Right-click on the page and select the "View Source" option
 * You will be directed to a page with the same URL as before just containing the "view-source:" prefix. Press (CTRL+F) on your keyboard to use the find function.
 * Copy and Paste "<https://www.youtube.com/channel/>" into the find function search window. The first result highlighted by the find function will be the correct URL with the channel ID that is needed for the OptiSigns YouTube application.
-
-![](https://support.optisigns.com/hc/article_attachments/22433440153747)
 
 ## **That's all! Congratulation!**
 

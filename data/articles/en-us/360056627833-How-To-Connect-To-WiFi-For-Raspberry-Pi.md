@@ -2,6 +2,7 @@
 
 **Article ID:** 360056627833
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360056627833-How-To-Connect-To-WiFi-For-Raspberry-Pi
 **Last Updated:** 2025-09-02T19:22:01+00:00
 ---
 
@@ -15,33 +16,19 @@ Let's dive in.
 
 **1. Optisign app shows "Internet Connection is required for first time"**
 
-![RPi_Wifi_connection-1.png](https://support.optisigns.com/hc/article_attachments/360092630194)
-
 **2. Click the WiFi connection button.**
-
-![RPi_Wifi_connection-2.png](https://support.optisigns.com/hc/article_attachments/360092721134)
 
 **3. Select your WiFi's name**
 
-![RPi_Wifi_connection-2.png](https://support.optisigns.com/hc/article_attachments/360092630794)
-
 **4. Enter your Wifi's password**
 
-![RPi_Wifi_connection-3.png](https://support.optisigns.com/hc/article_attachments/360092720674)
-
 **5.  Click OK**
-
-![RPi_Wifi_connection-5.png](https://support.optisigns.com/hc/article_attachments/360094946253)
 
 **6. Take a few seconds to connect your WiFi**
 
 You may need to restart the device for WiFi config to set in.
 
-![RPi_Wifi_connection-5.png](https://support.optisigns.com/hc/article_attachments/360094945513)
-
 **7. OptiSigns app shows pair code on your screen**
-
-![RPi_Wifi_connection-7.png](https://support.optisigns.com/hc/article_attachments/360092721474)
 
 When your screen shows a paring code, your Raspberry Pi has an internet connection.
 

@@ -2,6 +2,7 @@
 
 **Article ID:** 17639078588691
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/17639078588691-How-to-cancel-subscription-or-pause-subscription-for-Seasonal-Use-Case
 **Last Updated:** 2026-05-28T20:38:07+00:00
 ---
 
@@ -22,18 +23,12 @@ Our "**Onhold**" folder reduces the number of screen licenses that are being cou
 
 Then select "**Move to OnHold Device"**
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/17639053865875)
-
 A new folder called "**Onhold Device**" will be created and your device will be moved in there.
 
 * Devices in the OnHold screen cannot have content assigned to them, it will just display "Paired" on the screen.
 * OnHold screens also do not take up subscription slots, so you can reduce them or reuse them for another screen.
 
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/17639067977875)
-
 **2)** When you want to use the screen again, you can move it out of OnHold to another Folder
-
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/17639052786963)
 
 **3)** *If this is a seasonal use case and the main goal for using our "Onhold" folder is to not be billed when your screens are not in use:* **You MUST remember to also remove the licenses under your OptiSigns account.**
 
@@ -43,13 +38,9 @@ On the top right-hand side click on your **username (Default)**, **Subscription 
 
 This will display your account subscription details.
 
-![](https://support.optisigns.com/hc/article_attachments/17638487714067)
-
 **4)** To remove the licenses from your account;
 
 You will want to click on the "**-**" icon to reduce your subscriptions and "**next**" to cancel your account.
-
-![](https://support.optisigns.com/hc/article_attachments/17638686918547)
 
 This will officially cancel your subscription, however, you will always have the ability to reactivate your account!
 

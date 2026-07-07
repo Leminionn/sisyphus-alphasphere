@@ -2,6 +2,7 @@
 
 **Article ID:** 360042950593
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360042950593-How-to-Use-the-Simple-Clock-App
 **Last Updated:** 2026-01-23T15:20:46+00:00
 ---
 
@@ -18,10 +19,6 @@ The Simple Clock App allows you to show a classic digital or analog clock on you
 
 Below are some examples.
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360057588853)
-
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/360057588873)
-
 ---
 
 ## What You'll Need
@@ -36,15 +33,9 @@ Below are some examples.
 
 On the OptiSigns portal, go to **Assets → Add Asset → Apps**.
 
-![open apps tab optisigns](https://support.optisigns.com/hc/article_attachments/48410414193939)
-
 Select **Simple Clock:**
 
-![](https://support.optisigns.com/hc/article_attachments/48410410834707)
-
 Set up your Simple Clock app:
-
-![](https://support.optisigns.com/hc/article_attachments/48410414212499)
 
 * **Name -** Name of your assets. This is for organizational purposes and will not be displayed on your screens.
 * **Clock Type -** Choose your type of clock. Pick the one that you like best! There are six options:
@@ -63,14 +54,10 @@ The actual Theme and Clock Settings will vary depending on whether your clock di
 
 #### Digital Clocks
 
-![](https://support.optisigns.com/hc/article_attachments/48410414214803)
-
 * **Time Format -** How you want the time to be formatted on your digital clock.
   + **Show Seconds -**Choose whether or not to show seconds.
   + **Show Date -**Choose whether or not to display the date.
 * **Date Format -**If "Show Date" is checked, you can customize the way the date is formatted here.
-
-  ![](https://support.optisigns.com/hc/article_attachments/48410410853651)
 * **Time Font Size -** Choose the font size for the time display.
 * **Date Font Size -** Choose the font size for the date. This option only appears if "Show Date" is checked above.
 * **Text Color -** Choose the Text color for the digital clock.
@@ -83,10 +70,6 @@ The actual Theme and Clock Settings will vary depending on whether your clock di
 
 #### Analog Clocks
 
-![](https://support.optisigns.com/hc/article_attachments/48410414219795)
-
-![](https://support.optisigns.com/hc/article_attachments/48410410862739)
-
 * **Show Numbers -** Choose whether or not to show numbers on the analog clock display.
 * **Show Tick Marks -** Choose whether or not to show tick marks on the analog clock display.
 * **Dial Color** - Change the dial color on the analog clock display.
@@ -95,8 +78,6 @@ The actual Theme and Clock Settings will vary depending on whether your clock di
 * **Second Hand Color -** Change the color of the second hand on the analog clock display.
 * **Clock Face Background -** Change the background color of the clock face.
 * **Background Color -** Change the background color of the entire display outside the clock face.
-
-![color picker optisigns](https://support.optisigns.com/hc/article_attachments/48410414226067)
 
 Once you've configured the app the way you want, hit **Save**.
 
@@ -108,17 +89,11 @@ You can deploy your new Simple Clock app as an individual asset, or as part of a
 
 To get your new Simple Clock asset to a screen, go to the **Screens** tab, then click the screen you want to assign it to.
 
-![](https://support.optisigns.com/hc/article_attachments/48410410870547)
-
 This brings up the **Edit Screen** tab:
-
-![](https://support.optisigns.com/hc/article_attachments/48410414232467)
 
 Here, select **Asset** under Content type, then hit **Change** next to Selected Asset.
 
 Then, select your created Simple Clock Asset:
-
-![](https://support.optisigns.com/hc/article_attachments/48410414234003)
 
 Now hit **Save**. Your Simple Clock asset will now display on screen.
 

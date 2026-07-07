@@ -2,6 +2,7 @@
 
 **Article ID:** 360055080914
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360055080914-How-to-Use-USB-HUB-Adaptor-Connect-to-Your-Fire-Stick
 **Last Updated:** 2025-09-04T15:23:44+00:00
 ---
 
@@ -13,8 +14,6 @@ There is more cost effective way to is to use [USB HUB Adaptor](https://www.amaz
 
 * You can use this to connect your USB wireless keyboard or mouse with your Fire Stick.
 * You can use this to connect your USB wired keyboard or mouse with your Fire Stick.
-
-![USB_HUB_Adaptor.png](https://support.optisigns.com/hc/article_attachments/360093195114)
 
 Note: You need to switch to OTM on USB HUB Adaptor
 

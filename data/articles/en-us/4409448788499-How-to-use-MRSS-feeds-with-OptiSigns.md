@@ -2,6 +2,7 @@
 
 **Article ID:** 4409448788499
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/4409448788499-How-to-use-MRSS-feeds-with-OptiSigns
 **Last Updated:** 2025-08-29T19:30:31+00:00
 ---
 
@@ -23,15 +24,9 @@ Then log on to our portal: [https://app.optisigns.com/](http://app.optisigns.co
 
 Go to Files/Assets, Click on "App" and add MRSS feeds on your Account.
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/4409441694995)
-
 Click MRSS app:
 
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/4409441699219)
-
 Enter your MRSS feed information:
-
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/4409448790035)
 
 * Name: Name of your MRSS Feed app, this is the name of the wall in your asset list. It will **not** be displayed on your screens.
 * MRSS Feed URL: an MRSS feed format URL such as: <https://rss.nytimes.com/services/xml/rss/nyt/World.xml>

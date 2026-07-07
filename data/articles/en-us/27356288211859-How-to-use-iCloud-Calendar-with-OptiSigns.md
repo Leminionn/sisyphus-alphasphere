@@ -2,6 +2,7 @@
 
 **Article ID:** 27356288211859
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/27356288211859-How-to-use-iCloud-Calendar-with-OptiSigns
 **Last Updated:** 2026-03-26T16:45:12+00:00
 ---
 
@@ -13,7 +14,7 @@ Before we start, please take a quick moment to ensure your iCloud account is ful
 
 Sign in to <https://www.icloud.com/> and check your account information for the status of all features. This ensures smooth and optimal functionality for your iCloud experience.
 
-   ![](https://support.optisigns.com/hc/article_attachments/27359206807571)     ![](https://support.optisigns.com/hc/article_attachments/27359175323027)
+        
 
 **Let's jump in and get started:**
 
@@ -27,21 +28,13 @@ To obtain your app-specific password:
 
 1. Sign in to <https://appleid.apple.com/>.
 2. Navigate to Security and activate [Two-factor authentication](https://support.apple.com/en-us/102660) if you haven't already.
-3. Under App-Specific Passwords, click **Generate Password**.  
-     
-   ![](https://support.optisigns.com/hc/article_attachments/27359206819219)  
-   ![](https://support.optisigns.com/hc/article_attachments/27359175329043)
-4. Enter a password label (e.g., "iCloud Calendar") and select Create.  
-   ![](https://support.optisigns.com/hc/article_attachments/27359175332755)
-5. Confirm your iCloud account password before proceeding to the next step.  
-   ![](https://support.optisigns.com/hc/article_attachments/27359175334291)
-6. Your app-specific password will then be generated.  
-   ![](https://support.optisigns.com/hc/article_attachments/27359175335571)
+3. Under App-Specific Passwords, click **Generate Password**.
+4. Enter a password label (e.g., "iCloud Calendar") and select Create.
+5. Confirm your iCloud account password before proceeding to the next step.
+6. Your app-specific password will then be generated.
 7. Copy the app-specific password and paste it into your iCloud account settings.
 
-![](https://support.optisigns.com/hc/article_attachments/27359228509587)
-
-Once authenticated you'll be prompted to enter the details of your calendar:![](https://support.optisigns.com/hc/article_attachments/27359175343379)
+Once authenticated you'll be prompted to enter the details of your calendar:
 
 * **Name:** Name of your calendar that you wish to see labeled as within the OptiSigns platform. **This name is internal to you only.**
 * **Calendars:**  The dropdown will show all the calendars that are within the account. These can be calendars you created or subscribed to.
@@ -52,8 +45,6 @@ Once authenticated you'll be prompted to enter the details of your calendar:![](
   + Week - Listing the current week's event activity
   + Month - Listing the current month's event activity
 * **Advanced Options:**
-
-**![](https://support.optisigns.com/hc/article_attachments/27359206835731)**
 
 * **Only Show Ongoing and Upcoming Events:** Toggle if you would like your calendar app not to display past events.
 * **List View:** (only available if you select Schedule as Display Mode)
@@ -82,7 +73,5 @@ The auto-sync will be every hour on the iCloud Calendar.
 #### **After completing these steps, you're all set.**
 
 You then can assign this newly created asset to your screens to display, or you can also use it in playlists, schedules, etc. like any other assets. If you need more information on how to set up & assign content to your screens [click here.](https://www.optisigns.com/post/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv)
-
-![](https://support.optisigns.com/hc/article_attachments/27359175356179)
 
 If you have feedback on how to make the how-to guides better, please let us know at: support@optisigns.com

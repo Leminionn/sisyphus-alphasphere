@@ -2,6 +2,7 @@
 
 **Article ID:** 360016342373
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360016342373-What-types-of-files-are-supported
 **Last Updated:** 2025-09-08T14:04:57+00:00
 ---
 

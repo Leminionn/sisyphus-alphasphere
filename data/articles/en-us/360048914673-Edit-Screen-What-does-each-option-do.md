@@ -2,22 +2,11 @@
 
 **Article ID:** 360048914673
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360048914673-Edit-Screen-What-does-each-option-do
 **Last Updated:** 2026-05-21T13:09:58+00:00
 ---
 
 ### OptiSigns gives you unparalleled customization options for your digital signs with its Edit Screen feature. Each setting will be thoroughly explained to ensure you can effectively manage and customize your digital signage.
-
-In this article:
-
-* [Navigating to Edit Screen](#Navigating)
-* [Edit Screen Options](#Edit)
-  + [Advanced](#advanced)
-  + [More](#more)
-  + [Device Additional Attributes](#attributes)
-  + [Device Info](#info)
-  + [OptiSigns Player Specific Settings](#android)
-  + [More Remote Command Options](#remote)
-  + [Final Options](#final)
 
 |  |
 | --- |
@@ -146,14 +135,14 @@ To view the **Device Info** tab, click the small **'i'** at the bottom right of 
 |  |  |
 | --- | --- |
 | **OptiSigns 1.0** | **Updated** |
-| firefox_7oQsrmiEmn.png |  |
+|  |  |
 
 This will open the **Device Info** window.
 
 |  |  |
 | --- | --- |
 | **OptiSigns 1.0** | **Updated** |
-| firefox_AwP9mWDRsw.png |  |
+|  |  |
 
 This window provides information about your system in the form of Python lists and dictionaries, which you can utilize for your own purposes.
 
@@ -198,7 +187,7 @@ At the bottom of the window, you will see several options, including **Help, Pre
 |  |  |
 | --- | --- |
 | **OptiSigns 1.0** | **Updated** |
-| firefox_K67dpVQIPS.png |  |
+|  |  |
 
 * **Help -** This leads you here, to this article. Hello!
 * **Preview** - Lets you check out the settings you've selected on the chosen screen, without saving it. See our article on [**How to Preview a Screen**](https://support.optisigns.com/hc/en-us/articles/360035739414-How-to-Preview-a-Screen) for more information about this feature.

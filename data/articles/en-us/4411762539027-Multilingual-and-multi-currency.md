@@ -2,6 +2,7 @@
 
 **Article ID:** 4411762539027
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/4411762539027-Multilingual-and-multi-currency
 **Last Updated:** 2025-09-04T15:30:19+00:00
 ---
 
@@ -38,15 +39,11 @@ To set the language for your profile go to:
 
 And select language
 
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/4411743970195)
-
 To set the language for your account go to:
 
 <https://app.optisigns.com/app/s/preference-settings>
 
 select language (this will apply to all users on your account unless they set their preference).
-
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/4411796296979)
 
 #### **Apps & Widget Translations:**
 
@@ -57,8 +54,6 @@ select language (this will apply to all users on your account unless they set th
 
 You can set the languages of those apps in Settings or Advanced settings:
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/4412931330195)
-
 * These Widgets are translated as:
 
   - Weather
@@ -66,5 +61,3 @@ You can set the languages of those apps in Settings or Advanced settings:
   - Calendar
 
 You can set the language for widgets in the widget settings:
-
-![firefox_oHDJJNqE4J.jpg](https://support.optisigns.com/hc/article_attachments/43348281480467)

@@ -2,6 +2,7 @@
 
 **Article ID:** 29979283289235
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/29979283289235-How-to-Display-Birthday-Lists-with-OptiSync-Data-Mapping-and-Google-Sheets
 **Last Updated:** 2026-01-09T02:22:54+00:00
 ---
 
@@ -32,8 +33,6 @@ For an in-depth instructional video on how to dynamically map a birthday list to
 2. Proceed by adding your DataSource either through designer or your account settings under **DataSource**.
    * Learn how to add data sources [here](https://support.optisigns.com/hc/en-us/articles/29217646663187).
 3. Click on 'Add DataSource' and select Google Sheets.
-
-![](https://i.imgur.com/x3utMb2.png)
 
 |  |
 | --- |
@@ -87,15 +86,11 @@ Here's how to set up a repeater component:
 
 To update the cell value mapped on the template, create another sheet for your employee birthday lists and use formulas to match today's date or the month, depending on your preference.
 
-![](https://support.optisigns.com/hc/article_attachments/31245544060179)
-
 |  |
 | --- |
 | Here is a sample [**link**](https://docs.google.com/spreadsheets/d/1A0apt1hrrz3XNujVj6gWjd0tDz_H2XUf4LFFx6Dqg6Q/edit?usp=sharing) to a Birthday list in Google Sheets. To use: Make a copy of it so that you can modify and adapt according to your specific requirements and preferences. |
 
 Within the settings of your Google Sheet, please ensure Recalculation is on (e.g., On change and every hour/minute), otherwise the formula won't recalculate.
-
-![chrome_vVrfIwHVno.png](https://support.optisigns.com/hc/article_attachments/30697329605779)
 
 You can access this in your Google Sheet by selecting **File** > **Settings** > **Calculation.**
 
@@ -112,8 +107,6 @@ Let's say you're playing this design as a single asset or running it like a slid
    * **Use Default Value:** Show default content, which is what your Repeater element looks like by itself.
    * **Use Blank:** The Repeater will show nothing.
 4. Make sure to **save** your design.
-
-![](https://support.optisigns.com/hc/article_attachments/43015697573523)
 
 ---
 
@@ -199,18 +192,12 @@ To display your designs for your employees to see:
 2. Click the **Save** icon.
 3. Then select "**Push to Screen**".
 
-![](https://support.optisigns.com/hc/article_attachments/43015697575315)
-
 You will now be brought to this page:
 
 1. Select your screen.
 2. **Push** to the screen.
 
-![](https://support.optisigns.com/hc/article_attachments/43015684495891)
-
 Here is what your design will look like when pushed to screens.
-
-![](https://support.optisigns.com/hc/article_attachments/30118759886355)
 
 ## That's all!
 

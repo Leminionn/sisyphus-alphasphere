@@ -1,25 +1,38 @@
 import re
+import logging
 from datetime import datetime
 from typing import List
 import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util import Retry
 from urllib.parse import urlparse, urlunparse
+
 from src.core.config import ZendeskConfig
 from src.core.models import Article
-from src.utils.logger import setup_logger
 
-logger = setup_logger("zendesk_extractor")
+logger = logging.getLogger("zendesk_extractor")
 
 class ZendeskExtractor:
     def __init__(self, config: ZendeskConfig):
         self.config = config
         self.session = requests.Session()
-        # No authentication is required for public Help Center articles
+        
+        # Configure retry strategy with backoff for robustness
+        retry_strategy = Retry(
+            total=self.config.max_retries,
+            backoff_factor=1.5,
+            status_forcelist=[429, 500, 502, 503, 504],
+            raise_on_status=False
+        )
+        adapter = HTTPAdapter(max_retries=retry_strategy)
+        self.session.mount("http://", adapter)
+        self.session.mount("https://", adapter)
 
     def _rewrite_url_domain(self, url: str) -> str:
         """
         Rewrites the domain of the next page URL to match the configured base_url.
         This handles cases where Zendesk API pagination returns links pointing to
-        their default subdomain (which might be redirected or block unauthenticated requests).
+        their default subdomain.
         """
         if not url:
             return url
@@ -48,7 +61,11 @@ class ZendeskExtractor:
             while url:
                 try:
                     logger.info(f"Requesting: {url}")
-                    response = self.session.get(url, params=params if "?" not in url else None)
+                    response = self.session.get(
+                        url,
+                        params=params if "?" not in url else None,
+                        timeout=self.config.timeout
+                    )
                     response.raise_for_status()
                     data = response.json()
                     
@@ -56,7 +73,6 @@ class ZendeskExtractor:
                     logger.info(f"Retrieved {len(batch)} articles in this page.")
                     
                     for item in batch:
-                        # Exclude draft articles
                         if item.get("draft") is True:
                             continue
                             
@@ -75,9 +91,15 @@ class ZendeskExtractor:
                             parts = html_url.rstrip("/").split("/articles/")
                             if len(parts) > 1:
                                 slug = parts[1]
+                        
                         if not slug:
                             slug = re.sub(r'[^a-z0-9\s-]', '', item["title"].lower())
                             slug = re.sub(r'[\s-]+', '-', slug).strip('-')
+                        
+                        # Sanitize slug
+                        slug = re.sub(r'[^a-zA-Z0-9_\-]', '', slug)
+                        if not slug:
+                            slug = f"article-{item['id']}"
 
                         articles.append(
                             Article(
@@ -100,7 +122,7 @@ class ZendeskExtractor:
                     
                 except requests.exceptions.RequestException as e:
                     logger.error(f"Error fetching articles from Zendesk API: {e}")
-                    raise e
+                    raise RuntimeError(f"Zendesk API request failed: {e}") from e
                     
         unique_articles = {}
         for a in articles:

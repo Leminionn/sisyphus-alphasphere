@@ -2,6 +2,7 @@
 
 **Article ID:** 29465595849235
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/29465595849235-List-of-Supported-Cities-for-Weather-Wall-City-Themes
 **Last Updated:** 2026-04-08T13:41:37+00:00
 ---
 
@@ -9,11 +10,7 @@
 
 It displays images related to the city in the Location field, making your experience more personalized and engaging.
 
-**![](https://support.optisigns.com/hc/article_attachments/29465595838867)**
-
 *Image of a clear day in New York City, New York, USA.*
-
-![image_2024_05_18T02_55_53_353Z.png](https://support.optisigns.com/hc/article_attachments/29528700970771)
 
 *Image of a rainy day in Houston, Texas, USA.*
 

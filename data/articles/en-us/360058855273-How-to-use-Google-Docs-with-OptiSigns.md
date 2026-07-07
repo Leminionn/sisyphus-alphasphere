@@ -2,6 +2,7 @@
 
 **Article ID:** 360058855273
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360058855273-How-to-use-Google-Docs-with-OptiSigns
 **Last Updated:** 2025-09-05T14:48:20+00:00
 ---
 
@@ -19,8 +20,6 @@ Open the [**OptiSigns portal**](https://app.optisigns.com/app/screenManagement) 
 
 Click **Apps** → Search for **Google Docs** and click on the app:
 
-![googledocs-3.png](https://support.optisigns.com/hc/article_attachments/360099047293)
-
 There are two options to enter your Google Docs.
 
 * Enter your published Google Docs link directly.
@@ -34,16 +33,10 @@ There are two options to enter your Google Docs.
 
 Click **File** -> **Publish to the Web**
 
-![googledocs-1.jpg](https://support.optisigns.com/hc/article_attachments/39923927688595)
-
 The "Automatically republish when changes are made" is checked by default.  
 Click **Publish** -> **OK** and you will get a link. Copy that published link.
 
-![googledocs-2.jpg](https://support.optisigns.com/hc/article_attachments/39923927694867)
-
 → Return to your Google Docs app in the OptiSigns portal and fill in the required fields as following:
-
-![googledocs-4.jpg](https://support.optisigns.com/hc/article_attachments/39923927695891)
 
 * Name: This is the name to organize assets, it will not be shown on the screen.
 * URL: This is the Google Docs link that you got from Publish to the Web in your Google Docs.
@@ -52,15 +45,11 @@ Click **Publish** -> **OK** and you will get a link. Copy that published link.
 
 ## Option 2: Sign in with Google
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/11413370722707)
-
 * Name: This is the name to organize assets, it will not be shown on the screen.
 * URL: This is the Google Docs link that is auto-generated.
 * Speed: Select how fast you want the slide to switch between slides. You can also customize your speed if you select Custom.
 
 **Advanced option:**
-
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/26482312995731)
 
 * Force Sync Interval: By default, the system will force sync every 12 hours. The minute is 1 hour.
 

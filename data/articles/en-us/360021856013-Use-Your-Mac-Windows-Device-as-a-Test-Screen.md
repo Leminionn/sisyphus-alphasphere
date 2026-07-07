@@ -2,6 +2,7 @@
 
 **Article ID:** 360021856013
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360021856013-Use-Your-Mac-Windows-Device-as-a-Test-Screen
 **Last Updated:** 2025-09-04T20:39:46+00:00
 ---
 

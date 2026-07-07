@@ -2,6 +2,7 @@
 
 **Article ID:** 29217646663187
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/29217646663187-How-to-Set-Up-Dynamic-Data-Mapping-with-OptiSync
 **Last Updated:** 2025-09-04T17:54:40+00:00
 ---
 
@@ -66,8 +67,6 @@ You can add your data source through **Account Settings** or through **Designer 
 
 You can add any data source, such as an Excel sheet, Google Sheet, POS system, inventory management system, HRIS, or other systems. You can also create a table directly in OptiSigns.
 
-![](https://support.optisigns.com/hc/article_attachments/29687726573203)
-
 **Please follow these guides to upload different kinds of DataSources:**
 
 * [How to add Google Sheets as a DataSource for OptiSync](https://support.optisigns.com/hc/en-us/articles/29838866920211)
@@ -75,25 +74,17 @@ You can add any data source, such as an Excel sheet, Google Sheet, POS system, i
 
 In addition, you can integrate and test API requests, and execute any necessary pre- or post-request coding.
 
-![](https://support.optisigns.com/hc/article_attachments/29217646654099)
-
 Once your data source is set up, you can see **Where Used,** **Edit** the data source, and/or **Duplicate** it.
-
-![](https://support.optisigns.com/hc/article_attachments/29689445946003)
 
 * **Where Used:** This will show you which of your designs are using this Data Source. This is useful to track the use of this data source across different assets.
 * **Edit Data:**Go into your data source and make any updates/changes.
 * **Duplicate:**This will create a copy of your data source.
-
-![](https://support.optisigns.com/hc/article_attachments/29689413996947)
 
 ## Inputting Your Data Source in Designer
 
 Once your Data Source is set up, you can connect it to the Designer app.
 
 Go to **DataSource** on the left side of the Side Menu.
-
-![datasource location designer](https://support.optisigns.com/hc/article_attachments/42703178733715)
 
 As previously mentioned, you can add your DataSource here. Or, if you have already created it in the Data Source section of **Advanced**, then it should show up under **Other DataSources**.
 
@@ -104,8 +95,6 @@ As previously mentioned, you can add your DataSource here. Or, if you have alrea
 * You can either drag and drop an entire Row or the individual aspects within the rows.
 
 A pop-up message will appear, asking "**Would you like to use this data in a Repeater or on its Own?**"
-
-![on its own vs repeater gif](https://support.optisigns.com/hc/article_attachments/42703178736787)
 
 * **Use on its own:** It will be an element on its own and will update automatically based on the data source.
 * **Use in a Repeater:** This will include the data source element in a Repeater component.
@@ -121,8 +110,6 @@ A pop-up message will appear, asking "**Would you like to use this data in a Rep
 You can edit both the template and the Repeater in Designer!
 
 **The Repeater can be found on the side menu of the Designer application.**
-
-![](https://support.optisigns.com/hc/article_attachments/42705270085523)
 
 Within the Repeaters section, it will contain several ready to use "**Repeater components**" and "**Repeater Templates.**"
 
@@ -143,11 +130,7 @@ For more information on this, see our guides:
 
 You can also adjust the formatting of a Repeater by selecting it, then selecting **Settings**.
 
-![](https://support.optisigns.com/hc/article_attachments/42705270087059)
-
 This will open up the **Data Mapping**section for the Repeater on the Side Menu:
-
-![](https://support.optisigns.com/hc/article_attachments/42705284276243)
 
 Then, these options will be presented:
 
@@ -180,8 +163,6 @@ If you want to use a specific Repeater Template or Component, and would like to 
 
 This advanced feature allows you to change the appearance of specific data in your repeater based on conditions set by the user. These conditions, defined in the data source, are mapped to the corresponding values or elements in the repeater, and the specified formatting is then applied.
 
-![](https://support.optisigns.com/hc/article_attachments/42705284279187)
-
 1. In Designer, double click on the Repeater that you'd like to change. (This will open the Repeater Editor.)
 2. Select the element in the Repeater you want to edit, then click **Settings** at the top
 3. Click **Advanced** **Options** in the Side Menu
@@ -213,11 +194,7 @@ This advanced feature allows you to change the appearance of specific data in yo
 
 Here is an example of a sample DataSource set up with Fill Color, Background Color, Opacity, Font Weight, and Text Align:
 
-![](https://support.optisigns.com/hc/article_attachments/30789450971539)
-
 ### How to Use Display Format Options
-
-![](https://support.optisigns.com/hc/article_attachments/42702979620883)
 
 If you'd like to change how the formatting of certain data from your DataSource looks on your repeater, you can do so with the Display Format option available in the Repeater Editor. This saves you time from editing your original DataSource, and will apply to the formatting to all the repeated elements in the Repeater.
 
@@ -235,8 +212,6 @@ If you'd like to change how the formatting of certain data from your DataSource 
 Once your design is completed, it is ready to push to screen.
 
 *(Here's **[a guide](https://support.optisigns.com/hc/en-us/articles/18988049363859)** if you need further assistance with this.)*
-
-![](https://support.optisigns.com/hc/article_attachments/42702980943507)
 
 Your screen will automatically update based on your connected data source.
 

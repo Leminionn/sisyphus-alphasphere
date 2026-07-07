@@ -2,6 +2,7 @@
 
 **Article ID:** 23274673797139
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/23274673797139-How-to-enable-auto-start-on-FireOS-8-devices-like-Amazon-Fire-TV-Stick-4K-Gen-2-2023-model
 **Last Updated:** 2025-09-04T16:18:04+00:00
 ---
 
@@ -29,19 +30,13 @@ On your Fire Stick, navigate to the settings then select “My Fire TV” then c
 4. Click on the first option where it labels the model of your Fire TV stick, quickly 7 times. You will see a notification at the bottom saying, "No need, you are already a developer" when this is complete.
 5. Press the back button once or go back to “Settings” > “My Fire TV” and you will now see "Developer Options".
 
-![](https://support.optisigns.com/hc/article_attachments/23274690253587)
-
 #### **Step 2:**
 
 Exit out of developer options then select “About” then “Network”. You will see the Fire Stick’s network information. In this case, we will want to write down the IP address:
 
-![](https://support.optisigns.com/hc/article_attachments/23274680489747)
-
 #### **Step 3:**
 
 On your computer, you will need to have the Android SDK Platform Tools installed. You can install this by clicking on the link earlier in this guide. Make sure to create a folder somewhere on your computer such as your desktop then extract the contents on the Android SDK Platform Tools into that folder:
-
-![](https://support.optisigns.com/hc/article_attachments/23274673766803)
 
 #### **Step 4:**
 
@@ -49,25 +44,15 @@ On your desktop, open the command prompt. On Windows you can do this by typing �
   
 Once you have this opened, type “cd \”
 
-![](https://support.optisigns.com/hc/article_attachments/23274665378451)
-
 Then type “cd android”
 
-![](https://support.optisigns.com/hc/article_attachments/23274680497299)
-
 Then type “dir”:
-
-![](https://support.optisigns.com/hc/article_attachments/23274643497875)
 
 Type “adb connect <The Firestick IP Address from step 2>”
 
 **NOTE: If you receive a message where it mentions “failed to authenticate to <ip address>” you will need to allow access from your Firestick. Check “always allow from this computer” and press “OK”. Then back on the command prompt, type “adb disconnect” and hit enter.**
 
-**![](https://support.optisigns.com/hc/article_attachments/23274690270739)**
-
 Type adb connect <Firestick’s IP address> once more. Once connected, it should look like this:
-
-![](https://support.optisigns.com/hc/article_attachments/23274660262547)
 
 After you’ve successfully connected, enter this command then hit enter:
 

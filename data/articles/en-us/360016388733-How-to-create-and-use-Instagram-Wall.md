@@ -2,6 +2,7 @@
 
 **Article ID:** 360016388733
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360016388733-How-to-create-and-use-Instagram-Wall
 **Last Updated:** 2025-09-02T20:31:50+00:00
 ---
 
@@ -17,11 +18,7 @@ You can create Instagram Wall with Single or Wall view.
 
 Singe view screenshot is below, you can view a live example [here](https://social-player.optisigns.com/instagram/?asset_id=0csdimtv6c6p2blg8):
 
-![](https://support.optisigns.com/hc/article_attachments/360023842654)
-
 Wall view screenshot is below, you can view a live example [here](https://social-player.optisigns.com/instagram/?asset_id=ry2oyv3hqui83njer):
-
-![](https://support.optisigns.com/hc/article_attachments/360024803353)
 
 ## **Let's jump in and get started:**
 
@@ -31,30 +28,18 @@ Then log on to our portal: <http://app.optisigns.com/>
 
 Go to Files/Assets, Click on "App" and add Instagram on your Account.
 
-![](https://support.optisigns.com/hc/article_attachments/360023845094)
-
 Click Instagram:
-
-![](https://support.optisigns.com/hc/article_attachments/360023845074)
 
 Click "Sign In with Instagram" and sign in with your credentials.
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360079331033)
-
 Enter your Instagram Wall information:
-
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/4405009062931)
 
 * Name: Name of your Instagram Wall, this is the name of the wall in your asset list. It will **not** be displayed on your screens.
 * Display Mode: Select [**Single Post View**](https://social-player.optisigns.com/instagram/?asset_id=y89t3dg76jewc7nec), **[Social Wall View](https://social-player.optisigns.com/instagram/?asset_id=ry2oyv3hqui83njer), [Social Kiosk View](https://social-player.optisigns.com/instagram/?asset_id=0csdimtv6c6p2blg8),** or **Bricks View**. Click on the links to see live example.
 * Theme: Select Light or Dark Theme. You can also customize your background color if you select Custom.
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/26482836843155)
-
 * Speed: Select how fast you want the wall to scroll or switch between Instagram posts.  
   You can also customize your speed if you select Custom.
-
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/26482834951827)
 
 * Font Size: Set the font size for the Instagram Wall app.
 
@@ -65,8 +50,6 @@ You can click Advanced and set:
 * Scrolling Strip Font Size: If you put the Instagram Wall app to a SplitScreen zone that is a scrolling strip, you can set how big you want the scrolling text to be.
 * Continue Playing Content in Playlist: In the playlist, the Instagram Wall app plays 10 items in the 1st round, and it will start with #11 item in the 2nd round.
 * Show QR Code: Select whether you want the QR code to link to the Instagram Wall URL or you can select a Custom URL which you can determine what type of code type you want to generate and link to.
-
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/26482836854675)
 
 Click Save.  
 After Saving, you can Preview the wall. It may take several seconds for the app to fetch posts and prepare your wall, so please be patient.

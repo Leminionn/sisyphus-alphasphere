@@ -2,6 +2,7 @@
 
 **Article ID:** 1500001561861
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/1500001561861-How-to-mix-playlists-and-maintain-screen-time-share-with-OptiSigns-Content-Rotation-App
 **Last Updated:** 2025-09-02T19:32:41+00:00
 ---
 
@@ -22,26 +23,16 @@ First, you will need to have two or more playlists. For more information on how 
 
 Go to Files/Assets, Click on "App".
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360100601834)
-
 Click Content Rotation app:
 
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/1500001706142)
-
 Click Add Playlist to add the playlist you want to rotate, in this example we put 2 playlists: Department A, Department B. You can add as many playlist as you want.
-
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/1500001572662)
 
 * Name: This is the name to organize assets, it will not be shown on the screen.
 * Add Playlist:
 
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/360102767433)
-
 * + Playlist: Select your playlist.
   + Rotate Every\*: 1 means the system will play 1 items on this playlist then move on to next playlist
   + Each Item Duration\*: Set duration for each items, this is required in case one playlist has a very long video for example, this will ensure screen time is still allocated fairly between playlists.
-
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/1500001572702)
 
 * Enforce each item duration limit: Force each asset's playing time is same as Each Item Duration time. When this is checked, you will need to select how you want to handle when an item's duration is less than "Each item duration":
   + Move to next: If an item's duration is less than "Each item duration", it will move to next

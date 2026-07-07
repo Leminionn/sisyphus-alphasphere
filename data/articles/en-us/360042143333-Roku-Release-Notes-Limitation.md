@@ -2,6 +2,7 @@
 
 **Article ID:** 360042143333
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360042143333-Roku-Release-Notes-Limitation
 **Last Updated:** 2026-06-02T20:21:45+00:00
 ---
 

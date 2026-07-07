@@ -2,6 +2,7 @@
 
 **Article ID:** 360051495193
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360051495193-How-to-use-Instagram-Business-App
 **Last Updated:** 2025-12-12T20:56:01+00:00
 ---
 
@@ -27,11 +28,7 @@ After that, you ready to use it with Optisigns.
 
 Singe view screenshot is below, you can view a live example [here](https://social-player.optisigns.com/instagram/?asset_id=0csdimtv6c6p2blg8):
 
-![](https://support.optisigns.com/hc/article_attachments/26482712395411)
-
 Wall view screenshot is below, you can view a live example [here](https://social-player.optisigns.com/instagram/?asset_id=ry2oyv3hqui83njer):
-
-![](https://support.optisigns.com/hc/article_attachments/26482697659923)
 
 ## **Let's jump in and get started:**
 
@@ -41,20 +38,12 @@ Then log on to our portal: <http://app.optisigns.com/>
 
 Go to Files/Assets, Click on "App" and add Instagram on your Account.
 
-![](https://support.optisigns.com/hc/article_attachments/26482697666579)
-
 Click Instagram Business:
-
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360079336093)
 
 Click "Continue with Facebook" and sign in with your credentials.  
 Yes, it is Facebook's requirement that you link your Instagram Business account to your Facebook account to use it with 3rd party app like OptiSigns.
 
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/360079336133)
-
 Enter your Instagram Wall information:
-
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/4405006762003)
 
 * Name: Name of your Instagram Wall, this is the name of the wall in your asset list. It will **not** be displayed on your screens.
 * Page: Page you want to use (if you have more than 1). **Important**: you can only set this one time during the creation of the asset, if you want to change this later, you should delete the old asset and create a new one.
@@ -63,11 +52,7 @@ Enter your Instagram Wall information:
 * Display Mode: Select [**Single Post View**](https://social-player.optisigns.com/instagram/?asset_id=y89t3dg76jewc7nec), [**Social Wall View**](https://social-player.optisigns.com/instagram/?asset_id=ry2oyv3hqui83njer), [**Social Kiosk View**](https://social-player.optisigns.com/instagram/?asset_id=0csdimtv6c6p2blg8) or **Bricks View**. Click on the links to see live example.
 * Theme: Select Light or Dark Theme. You can also customize your background color if you select Custom.
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/26482697684371)
-
 * Speed: Select how fast you want the wall to scroll or switch between Instagram posts. You can also customize your speed if you select Custom.
-
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/26482697707411)
 
 * Font Size: Set the font size for the Instagram Business app.
 
@@ -78,8 +63,6 @@ You can click Advanced and set:
 * Scrolling Strip Font Size: If you put the Instagram Business app to a SplitScreen zone that is a scrolling strip, you can set how big you want the scrolling text to be
 * Continue Playing Content in Playlist: In the playlist, the Instagram Business app plays 10 items in the 1st round, and it will start with #11 item in the 2nd round.
 * Show QR Code: Select whether you want the QR code to link to the Instagram Business URL or you can select a Custom URL which you can determine what type of code type you want to generate and link to.
-
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/26482697713043)
 
 Click Save.  
 After Saving, you can Preview the wall. It may take several seconds for the app to fetch posts and prepare your wall, so please be patient.

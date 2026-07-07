@@ -2,12 +2,11 @@
 
 **Article ID:** 4403616315539
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/4403616315539-How-to-approve-OptiSigns-as-Enterprise-App-on-Microsoft-Azure-for-Power-BI-Calendar-etc-access
 **Last Updated:** 2026-03-17T22:33:37+00:00
 ---
 
 With OptiSigns, you can use Power BI, Microsoft Outlook Calendar, OneDrive app to integrate your Dashboard, calendar or content from your OneDrive on to your digital signage screens.
-
-In this article we will cover:
 
 1) OptiSigns User/Admin: How to send request approval for OptiSigns to access your Power BI, Calendar, etc.
 
@@ -20,8 +19,6 @@ Let's dive in.
 If you are using a work account from your organization, sometimes, your organization's Admin have set security workflow so that apps like OptiSigns will need to be reviewed by your  Microsoft Azure Admin before granting access to your organization resources (like Power BI, Calendar, OneDrive).
 
 In OptiSigns, when click Log In with Microsoft account, it will prompt a window like below.
-
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/4403615938579)
 
 If you click "Request approval", this will send an email to your Microsoft Azure Admin to review and approve.
 
@@ -43,23 +40,15 @@ As Microsoft Azure Admin, you will receive an email when a user request a 3rd pa
 
 You can click "Review request" to review.
 
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/4403616205715)
-
 Or you can log in to Azure portal -> "Azure Active Directory" -> "Enterprise applications" -> "Admin consent requests".
 
 You will see pending approval request there.
 
-![mceclip5.png](https://support.optisigns.com/hc/article_attachments/4403627418643)
-
 Click "Review permission & consent"
-
-![mceclip6.png](https://support.optisigns.com/hc/article_attachments/4403622874387)
 
 Review the permissions requested by OptiSigns. OptiSigns, as a digital signage application, only reads and displays assets. It will not modify, move, or delete objects. See our [Privacy Policy](https://www.optisigns.com/privacy-policy) for more information.
 
 Click **Accept:**
-
-![mceclip7.png](https://support.optisigns.com/hc/article_attachments/4403627456531)
 
 **That's all!** You have reviewed and approve OptiSigns to be used as Enterprise App in your organization.
 

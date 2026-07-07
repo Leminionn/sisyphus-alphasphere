@@ -2,6 +2,7 @@
 
 **Article ID:** 5149077938835
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/5149077938835-How-to-use-Advanced-Website-App
 **Last Updated:** 2025-08-29T19:27:36+00:00
 ---
 
@@ -16,11 +17,7 @@ Advanced Website App is the solution for that, it will allow you to:
 
  Go to File/Assets -> App, search and select Advanced Website App:
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/5174945453843)
-
 Set up your Advanced Website App:
-
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/5175002170899)
 
 * Name: name of your Advanced Website App, this is only for use in File/Asset list, it will not be displayed on your screen.
 * URL: the URL link to the page you want to display.

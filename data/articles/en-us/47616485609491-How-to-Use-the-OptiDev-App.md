@@ -2,10 +2,9 @@
 
 **Article ID:** 47616485609491
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/47616485609491-How-to-Use-the-OptiDev-App
 **Last Updated:** 2026-02-11T23:03:49+00:00
 ---
-
-### In this article, we will go over setting up an OptiDev app and getting your OptiDev projects onto your digital signs.
 
 * [What You’ll Need](https://support.optisigns.com/hc/en-us/articles/undefined#WhatYouNeed)
 * [Setting Up an OptiDev App from OptiSigns](https://support.optisigns.com/hc/en-us/articles/undefined#SettingUp)
@@ -36,15 +35,9 @@ The other is via the OptiDev app. That is what we’ll be covering below.
 
 To get started, go to **Assets → Add Asset → Apps**.
 
-**![](https://support.optisigns.com/hc/article_attachments/47616485594131)**
-
 Find **OptiDev** on the list of apps:
 
-![](https://support.optisigns.com/hc/article_attachments/47616485596947)
-
 This will open up the **OptiDev Configuration** window.
-
-![](https://support.optisigns.com/hc/article_attachments/47616485600019)
 
 There are essentially four elements to this screen:
 
@@ -57,21 +50,13 @@ First, give your asset a name. Then you’ll need to get the Published URL.
 
 To do this, go to your OptiDev project, then hit **Publish to OptiSigns:**
 
-![](https://support.optisigns.com/hc/article_attachments/49048940620819)
-
 Here, you can choose to Use your current OptiSigns account, or sign in to a different OptiSigns account.
-
-![](https://support.optisigns.com/hc/article_attachments/49048902074515)
 
 You can publish it either Publicly or Privately. Then, click the Live Site link.
 
 Copy the URL from the web address bar:
 
-![](https://support.optisigns.com/hc/article_attachments/47616485602707)
-
 Paste the link into the OptiDev Published URL field:
-
-![](https://support.optisigns.com/hc/article_attachments/47616515904147)
 
 |  |
 | --- |
@@ -79,8 +64,6 @@ Paste the link into the OptiDev Published URL field:
 | OptiDev and OptiSigns are linked through your browser. To ensure your Published Link displays properly, please stay logged in to both OptiDev and OptiSigns through this process. These can be in different tabs. |
 
 Now your OptiDev asset should display in the Preview:
-
-![](https://support.optisigns.com/hc/article_attachments/47616485607315)
 
 Make any changes and adjustments needed via the Orientation tab, then hit **Save.**
 

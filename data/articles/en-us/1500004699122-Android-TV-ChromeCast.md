@@ -2,6 +2,7 @@
 
 **Article ID:** 1500004699122
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/1500004699122-Android-TV-ChromeCast
 **Last Updated:** 2025-09-02T19:55:41+00:00
 ---
 
@@ -21,15 +22,9 @@ So let's dive in!
 
 Press the "**Get more app"** button on the Android TV.
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/1500006116882)
-
 Type in "**O****ptiSigns**" > Be sure to press the menu down button until the "**OptiSigns Digital Signage**" text is highlighted > **Click** on it.
 
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/1500006232641)
-
 Click **Download** on the OptiSigns app icon.
-
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/1500006116982)
 
 Once the app is installed, **launch** it.
 
@@ -39,25 +34,15 @@ Once the app is installed, **launch** it.
 
 You then will see this pairing screen:
 
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/26399132494227)
-
 Go to our website: [https://app.optisigns.com](https://app.optisigns.com/app/screenManagement)
 
 If you don't have an account already, create one, or you can also log in with Google or Facebook account.
 
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/26399147694355)
-
 Once you logged in click "**Add screen**" button.
-
-![mceclip3.png](https://support.optisigns.com/hc/article_attachments/26399147696147)
 
 In this pop up window, type in the Pair Code showing up on your Android TV screen > Click **Pair**
 
-![mceclip4.png](https://support.optisigns.com/hc/article_attachments/26399147697427)
-
 The Android TV screen will change to:
-
-![mceclip5.png](https://support.optisigns.com/hc/article_attachments/26399147699603)
 
 Now you are ready to upload and assign content!
 

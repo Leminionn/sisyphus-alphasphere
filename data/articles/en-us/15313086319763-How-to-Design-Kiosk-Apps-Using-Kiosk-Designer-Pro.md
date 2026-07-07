@@ -2,6 +2,7 @@
 
 **Article ID:** 15313086319763
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/15313086319763-How-to-Design-Kiosk-Apps-Using-Kiosk-Designer-Pro
 **Last Updated:** 2025-11-05T17:31:50+00:00
 ---
 
@@ -32,15 +33,9 @@ Log on to the OptiSigns portal: <http://app.optisigns.com/>
 
 Go to **Engage** tab → Click on **'New App'**
 
-![](https://support.optisigns.com/hc/article_attachments/31373400777747)
-
 Select **'Touch Screen Kiosks'** **→**  **Select App**
 
-![](https://support.optisigns.com/hc/article_attachments/27030302640403)
-
 Select **'Kiosk Designer Pro'** **→ Next →** **Build**
-
-![](https://support.optisigns.com/hc/article_attachments/27030302684051)
 
 You will be re-directed to the Designer app.
 
@@ -49,8 +44,6 @@ You will be re-directed to the Designer app.
 | For a refresher on how to use Designer, please click **[here.](https://support.optisigns.com/hc/en-us/articles/42087942047379-Getting-Started-with-Designer)** |
 
 In Designer, you will see a new function in the top menu called **Link.** This will appear when clicking on any element.
-
-![](https://support.optisigns.com/hc/article_attachments/42857781024531)
 
 |  |
 | --- |
@@ -66,14 +59,10 @@ Once you click on **'Link'**, the Link Options menu will appear on the left-hand
 
 Click **'Add Link'**
 
-![](https://support.optisigns.com/hc/article_attachments/42857781025811)
-
 A new window will populate, allowing you to either:
 
 1. Input a direct URL, or
 2. Select an asset
-
-![](https://support.optisigns.com/hc/article_attachments/27030280103187)
 
 ---
 
@@ -81,11 +70,7 @@ A new window will populate, allowing you to either:
 
 If you are using a **direct URL**,  you will need to input a URL and then click **Add**.
 
-![](https://support.optisigns.com/hc/article_attachments/27030302796179)
-
 Once you have added your direct URL, you will be redirected back to your template or design.
-
-![](https://support.optisigns.com/hc/article_attachments/42857781027091)
 
 For a direct URL, here are the link options to choose from:
 
@@ -121,13 +106,9 @@ If you want to set these options as your default for future use, see our "[How t
 
 If you are using an **asset**,  you can either choose an asset from within your library, upload a file, create a new app, or choose a Feeds.
 
-![](https://support.optisigns.com/hc/article_attachments/31373400781331)
-
 Once you select your asset to be linked, you will be redirected back to your template or design.
 
 For **assets**, you will have all the [**same link options**](#link) as explained in direct URL section, with the addition of **Scale**.
-
-![](https://support.optisigns.com/hc/article_attachments/42857798196243)
 
 * **Scale:** Defaults to Fit. This option will resize your asset per the selected preference
   + None

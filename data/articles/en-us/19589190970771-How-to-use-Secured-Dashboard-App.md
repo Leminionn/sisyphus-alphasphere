@@ -2,6 +2,7 @@
 
 **Article ID:** 19589190970771
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/19589190970771-How-to-use-Secured-Dashboard-App
 **Last Updated:** 2025-09-02T20:28:00+00:00
 ---
 
@@ -25,15 +26,12 @@ If you are using MFA, you can follow this document, to get the MFA set up with t
 [How to use Web Scripting App with 2FA](https://support.optisigns.com/hc/en-us/articles/19145077187859)  
 Once the script is tested with Web Scripting App, you can copy it and create the Secured Dashboard App with the same info.
 
-![](https://support.optisigns.com/hc/article_attachments/19593475063955)
-
 **2. Configure the Secured Dashboard execution**  
 There are a few settings that allow you to control how the scripts are executed. Secured Dashboard will execute the scripts on a dedicated instance, and then take a screenshot of the report according to your settings.
 
 * Resolution: The default setting is 1080p - FHD(1920x1080) in landscape mode. You can choose other resolutions, even custom resolutions. Please note if you would like to display in portrait mode, you will need to choose custom resolutions and set the resolutions accordingly, e.g. 1080x1920.
 * Full Page: If you select full page, it will take a screenshot of the entire webpage, even if the webpage is scrollable.
-* Clip: This allows you to take screenshots of certain sections of the webpage. You can set the starting point of the screenshot from the top left, and the width and height of the screenshot.  
-  ![](https://support.optisigns.com/hc/article_attachments/19595347412627)
+* Clip: This allows you to take screenshots of certain sections of the webpage. You can set the starting point of the screenshot from the top left, and the width and height of the screenshot.
 * Delay: This allows you to set when the screenshot is taken. The default is 30 seconds, meaning the screenshot will start the 30s after the scripts are executed. If your report data takes a long time to load, you can set a proper value here to pass the loading.
 
 After completing all the settings, you can assign it to the screens, the screenshots will update at the set interval.

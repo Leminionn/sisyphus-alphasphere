@@ -2,6 +2,7 @@
 
 **Article ID:** 28115946505107
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/28115946505107-How-to-Change-Close-Nav-Bar-Styler-Preferences
 **Last Updated:** 2025-08-28T19:27:02+00:00
 ---
 
@@ -14,11 +15,7 @@ You can adjust these settings by:
 * First, click on your profile name in the top right corner of your OptiSigns webpage.
 * Then, click on the "Preferences" tab in the drop-down menu.
 
-![chrome_KqTF9UeA8h.png](https://support.optisigns.com/hc/article_attachments/28115918025875)
-
 * You will then be directed to the Preferences page. To access the Close & Nav Bar settings, scroll down to the bottom of the page.
-
-![chrome_6gpZoPUEQG.png](https://support.optisigns.com/hc/article_attachments/28115918027155)
 
 **Close & Nav Bar Styler:**
 

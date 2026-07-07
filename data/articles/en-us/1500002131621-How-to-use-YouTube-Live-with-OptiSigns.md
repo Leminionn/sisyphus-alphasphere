@@ -2,6 +2,7 @@
 
 **Article ID:** 1500002131621
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/1500002131621-How-to-use-YouTube-Live-with-OptiSigns
 **Last Updated:** 2025-09-05T14:35:18+00:00
 ---
 

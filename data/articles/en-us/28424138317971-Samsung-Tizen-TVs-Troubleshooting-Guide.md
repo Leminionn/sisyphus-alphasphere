@@ -2,6 +2,7 @@
 
 **Article ID:** 28424138317971
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/28424138317971-Samsung-Tizen-TVs-Troubleshooting-Guide
 **Last Updated:** 2026-01-12T16:10:54+00:00
 ---
 

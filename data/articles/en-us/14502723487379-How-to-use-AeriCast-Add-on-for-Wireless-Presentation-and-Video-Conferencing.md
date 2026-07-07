@@ -2,6 +2,7 @@
 
 **Article ID:** 14502723487379
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/14502723487379-How-to-use-AeriCast-Add-on-for-Wireless-Presentation-and-Video-Conferencing
 **Last Updated:** 2025-09-04T16:49:07+00:00
 ---
 
@@ -18,19 +19,13 @@ It's done in three easy steps:
 **Note:**  
 All customers can use AeriCast add-on with a 14-day free trial.
 
-![aericast add-on trial activation](https://support.optisigns.com/hc/article_attachments/42852986048915)
-
 The trial allows two free licenses of the AeriCast add-on. When the trial is over, each created AeriCast add-on will cost $20 per month.
 
 ## **Let's Get Started:**
 
 When pushed to a screen, the Aericast Screen Share app will appear like this by default:
 
-![](https://support.optisigns.com/hc/article_attachments/14502449913619)
-
 The app can also be placed at the bottom strip of a [Split Screen](https://support.optisigns.com/hc/en-us/articles/360026559573). This allows the rest of your screen to be used as a sign when not in use:
-
-![](https://support.optisigns.com/hc/article_attachments/14502450605331)
 
 ## **Setting Up the Aericast Add-On:**
 
@@ -42,11 +37,7 @@ Then log on to our portal: <http://app.optisigns.com/>
 
 Go to **Files/Assets →** **"App"** and search for the **"AeriCast Wireless Presentation"** app.
 
-![](https://support.optisigns.com/hc/article_attachments/14502480771987)
-
 Enter your AeriCast Wireless Presentation app information:
-
-![](https://support.optisigns.com/hc/article_attachments/14502481770131)
 
 * **Name:** Name of your AeriCast Wireless Presentation app, this is the name of the app in your asset list. It will not be displayed on your screens.
 * **Title:** Enter a title to be displayed on your screen. For example: "Welcome to Conf. Room N123"
@@ -63,8 +54,6 @@ Enter your AeriCast Wireless Presentation app information:
 
 Click **"Advanced"** to set:
 
-![firefox_rThQm0OTta.png](https://support.optisigns.com/hc/article_attachments/31248390996243)
-
 * **Instruction 1:**The default message is "To present," this can be changed to whatever you like.
 * **Instruction 2****:** The default message is "present.optisigns.com," this can be changed to whatever you like.
 * **Instruction 3:** The default message is "and enter the code below to start presenting," this can be changed to whatever you like.
@@ -77,9 +66,7 @@ After saving, you can **P****review** the wall. It may take several seconds for 
 
 You can assign the AeriCast Wireless Presentation app directly to a screen by going to the **Screens** tab and selecting the screens you want to put it on.
 
-![](https://support.optisigns.com/hc/article_attachments/14502645257363)Alternatively, you can put the AeriCast Wireless Presentation asset in the **bottom strip of a Split Screen**:
-
-![](https://support.optisigns.com/hc/article_attachments/14502646296851)
+Alternatively, you can put the AeriCast Wireless Presentation asset in the **bottom strip of a Split Screen**:
 
 ### 3. How to present your screen or start AeriCast Add-on
 

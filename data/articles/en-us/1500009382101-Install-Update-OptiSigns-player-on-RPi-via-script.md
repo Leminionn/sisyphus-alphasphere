@@ -2,6 +2,7 @@
 
 **Article ID:** 1500009382101
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/1500009382101-Install-Update-OptiSigns-player-on-RPi-via-script
 **Last Updated:** 2025-08-29T16:56:37+00:00
 ---
 

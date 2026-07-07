@@ -2,6 +2,7 @@
 
 **Article ID:** 31113088917907
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/31113088917907-How-to-use-Toast-API-data-with-OptiSigns
 **Last Updated:** 2025-09-02T20:24:12+00:00
 ---
 
@@ -15,8 +16,6 @@
 Toast provides an API for users to integrate POS data with other systems. With OptiSync, building auto-updating digital menu boards from your Toast API's data is simple.
 
 Toast API requires a dynamically generated authentication token to be supplied with every API call, unlike many other POS systems that use a static API key. This adds some complexity to the integration that other POS systems don't have. However, using OptiSigns' API request and OptiSync, these added complexities are no trouble at all.
-
-In this article, we'll provide a step-by-step guide on how to integrate your Toast API using OptiSigns API request, and how to create a DMB using OptiSync. Below are the high level steps we will follow:
 
 1. Get required information from Toast portal
 
@@ -56,8 +55,6 @@ In the Pre-request processing stage, the OptiSigns API calls the authentication 
 
 In this example, the token is set to the context variable "authorization". When the API request is made, it will be able to use the authentication token. Below is a screenshot of this example in practice.
 
-![](https://support.optisigns.com/hc/article_attachments/31870675893011)
-
 Use this code snippet (with the data obtained earlier filling in the "xxx"s) to
 
 ```
@@ -85,21 +82,15 @@ In the Header tab, create two parameters with the following values:
 
 You can get the **Toast-Restaurant-External-ID value** from Toast Portal. This is the specific restaurant Id you want to get data for.
 
-![](https://support.optisigns.com/hc/article_attachments/31870675894035)
-
 Now put the desired API URL from which you want to get data. In this example we have used the following API to get the menus
 
 * + <https://ws-api.toasttab.com/menus/v2/menus>
 
 The final request will look something like this:
 
-![](https://support.optisigns.com/hc/article_attachments/31870675898515)
-
 You can enable this request and save the API. Click **Run Test**.
 
 You should receive a *(200 OK)* response, with data returning from the API. This means the API request has successfully contacted Toast and is transferring data.
-
-![](https://support.optisigns.com/hc/article_attachments/31870683910291)
 
 ---
 

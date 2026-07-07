@@ -2,6 +2,7 @@
 
 **Article ID:** 360050665413
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360050665413-How-to-use-Dropbox-App
 **Last Updated:** 2025-10-10T11:34:21+00:00
 ---
 
@@ -21,27 +22,15 @@ Then log on to our portal: <http://app.optisigns.com/>
 
 Go to Files/Assets, Click on "App" and add Dropbox on your Account.
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/26537663707923)
-
 Click Dropbox app:
-
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360075537194)
 
 Click "Sign in with Dropbox".
 
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/360075537214)
-
 Sign in and allow OptiSigns to access your Dropbox.
-
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/360075537234)
 
 Select the folder you want to use:
 
-![mceclip3.png](https://support.optisigns.com/hc/article_attachments/360075537254)
-
  Enter information for your Dropbox app
-
-![mceclip4.png](https://support.optisigns.com/hc/article_attachments/360076677053)
 
 * Name: Name of your Dropbox App, this is the name of the wall in your asset list. It will **not** be displayed on your screens.
 * Transition Effect: Transition effect between your images, videos in the folder.
@@ -53,8 +42,6 @@ Click Save.
 Depend on how many files you have in the folders, **it may take a moment** to sync to OptiSigns, as all the files will be synced, copied to our servers.
 
 Files will be sorted and played by name. You can control the order of playback by changing the name of the files in your Dropbox.
-
-![mceclip5.png](https://support.optisigns.com/hc/article_attachments/360076677073)
 
 ## **That's all! Congratulations!**
 
@@ -70,8 +57,6 @@ You can put the created social walls in a Playlist, Schedule too.
 When files changes, add or removed from your Dropbox Folder, OptiSigns will automatically sync the changes. You can check when's the last time changed were made and what's the last file synced by opening the app modal again.
 
 You can also force refresh, sync by clicking the Refresh Data button.
-
-![mceclip6.png](https://support.optisigns.com/hc/article_attachments/360076677113)
 
 **Limitations:**
 

@@ -2,6 +2,7 @@
 
 **Article ID:** 360016219114
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360016219114-What-if-I-want-to-increase-decrease-number-of-screens-during-the-month
 **Last Updated:** 2025-08-28T19:48:02+00:00
 ---
 

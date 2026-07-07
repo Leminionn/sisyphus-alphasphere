@@ -2,6 +2,7 @@
 
 **Article ID:** 52069065128723
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/52069065128723-Connect-Zoom-Rooms-to-OptiSigns-Digital-Signage
 **Last Updated:** 2026-06-11T22:22:00+00:00
 ---
 
@@ -38,15 +39,11 @@ Go to [app.optisigns.com](https://app.optisigns.com) and sign in (or create your
 
 In the left navigation under **Room Integrations**, click **Zoom Rooms**.
 
-![Connect Zoom Rooms in the left nav](https://support.optisigns.com/hc/article_attachments/52352814423187)
-
 ---
 
 ## Step 3 — Choose a connection method
 
 OptiSigns offers two ways to connect, side-by-side:
-
-![Empty Zoom Rooms page showing Server App and Marketplace App cards](https://support.optisigns.com/hc/article_attachments/52352797082387)
 
 | Method | Best for | What you do |
 | --- | --- | --- |
@@ -83,8 +80,6 @@ Both methods request the same Zoom permissions:
 
 Once connected, the status bar shows the account email and the room count. From here you can refresh the inventory or disconnect.
 
-![Connected status bar showing Sync now and Disconnect](https://support.optisigns.com/hc/article_attachments/52352814631315)
-
 * **Sync now** — re-fetch rooms from Zoom (rooms also sync automatically on a schedule).
 * **Disconnect** — see [Disconnecting OptiSigns](#disconnecting-optisigns).
 
@@ -98,8 +93,6 @@ By default rooms are listed but **not activated** — they don't consume an Opti
 
 1. Click any room in the table to open its detail drawer.
 2. Click **Activate Signage License**.
-
-![Room drawer with Activate Signage License button and Zoom Settings card](https://support.optisigns.com/hc/article_attachments/52353026119443)
 
 The drawer also shows the room's **Health**, recent **Commands**, **Device info** (Model, OS, Platform, Paired date), and the **Zoom Settings** card.
 
@@ -136,8 +129,6 @@ Changes apply within **~10 seconds** via Zoom's REST API.
 
 1. From the OptiSigns Zoom Rooms page, click **Disconnect** on the status bar.
 2. Confirm in the dialog:
-
-![Disconnect Zoom confirmation dialog](https://support.optisigns.com/hc/article_attachments/52352754968339)
 
 Disconnecting releases all OptiSigns screen licenses currently consumed by Zoom Rooms and stops syncing rooms from Zoom.
 

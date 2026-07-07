@@ -2,17 +2,11 @@
 
 **Article ID:** 18823504383891
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/18823504383891-OptiSigns-Getting-Started-Guide
 **Last Updated:** 2026-03-31T21:41:21+00:00
 ---
 
 ### New to OptiSigns or need a refresher? Here's your one-stop guide to get your screens ready to go!
-
-#### In this article:
-
-* [Set Up Your Hardware](#Set)
-* [Upload Your Content](#Upload)
-* [Push Content to Your Screen](#Push)
-* [Helpful Information](#Helpful)
 
 |  |
 | --- |
@@ -40,8 +34,6 @@ Once OptiSigns App is installed, **launch it**.
 The app will ask if you want to automatically start when the device starts up.
 
 Then, you will see this **pairing screen:**
-
-![OptiSigns_Digital_Signage_wKluheZldi_1_960x540.png](https://support.optisigns.com/hc/article_attachments/29654073549587)
 
 Go to the OptiSigns portal: <https://app.optisigns.com/>
 

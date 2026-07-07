@@ -2,6 +2,7 @@
 
 **Article ID:** 4416704273811
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/4416704273811-Manually-control-playlist-playback-with-OptiSigns
 **Last Updated:** 2025-08-29T18:48:01+00:00
 ---
 
@@ -16,11 +17,7 @@ Example use cases:
 
 Go to the Edit Screen page of your screen, and expand the Advanced and More settings. Under the section Playback Control, click the Activate button.
 
-![](https://support.optisigns.com/hc/article_attachments/14840134352787)
-
 Once you confirm to activate the playback control, it is then activated and you will have the option to control how you would like the playback control to work.
-
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/4416681682963)
 
 **Timeout**: after X seconds of no activity, the screen will go back to the normal playback of the playlist.
 

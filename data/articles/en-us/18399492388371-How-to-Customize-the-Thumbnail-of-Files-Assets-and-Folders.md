@@ -2,6 +2,7 @@
 
 **Article ID:** 18399492388371
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/18399492388371-How-to-Customize-the-Thumbnail-of-Files-Assets-and-Folders
 **Last Updated:** 2025-09-04T18:20:38+00:00
 ---
 
@@ -11,21 +12,13 @@ Take control of your files, assets, and folders by personalizing their thumbnail
 
 #### **1) Go to Files/Assets page**
 
-![](https://support.optisigns.com/hc/article_attachments/18398840684179)
-
 #### **2) Update the thumbnail on any asset or folder**
 
 Click on the three dots in the upper right-hand corner of an asset or folder.
 
-![](https://support.optisigns.com/hc/article_attachments/18398953520787)
-
 Select "Replace Thumbnail"
 
-![](https://support.optisigns.com/hc/article_attachments/18398948923155)
-
 Upload the file that will replace the thumbnail. When done, click on "Upload".
-
-![](https://support.optisigns.com/hc/article_attachments/18399322750611)
 
 **Important notes:**
 
@@ -34,8 +27,6 @@ Upload the file that will replace the thumbnail. When done, click on "Upload".
 * You can update thumbnails for files, assets, and folders i.e. apps, images, videos, etc.
 
 Once the upload is complete, your thumbnail will be updated.
-
-![](https://support.optisigns.com/hc/article_attachments/18399363674003)
 
 ## **That's all! Congratulations!**
 

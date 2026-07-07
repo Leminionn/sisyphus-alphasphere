@@ -2,6 +2,7 @@
 
 **Article ID:** 29863080711059
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/29863080711059-How-to-add-a-Microsoft-365-Excel-Spreadsheet-as-a-DataSource-for-OptiSync
 **Last Updated:** 2026-01-29T16:01:49+00:00
 ---
 

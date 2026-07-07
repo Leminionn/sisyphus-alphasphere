@@ -2,6 +2,7 @@
 
 **Article ID:** 4414563797139
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/4414563797139-Generate-Manage-OptiSigns-API-Key
 **Last Updated:** 2025-09-04T18:50:38+00:00
 ---
 
@@ -13,15 +14,11 @@ In order to use the API, you will need first get an API key. To get an API key, 
 
 ### Create API Key
 
-1. Click the **New API Key** button  
-![optisigns new api key button](https://support.optisigns.com/hc/article_attachments/37490053477523)
+1. Click the **New API Key** button
 
-2. Enter the API Key name, and select the scopes and permissions for the API key.  
-![optisigns new api key setup](https://support.optisigns.com/hc/article_attachments/37490069231507)
+2. Enter the API Key name, and select the scopes and permissions for the API key.
 
 3. Save the API key safely, the key will be used the access your account through API.
-
-![optisigns api key token example](https://support.optisigns.com/hc/article_attachments/36565780216211)
 
 ### Use API Key
 
@@ -30,8 +27,6 @@ To use the API key, put it in the HTTP request header following this format.
 Authorization: Bearer YOUR\_KEY\_HERE
 
 In the OptiSigns GraphQL playground, you will be able to query your data if the API key is successfully added.
-
-![optisigns graphql playground api key input](https://support.optisigns.com/hc/article_attachments/37490069240083)
 
 **Previous Article - [Introduction](https://support.optisigns.com/hc/en-us/articles/4414552808467-Introduction)**
 

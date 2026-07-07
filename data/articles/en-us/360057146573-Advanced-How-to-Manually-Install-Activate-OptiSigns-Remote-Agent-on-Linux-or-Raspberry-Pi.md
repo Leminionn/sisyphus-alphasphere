@@ -2,10 +2,9 @@
 
 **Article ID:** 360057146573
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360057146573-Advanced-How-to-Manually-Install-Activate-OptiSigns-Remote-Agent-on-Linux-or-Raspberry-Pi
 **Last Updated:** 2025-09-02T20:02:58+00:00
 ---
-
-### In this article, we will show you how to complete a manual installation of the OptiSigns Remote Agent on a Linux or Raspberry Pi device.
 
 If you're running OptiSigns on a Windows, Linux or Raspberry Pi device, you can install optisigns-remote-agent add-on that will allow you to remotely control your device from the portal.
 
@@ -42,13 +41,9 @@ curl -s https://release.optisigns.com/optisigns-remote-agent-setup-linux.sh -L |
 
 This will download a script and run installation.
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360095986553)
-
 After you see "Starting Remote Control Service ..." you are done!
 
 You can go back to app.optisigns.com to use Remote Control feature now.
-
-![](https://support.optisigns.com/hc/article_attachments/18614175492243)
 
 ## **More Technical Details for optisigns-remote-agent**
 

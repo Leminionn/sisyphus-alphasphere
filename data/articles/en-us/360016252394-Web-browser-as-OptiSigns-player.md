@@ -2,6 +2,7 @@
 
 **Article ID:** 360016252394
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360016252394-Web-browser-as-OptiSigns-player
 **Last Updated:** 2025-08-28T19:05:36+00:00
 ---
 

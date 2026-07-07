@@ -2,6 +2,7 @@
 
 **Article ID:** 20062273670163
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/20062273670163-How-to-Control-and-Schedule-Playlist-Items
 **Last Updated:** 2025-09-04T17:26:34+00:00
 ---
 
@@ -16,10 +17,6 @@ You can apply it for these 2 use cases:
 
 The feature can be set in the options of the playlist item.
 
-**![](https://support.optisigns.com/hc/article_attachments/20923674279699)**
-
-**![](https://support.optisigns.com/hc/article_attachments/20923670391827)**
-
 **How to Use "Apply To" to set the target screens.**
 
 You can control the target screens that the playlist item can be played on by using the "Apply To" setting.
@@ -32,19 +29,11 @@ You can control the target screens that the playlist item can be played on by us
   + Screens: Input the screen name in the list
   + Screens tags: Input the screen tags in the list
 
-![](https://support.optisigns.com/hc/article_attachments/20923823865491)
-
 **How to Use "Item Schedule"**
 
 You can control the schedule of each playlist item.
 
 Click on the "Item Schedule", then click on "+New". It will pop up the schedule configuration dialogue, you can set the schedule and also define custom occurrences.
-
-![](https://support.optisigns.com/hc/article_attachments/20924017059347)
-
-![](https://support.optisigns.com/hc/article_attachments/20923949164947)
-
-![](https://support.optisigns.com/hc/article_attachments/20923983648915)
 
 **That's all!**
 

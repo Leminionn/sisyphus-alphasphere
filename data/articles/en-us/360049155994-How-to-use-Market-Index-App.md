@@ -2,6 +2,7 @@
 
 **Article ID:** 360049155994
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360049155994-How-to-use-Market-Index-App
 **Last Updated:** 2025-08-29T21:28:36+00:00
 ---
 
@@ -21,15 +22,9 @@ Then log on to our portal: <http://app.optisigns.com/>
 
 Go to Files/Assets, Click on **Apps**.
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360074543913)
-
 Select one of the Index app:
 
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/360074543973)
-
 Enter the details needed.
-
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/360074544013)
 
 * Name: Identification of your Index Wall, this is the name of the wall in your asset list. It will **not** be displayed on your screens.
 * Title:  Displayed Title that will show on screen. It will be above your list of ticker symbols.

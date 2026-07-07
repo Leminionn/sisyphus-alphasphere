@@ -2,6 +2,7 @@
 
 **Article ID:** 5090125683219
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/5090125683219-BrightSign-Players
 **Last Updated:** 2026-05-05T15:50:07+00:00
 ---
 
@@ -17,8 +18,6 @@ The latest BrightAuthor can be downloaded [here](https://www.brightsign.biz/digi
 
 **2) Logon to your BSN.cloud account and select device setup**
 
-![mceclip3.png](https://support.optisigns.com/hc/article_attachments/5144414949011)
-
 **3) Complete the device setup**
 
 Fill in the value in the package and device name.
@@ -27,15 +26,9 @@ Select "Partner Application" under Device Type. Click "Select a Partner Applicat
 
 Then click "Save Setup File" to save the generated setup files.
 
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/5200010385299)
-
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/5200003714195)
-
 **4) Copy the setup files to your storage device.**
 
 Place the generated setup files in the root directory of your SD card.
-
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/5144369828755)
 
 **5) Insert the SD card to the player and let it finish the setup**
 
@@ -44,8 +37,6 @@ The BrightSign player will read the setup files and complete the setup automatic
 Once the setup process is complete, you will see OptiSigns player running on your screen with the pairing code showing up on the screen.
 
 Please make sure your BrightSign player is connected to the internet.
-
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/5089996700435)
 
 **6) Pair the screen**
 
@@ -65,8 +56,6 @@ The latest autorun.zip file can be downloaded [here](https://links.optisigns.com
 
 The autorun.zip file should be placed in the root of your SD card. The SD card needs to be formatted to **FAT32**. NTFS format does not work for this setup
 
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/5090013459347)
-
 **3) Insert the SD card to the player and let it finish the setup**
 
 The BrightSign player will read the data from the autorun file and complete the setup automatically. It will take a few minutes and may reboot a few times.
@@ -74,8 +63,6 @@ The BrightSign player will read the data from the autorun file and complete the 
 Once the setup process is complete, you will see OptiSigns player running on your screen with the pairing code showing up on the screen.
 
 Please make sure your BrightSign player is connected to the internet.
-
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/5089996700435)
 
 **4) Pair the screen**
 
@@ -102,17 +89,11 @@ A common issue we find is that BrightSign may need a registry update in order to
 
 To do this, open up BrightAuthor:connected and navigate to **Admin:**
 
-![](https://support.optisigns.com/hc/article_attachments/36888690739731)
-
 Now you'll need to obtain the IP of your BrightSign player. Input the IP address into your browser (your device must be on the same network as the BrightSign player). If you've done things correctly, you will enter the player config menu.
 
 Once there, navigate to **Registry**:
 
-![](https://support.optisigns.com/hc/article_attachments/36888690740627)
-
 From this
-
-![](https://support.optisigns.com/hc/article_attachments/36888690742547)
 
 Next, input the following command:
 
@@ -120,11 +101,7 @@ Next, input the following command:
 registry write html widget_type chromium110
 ```
 
-![](https://support.optisigns.com/hc/article_attachments/36888685278483)
-
 When you hit submit, you'll see this:
-
-![](https://support.optisigns.com/hc/article_attachments/36888690746387)
 
 This will allow your BrightSign player to use the latest versions of Chromium.
 

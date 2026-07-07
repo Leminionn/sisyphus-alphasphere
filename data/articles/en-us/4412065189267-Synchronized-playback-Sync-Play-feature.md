@@ -2,6 +2,7 @@
 
 **Article ID:** 4412065189267
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/4412065189267-Synchronized-playback-Sync-Play-feature
 **Last Updated:** 2026-07-06T21:29:32+00:00
 ---
 
@@ -25,26 +26,17 @@ To use the Sync Play feature, just select the screens you want to enable this fe
 
 ### 1. Click **Edit** -> **Advanced** -> check **Sync Play**
 
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/4412061147539)
-
 ### 2. Open the side menu of the OptiSigns app on your screen. Go to the Sync Play Timeserver.
 
 #### 
 
 2-1. Set 1 device to **Server** in the Sync Play Timeserver.
 
-**![](https://support.optisigns.com/hc/article_attachments/15528184732691)**  
 2-2. Set other devices to **Default**
-
-![](https://support.optisigns.com/hc/article_attachments/15528056933779)
 
 Or **Client**. Make sure all other devices connect to the same IP Server.
 
-![](https://support.optisigns.com/hc/article_attachments/15528219929747)
-
 Another option: If you cannot find any server, you can set all devices to Google NTP.
-
-![](https://support.optisigns.com/hc/article_attachments/15528222917779)
 
 ### That's it. All screens will sync up.
 

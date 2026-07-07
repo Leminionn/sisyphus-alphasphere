@@ -2,6 +2,7 @@
 
 **Article ID:** 4404608957075
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/4404608957075-How-to-Delete-Your-Account-from-OptiSigns
 **Last Updated:** 2025-08-29T17:02:02+00:00
 ---
 
@@ -15,12 +16,8 @@ Before deleting your account, you may want to log in and download a copy of you
 
 * Go to the [Company Setting](https://app.optisigns.com/app/s/company-profile) page from a browser.
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/4404608920211)
-
 * Click the **Delete Account** button.
 * It will pop out a warning message. To confirm it, please type "**DELETE**" and click OK to continue.
-
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/4404608929683)
 
 Your account has been deleted successfully from our system.
 

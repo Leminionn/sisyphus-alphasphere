@@ -2,6 +2,7 @@
 
 **Article ID:** 6086986017299
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/6086986017299-How-to-use-OptiSigns-Screen-Capture-app
 **Last Updated:** 2025-09-05T14:51:05+00:00
 ---
 
@@ -27,11 +28,7 @@ Then log on to our portal: <http://app.optisigns.com/>
 
 Go to Files/Assets, Click on "App", search for, and add Screen Capture to your Account.
 
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/6086697409683)
-
 Enter your Screen Capture app information:
-
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/6086733185811)
 
 * Name: Name of your Screen Capture app, this is the name of the app in your asset list. It will **not** be displayed on your screens.
 * Snapshot Type: Image (Screenshot).
@@ -47,18 +44,12 @@ Download & install the OptiSigns Screen Capture app.
 
 Then install & open it, then log in with your OptiSigns account.
 
-![mceclip4.png](https://support.optisigns.com/hc/article_attachments/6086795591699)
-
 Then you can select your target Screen Capture asset that you created on the portal above.  
 This way the Screen Capture app knows where to upload the screenshots too.
-
-![mceclip6.png](https://support.optisigns.com/hc/article_attachments/6086892380819)
 
 Then it will take a screenshot right away on your PC.
 
 You can click the Take Screenshot Now button anytime to immediately take & upload a screenshot.
-
-![mceclip7.png](https://support.optisigns.com/hc/article_attachments/6086913245459)
 
 ### 3. Assign it to your screen
 

@@ -2,6 +2,7 @@
 
 **Article ID:** 360053993934
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360053993934-How-to-use-Kiosk-Lite-formerly-known-as-Interactive-Kiosk-app
 **Last Updated:** 2025-09-04T14:30:55+00:00
 ---
 
@@ -21,19 +22,11 @@ Go to Engage page
 
 Click on "New App"
 
-![](https://support.optisigns.com/hc/article_attachments/24980788231571)
-
 Select Touch Screen Kiosks → Select App
-
-![](https://support.optisigns.com/hc/article_attachments/24981016303635)
 
 Select Kiosk Lite → Build
 
-![](https://support.optisigns.com/hc/article_attachments/24980788262419)
-
 Enter your kiosk information:
-
-![](https://support.optisigns.com/hc/article_attachments/27028402258707)
 
 * Name: Name of your Kiosk Lite App, this is the name of the wall in your asset list. It will **not** be displayed on your screens.
 * Default Content Type: Choose between Asset or Playlist as your content type.
@@ -60,11 +53,7 @@ Enter your kiosk information:
 
 If you want to set these options as your default for future use, you can learn how to do that on our "[How to Change Close & Nav Bar Styler Preferences](https://support.optisigns.com/hc/en-us/articles/28115946505107-How-to-Change-Close-Nav-Bar-Styler-Preferences)" page.
 
-![chrome_wUCoFrbwyJ.png](https://support.optisigns.com/hc/article_attachments/28111518265619)
-
 Here's an example of the Close & Nav Bar Styler:
-
-![ApplicationFrameHost_0xbJVUctOv.png](https://support.optisigns.com/hc/article_attachments/28111518282899)
 
 * Advanced setting: Returned URL: If you are showing a lead capture form, and when the user finishes the app it automatically returns to playing the standard content. You can paste the URL where the user is redirected to after they submit the form here. (i.e. <https://www.example.com/form123/thank-you>) then the app detects this URL, and it will return to playing standard content.
 

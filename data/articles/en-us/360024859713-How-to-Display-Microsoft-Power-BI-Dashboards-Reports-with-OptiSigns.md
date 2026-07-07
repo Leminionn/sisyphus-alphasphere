@@ -2,28 +2,9 @@
 
 **Article ID:** 360024859713
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360024859713-How-to-Display-Microsoft-Power-BI-Dashboards-Reports-with-OptiSigns
 **Last Updated:** 2026-03-25T21:24:00+00:00
 ---
-
-### In this article, we will show how to display Microsoft Power BI dashboards and reports on TVs and screens using OptiSigns.
-
-* [What You'll Need](#WhatYouNeed)
-* [Prepare Dashboard or Report for Sharing](#PrepareDashboard)
-  + [Dashboard Hosted on Microsoft 365](#Microsoft365)
-  + [Dashboard from Power BI Desktop App](#DesktopApp)
-* [Add Power BI App on OptiSigns](#AddPowerBI)
-* [Filtering a Report](#Filtering)
-  + [Creating a Basic Filter](#BasicFilter)
-  + [Creating a Filter to Automatically Target Certain Screens (Optional)](#AutomaticFilter)
-  + [Saving and Loading Filters (Optional)](#SavingandLoading)
-* [Frequently Asked Questions](#FAQs)
-  + [How does security work with OptiSigns Power BI integration?](#PowerBIintegration)
-  + [How do I set up a Power BI service principal with OptiSigns?](#ServicePrincipal)
-  + [How can I edit the size of the screen on my display?](#SizeofScreen)
-  + [I'm having trouble displaying my Power BI report off MS Fabric.](#Fabric)
-  + [My embedded Power BI report shows on my portal, but won't display on my screen. Help?](#WontDisplayOnscreen)
-  + [My Power BI report lags and crashes frequently. Why?](#LagsandCrashes)
-  + [Power BI Display for US Government Customers](#USGovernment)
 
 |  |
 | --- |
@@ -52,8 +33,6 @@ We'll assume you already have a Power BI dashboard or report built out and ready
 
 If your report or dashboard is hosted on **Microsoft 365**, simply copy the URL link in your Power BI dashboard.
 
-![power bi desktop url](https://support.optisigns.com/hc/article_attachments/37495309620627)
-
 |  |
 | --- |
 | **NOTE** |
@@ -65,8 +44,6 @@ This URL is what you'll need to set up the Power BI app [in the next step.](#Add
 
 If your report or dashboard was created using the **Power BI Desktop app**, you need to click **Publish** from the top menu.
 
-![publish button from power bi desktop app](https://support.optisigns.com/hc/article_attachments/37495325626515)
-
 Select the Workspace where you want to publish it.
 
 |  |
@@ -74,15 +51,9 @@ Select the Workspace where you want to publish it.
 | **IMPORTANT** |
 | Your report must be in a group different from "My workspace" |
 
-![workspace publish power bi](https://support.optisigns.com/hc/article_attachments/37495309627795)
-
 Once it has successfully published, click on Open in Power BI and will be redirected to your report or dashboard.
 
-![publishing to power bi](https://support.optisigns.com/hc/article_attachments/37495309647123)
-
 Copy the URL in your Power BI dashboard.
-
-![copy url power bi dashboard](https://support.optisigns.com/hc/article_attachments/37495309653267)
 
 This URL is what you'll need to set up the Power BI app [in the next step.](#AddPowerBI)
 
@@ -94,15 +65,9 @@ Now, it's time to add an instance of the Power BI app to your OptiSigns account.
 
 Navigate to the [**OptiSigns Portal**](https://app.optisigns.com/)**,**then click **Files/Assets** → **Apps**.
 
-![optisigns files assets apps](https://support.optisigns.com/hc/article_attachments/37495309686163)
-
 Navigate to the **Power BI app**.
 
-![optisigns power bi app location](https://support.optisigns.com/hc/article_attachments/37495309693203)
-
 Enter your Power BI app details.
-
-![](https://support.optisigns.com/hc/article_attachments/44002355209107)
 
 * **Name -** Name of your Power BI app instance. This is the name of the app in your asset list. It will **not** be displayed on your screens.
 * **URL -**  Paste in the Dashboard URL you copied in Step 1 here.
@@ -132,27 +97,15 @@ If you only wish to display certain pieces of data on your report, you can creat
 
 For a basic filter, create a Power BI app or open an existing one and open the **Advanced Settings** at the bottom.
 
-![](https://support.optisigns.com/hc/article_attachments/44002355213715)
-
 To create a filter, we’ll need three key pieces of information from your report: a **Table**, a **Column**, and a **Value**.
-
-![](https://support.optisigns.com/hc/article_attachments/44002377534611)
 
 To find these, go to the report you wish to use. Click **Edit**.
 
-![](https://support.optisigns.com/hc/article_attachments/44002377537299)
-
 A number of options will appear on the right side. Under the **Data** tab, you should see a number of folders and subfolders. The folders correspond to the **Table**, the subfolder the **Column**. When selected, there will be a number of names in a properly configured report in the **Filters** column. These are your **Values**. See the image below for a better visual reference.
-
-![](https://support.optisigns.com/hc/article_attachments/44018968307347)
 
 In this example, we’ll use **Account** as our Table, **Region** as our Column, and **Central** as our filter Value. Simply fill that in to the Filter.
 
-![](https://support.optisigns.com/hc/article_attachments/44002377545747)
-
 There is one last step. We need to set our variable, which corresponds to the field between the Column and the Value. This is clickable, and there are many options:
-
-![](https://support.optisigns.com/hc/article_attachments/44002377551635)
 
 This gives you a great degree of customizability on how you wish to set up your Filter. For our example, we’ll keep the value as **Is**. This means that it will only show data corresponding to that Table, Column, and Value.
 
@@ -160,35 +113,24 @@ If this is all you need, great. You’re done! Simply hit **Save** and your filt
 
 To add additional conditions to a basic filter, hit the **+** button next to it.
 
-![](https://support.optisigns.com/hc/article_attachments/44002377555603)
-
 You can change the condition logic between **AND** and **OR** to specify what type of filter to apply. Then, set the variable and value. You can continue adding additional conditions if you wish.
 
 To add a completely new filter, hit **Add New Filter**.
 
-![](https://support.optisigns.com/hc/article_attachments/44002355238035)
-
 This will (shockingly) create a new filter. Fill this out as you did your first one, with the information you wish to show.
-
-![](https://support.optisigns.com/hc/article_attachments/44002377558675)
 
 ### Creating a Filter to Automatically Target Certain Screens (Optional)
 
 By pairing these filters with OptiSigns [**Device Additional Attributes**](https://support.optisigns.com/hc/en-us/articles/360048914673-Edit-Screen-What-does-each-option-do#attributes), it is possible to apply them only to certain screens. This is useful if you have multiple screen locations, for example, and only wish to show Power BI data which is relevant to them.
 
-To set this up, navigate to the **Device Additional Attributes** by editing your screen. This can be found through the **Screens tab,** then finding the screen you wish to Edit. Click **Edit Screen → Advanced → More → Device Additional Attributes**.  
-![](https://support.optisigns.com/hc/article_attachments/44002355241875)
+To set this up, navigate to the **Device Additional Attributes** by editing your screen. This can be found through the **Screens tab,** then finding the screen you wish to Edit. Click **Edit Screen → Advanced → More → Device Additional Attributes**.
 
 Here’s where it gets fun. On the Device Additional Attributes screen, you’ll see two fields: **Key**, and **Value**.
-
-![](https://support.optisigns.com/hc/article_attachments/44002377564179)
 
 * **Key** - A parameter that will be used by the filter. This will replace either the Table, Column, or Value, as you’ll see in a moment. You’ll want to keep your Key consistent across ALL screens where you plan to display a filtered Power BI report.
 * **Value** - Dictates which part of the report to share with this screen. You’ll want this to vary depending on the screen.
 
 For this example, we will fill in the Key as **Location** and the Value as **Central**:
-
-![](https://support.optisigns.com/hc/article_attachments/44002355249939)
 
 For practical purposes, what we’re saying here is that this screen’s Location is in the Central region, which corresponds to the Values which exist on our Power BI report. You can add as many attributes to an individual screen as you wish.
 
@@ -198,8 +140,6 @@ For practical purposes, what we’re saying here is that this screen’s Locatio
 | The Value here MUST match up with an element of your report if you wish to apply the filter properly. In our example report, we have Central, East, and West, so one of these must be the value for the report to display properly. Your report will be different. |
 
 Now that we’ve set this up, we can return to our Power BI report. Now, we’ll substitute the **Value** for **{{Location}}**:
-
-![](https://support.optisigns.com/hc/article_attachments/44002377569939)
 
 By inputting this and assigning this to a screen, it will find the Device Additional Attribute and substitute the Value here. In this case, that value is Central, so it will filter out all data that does not fall under the Account Table, Region Column, and Central Value.
 
@@ -222,19 +162,11 @@ It’s also possible to Save your filters for use when creating another Power BI
 
 To do this, simply create your filter, then hit the **Save Filter** button:
 
-![](https://support.optisigns.com/hc/article_attachments/44002355256339)
-
 This will bring up the **Save Your Filter Settings** menu.
-
-![](https://support.optisigns.com/hc/article_attachments/44002355262611)
 
 Give your filters a name and a description, then hit **Save My Filters**. This will save this filter on the Account Level. It can then be loaded by hitting the **Load Filter** button:
 
-![](https://support.optisigns.com/hc/article_attachments/44002377583251)
-
 These filters can be edited directly from this menu:
-
-![](https://support.optisigns.com/hc/article_attachments/44002355268755)
 
 Any edits made will apply everywhere this filter is applied.
 
@@ -265,8 +197,6 @@ Please note that the service principal option is only available to customers wit
 #### **How can I edit the size of the screen on my display?**
 
 To make sure your Power BI app displays properly, go to **View** within the Power BI application you want to display. Then hit **Fit to Page**.
-
-![power bi fit to page](https://support.optisigns.com/hc/article_attachments/37192704471315)
 
 Certain display devices may have additional requirements for displaying the report at the proper resolution. For example, mobile devices display at a different resolution than typical HD devices, and so some display issues may arise when setting reports to display on a mobile device.
 

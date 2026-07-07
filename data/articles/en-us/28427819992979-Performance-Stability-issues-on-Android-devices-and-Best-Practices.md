@@ -2,6 +2,7 @@
 
 **Article ID:** 28427819992979
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/28427819992979-Performance-Stability-issues-on-Android-devices-and-Best-Practices
 **Last Updated:** 2025-09-04T16:21:18+00:00
 ---
 

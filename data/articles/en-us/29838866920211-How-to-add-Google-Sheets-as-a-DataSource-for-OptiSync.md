@@ -2,6 +2,7 @@
 
 **Article ID:** 29838866920211
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/29838866920211-How-to-add-Google-Sheets-as-a-DataSource-for-OptiSync
 **Last Updated:** 2025-09-04T14:07:29+00:00
 ---
 

@@ -2,6 +2,7 @@
 
 **Article ID:** 360037416494
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360037416494-How-to-use-the-Atlassian-JIRA-app
 **Last Updated:** 2025-08-28T20:12:13+00:00
 ---
 
@@ -16,15 +17,9 @@
 
 In your Jira account, navigate to the page of the project or private dashboard that you'd like to display. Copy the direct URL.
 
-![Jira dashboard with the URL pointed at](https://support.optisigns.com/hc/article_attachments/35838410787219)
-
 Next, log in to [OptiSigns portal](https://app.optisigns.com/app/screenManagement) and navigate to the files/assets page. Click Apps and search for Jira.
 
-![Jira app within OptiSigns](https://support.optisigns.com/hc/article_attachments/35838410792595)
-
 Here, you'll input certain information to create the asset:
-
-![Jira app settings when setting it up in OptiSigns](https://support.optisigns.com/hc/article_attachments/35838425274899)
 
 * **Name:** Any name you'd like to give the asset for internal organizational purposes only.
 * **Type:** Either URL or Embed code.

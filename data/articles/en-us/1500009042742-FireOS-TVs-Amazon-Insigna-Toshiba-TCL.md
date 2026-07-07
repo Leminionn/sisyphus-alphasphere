@@ -2,6 +2,7 @@
 
 **Article ID:** 1500009042742
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/1500009042742-FireOS-TVs-Amazon-Insigna-Toshiba-TCL
 **Last Updated:** 2025-09-02T20:43:39+00:00
 ---
 
@@ -27,17 +28,11 @@ So let's dive in!
 
 Press the **Search** icon on the **Find** section of the Fire TV,
 
-![Fire_Stick-12.png](https://support.optisigns.com/hc/article_attachments/26399157505811)
-
 Type in "OptiSigns".  
 Fire TV Search can be tricky to use, and search as you type sometimes does not work properly.  
 After you typed "optisigns", be sure to press the menu down button until the "Optisigns" text is highlighted and then click on it.
 
-![Fire_Stick-13.png](https://support.optisigns.com/hc/article_attachments/26399157512211)
-
 Click **Download** on the OptiSigns app icon
-
-![Fire_Stick-14.png](https://support.optisigns.com/hc/article_attachments/26399157514387)
 
 Once the app is installed, **launch** it.
 
@@ -45,23 +40,15 @@ The app will ask if you want to automatically start when device start up. It rec
 
 You then will see this pairing screen:
 
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/26399157527059)
-
 Go to our website: [https://app.optisigns.com](https://app.optisigns.com/app/screenManagement)
 
 If you don't have an account already, create one, or you can also log in with Google or Facebook account.
 
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/26399172852627)Once you logged in, click "**Add screen"** button
-
-![mceclip3.png](https://support.optisigns.com/hc/article_attachments/26399172854931)
+Once you logged in, click "**Add screen"** button
 
 In this pop up, type in the Pair Code showing up on your Fire TV screen. Then, click **Pair**:
 
-![mceclip4.png](https://support.optisigns.com/hc/article_attachments/26399157541779)
-
 The Fire TV screen will change to:
-
-![mceclip5.png](https://support.optisigns.com/hc/article_attachments/26399172862355)
 
 Now you are ready to upload and assign content.
 

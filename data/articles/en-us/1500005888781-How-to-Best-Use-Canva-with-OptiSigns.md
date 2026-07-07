@@ -2,6 +2,7 @@
 
 **Article ID:** 1500005888781
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/1500005888781-How-to-Best-Use-Canva-with-OptiSigns
 **Last Updated:** 2025-09-04T13:52:52+00:00
 ---
 
@@ -30,19 +31,13 @@ Additionally, Canva's accessibility and user-friendly interface make it a valuab
 
 ## Option 1: Export and Upload Canva Images and Videos (Recommended)
 
-![](https://support.optisigns.com/hc/article_attachments/29418675926163)
-
 This is the **most popular and versatile** method where you can export any design and video that is supported. Exporting and uploading files ensure compatibility across various platforms and devices, avoiding potential issues with code integration and ensuring your designs maintain their intended appearance.
 
 First, make sure your Canva designs are finalized and prepared for upload.
 
 **1.** Select the '**Share**' option → Click the '**Download**' button.
 
-![chrome_WROty3Oc9l.png](https://support.optisigns.com/hc/article_attachments/29418675953683)
-
 A list of various file format options will appear in a drop-down menu.
-
-![chrome_T3FPyjiJpH.png](https://support.optisigns.com/hc/article_attachments/29418675971219)
 
 |  |
 | --- |
@@ -56,13 +51,9 @@ After downloading your chosen file type, you can upload it to OptiSigns.
 
 **4. Drag and drop** or **Upload** your file into **Option 1 →**Click **Upload File.**
 
-![QHs1KK6IJL.gif](https://support.optisigns.com/hc/article_attachments/29418667320211)
-
 Now, you've successfully uploaded your Canva image to OptiSigns!
 
 ## Option 2: Use Embed from Canva (Live Updates)
-
-![](https://support.optisigns.com/hc/article_attachments/29418676007571)
 
 Using **live embeds** for Canva designs is beneficial if you're looking for real-time updates, ensuring your digital signage always displays the most current information without needing to re-upload files.
 
@@ -78,8 +69,6 @@ To use the Canva Embedded link, start by navigating to your selected design on C
 
 **2.** Choose the '**Embed**' option → Copy the **HTML embed code →** Paste this link into the OptiSigns portal.
 
-![chrome_4zwSW9peqy.gif](https://support.optisigns.com/hc/article_attachments/29418667350803)
-
 **3.** In the OptiSigns portal, select the **Canva app**.
 
 **4.** Name your app to easily find it in your asset library later.
@@ -87,8 +76,6 @@ To use the Canva Embedded link, start by navigating to your selected design on C
 **5.** Paste the **HTML** **embed code** inside the **Embed Code** text box to enable automatic updates.
 
 **6.** Click **Save,** then your asset will be successfully added to your asset library!
-
-![chrome_Et7orRVj6K.gif](https://support.optisigns.com/hc/article_attachments/29418667369619)
 
 Now, your Canva design will automatically update and is ready to push to your screens!
 
@@ -105,17 +92,11 @@ When incorporating a Live Embed from Canva into OptiSigns, Canva does not automa
 
 **Canva Asset #1**
 
-![](https://support.optisigns.com/hc/article_attachments/29418667383699)
-
 **Canva Asset #2**
-
-![](https://support.optisigns.com/hc/article_attachments/29418676096787)
 
 **2.** Add the **Canva assets** to a **Playlist**.
 
 **3.** Adjust the timing and sequence of these pages within the Playlist, making sure you place your assets in the correct order.
-
-![](https://support.optisigns.com/hc/article_attachments/28380935379859)
 
 This setup guarantees that any changes made in Canva will automatically update and advance in the live display through OptiSigns' Playlist functionality. This eliminates the need to manually replace entire slides, streamlining the content management process.
 

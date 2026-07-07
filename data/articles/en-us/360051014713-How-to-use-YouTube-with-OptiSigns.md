@@ -2,6 +2,7 @@
 
 **Article ID:** 360051014713
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-use-YouTube-with-OptiSigns
 **Last Updated:** 2026-06-18T05:00:56+00:00
 ---
 
@@ -16,20 +17,12 @@ Then log on to our portal: <http://app.optisigns.com/>
 
 Go to Files/Assets, Click on "App".
 
-![](https://support.optisigns.com/hc/article_attachments/26482420798611)
-
 Click YouTube (or YouTube Live):
-
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360077769013)
 
 Enter your YouTube video information:
 
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/360076614294)
-
 * **Name**: Give your YouTube video a name. This is for displaying in your asset list only. The app will try to get the video's title and use as name, but you can change it to something else.
 * **URL**: Paste the link to your YouTube video here. This should be the actual URL, not the Share link:
-
-![firefox_0SsesYq2vw(1).png](https://support.optisigns.com/hc/article_attachments/39392515861395)
 
 |  |
 | --- |

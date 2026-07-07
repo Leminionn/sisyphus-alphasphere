@@ -2,6 +2,7 @@
 
 **Article ID:** 360044115513
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360044115513-How-to-Use-the-Stock-App
 **Last Updated:** 2026-01-26T17:43:31+00:00
 ---
 
@@ -29,15 +30,9 @@ The Stock App allows you to display live ticker prices from the marketplace. Sto
 
 On the OptiSigns portal, go to **Assets → Add Asset → Apps**.
 
-![how to create asset optisigns](https://support.optisigns.com/hc/article_attachments/48548213501459)
-
 Select **Stock**:
 
-![stock app](https://support.optisigns.com/hc/article_attachments/48548189610515)
-
 Set up your Stock app:
-
-![stock app interface optisigns](https://support.optisigns.com/hc/article_attachments/48548213509395)
 
 **Name -** The name of your Stock asset. This is for organizational purposes within OptiSigns only and will not display on your screens.
 
@@ -45,13 +40,9 @@ Set up your Stock app:
 
 **Stock Symbol -** Enter your ticker symbols. These appear as tags in the UI, and will determine which stocks are tracked onscreen:
 
-![stock symbols](https://support.optisigns.com/hc/article_attachments/48548213515027)
-
 **Theme -** Choose between Light and Dark themes, or upload your own Custom theme.
 
 **Speed -** Choose the speed at which the ticker refreshes. Choose from **Slow**, **Medium**, **Fast**, or **Custom**. When Custom is chosen, you can adjust it via the below slider:
-
-![speed stock app optisigns](https://support.optisigns.com/hc/article_attachments/48548213521043)
 
 ---
 
@@ -63,17 +54,11 @@ You can deploy your new Stock app as an individual asset, or as part of a Split 
 
 To get your new Stock asset to a screen, go to the **Screens** tab, then click the screen you want to assign it to.
 
-![choosing screen](https://support.optisigns.com/hc/article_attachments/48548213524499)
-
 This brings up the **Edit Screen** tab:
-
-![optisigns edit screen](https://support.optisigns.com/hc/article_attachments/48548189626643)
 
 Here, select **Asset** under Content type, then hit **Change** next to Selected Asset.
 
 Then, select your created Stock Asset:
-
-![select stock asset optisigns](https://support.optisigns.com/hc/article_attachments/48548213532307)
 
 Now hit **Save**. Your Stock asset will now display on screen.
 
@@ -85,19 +70,11 @@ To create this, you'll need to set up the Stock app as a Scrolling Strip. Let's 
 
 On the OptiSigns portal, go to **Assets → Add Asset → Apps**.
 
-![add asset optisigns](https://support.optisigns.com/hc/article_attachments/48548213501459)
-
 Select **Scrolling Strip**:
-
-![select scrolling strip app optisigns](https://support.optisigns.com/hc/article_attachments/48548213534483)
 
 This will open up a **Scrolling Strip** app creation window. Select **Stock** under Type:
 
-![scrolling strip app stock](https://support.optisigns.com/hc/article_attachments/48548213542163)
-
 Then, select your created Stock Asset:
-
-![select stock asset optisigns](https://support.optisigns.com/hc/article_attachments/48548213532307)
 
 Configure the rest of the app - see our article on [**How to Create a Scrolling Strip**](https://support.optisigns.com/hc/en-us/articles/360026559613-How-to-create-a-scrolling-strip-bars) for more information on these options.
 

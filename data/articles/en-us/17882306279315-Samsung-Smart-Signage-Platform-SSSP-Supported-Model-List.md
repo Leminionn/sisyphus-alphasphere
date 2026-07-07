@@ -2,6 +2,7 @@
 
 **Article ID:** 17882306279315
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/17882306279315-Samsung-Smart-Signage-Platform-SSSP-Supported-Model-List
 **Last Updated:** 2025-09-04T14:36:56+00:00
 ---
 

@@ -2,6 +2,7 @@
 
 **Article ID:** 30304278652563
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/30304278652563-How-to-Use-the-Mobile-App-for-Remote-Control
 **Last Updated:** 2025-09-04T20:14:54+00:00
 ---
 
@@ -16,7 +17,7 @@ This guide will walk you through the steps to effectively use the app's remote c
 
 #### 
 
-#### 20230816-191704.png
+#### 
 
 To learn more about our Mobile Admin App, please visit [our guide.](https://support.optisigns.com/hc/en-us/articles/30003143806099)
 
@@ -45,11 +46,7 @@ After pairing screens to your account:
 3. Scroll down below the **Save** option.
 4. Click on **Connect as Bluetooth Remote** option.
 
-![Remotely control in Edit Screen section.png](https://support.optisigns.com/hc/article_attachments/31896729014035)
-
 A scanning window will appear and quickly connect to your device, then you'll be taken to the remote interface.
-
-![ADa7hphGSp.png](https://support.optisigns.com/hc/article_attachments/31896991651347)
 
 We recommend using this method as it is the fastest and easiest way to connect and use the remote control feature on your OptiSigns Admin Mobile app. However, please note that this option is available only if the screen is already paired with your account.
 

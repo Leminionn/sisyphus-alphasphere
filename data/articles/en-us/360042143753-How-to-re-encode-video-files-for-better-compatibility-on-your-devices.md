@@ -2,6 +2,7 @@
 
 **Article ID:** 360042143753
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360042143753-How-to-re-encode-video-files-for-better-compatibility-on-your-devices
 **Last Updated:** 2026-06-29T19:08:36+00:00
 ---
 
@@ -21,17 +22,11 @@ Download, Run Handbrake.
 
 Drag your video in there.
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360055670394)
-
 Select the output format you desired. Amazon, Android or Roku, depend on your device. Pick appropriate video resolution you want too.
-
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360056534533)
 
 Select a location you want the new video file to be output to.
 
 Click Start.
-
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/360055670414)
 
 Depend on video length and quality, and how fast your computer is. It could take some time.
 

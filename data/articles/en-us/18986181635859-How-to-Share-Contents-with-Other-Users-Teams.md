@@ -2,6 +2,7 @@
 
 **Article ID:** 18986181635859
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/18986181635859-How-to-Share-Contents-with-Other-Users-Teams
 **Last Updated:** 2026-05-29T17:35:48+00:00
 ---
 
@@ -31,26 +32,14 @@
 1. You will have to create a folder under Screens, Files/Assets, Playlists, or Schedules.  
 **Screens:**
 
-![](https://support.optisigns.com/hc/article_attachments/19209612491411)
-
 **Files/Assets:**
-
-![](https://support.optisigns.com/hc/article_attachments/19209629395731)
 
 **Playlist:**
 
-![](https://support.optisigns.com/hc/article_attachments/19209634320019)
-
 **Schedule:**
-
-![](https://support.optisigns.com/hc/article_attachments/19209670032915)
 
 2. Once a folder is created, hover over it and click on **3 vertical dots**. You will have to click on "**Change Permission**", this allow you to give certain users or team to view this folder globally as long as they are given access.
 
-![](https://support.optisigns.com/hc/article_attachments/19209650881171)
-
 3. You can add your users/ teams to the Security list. This will make only the user/ team to access this folder.
-
-![](https://support.optisigns.com/hc/article_attachments/19209716398739)
 
 If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)

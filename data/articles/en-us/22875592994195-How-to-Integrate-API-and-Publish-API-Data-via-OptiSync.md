@@ -2,6 +2,7 @@
 
 **Article ID:** 22875592994195
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/22875592994195-How-to-Integrate-API-and-Publish-API-Data-via-OptiSync
 **Last Updated:** 2025-09-04T21:00:02+00:00
 ---
 
@@ -66,11 +67,7 @@ Once there, navigate to the upper right corner of the screen, and hover over you
 
 Hover over **More →** **DataSources**
 
-**![](https://support.optisigns.com/hc/article_attachments/32427378791315)**
-
 You'll see the screen below.
-
-![](https://support.optisigns.com/hc/article_attachments/32427378806803)
 
 Now you're ready to get started.
 
@@ -89,15 +86,9 @@ Therefore, we ***highly recommend*** this step.
 
 To enter the Keystore, find the **Lock Icon** and click it.
 
-![firefox_YNrLQDITUl.png](https://support.optisigns.com/hc/article_attachments/32427362113683)
-
 This will open the **API Keystore.**
 
-![](https://support.optisigns.com/hc/article_attachments/32427378817171)
-
 Click **Add Key**.
-
-![firefox_Af1bBuAYxy.png](https://support.optisigns.com/hc/article_attachments/32427378823187)
 
 There are two fields here.
 
@@ -105,8 +96,6 @@ There are two fields here.
 * **Second Field -** The actual unique passcode for your API communications.
 
 Once you've input your API Authorization token, hit **Save**. When you want to run a request using this API Key, you'll use the term: **{{apiKeystore.<<key>>}}** where "<<key>>" is replaced by the name you inserted earlier. In this example, we'll name our request "clover".
-
-![](https://support.optisigns.com/hc/article_attachments/32427378828051)
 
 Now, we're ready to set up your API request.
 
@@ -123,11 +112,7 @@ Before moving forward in OptiSigns, we recommend [**testing your API**](https://
 
 The test parameters, endpoints, and authenticators can then be used in OptiSigns to set up your API request. Here's how to do that.
 
-![firefox_orSTybxxGU.png](https://support.optisigns.com/hc/article_attachments/32427362124563)
-
 Click the **Add Request** button, it will launch the window for you to configure and test the API request.
-
-![firefox_owER9ex9xQ.png](https://support.optisigns.com/hc/article_attachments/32427362128147)
 
 * **Display Name -** This will be shown under the API gateway list, mainly to help users identify the API request.
 * **Name -** This is used as a reference to the API request, it is a technical name that will be used later in the path to refer to the API request data.
@@ -142,8 +127,6 @@ Click the **Add Request** button, it will launch the window for you to configure
 To test the request, we'll need to configure the header. This is where the Keystore comes in. In the second box, type **Bearer {{apiKeystore.<<key>>}}**, where *Bearer* is the type of token and *{{apiKeystore.<<key>>}}* pulls the token stored in the Keystore. In this example, we'll use the name "clover" as referenced above.
 
 Once that's done, click **"Run Test"**. If the response code is 200, the API has returned data successfully. If there is any other code, there is an issue in the API Request.
-
-![](https://support.optisigns.com/hc/article_attachments/22917836593171)
 
 #### How to Use Parameters
 
@@ -178,13 +161,9 @@ The **Post-request** tab is where you'll input code for post-request processing.
 
 Prices may display as whole numbers (i.e. 1299) instead of as a proper pricing (i.e. $12.99). For this, we'd need a piece of code to convert the whole number into a price, and have that code be extensible to any similar display errors (e.g. 1899 instead of $18.99).
 
-![](https://support.optisigns.com/hc/article_attachments/32427362130195)
-
 For this common example, this piece of JavaScript code should solve your issue. We can also set up the ability to map product availability at the same time.
 
 This will fix the returned data, allowing it to display properly:
-
-![](https://support.optisigns.com/hc/article_attachments/32427362133523)
 
 This can also be used to make data appear as "SOLD OUT," to strike through an item if it's unavailable, or to display warnings in an inventory management system. For more on this example, see our article on [Digital Menu Boards.](https://support.optisigns.com/hc/en-us/articles/31860170199955-Integrating-Point-of-Sale-POS-Systems-to-Build-Digital-Menu-Boards-with-OptiSync)
 
@@ -196,14 +175,9 @@ Many point-of-sale (POS) systems are licensed by store/location. It's possible t
 
 To get started, find the screen you wish to edit.
 
-![](https://support.optisigns.com/hc/article_attachments/32427362139411)
-
 Click **Advanced** **→** **More** **→** **Device Additional Attributes.**
 
-![](https://support.optisigns.com/hc/article_attachments/32427378848019)
-
-Two fields will show up, **Key** and **Value**.  
-![firefox_KkCBvxsPKU.png](https://support.optisigns.com/hc/article_attachments/32427362146707)
+Two fields will show up, **Key** and **Value**.
 
 * **Key** - A parameter that will be used during the API call to substitute for your store's value. This will replace part of your API URL endpoint.
 * **Value** - Represents the unique code associated with the store or location you wish to pass through to your API.
@@ -232,23 +206,13 @@ To get started, find your design or create a new one in the **Files/Assets** tab
 
 With the design open, click **"DataSource"** in the left hand column. Then, click **"Add DataSource"** to add an API data source to the design.
 
-![](https://support.optisigns.com/hc/article_attachments/42850937896211)
-
 Scroll down to where it says **"API Gateway"** and click it.
-
-![](https://support.optisigns.com/hc/article_attachments/42850937907987)
 
 You should see this screen:
 
-![](https://support.optisigns.com/hc/article_attachments/42850937909523)
-
 Select the API Request created above. You'll see a screen like the one below:
 
-![](https://support.optisigns.com/hc/article_attachments/42850937911187)
-
 Here, you can choose what data specifically you want to add to the Design. If you want all the options, hit **"Continue"**. This screen will appear.
-
-![](https://support.optisigns.com/hc/article_attachments/42850937917715)
 
 **DataSource Name** is how this DataSource will appear in Designer. Name it whatever helps you identify it.
 
@@ -268,29 +232,17 @@ Once the API DataSource has been created, you're ready to map the data.
 
 In Designer, open your DataSource.
 
-![](https://support.optisigns.com/hc/article_attachments/42850953614611)
-
 Click on it and a screen similar to this will pop up:
-
-![](https://support.optisigns.com/hc/article_attachments/42850953615763)
 
 Opening up any of these will display the data pulled from your API:
 
-![](https://support.optisigns.com/hc/article_attachments/42850953617427)
-
 By clicking on any piece of this data and dragging it onto the screen, the data will appear. You'll have the option to use the data as a Repeater or on its own.
-
-![](https://support.optisigns.com/hc/article_attachments/42850937928467)
 
 In this case, we want to use it on its own. For menus, a Repeater makes the most sense.
 
 In order to check the data binding, you can click on any mapped element, then click **Settings**. You will see the **Asset Element Name** there.
 
-![](https://support.optisigns.com/hc/article_attachments/42850937932307)
-
 We have the item name and price from the API mapped to the design. When published on the screen, the value will be automatically replaced with the value from the API. If updates are made in the Clover POS system, the change will be reflected on the screen automatically.
-
-![](https://support.optisigns.com/hc/article_attachments/42850937936019)
 
 Repeat this step for all the elements that you want to map to the API data source, and save the design. Your design is ready to go.
 

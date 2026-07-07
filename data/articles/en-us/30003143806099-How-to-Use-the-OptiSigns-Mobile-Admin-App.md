@@ -2,6 +2,7 @@
 
 **Article ID:** 30003143806099
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/30003143806099-How-to-Use-the-OptiSigns-Mobile-Admin-App
 **Last Updated:** 2026-06-11T11:49:35+00:00
 ---
 
@@ -42,16 +43,12 @@ You can find the **OptiSigns Admin**app on the **[Google Play](https://play.go
 
 * Download the OptiSigns Admin App by scanning the QR code displayed on your screen, as shown below:
 
-![](https://support.optisigns.com/hc/article_attachments/30052202197907)
-
 + Launch the OptiSigns Admin App → **Log in** to your account.
 + Tap the **me****nu** button in the top left corner.
 + Select "**Setup WiFi" →** Then, click **"Continue"**
 + Choose the device you want to configure. (Typically named **OptiSigns\_Player** unless renamed.)
 
 * Once connected, the screen will show "**Connected to OptiSigns Admin**".
-
-![](https://support.optisigns.com/hc/article_attachments/30051982100499)
 
 * Choose your desired WiFi network.
 * Input the WiFi password → click **"Save"**
@@ -68,8 +65,6 @@ Once connected to the internet, your OptiSigns Android Player is ready for pairi
 
 * The screen will display a pairing code.
 * Enter this code in the Screen section of the app, or scan the QR code on the right side.
-
-![](https://support.optisigns.com/hc/article_attachments/30051697778067)
 
 For detailed instructions on each setting up and adding a screen, please visit **[this article.](https://support.optisigns.com/hc/en-us/articles/360016374813)**
 
@@ -126,8 +121,6 @@ You can access the Media Section by tapping the **icon directly to the left of t
 ### 5.2 Managing Assets from Edit Screen
 
 In the **Screen** **Section**, tap the **Edit** **Screen** option. From there, you can manage your content:
-
-![Quick Assign in Edit Screen (Mobile App.png](https://support.optisigns.com/hc/article_attachments/31114929544595)
 
 * **Quick Assign -** to take swift actions on your screen.
   + **Stop Playing -** Immediately stop the current asset without replacement.
@@ -202,8 +195,6 @@ In this section, you can view and adjust any available Schedule on your account.
 
 * For more detailed instructions on how to create a schedule, please reference **[this article](https://support.optisigns.com/hc/en-us/articles/360016981853).**
 
-![Mobile Admin App .jpg](https://support.optisigns.com/hc/article_attachments/31916535101331)
-
 #### Limitation
 
 The "Push to screen" feature is not available.
@@ -225,11 +216,7 @@ After pairing screens to your account:
 3. Scroll down below the **Save** option.
 4. Click on **Connect as Bluetooth Remote** option.
 
-![Remotely control in Edit Screen section.png](https://support.optisigns.com/hc/article_attachments/31898501504019)
-
 A scanning window will appear and quickly connect to your device, then you'll be taken to the remote interface.
-
-![ADa7hphGSp.png](https://support.optisigns.com/hc/article_attachments/31898501506195)
 
 We recommend using this method as it is the fastest and easiest way to connect and use the remote control feature on your OptiSigns Admin Mobile app. However, please note that this option is available only if the screen is already paired with your account.
 

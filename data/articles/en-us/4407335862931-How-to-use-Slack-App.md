@@ -2,6 +2,7 @@
 
 **Article ID:** 4407335862931
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/4407335862931-How-to-use-Slack-App
 **Last Updated:** 2025-12-22T15:34:06+00:00
 ---
 
@@ -13,8 +14,6 @@ After that, you ready to use it with OptiSigns.
 
 Chat log view screenshot is below, you can view a live example [here](https://social-player.optisigns.com/slack/?asset_id=kD84rTsZzScadRTmj):
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/4409649423635)
-
 ## **Let's jump in and get started:**
 
 First, you will need to have your screens set up and paired. For more information on how to do that, click [here](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv).
@@ -23,21 +22,11 @@ Then log on to our portal: <http://app.optisigns.com/>
 
 Go to Files/Assets, Click on "App" and add Slack on your Account.
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/26483553436051)
-
 Click Slack:
-
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/4408809656083)
 
 Click "SIGN IN WITH SLACK" and sign in with your credentials.
 
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/4407317471251)
-
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/4408767274899)
-
 Enter your Slack Wall information:
-
-![mceclip3.png](https://support.optisigns.com/hc/article_attachments/4407317561619)
 
 * Name: Name of your Slack Wall, this is the name of the wall in your asset list. It will **not** be displayed on your screens.
 * Channels: Select list of channels you want to display. **Important**: you can only set this one time during the creation of the asset, if you want to change this later, you should delete the old asset and create a new one.
@@ -47,15 +36,9 @@ Enter your Slack Wall information:
 
   + You can select Photo and set Text Color for your Slack Theme.
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/4408759522579)
-
 * + You can also customize your background and text color if you select Custom.
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/26483575914131)
-
 * Speed: (only available if you select Social Kiosk View or Timeline View as your Display Mode) Select how fast you want the wall to scroll or switch between Slack posts. You can also customize your speed if you select Custom.
-
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/26483553441171)
 
 * Font Size: Set the font size for the Slack app.
 
@@ -65,8 +48,6 @@ You can click Advanced and set:
 * Filter Posts: By Time (i.e last 30 days) or by last XX number of posts.
 * Scrolling Strip Font Size: If you put the Slack app to a SplitScreen zone that is a scrolling strip, you can set how big you want the scrolling text to be.
 * Continue Playing Content in Playlist: In the playlist, the Slack app plays 10 items in the 1st round, and it will start with #11 item in the 2nd round.
-
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/4408802130323)
 
 Click Save.  
 After Saving, you can Preview the wall. It may take several seconds for the app to fetch posts and prepare your wall, so please be patient.

@@ -2,6 +2,7 @@
 
 **Article ID:** 360038769394
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360038769394-How-to-create-and-use-Yelp-Reviews-Wall
 **Last Updated:** 2025-09-02T20:21:49+00:00
 ---
 
@@ -13,8 +14,6 @@ This article will guide you through how to create and use Yelp reviews wall app.
 
 Below is an example screenshot of how it look on your screens, you can view a live example [here](https://social-player.optisigns.com/yelp/?asset_id=Mvpjed2fJcxacZ73y):
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360050794874)
-
 ## **Let's jump in and get started:**
 
 First, you will need to have your screens set up and paired. For more information on how to do that, click [here](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv).
@@ -23,15 +22,9 @@ Then log on to our portal: <http://app.optisigns.com/>
 
 Go to Files/Assets, Click on "App".
 
-![](https://support.optisigns.com/hc/article_attachments/26482821086483)
-
 Click Yelp app:
 
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/360051704533)
-
 Enter your Yelp Reviews wall information:
-
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/360051704633)
 
 * Name: Name of your Yelp Reviews Wall, this is the name of the wall in your asset list. It will **not** be displayed on your screens.
 * Yelp URL: Go you yelp.com find your business and copy the URL. For example: <https://www.yelp.com/biz/grinder-s-coffee-bar-houston>

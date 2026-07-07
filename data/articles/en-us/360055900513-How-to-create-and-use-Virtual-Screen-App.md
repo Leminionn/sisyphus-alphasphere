@@ -2,6 +2,7 @@
 
 **Article ID:** 360055900513
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360055900513-How-to-create-and-use-Virtual-Screen-App
 **Last Updated:** 2025-09-04T17:02:05+00:00
 ---
 
@@ -22,15 +23,9 @@ Then log on to our portal: <http://app.optisigns.com/>
 
 Go to Files/Assets, Click on "App" and add Virtual Screen on your Account.
 
-![Virtual_Screen_1.png](https://support.optisigns.com/hc/article_attachments/360091213814)
-
 Click Virtual Screen:
 
-![Virtual_Screen_2.png](https://support.optisigns.com/hc/article_attachments/360093364473)
-
 Enter your Virtual Screen information:
-
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360091395854)
 
 * Name: Name of your Virtual Screen, this is the name of the Virtual Screen in your asset list. It will **not** be displayed on your screens.
 * Screen: Pick the screen you want to make as Virtual Screen

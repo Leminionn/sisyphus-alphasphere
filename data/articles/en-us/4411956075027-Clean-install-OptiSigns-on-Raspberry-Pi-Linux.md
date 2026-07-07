@@ -2,6 +2,7 @@
 
 **Article ID:** 4411956075027
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/4411956075027-Clean-install-OptiSigns-on-Raspberry-Pi-Linux
 **Last Updated:** 2025-08-28T20:09:01+00:00
 ---
 

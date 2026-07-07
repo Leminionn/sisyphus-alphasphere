@@ -2,6 +2,7 @@
 
 **Article ID:** 360051745633
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360051745633-How-to-Set-up-an-Instagram-Business-Creator-account
 **Last Updated:** 2025-08-28T18:43:19+00:00
 ---
 
@@ -23,8 +24,8 @@ Open Instagram app on you phone, you can convert your personal profile to a busi
 
 To switch your profile to a business account:
 
-1. Go to your profile and tap ![](https://static.xx.fbcdn.net/assets/?revision=641770783093270&name=instagram-sidetrayhamburger-ios&density=1) in the upper right corner.
-2. Tap ![](https://static.xx.fbcdn.net/assets/?revision=641770783093270&name=instagram-newsettings-ios&density=1)**Settings.**
+1. Go to your profile and tap  in the upper right corner.
+2. Tap **Settings.**
 3. Tap **Account**.
 4. Tap **Switch to Professional Account**.
 5. Tap **Business**. or **Creator**
@@ -33,8 +34,6 @@ To switch your profile to a business account:
 8. Tap **Done**.
 
 You can now use your Instagram with OptiSigns, when log in, authenticate, please use the Facebook account that you linked in Step 6 above.
-
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360080393253)
 
 With a business account, you'll be able to access business features and Instagram Insights. These tools can help you understand who is engaging with your business on Instagram.
 

@@ -2,6 +2,7 @@
 
 **Article ID:** 360056655633
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360056655633-How-to-Change-Time-Zone-on-Your-Raspberry-Pi-device
 **Last Updated:** 2025-09-04T15:35:11+00:00
 ---
 
@@ -17,31 +18,17 @@ To change the time zone on your Raspberry Pi,  go to Preferences > Raspberry Pi
 
 1. Press the **Start Menu**
 
-![RPi_Change_Time_Zone-1.1.png](https://support.optisigns.com/hc/article_attachments/360094966293)
-
 2. Click "**Preferences** " in the menu
-
-![RPi_Change_Time_Zone-2.1.png](https://support.optisigns.com/hc/article_attachments/360094966313)
 
 3. Select "**Raspberry Pi Configuration**"
 
-![RPi_Change_Time_Zone-3.1.png](https://support.optisigns.com/hc/article_attachments/360094966333)
-
 4. Go to "**Localisation**" tap in the Raspberry Pi Configuration
-
-![RPi_Change_Time_Zone-4.1.png](https://support.optisigns.com/hc/article_attachments/360094966353)
 
 5. Click "**Set Timezone**" in Localisation
 
-![RPi_Change_Time_Zone-5.1.png](https://support.optisigns.com/hc/article_attachments/360092742514)
-
 6. Select your location area. Then click "**OK**"
 
-![RPi_Change_Time_Zone-6.1.png](https://support.optisigns.com/hc/article_attachments/360092742674)
-
 7. Click "**OK**" again
-
-![RPi_Change_Time_Zone-7.1.png](https://support.optisigns.com/hc/article_attachments/360092743014)
 
 Changing the time zone on your Raspberry Pi can let your screen start and end with the correct schedule.
 

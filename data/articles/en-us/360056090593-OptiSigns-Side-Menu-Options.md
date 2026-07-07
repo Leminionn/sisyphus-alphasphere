@@ -2,6 +2,7 @@
 
 **Article ID:** 360056090593
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360056090593-OptiSigns-Side-Menu-Options
 **Last Updated:** 2025-09-04T17:29:50+00:00
 ---
 
@@ -22,8 +23,6 @@ This covers the side menu for various OptiSigns devices.
 
 ### OptiStick Player Side Menu
 
-![optisigns android stick side menu 1](https://support.optisigns.com/hc/article_attachments/40445670133267)
-
 * **Exit**: Exit the OptiSigns app.
 * **Refresh**: Clear local cached files and re-download all content from the server.
 * **Autostart**: Autostart OptiSigns app on the device startup.
@@ -33,8 +32,6 @@ This covers the side menu for various OptiSigns devices.
 * **Orientation**: Rotate your device screen as landscape or Rotate 90/ 180/ 270 degrees.
 * **Unpair** **Device**: Unpair the device and remove it from the server.
 * **Re-start Time**: Restart OptiSigns app on your device. This feature clears the memory and has a fresh start.
-
-![optisigns android stick side menu 2](https://support.optisigns.com/hc/article_attachments/41022492510099)
 
 * **Standalone Mode:**Switches into Standalone Mode, which takes content from an attached MicroSD card (sold separately). This can be used when network connectivity is unreliable to display stored content.
 * **Device Storage:**Shows the amount of available storage on the device or optional MicroSD card.
@@ -50,8 +47,6 @@ Advance Option
 * **Video Player Settings:**Change between Render Types (Texture View or Surface View) and set the Reload Interval in minutes.
 * **Trigger Event Viewer:**Allows you to view the Remote Commands sent to the device.
 * **Auto Update**: Update the OptiSigns app. Every 2 hours, Everyday at xx:xx, or Off
-
-![optisigns android stick side menu 3](https://support.optisigns.com/hc/article_attachments/41022492510995)
 
 * **Check for Update**: Check the OptiSigns app version on the device.
 
@@ -76,8 +71,6 @@ More Options
 If using FireStick Remote, press the three-bar button on your remote to open the side menu.
 
 If using Android TV remote, press the left key on your D-Pad to open the side menu.
-
-![non-optisigns side menu 1](https://support.optisigns.com/hc/article_attachments/11413524572947)
 
 * **Exit**: Exit OptiSign app.
 * **Refresh**: Clear local cached files and re-download all content from the server.
@@ -106,8 +99,6 @@ Advance Option
 
 Press Enter on your keyboard or Click the three-bar button on the top right of a screen, to open side menu.
 
-![windows mac raspberry pi side menu 1](https://support.optisigns.com/hc/article_attachments/11413599345299)
-
 * **Exit**: Exit OptiSign app
 * **Unpair**: Unpair the device and remove it from the server
 * **Refresh**: Reload or update assets or playlists from the server
@@ -133,8 +124,6 @@ Advanced Options
 ### ChromeOS Device Side Menu
 
 Click the three-bar button on the top right of a screen, then your screen will pup out side menu.
-
-![chromeos side menu](https://support.optisigns.com/hc/article_attachments/360094616653)
 
 * **Exit**: Exit OptiSign app
 * **Unpair** **Device**: Unpair the device and remove it from the server

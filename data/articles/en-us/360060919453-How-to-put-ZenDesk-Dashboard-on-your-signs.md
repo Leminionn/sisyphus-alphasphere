@@ -2,6 +2,7 @@
 
 **Article ID:** 360060919453
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360060919453-How-to-put-ZenDesk-Dashboard-on-your-signs
 **Last Updated:** 2025-09-02T18:19:33+00:00
 ---
 
@@ -11,15 +12,11 @@ This article will guide you through how to create and use a Zendesk App.
 
  Go to App screen and select Zendesk:
 
-![zendesk-1.png](https://support.optisigns.com/hc/article_attachments/360099562894)
-
 Fill out:
 
 * Name: name of your Zendesk App, this is only for use in File/Asset list, it will not be displayed on your screen.
 * URL: the URL link to the Zendesk dashboard you want to display.
 * Update interval: default is 10 minutes. This means the app will refresh the link every 10 mins for any changes in your presentation. If you have a lot of slides, you may want to change this interval to something longer.
-
-![zendesk-2.png](https://support.optisigns.com/hc/article_attachments/360099562874)
 
 Click Save to save your asset.
 

@@ -2,14 +2,13 @@
 
 **Article ID:** 360047499893
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360047499893-How-to-use-Google-Traffic-App
 **Last Updated:** 2025-08-28T19:56:05+00:00
 ---
 
 You can use OptiSigns to show Traffic around your locations, this could be helpful for your employees, customers, visitors as they are coming in and out of your location.
 
 Here's an example how it would look.
-
-![mceclip6.png](https://support.optisigns.com/hc/article_attachments/360082037654)
 
 ## **Let's jump in and get started:**
 
@@ -19,11 +18,7 @@ Then log on to our portal: <http://app.optisigns.com/>
 
 Go to Files/Assets, Click on "App" and add Google Traffic app to your Account.
 
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/360068828173)
-
 Click Google Traffic:
-
-![mceclip3.png](https://support.optisigns.com/hc/article_attachments/360067714994)
 
  After that, you can enter information for your Google Traffic app.
 
@@ -31,8 +26,6 @@ Click Google Traffic:
 * Location: Center of the map where you want to display traffic around it. Note: Traffic information will be updated every 15 min.
 * Zoom: select zoom level for the map view. We recommend keeping it as 10 - 16. This should give a good coverage for a city, metro area.
 * Show Markers (Optional): if you want to show the market for the Location you selected above.
-
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360082036614)
 
 After Saving, you can Preview the Google Traffic app.
 

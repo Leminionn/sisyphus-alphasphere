@@ -2,6 +2,7 @@
 
 **Article ID:** 360049159814
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360049159814-How-to-use-Walls-io-App
 **Last Updated:** 2025-09-04T20:16:07+00:00
 ---
 
@@ -12,13 +13,9 @@ If you prefer not to have the walls.io brand bar on top, you can use walls.io's 
 
 You can read more below for details steps by steps guide.
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360073358514)
-
 ## **Let's jump in and get started:**
 
 Go go Walls.io, view your social walls and copy the URL like below.
-
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/360074557813)
 
 You will need to have your screens set up and paired. For more information on how to do that, click [here](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv).
 
@@ -26,15 +23,9 @@ Then log on to our portal: <http://app.optisigns.com/>
 
 Go to Files/Assets, Click on **Apps**.
 
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/360073378854)
-
 Select the Walls.io App.
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360073383534)
-
 Enter the details needed.
-
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/360073383554)
 
 * Name: Identification of your wall, this is the name of the wall in your asset list. It will **not** be displayed on your screens.
 * URL Paste the URL of your walls.io here.

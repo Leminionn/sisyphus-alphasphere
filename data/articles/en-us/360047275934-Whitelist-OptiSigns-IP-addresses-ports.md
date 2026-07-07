@@ -2,6 +2,7 @@
 
 **Article ID:** 360047275934
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-addresses-ports
 **Last Updated:** 2026-06-18T00:48:15+00:00
 ---
 

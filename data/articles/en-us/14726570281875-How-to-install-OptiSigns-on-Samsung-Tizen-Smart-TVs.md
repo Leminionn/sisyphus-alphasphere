@@ -2,6 +2,7 @@
 
 **Article ID:** 14726570281875
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/14726570281875-How-to-install-OptiSigns-on-Samsung-Tizen-Smart-TVs
 **Last Updated:** 2025-09-02T19:37:57+00:00
 ---
 

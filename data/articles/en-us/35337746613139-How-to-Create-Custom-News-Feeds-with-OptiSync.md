@@ -2,20 +2,9 @@
 
 **Article ID:** 35337746613139
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/35337746613139-How-to-Create-Custom-News-Feeds-with-OptiSync
 **Last Updated:** 2025-10-01T19:04:05+00:00
 ---
-
-### In this article, we will cover OptiSigns’ ability to create custom news apps using the OptiSync feature.
-
-* [SharePoint News Examples](#Examples)
-* [How to Set Up a Custom News Feed](#Setup)
-  + [Step 1: Setting Up an API Gateway (SharePoint Example)](#Gateway)
-    - [Obtaining a Site-Specific SharePoint SiteID Value](#SiteID)
-    - [Retrieving Proper Authentication Tokens from Microsoft and Making the Call](#Authentication)
-  + [Step 2: Mapping the API to a DataSource](#DataSource)
-  + [Step 3: Creating a News Feed Using Designer](#Designer)
-    - [Element Mapping](#Element)
-  + [Applying Filters to Customize Which News Stories to Display](#Filters)
 
 It is common for companies to share their internal communications, including memos, news, announcements and more via intranet. Digital signage will heighten employee awareness of published company news and announcements.
 
@@ -49,13 +38,9 @@ Here are a few examples:
 
 #### Bulletin Feed
 
-![bulletin news feed example](https://support.optisigns.com/hc/article_attachments/35337756491283)
-
 This style allows several news stories to be shown at once. The images and text are taken directly from the data source and displayed using OptiSync. These are set to periodically update every 30 minutes.
 
 #### Single Story Feed
-
-![single story news feed example](https://support.optisigns.com/hc/article_attachments/35337746485139)
 
 This style allows a single story to be featured. Using Repeater settings, this will allow a rotating slate of featured news articles.
 
@@ -94,8 +79,6 @@ The [YOUR-SHAREPOINT-SITE-URL] will be specific to your SharePoint site.
 
 When configured correctly, this API request should return a string of JSON similar to the below:
 
-![](https://support.optisigns.com/hc/article_attachments/45228746837523)
-
 As you can see, under the "id" section there are two values. You want the string after the URL. That is your **SiteID**value. This will be critical for setting up your API gateway in the next step.
 
 #### Retrieving Proper Authentication Tokens from Microsoft
@@ -121,8 +104,6 @@ Input your SiteID value where relevant. Next, we'll set up the headers.
 ##### **Headers Configuration**
 
 For the request headers, use these:
-
-![](https://support.optisigns.com/hc/article_attachments/45228732984467)
 
 The "Bearer" field can be left blank, as this value will be obtained in the Pre-Request stage.
 
@@ -154,21 +135,13 @@ Replace the areas marked [YOUR-CLIENT-ID] and [YOUR-SECRET-VALUE] with your Clie
 
 With these configured, your request should look like this:
 
-![](https://support.optisigns.com/hc/article_attachments/45229015845523)
-
 You can hit the **Run Test** button at the bottom to test the connection. If successful, it should return a **200 OK** response and provide JSON data.
 
-![](https://support.optisigns.com/hc/article_attachments/45228746849171)
-
 Be sure to **Enable this Request**, then **Save** your API Request before moving on to the next step.
-
-![](https://support.optisigns.com/hc/article_attachments/45228746851347)
 
 ### Step 2: Mapping the API to a DataSource
 
 We cover most of the details of this step in our [How to Set Up Dynamic Data Mapping via OptiSync](https://support.optisigns.com/hc/en-us/articles/29217646663187-How-to-Set-Up-Dynamic-Data-Mapping-with-OptiSync). If imported correctly, your data will appear in JSON format, like this:
-
-![](https://support.optisigns.com/hc/article_attachments/45228732993683)
 
 Your news stories will have similar data sets if you’re following this guide. The most important data fields are:
 
@@ -190,17 +163,11 @@ To get started, find your design or create a new one in the **Files/Assets** tab
 
 With the design open, click **"DataSource"** in the left hand column. Then, click **"Add DataSource"** to add an API data source to the design.
 
-![firefox_ZFaS9dNCeY.jpg](https://support.optisigns.com/hc/article_attachments/43089455677587)
-
 Scroll down to where it says **"API Gateway"** and click it.
-
-![api gateway datasource](https://support.optisigns.com/hc/article_attachments/35337746511251)
 
 You can also set up a multi-time Gateway with the *API Gateway Collection**.*** For this example, we’ll stick with the single-use API Gateway.
 
 You should see this screen:
-
-![api datasource ui optisigns](https://support.optisigns.com/hc/article_attachments/35337756519187)
 
 * **Name -** The name of the DataSource. This is internally facing and will not be shown on your screens.
 * **Select APIs -** Here you'll select from the API Gateways you've already set up in earlier steps. You can select just one, or multiple. If multiple are selected, the API DataSource will automatically aggregate them.
@@ -210,8 +177,6 @@ Hit **Save**, and the DataSource is created.
 
 It should appear in the left column under **"Used in this design".** It will definitely appear in the **"Other DataSources"** section. You may need to refresh the page for it to appear.
 
-![datasource sharepoint news demo example](https://support.optisigns.com/hc/article_attachments/35337746518163)
-
 #### Element Mapping
 
 Now that you've got your API DataSource has been created, we're ready to map the data. In this example, we will show you how to make a SharePoint News feed.
@@ -220,43 +185,27 @@ Now that you've got your API DataSource has been created, we're ready to map the
 
 First, create your design. You can make use of one of our repeater templates, or make the design yourself. Our repeater templates can be customized to fit in with your company branding.
 
-![custom news feed with text elements](https://support.optisigns.com/hc/article_attachments/35337756524691)
-
 The easiest way to set up a Custom News feed is with a **Data Repeater**. For a full breakdown of a Repeater's capabilities, [see this article](https://support.optisigns.com/hc/en-us/articles/29217646663187). Here, we'll stick to teaching how to add information from your API.
 
 To set up a Repeater, click **"Repeaters" → Add Blank Repeater**.
 
-![ShareX_gnoDiLL4vn.jpg](https://support.optisigns.com/hc/article_attachments/43089455679123)
-
 With the Repeater selected, click **Settings**. A new pane will open up on the right. Here, select **Connect to DataSource**.
-
-![firefox_Y7ut4qGqj7.jpg](https://support.optisigns.com/hc/article_attachments/43089455679763)
 
 Select the DataSource you set up in the last set under **"Other DataSources"**.
 
 You'll be taken back to the last pane with your DataSource now selected. Now, click **Edit** or double click the selected Repeater to head to the Repeater Editor. This is like a design-within-a-design, specifically for your Repeater (news) items. With text selected, click the arrow on the left.
 
-![firefox_6lEOTf7EZu.jpg](https://support.optisigns.com/hc/article_attachments/43089455680531)
-
 That brings up the DataSource tab. Click on the DataSource Used in this Design and you'll see something like this:
-
-![firefox_0ZMcdeWGwF.jpg](https://support.optisigns.com/hc/article_attachments/43089455681043)
 
 In this example, we want to display the title of the piece, its associated imagery, and the story itself.
 
 By creating text and dragging data points to it, we can create a news feed like this:
 
-![example news feed](https://support.optisigns.com/hc/article_attachments/35337756558355)
-
 This was created by finding data points from the API and dragging them into the desired text boxes. In this case, we only wish to display the "Title,” “Banner URL Image,” and "Description" so those values were dragged into a blank or existing text box.
 
 The value of a repeater is that it will copy the format of this one cell, then replace the data points with others from your API. It will pull as many data points as you have set up on your API. In this example, we’ve featured only one news story. The repeater will rotate through the rest, displaying only one at a time. If you want to display more, the number of repeated items and their formatting can be changed using these options under **Settings:**
 
-![firefox_9ieNkZ0FYJ.jpg](https://support.optisigns.com/hc/article_attachments/43089441903379)
-
 If we change the total items to, say, 3, we can get a news feed like this with a little bit of design work:
-
-![three story news feed example](https://support.optisigns.com/hc/article_attachments/35337746553235)
 
 Hopefully this is an effective demonstration of some of OptiSync’s abilities.
 
@@ -266,33 +215,21 @@ What news stories you wish to display may vary depending on a number of factors.
 
 To get started, highlight the data you want to filter, then hit **Settings.** Next, hit the **Filter** option under your DataSource.
 
-![firefox_yyCyvxGXBi.jpg](https://support.optisigns.com/hc/article_attachments/43089441904659)
-
 This screen will appear:
-
-![firefox_M6EvhPuhbI.jpg](https://support.optisigns.com/hc/article_attachments/43089441904915)
 
 What follows is, essentially, an [AND statement](https://support.microsoft.com/en-us/office/and-function-5f19b2e8-e1df-4408-897a-ce285a19e9d9) or an [OR statement](https://support.microsoft.com/en-us/office/and-function-5f19b2e8-e1df-4408-897a-ce285a19e9d9) you might use in Excel or Google Sheets. The easiest way to understand the Filter option is as an Excel or Google Sheet formula you input within OptiSigns.
 
 You can add **Rules** or **RuleSets** to your filter to create as much complexity as you need:
 
-![datasource filter option rulesets](https://support.optisigns.com/hc/article_attachments/35337756575507)
-
 In order to set up a Rule, you’ll need to configure three values.
 
 Selecting the first box gives you these options:
-
-![filter first box options](https://support.optisigns.com/hc/article_attachments/35337756579731)
 
 By default, these options equate to the **headers of the data mapped to the source.** This list will vary in length depending on how many headers you have. You can also input any value you wish by typing it in the box.
 
 The second box is your **Variable.** OptiSigns provides these options:
 
-![filter variable data](https://support.optisigns.com/hc/article_attachments/35337746579347)
-
 The final option provides the following default values:
-
-![filter final options](https://support.optisigns.com/hc/article_attachments/35337756591251)
 
 By default, these map to a screen or other device, allowing your filter to target only certain screens.
 

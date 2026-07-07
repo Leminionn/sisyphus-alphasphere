@@ -2,19 +2,11 @@
 
 **Article ID:** 42915219118739
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/42915219118739-Legacy-DataSources
 **Last Updated:** 2025-09-04T16:58:08+00:00
 ---
 
-### In this article, we’ll cover our Legacy DataSources - key-value pair formatting with Google Sheets or Microsoft 365 Excel
-
-* [How it Works and When to Use Legacy DataSources](#HowitWorks)
-* [Creating Data Mapping Elements](#Creating)
-* [Generating a Google Sheet or Excel Document](#Generating)
-* [Modifying the Data](#Modifying)
-
 Using Designer, it’s possible to assign a key value to an element, then map it to a Google Sheet or Microsoft Excel document. This will create a new spreadsheet directly mapped to the individual design. The values on this new spreadsheet can be modified to change what the design displays.
-
-![advanced datasources googlesheet or ms excel 365](https://support.optisigns.com/hc/article_attachments/42915203035795)
 
 Please note that this is an older form of Data Mapping in OptiSigns. Now, with our new OptiSync feature, exsiting Google Sheets or MS Excell sheets can be directly integrated into a design with a simple drag-and-drop. It is also possible to directly connect APIs, JSON, XML, or custom tables. See our article on [**Dynamic Data Mapping using OptiSync**](https://support.optisigns.com/hc/en-us/articles/29217646663187-How-to-Set-Up-Dynamic-Data-Mapping-with-OptiSync) for more information.
 
@@ -42,11 +34,7 @@ For this example, we’ve used one of our [pre-built Templates](https://canvas.o
 
 Now, we’ll need to add a Data Mapping to an element. Click the Element you want to map to your DataSource, then hit the **Settings** button. Then, click **Make Data Mapping**.
 
-![how to make data mapping](https://support.optisigns.com/hc/article_attachments/42915219044243)
-
 The element will automatically be given an **Element ID.** We also recommend giving it an **Asset Element Name**, which will appear on your generated spreadsheet and can help identify what the value is.
-
-![data mapping element id and asset element name](https://support.optisigns.com/hc/article_attachments/42915203032083)
 
 There are also additional options:
 
@@ -65,15 +53,9 @@ Now, you’ll want to ***repeat this process for every element you wish to be dy
 
 Once you’ve mapped all the elements you want to be dynamic, it’s time to generate your spreadsheet. To do this, click the **DataSource** button on the Side Menu, then click **Add DataSource**:
 
-![how to add a datasource](https://support.optisigns.com/hc/article_attachments/42915203033491)
-
 Scroll down in the popup to the **Adv. DataSources** section and choose either **Google Sheets (legacy)** or **MS Excel 365 (legacy)** depending on which you prefer.
 
-![advanced datasources googlesheet or ms excel 365](https://support.optisigns.com/hc/article_attachments/42915203035795)
-
 Clicking one of these will bring up the option to sign in with your account of choice.
-
-![choose between google sheet or ms excel datasource](https://support.optisigns.com/hc/article_attachments/42915203036819)
 
 |  |
 | --- |
@@ -84,20 +66,14 @@ Give the Sheet a **Name**, then sign in to your preferred account. You will need
 
 Next, you’ll be asked to provide the Folder for where you want your sheet to be saved. Select one, then continue. Your DataSource will be created:
 
-![authorized google sheets datasource example](https://support.optisigns.com/hc/article_attachments/42915203039123)
-
 |  |
 | --- |
 | **IMPORTANT** |
-| Data must be within a table if using Excel Sheets.  excel datasource table example |
+| Data must be within a table if using Excel Sheets. |
 
 At this point, you can access your spreadsheet to see the elements you’ve mapped by hitting the **Open** button.
 
-![how to open google sheet in optisigns](https://support.optisigns.com/hc/article_attachments/42915219091475)
-
 The elements you’ve mapped will appear in the sheet.
-
-![](https://support.optisigns.com/hc/article_attachments/42915219094419)
 
 ---
 
@@ -107,11 +83,7 @@ To change the mapping, simply edit the values in the columns, being sure to keep
 
 For example, say we want the word “SOCIAL” to appear on one screen in one location, but we want it to say “COMMUNAL” in another. To do this, we simply duplicate the Row, then change the “Screen Name” and “Value” cells:
 
-![modified data in datasource](https://support.optisigns.com/hc/article_attachments/42915203045779)
-
 The “Screen Name” will need to be the same as the name of the screen you’re targeting with the asset. This is equivalent to the **Device Name** under the **Edit Screen** tab:
-
-![device name on edit screen tab](https://support.optisigns.com/hc/article_attachments/42915203048467)
 
 Some best practices:
 

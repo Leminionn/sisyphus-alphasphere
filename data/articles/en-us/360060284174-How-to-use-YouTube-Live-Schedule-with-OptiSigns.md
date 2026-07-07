@@ -2,6 +2,7 @@
 
 **Article ID:** 360060284174
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360060284174-How-to-use-YouTube-Live-Schedule-with-OptiSigns
 **Last Updated:** 2026-01-22T15:44:40+00:00
 ---
 
@@ -15,8 +16,6 @@ You just need to copy the YouTube channel link and paste in the YouTube Live Sch
 
 **https://www.youtube.com/channel/Your-Channel-Id**  
 **To get your channel Id, go to the about page of your channel, click on share channel and copy channel Id.**
-
-**![](https://support.optisigns.com/hc/article_attachments/29017347776531)**
 
 ## 
 
@@ -33,18 +32,12 @@ Then log on to our portal: <http://app.optisigns.com/>
 
 Go to Files/Assets, Click on "App".
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360100601494)
-
 Click YouTube Live Schedule app:
 
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/1500001705902)
-
 Select how do you want to get your channel:  
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/360100601554)  
+  
 If you select "**ENTER CHANNEL URL**"  
 Enter your YouTube Live Schedule information:
-
-![mceclip3.png](https://support.optisigns.com/hc/article_attachments/1500001705942)
 
 * Name: Give your YouTube Live Schedule a name. This is for displaying in your asset list only. The app will try to get the video's title and use as name, but you can change it to something else.
 * URL: Paste the link to your YouTube channel here.
@@ -59,8 +52,6 @@ After Saving, you can Preview live videos to verify.
 
 If you select "**SIGN IN WITH GOOGLE**"  
 Enter your YouTube Live Schedule information:
-
-![mceclip4.png](https://support.optisigns.com/hc/article_attachments/360102767273)
 
 * Name: Give your YouTube Live Schedule a name. This is for displaying in your asset list only. The app will try to get the video's title and use as name, but you can change it to something else.
 * URL: Auto generated the YouTube channel.
@@ -89,8 +80,6 @@ Say you want your 9AM-11AM event to be schedule every Sunday.
 For more information about using Schedule, please refer to [Schedule Guide](https://support.optisigns.com/hc/en-us/articles/360016981853).
 
 NOTE: If your schedules ends earlier than 11AM, YouTube Live Schedule will play the next video on your Channel.
-
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/1500001730581)
 
 ## **Tips & Notes:**
 

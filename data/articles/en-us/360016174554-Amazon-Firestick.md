@@ -2,6 +2,7 @@
 
 **Article ID:** 360016174554
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360016174554-Amazon-Firestick
 **Last Updated:** 2026-06-05T22:12:50+00:00
 ---
 
@@ -49,8 +50,6 @@ Plug in FireStick and connect it to power.
 
 When connecting to power, it's temping to use the USB of the TV to power the Fire TV for convenience, but Fire TV consume a lot more power than a TV's USB can supply. So, it is always best to use the power adapter and cable that come with the Fire TV.
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360055529993)
-
 Power on the Fire TV and follow the on-screen instruction to connect to Wi-Fi, and register the device with your Amazon account.
 
 |  |
@@ -61,17 +60,11 @@ Power on the Fire TV and follow the on-screen instruction to connect to Wi-Fi, a
 
 Press the **Search** icon on the **Find** section of the Fire TV,
 
-![Fire_Stick-12.png](https://support.optisigns.com/hc/article_attachments/1500012109741)
-
 Type in "**OptiSigns**".  
 Fire TV Search can be tricky to use, and sometimes, as you type, it does not work properly.  
 After you have typed "optisigns", be sure to press the menu down button until the "Optisigns" text is highlighted and then click on it.
 
-![Fire_Stick-13.png](https://support.optisigns.com/hc/article_attachments/1500011810362)
-
 Click **Download** on the OptiSigns app icon
-
-![Fire_Stick-14.png](https://support.optisigns.com/hc/article_attachments/1500012113201)
 
 Once the app is installed, **launch** it.
 
@@ -79,23 +72,15 @@ The app will ask if you want to automatically start when device start up. It is 
 
 Next, you will see this pairing screen:
 
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/360054657494)
-
 Go to our website: [https://app.optisigns.com](https://app.optisigns.com/app/screenManagement)
 
 If you don't have an account already, you can create one, or you can also log in with Google or Facebook account.
 
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/360055530533)Once you logged in Click "**Add screen**" button
-
-![mceclip3.png](https://support.optisigns.com/hc/article_attachments/360054655934)
+Once you logged in Click "**Add screen**" button
 
 In this pop up, type in the Pair Code showing up on your Fire TV screen. Then, click Pair:
 
-![mceclip4.png](https://support.optisigns.com/hc/article_attachments/360054655994)
-
 The Fire TV screen will change to:
-
-![mceclip5.png](https://support.optisigns.com/hc/article_attachments/360055530573)
 
 Now you are ready to upload and assign content.
 

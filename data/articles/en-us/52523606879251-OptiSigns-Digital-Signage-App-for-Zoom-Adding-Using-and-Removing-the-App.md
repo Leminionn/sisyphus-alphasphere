@@ -2,6 +2,7 @@
 
 **Article ID:** 52523606879251
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/52523606879251-OptiSigns-Digital-Signage-App-for-Zoom-Adding-Using-and-Removing-the-App
 **Last Updated:** 2026-06-11T22:24:43+00:00
 ---
 

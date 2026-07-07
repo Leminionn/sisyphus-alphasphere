@@ -2,12 +2,11 @@
 
 **Article ID:** 21449362442003
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/21449362442003-Update-OptiSigns-player-on-OptiSigns-Pro-Player-Gen-2-via-script
 **Last Updated:** 2025-09-02T20:33:55+00:00
 ---
 
 If your Pro Player looks like the image below, read on. If it does not, read on [**Remote Commands for the OptiSigns Pro Player (Gen 3)**](https://support.optisigns.com/hc/en-us/articles/4408658251027-How-to-use-Remote-Command-Execution-Windows-Linux).
-
-![Pro Player.png](https://support.optisigns.com/hc/article_attachments/38310905084947)
 
 ## OptiSigns Pro Player Gen 2 Commands
 

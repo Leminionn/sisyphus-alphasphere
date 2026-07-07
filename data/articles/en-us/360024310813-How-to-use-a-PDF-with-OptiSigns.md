@@ -2,6 +2,7 @@
 
 **Article ID:** 360024310813
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360024310813-How-to-use-a-PDF-with-OptiSigns
 **Last Updated:** 2025-09-04T18:06:19+00:00
 ---
 
@@ -13,19 +14,19 @@ There are 3 ways you can use a PDF file:
 
 ### If you're using a PDF directly as an asset on the screen:
 
-You'll need to enter a duration (10 pages, if you enter 200s, each page will be 20s)![](/attachments/token/IZoaFRKd7k98GJXJ7VxJtvvd9/?name=inline-118732892.png)​
+You'll need to enter a duration (10 pages, if you enter 200s, each page will be 20s)​
 
 ### If you're using PDF file in a Playlist:
 
 The item duration is the duration for the document (i.e. 200s and the doc has 10 pages, each page will be displayed for 20s).
 
-![](/attachments/token/NElNaFXL3qBlZyWjNkmmmRdd2/?name=inline-1360819140.png)​
+​
 
 ### If you are using it in a schedule and assign the PDF as a scheduled asset:
 
 You'll need to enter a duration, like a single asset (10 pages, if you enter 200s, each page will be 10s).
 
-![](/attachments/token/sLid2HpAXc2sXXP6VpPwq4Be1/?name=inline35816297.png)​
+​
 
 ### Troubleshoot:
 

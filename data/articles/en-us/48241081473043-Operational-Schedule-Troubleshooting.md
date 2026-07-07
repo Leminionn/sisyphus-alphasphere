@@ -2,17 +2,9 @@
 
 **Article ID:** 48241081473043
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/48241081473043-Operational-Schedule-Troubleshooting
 **Last Updated:** 2026-04-20T21:26:17+00:00
 ---
-
-### In this article, we will troubleshoot common issues related to the Operational Schedule feature in OptiSigns.
-
-* [Introduction to Operational Scheduling](#Introduction)
-* [Changing Display Settings](#ChangingSettings)
-* [How to Test HDMI-CEC / RS-232 Connections](#TestConnections)
-* [OptiStick Improperly Powered](#ImproperlyPowered)
-* [Operational Schedule Works at Different Times from How It Was Set](#DifferentTimes)
-* [Screen Turns Off, But Not Back On](#TurnOff)
 
 Operational Scheduling is a feature which allows you to turn off and on your digital signs on a set schedule, further automating your setup. If you’re looking to set up an Operational Schedule of your own, see our guide on [Creating and Using Operational Schedules](https://support.optisigns.com/hc/en-us/articles/28598173096723-How-To-Create-and-Use-Operational-Schedules-HDMI-CEC-RS-232).
 
@@ -72,8 +64,6 @@ Go to **Edit Screen → Advanced → More**:
 
 Click the **Arrow** in the right hand corner of the popup, next to the **Save** option. This will bring up several options. Hit **Send HDMI CEC** or **Send RS232**:
 
-![](https://support.optisigns.com/hc/article_attachments/48241081464467)
-
 This should either turn on or turn off the TV depending on whether the TV is currently on or off. If it does not, keep troubleshooting.
 
 ---
@@ -94,11 +84,7 @@ This is very common and almost always goes back to the device Time Zone. Your fi
 
 This can be done either with the device itself, or remotely (if the device is online). To update it remotely, edit the screen, then hit **Advanced**. You should see the below bar, click the **Time Zone** button:
 
-![](https://support.optisigns.com/hc/article_attachments/48241081465107)
-
 This will open up the **Update Time Zone** screen:
-
-![](https://support.optisigns.com/hc/article_attachments/48241081468307)
 
 Here, simply select the appropriate Time Zone for your device. This should match the Operational Schedule you’ve set to it. Now, they should be aligned.
 

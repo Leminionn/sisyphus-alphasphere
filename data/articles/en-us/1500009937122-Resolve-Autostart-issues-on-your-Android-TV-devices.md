@@ -2,6 +2,7 @@
 
 **Article ID:** 1500009937122
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/1500009937122-Resolve-Autostart-issues-on-your-Android-TV-devices
 **Last Updated:** 2025-08-29T18:50:41+00:00
 ---
 
@@ -15,23 +16,13 @@ Go to Settings > Apps > Special app access > Display over other apps, make sure 
 
 1. ) Go to **Setting**
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/1500015378922)
-
 2. Select **Apps**
-
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/1500015697201)
 
 3. Go to **Special app access**
 
-![mceclip5.png](https://support.optisigns.com/hc/article_attachments/1500015697221)
-
 4) Select **Display over other apps**
 
-![mceclip6.png](https://support.optisigns.com/hc/article_attachments/1500015697241)
-
 5. Make sure the OptiSigns app is **ON**
-
-![mceclip7.png](https://support.optisigns.com/hc/article_attachments/1500015697261)
 
 ### **That's it.**
 

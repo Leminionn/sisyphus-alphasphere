@@ -2,16 +2,9 @@
 
 **Article ID:** 360044600474
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360044600474-Folder-Level-Permissions
 **Last Updated:** 2025-09-10T15:02:26+00:00
 ---
-
-### In this article, we'll explain Folder Level Permissions in detail and how to grant desired users and Teams proper access.
-
-* [Change Folder Permissions](#Permissions)
-  + [Restricting or Granting Access by User or Team](#RestrictingGranting)
-  + [Folder Security by Team](#ByTeam)
-  + [Folder Sharing](#Sharing)
-* [Playlist and Schedule Specific Permissions](#Playlist&amp;Schedule)
 
 Folder permission options give account Admins access to granular permissions structuring. It provides many options for controlling and managing who has access to what content.
 
@@ -44,15 +37,9 @@ To apply Folder Security settings, you'll need to create a folder. Folder permis
 
 When creating a **New Folder**, simply click **Advanced** to open up the Folder Security options:
 
-![New folder folder-security](https://support.optisigns.com/hc/article_attachments/44602796060691)
-
 For an existing folder, click the **Three Dots** **→ Change Permissions** option.
 
-![change permission on screen folder](https://support.optisigns.com/hc/article_attachments/44602802531219)
-
 This will open the **Change Security** popup, where the options are identical to the Advanced options when making a new folder.
-
-![change security permission folder](https://support.optisigns.com/hc/article_attachments/44602796064787)
 
 A few important notes:
 
@@ -66,11 +53,7 @@ By default, access is granted to everyone on the Team which created the folder. 
 
 We can provide more specific permissions or restrictions, however, by deleting the **Everyone on this team** permission.
 
-![new folder everyone on this team x](https://support.optisigns.com/hc/article_attachments/44602802533523)
-
 Clicking the **blank area** allows you to add a new permission.
-
-![new folder permission options](https://support.optisigns.com/hc/article_attachments/44602796071443)
 
 As you can see, as the account owner or Super Admin, we have a lot of options. We can give access to everyone on the account, everyone on the team, only Team Admins, individual users, or other teams.
 
@@ -80,8 +63,6 @@ As you can see, as the account owner or Super Admin, we have a lot of options. W
 | Users which appear here are ***only users registered on the current team**.* Other users on other teams will not appear. |
 
 In this case, we'll grant access to our samurai friend Sanjuro here.
-
-![new folder added user](https://support.optisigns.com/hc/article_attachments/44602796072595)
 
 In terms of permissions, this means:
 
@@ -98,33 +79,19 @@ As a Super Admin, we can change what Team view we are using at any time. This is
 
 As a Super Admin, your current Team view can be seen next to your username, in the upper right corner of the screen. To change Team views, open up your User tab. Navigate to **Team**, then select another team from the list.
 
-![](https://support.optisigns.com/hc/article_attachments/44602796075155)
-
 In this case, we'll select the **Cosmos Space Center** team. We will then be viewing OptiSigns as an Admin of the Cosmos Space Center team, and this will be reflected next to your username.
 
-![](https://support.optisigns.com/hc/article_attachments/44602796078483)
-
 Looking at an existing Folder, we can see that, as an Admin of the Cosmos Space Center team, we have only limited ability to change the permissions of a folder created by another team:
-
-![](https://support.optisigns.com/hc/article_attachments/44602796080659)
 
 All we can do here is restrict access of the Users ***within our own Team*** to this folder.  
   
 However, if we create a New Folder, we have the same options as we had before.
 
-![](https://support.optisigns.com/hc/article_attachments/44602796083731)
-
 We'll create another folder and restrict access to a certain user:
-
-![](https://support.optisigns.com/hc/article_attachments/44602802552979)
 
 This folder we've created will appear below, as long as we're in the Cosmos Space Center team view:
 
-![firefox_vhms9zcYWs.jpg](https://support.optisigns.com/hc/article_attachments/44602796089235)
-
 If we switch back to the Default Team (or any other Team without required permissions), we will not see the Cosmos Space Center team's folder, even as a Super Admin.
-
-![](https://support.optisigns.com/hc/article_attachments/44602796090259)
 
 ### Folder Sharing
 
@@ -145,8 +112,6 @@ When dealing with Playlists and Schedules, there are some specific nuances.
 * Anyone with access to all these folders will be able to see all the assets or sub-playlists they can see.
 * Users with only partial access ***will only see the assets or sub-playlists they have access to.***
 * Playlist Total Time will always display the ***full duration,*** including invisible assets or sub-playlists:
-
-  ![](https://support.optisigns.com/hc/article_attachments/44602802557331)
 * A warning message will display for Users stating "There are items in this schedule you do not have access to"
 
 #### Schedule-Specific:

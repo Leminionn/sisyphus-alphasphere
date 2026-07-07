@@ -2,6 +2,7 @@
 
 **Article ID:** 4407476403859
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/4407476403859-How-to-set-up-SAML-2-0-with-OptiSigns-and-OneLogin-Shibboleth
 **Last Updated:** 2025-09-02T20:38:51+00:00
 ---
 
@@ -21,8 +22,6 @@ You can also map your own domain like digitalsigns.yourcompany.com by following 
 
 This will be the URL that you can share with your users so they can log in to use the app, once integration has set up. In our example, we will use <https://advanced.optisigns.net/>
 
-![mceclip13.png](https://support.optisigns.com/hc/article_attachments/21286528904211)
-
 Next, go to the SAML Single Sign On setting page:
 
 <https://app.optisigns.com/app/s/saml-settings>
@@ -36,23 +35,15 @@ The settings are:
 * Enable User Override: Every time a user logs in, if their group assignment has changed on SAML, OptiSigns will update, and override new profile settings.
 * Note the "Single Sign On URL" and "Audience URI (SP Entity ID) URL", you will need this to use in OneLogin later.
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/21286544103571)
-
 **Next, add OptiSigns as an App in your OneLogin admin portal:**
 
 Log in to your OneLogin portal as admin -> Applications
 
 Click Add app
 
-![mceclip6.png](https://support.optisigns.com/hc/article_attachments/4407476998035)
-
 On the next page, search for "SAML" in the search box, and then select the "SAML Custom Connector (SP Shibboleth)".
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/4407468255507)
-
 Enter "OptiSigns" in the display name, then click Save. You can also upload the OptiSigns logo here as well.
-
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/4407476590867)
 
 After saving, go to the configuration page. This is where you should provide the Single Sign On URL, and SP Entity ID you get from your OptiSigns SAML SSO setting.
 
@@ -60,11 +51,7 @@ SP Entity ID from OptiSigns SAML SSO setting should be put under the Login URL.
 
 Single Sign On URL from OptiSigns SAML SSO setting should be put under ACS URL and ACS URL validator. Please remember to escape the special character in the ACS URL validator.
 
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/4407476626451)
-
 Then go to the SSO page. Get these 3 highlighted information, these need to be maintained in the OptiSigns SAML SSO settings. After clicking View Details of the certificate, you can find the encoded content of the certificate, this will be needed in the next step.
-
-![mceclip3.png](https://support.optisigns.com/hc/article_attachments/4407476684179)
 
 Go back to your OptiSigns account maintain above mentioned 3 fields, and save it.
 
@@ -73,8 +60,6 @@ Put the SAML 2.0 endpoint from OneLogin under the SAML 2.0 Endpoint.
 Put the Issuer URL from OneLogin under Identity Provider Issuer.
 
 Put the content from base64 encoded x509 certificate under Public Certificate.
-
-![mceclip6.png](https://support.optisigns.com/hc/article_attachments/21286544110099)
 
 Now your login portal & integration are all set up.
 
@@ -87,8 +72,7 @@ It's not required, but recommended to create groups of users to be assigned, and
 To configure how OptiSigns should map the user groups to OptiSigns Roles by going to: <https://app.optisigns.com/app/s/saml-settings>
 
 Scroll to Advanced Settings and create a mapping.  
-Group Name (roles assigned to the user from OneLogin), Role (role in OptiSigns) mapping.   
-![mceclip9.png](https://support.optisigns.com/hc/article_attachments/21286528943635)
+Group Name (roles assigned to the user from OneLogin), Role (role in OptiSigns) mapping. 
 
 It's best practice to create a group specifically for OptiSigns with name prefix with optisigns- and map to OptiSigns like below:
 
@@ -102,8 +86,6 @@ You can map the "Unmapped users/group" to No Team (Disabled)
 
 This way they will receive an error when trying to log in and will have to reach out to Admins to get correct teams, and roles assigned. This can be used as a safeguard, in case some users accidentally got assigned OptiSigns app but not the right groups.
 
-![mceclip3.png](https://support.optisigns.com/hc/article_attachments/26504504778259)
-
 Note that if you map a SAML group to a Team and then delete the team, it will result in the new user being mapped to No Team and will have to contact you to be assigned to a team to use the app.
 
 Next, go to your OneLogin portal. Go to the parameters page of the OptiSigns application. This is where you maintain the mapping of the attributes.
@@ -113,8 +95,6 @@ Create new custom parameters here by clicking the + icon. Currently, OptiSigns s
 Shibboleth has many predefined standard attributes. In this case, the givenName can be mapped to firstName on OptiSigns, and the surname can be mapped to lastName on OptiSigns.
 
 These mappings will pass information to OptiSigns on the user's Name and Group.
-
-![mceclip4.png](https://support.optisigns.com/hc/article_attachments/4407468380563)
 
 The parameter names are corresponding to OptiSigns
 
@@ -127,8 +107,6 @@ Shibboleth uses standard namespace and id for the predefined standard attributes
 firstName (givenName) : urn:oid:2.5.4.42
 
 lastName (surname):urn:oid:2.5.4.4
-
-![mceclip5.png](https://support.optisigns.com/hc/article_attachments/4407468403219)
 
 ### **That's it!**
 

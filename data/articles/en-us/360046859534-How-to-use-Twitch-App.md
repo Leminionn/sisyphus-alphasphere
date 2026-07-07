@@ -2,6 +2,7 @@
 
 **Article ID:** 360046859534
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360046859534-How-to-use-Twitch-App
 **Last Updated:** 2025-09-05T14:57:13+00:00
 ---
 
@@ -9,8 +10,6 @@ Twitch have grown to more than just a game streaming platform, you now can find 
 
 You can put your favorite Twitch channels on Digital Signs with OptiSigns' Twitch app.  
 You can show or hide chat bar with your channel as well. Here's an example how it would look with chat bar on:
-
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360068823273)
 
 ## **Let's jump in and get started:**
 
@@ -20,15 +19,9 @@ Then log on to our portal: <http://app.optisigns.com/>
 
 Go to Files/Assets, Click on "App" and add Twitch app to your Account.
 
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/360068824593)
-
 Click Twitch:
 
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/360067709354)
-
  After that, you can enter information for your Twitch app.
-
-![mceclip3.png](https://support.optisigns.com/hc/article_attachments/360068826153)
 
 * Name: Name of your Twitch asset, this is the name in your asset list. It will **not** be displayed on your screens.
 * Twitch URL: Copy and paste the link to the Twitch channel you want to use here. For example: <https://www.twitch.tv/shroud> use the preview link to ensure you got the correct link.

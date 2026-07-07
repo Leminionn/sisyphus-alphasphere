@@ -2,6 +2,7 @@
 
 **Article ID:** 360016981853
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360016981853-Creating-and-Using-Schedules-with-OptiSigns
 **Last Updated:** 2026-03-31T22:14:33+00:00
 ---
 

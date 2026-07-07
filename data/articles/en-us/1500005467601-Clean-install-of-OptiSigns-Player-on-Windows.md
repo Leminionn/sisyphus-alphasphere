@@ -2,6 +2,7 @@
 
 **Article ID:** 1500005467601
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/1500005467601-Clean-install-of-OptiSigns-Player-on-Windows
 **Last Updated:** 2025-10-23T21:18:17+00:00
 ---
 
@@ -18,15 +19,11 @@ To perform a clean install first follow these steps to completely remove OptiSig
 
 2) Find OptiSigns, click Uninstall
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/1500007582301)
-
 3) Delete these folders if they still exist:
 
 * C:\Users\[Your UserName]\AppData\Roaming\OptiSigns Digital Signage
 * C:\Users\[Your UserName]\AppData\Roaming\OptiSigns
 * C:\Users\[Your UserName]\AppData\Roaming\xxxxxxxxxxx.file
-
-![](https://support.optisigns.com/hc/article_attachments/19771754440723)
 
 Then you can download the latest OptiSigns Windows version here:
 

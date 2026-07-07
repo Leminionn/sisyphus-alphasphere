@@ -2,24 +2,17 @@
 
 **Article ID:** 39080869746067
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/39080869746067-Handle-OAuth-Authentication-using-API-Gateway-Pre-request-Configuration
 **Last Updated:** 2025-08-28T18:42:06+00:00
 ---
-
-### In this article, we will explain how to set up a Pre-request to retrieve an OAuth 2.0 access token for connecting to an API using an API Gateway.
 
 OptiSigns API Gateway allows for OAuth authentication via Pre-request. This gives users the capability to consume API that requires OAuth authentication or similar.
 
 To get started, you'll need to set up an API request. Hover over **Account Name → More****→** Click **DataSources**:
 
-![how to navigate to datasource](https://support.optisigns.com/hc/article_attachments/39080869728915)
-
 From there, hit **Add Request**.
 
-![datasources add request button](https://support.optisigns.com/hc/article_attachments/39080900410515)
-
 Create a **GET****Request** and input your API endpoint, then click **Pre-request:**
-
-![optisigns api request form pre-request](https://support.optisigns.com/hc/article_attachments/39080869729555)
 
 Within the Pre-request field, input the following code:
 
@@ -47,11 +40,7 @@ os.context.set("request.headers.authorization", token);
 
 Now configure the **Header**:
 
-![properly configured API header](https://support.optisigns.com/hc/article_attachments/39080900411795)
-
 With this and the rest of the required fields filled out, you've properly configured your Pre-request. Hitting **Run Test** should return a **200 OK** Response.
-
-![successful api request](https://support.optisigns.com/hc/article_attachments/39080869736211)
 
 If so, hit **Save**to finish your API Request.
 

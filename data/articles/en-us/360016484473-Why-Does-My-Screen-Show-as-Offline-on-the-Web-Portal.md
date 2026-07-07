@@ -2,6 +2,7 @@
 
 **Article ID:** 360016484473
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360016484473-Why-Does-My-Screen-Show-as-Offline-on-the-Web-Portal
 **Last Updated:** 2026-05-19T19:33:42+00:00
 ---
 

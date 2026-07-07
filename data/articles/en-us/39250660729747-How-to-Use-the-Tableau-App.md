@@ -2,16 +2,9 @@
 
 **Article ID:** 39250660729747
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/39250660729747-How-to-Use-the-Tableau-App
 **Last Updated:** 2026-01-06T22:36:49+00:00
 ---
-
-### In this article, we’ll show you how to set up and use the Tableau app to display Dashboards on digital signs.
-
-* [What You’ll Need](#WhatYouNeed)
-* [Step 1: Set Up OptiSigns as a Connected App in Tableau](#Step1)
-* [Step 2: Set Up Tableau Integration in OptiSigns](#Step2)
-* [Step 3: Creating a Tableau Asset](#Step3)
-* [Additional Notes](#Notes)
 
 With the Tableau app, it’s possible to securely display Tableau dashboards on your large TVs and screens. This can dramatically increase communication and information across office spaces.
 
@@ -41,21 +34,13 @@ To view Private reports in OptiSigns, it needs to be set up as a **Connected App
 
 To begin, find your **Settings** tab within Tableau. Once there, click **Connected Apps** → **New Connected App**.
 
-![new connected app tableau](https://support.optisigns.com/hc/article_attachments/39250613919635)
-
 Select **Direct Trust**.
 
-![direct trust dropdown tableau](https://support.optisigns.com/hc/article_attachments/39250613922451)
-
 You’ll open the Create Connected App window. Here, you can give your connected app a name (we recommend “OptiSigns” so you know it’s for us), restrict its access, and provide allowed domains. For the purposes of this example, we’ll apply it to “All projects” and “All domains.”
-
-![create connected app window tableau](https://support.optisigns.com/hc/article_attachments/39250613923987)
 
 Once created, it will appear in a list of Connected Apps. Select the app.
 
 On this screen, you'll want to **Enable** the OptiSigns app by hitting the **Three Dots**. Then, you'll want to hit **Generate New Secret**:
-
-![Screenshot 2025-03-22 at 5.27.26 PM.jpg](https://support.optisigns.com/hc/article_attachments/39672709375507)
 
 The blurred out values are your **Secret ID, Secret Value, and Client ID**. These values will be critical to setting up your integration with OptiSigns, so keep this tab open.
 
@@ -72,15 +57,10 @@ Before starting this step, you should have:
 
 When you’re ready to go, navigate to the **Integrations** tab within OptiSigns:
 
-![integrations tab optisigns](https://support.optisigns.com/hc/article_attachments/39250660697107)
-
 Under the Tableau section of the Integrations page, select **Add Connection**.
-
-![](https://support.optisigns.com/hc/article_attachments/39597853563283)
 
 The **Add** window will pop up:
 
-![add integrations window optisigns](https://support.optisigns.com/hc/article_attachments/39250613933203)  
 You’ll need to fill in 5 values:
 
 * **Name -** The name of the integration. Put whatever you want to help identify it.
@@ -106,23 +86,13 @@ Now that we’ve got the Tableau integration set up, it’s time to create a Tab
 
 First, find the report you’d like to display. Hit **Share:**
 
-![](https://support.optisigns.com/hc/article_attachments/39364492002579)
-
 On the Share View window, hit **Copy Link**:
-
-![share view copy link tableau](https://support.optisigns.com/hc/article_attachments/39250613936275)
 
 Now go back to the OptiSigns portal and hit **Files/Assets** → **Apps:**
 
-![optisigns files/assets tab app](https://support.optisigns.com/hc/article_attachments/39250613937555)
-
 Now find the **Tableau** app.
 
-![tableau app optisigns](https://support.optisigns.com/hc/article_attachments/39250660711955)
-
 Clicking the app will open this window:
-
-![](https://support.optisigns.com/hc/article_attachments/39597827693203)
 
 * **Name -** The name of your Asset. This is used entirely in OptiSigns and can be anything you like.
 * **Tableau Shared Report URL -** This is where you’ll input the Share URL you copied earlier.
@@ -136,25 +106,15 @@ Clicking the app will open this window:
 
 Now it's time to authenticate your Shared Report URL with an appropriate Connected App Integration you set up earlier:
 
-![](https://support.optisigns.com/hc/article_attachments/39597827694099)
-
 * **Connected App Integration -** Select the integration [you set up in Step 2](#Step2) in this box.
 
 Once you input the **Tableau Shared Report URL** and have selected your Integration, hit **Save** and your report should appear as a Preview:
 
-![](https://support.optisigns.com/hc/article_attachments/39597827695763)
-
 Once you have tailored it to your liking, you can **Close** it. This will create a Tableau asset that can be added to a Playlist or directly assigned to a screen:
-
-![](https://support.optisigns.com/hc/article_attachments/39597853567251)
 
 In order to display different tabs of a report, select the tab you'd like to view on Tableau site, then hit **Share**, same way as before:
 
-![tableau report share](https://support.optisigns.com/hc/article_attachments/39250660703635)
-
 You'll then create a new Asset with that Share link as the **Site URL**:
-
-![](https://support.optisigns.com/hc/article_attachments/39597827698067)
 
 To display all the tabs in a report on a screen, these Assets can be placed in a [Playlist](https://support.optisigns.com/hc/en-us/articles/28295104605843-How-to-Create-Use-Playlists) to show the complete report.
 
@@ -168,9 +128,8 @@ Content display may vary based on device type and screen resolution.
 
 **If your workbook contains broad views:**
 
-* + - Create Custom Views on the Tableau site and use the Custom View's URL as the Shared Report URL.![](https://support.optisigns.com/hc/article_attachments/39597853568787)
-    - Set the View Size to either **Fit Width**, **Fit Height**, or **Entire View**:  
-      ![](https://support.optisigns.com/hc/article_attachments/39597827704979)
+* + - Create Custom Views on the Tableau site and use the Custom View's URL as the Shared Report URL.
+    - Set the View Size to either **Fit Width**, **Fit Height**, or **Entire View**:
 
 #### Note 3:
 
@@ -187,8 +146,6 @@ We have several recommendations on how to handle this with multiple devices:
 In addition, Tableau has a [**Data Freshness Policy**](https://help.tableau.com/current/online/en-us/data_freshness_policy.htm)which limits the number of refreshes of a workbook using a live connection. This is a setting within Tableau that controls your refresh rate.
 
 To change this, go to the workbook you want to edit. Hit the **Info button** **→ Edit Freshness Policy...** then click **Ensure data is fresh every:** and set it to your desired freshness.
-
-![](https://support.optisigns.com/hc/article_attachments/47980799604755)
 
 There are a few critical points to note here.
 

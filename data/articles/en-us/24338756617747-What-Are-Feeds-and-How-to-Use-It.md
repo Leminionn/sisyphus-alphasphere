@@ -2,6 +2,7 @@
 
 **Article ID:** 24338756617747
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/24338756617747-What-Are-Feeds-and-How-to-Use-It
 **Last Updated:** 2025-08-28T18:46:57+00:00
 ---
 
@@ -32,17 +33,11 @@ We provide a rich tapestry of categories to suit various environments:
 **1.** Log in to your account, go to [Files/Asset page](https://app.optisigns.com/app/assetManagement).  
 **2.** Click **Feeds**
 
-![feeds-step1.jpg](https://support.optisigns.com/hc/article_attachments/24340116387731)
-
 **3.** Start browsing and select which Feeds you want to use.
-
-![feeds-step2.jpg](https://support.optisigns.com/hc/article_attachments/24338806508563)
 
 |  |
 | --- |
 | Note: You can preview the Feeds content before using it. |
-
-![feeds-step3.jpg](https://support.optisigns.com/hc/article_attachments/24340116391827)
 
 Press **"Next"**, and you can rename the Feed if you'd like, then press **"Save".**
 
@@ -56,8 +51,6 @@ Finally, push your Feeds to your screen! If you need help learning how to do thi
 | * That are curated YouTube feeds (Relax-Reel) **will require** internet connection to play. |
 
 ### Recommended Duration:
-
-![mceclip3 (1) (1).png](https://support.optisigns.com/hc/article_attachments/29784549092883)
 
 Each feeds has a recommended duration. This way it helps keep the screen fresh, not repetitive content.
 

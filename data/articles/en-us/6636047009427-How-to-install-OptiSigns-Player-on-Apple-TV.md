@@ -2,6 +2,7 @@
 
 **Article ID:** 6636047009427
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/6636047009427-How-to-install-OptiSigns-Player-on-Apple-TV
 **Last Updated:** 2025-09-02T19:59:56+00:00
 ---
 
@@ -25,38 +26,23 @@ If you need more features, please consider our **[Pre-Configured Android Stick]
 
 ## **1) Install OptiSigns channel/app on your Apple TV**
 
-Search for OptiSigns on the Apple store.  
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/6635744215571)
+Search for OptiSigns on the Apple store.
 
-#### Go to the search and type in "optisigns" mceclip1.png
+#### Go to the search and type in "optisigns"
 
 Click "Get" the OptiSigns app
 
-![mceclip3.png](https://support.optisigns.com/hc/article_attachments/6673899147795)
-
 After the OptiSigns app finishes the installation, you can Click Open
-
-![mceclip4.png](https://support.optisigns.com/hc/article_attachments/6673923839635)
 
 It will show the pairing code on your screen.
 
-![mceclip5.png](https://support.optisigns.com/hc/article_attachments/6673945834003)
-
 You now can go to our portal at: <https://app.optisigns.com/> to pair the screen.
-
-![4.png](https://support.optisigns.com/hc/article_attachments/24124146067731)
 
 Once you logged in, Click "Add Screen" button.
 
-![5.png](https://support.optisigns.com/hc/article_attachments/24124146074003)
-
 In this pop-up, type in the Pair Code showing up on the OptiSigns App. Then Click Pair.
 
-![6.png](https://support.optisigns.com/hc/article_attachments/24124156724115)
-
 The OptiSigns App will change to:
-
-![7.png](https://support.optisigns.com/hc/article_attachments/24124146126867)
 
 Now you are ready to upload and assign content.
 

@@ -2,6 +2,7 @@
 
 **Article ID:** 33382537925267
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/33382537925267-Making-a-Video-Wall-with-OptiSigns-Video-Wall-App
 **Last Updated:** 2025-12-11T15:16:23+00:00
 ---
 
@@ -61,15 +62,9 @@ With the Video Wall app, you can push content to multiple screens at once. There
 
 2 Screens:
 
-![firefox_XB97JstVsl.jpg](https://support.optisigns.com/hc/article_attachments/40326717835539)
-
 3 Screens:
 
-![firefox_37YV6N0Ewz.jpg](https://support.optisigns.com/hc/article_attachments/40326717836691)
-
 4 Screens:
-
-![firefox_w0qXk6trkk.jpg](https://support.optisigns.com/hc/article_attachments/40326717837715)
 
 ---
 
@@ -81,11 +76,7 @@ There are two ways to purchase a license.
 
 The first is to navigate to your **Subscription Plan** tab:
 
-![subscription plan tab location in optisigns web browser](https://support.optisigns.com/hc/article_attachments/33382537873043)
-
 Once there, scroll down to the **Video Wall Add-on** section and choose **Add Screen:**
-
-![video wall add-on section in subscription plan tab with arrow pointing toward Add Screen button](https://support.optisigns.com/hc/article_attachments/33382521775379)
 
 You’ll be prompted to add this add-on to your subscription.
 
@@ -93,13 +84,7 @@ The second way is to pair your subscription directly with your screen. To do thi
 
 Now, set up your screen through the **Edit Screen** option:
 
-![screens tab in optisigns with arrow pointing toward Edit Screen button](https://support.optisigns.com/hc/article_attachments/33382521787283)
-
-![edit screen menu in optisigns web browser with arrow pointing toward Advanced button](https://support.optisigns.com/hc/article_attachments/33382521789203)
-
 Navigate to **Advanced → More**, then find the **Video Wall** option and hit **Activate**:
-
-![edit screen menu in optisigns scrolled down with arrow pointing at More button and another arrow pointed at Video Wall activate button](https://support.optisigns.com/hc/article_attachments/33382537889939)
 
 You’ll be prompted to add this add-on to your subscription.
 
@@ -113,11 +98,7 @@ You’ll be prompted to add this add-on to your subscription.
 
 To use a video wall, you’ll need to set it up through the Video Wall app. To do that, navigate to **Files/Assets → Apps**, then select **Video Wall Content**:
 
-**![picture of several app options within optisigns web browser with arrow pointing at Video Wall app](https://support.optisigns.com/hc/article_attachments/33382537891219)**
-
 You’ll be prompted to select the number of screens and their orientation:
-
-![](https://support.optisigns.com/hc/article_attachments/40326717838739)
 
 |  |
 | --- |
@@ -132,8 +113,6 @@ Once selected, you’ll have a couple options: you can build a basic video wall,
 
 To create a basic video wall, select the number of screens and their orientation. Once you’ve done so, you’ll see the following:
 
-![open video wall app with zone options on left and screen layout on right](https://support.optisigns.com/hc/article_attachments/33382521810835)
-
 Notice that each screen is known as a **Zone**, mapped to the HDMI ports on your OptiSigns Pro Player. Make sure your screens are arranged in the order displayed here, as it cannot be changed.
 
 There are a few options to note:
@@ -146,8 +125,6 @@ There are a few options to note:
 
 Clicking the **Gear** icon will lead you to this screen:
 
-![picture of video wall configs menu with audio zone and primary zone options](https://support.optisigns.com/hc/article_attachments/33382521817235)
-
 **Audio Zone** - Lets you choose which screen the audio will come from. This can be **All**, or any one of the **HDMI ports**you've assigned a screen to.
 
 **Primary Zone** - Setting one of your screens as a Primary Zone will provide a better experience or smoother content transition when you need to coordinate contents in different zones and put use the video wall app in a playlist.
@@ -158,8 +135,6 @@ For more information on these zones, see our guide on [Advanced Playlist Item Pl
 
 Should you choose content and assign it to your screens in this way, your video wall will function almost like a split screen, with each screen displaying different content or repeating images:
 
-![example of a multi-zone video wall, 2x1](https://support.optisigns.com/hc/article_attachments/33382521820819)
-
 ---
 
 ### Merging Screens to Create a Continuous Image or Video
@@ -168,23 +143,13 @@ To create one continuous image, the screens will need to be merged.
 
 To do this, click the **Merge Screens** button:
 
-![image of 3x1 video wall with arrow pointing at merge screens button](https://support.optisigns.com/hc/article_attachments/33382537910675)
-
 Then, select the screens you’d like to merge:
-
-![image with two of three screens selected and an arrow pointing toward merge option](https://support.optisigns.com/hc/article_attachments/33382537912083)
 
 These two screens will now be merged, and considered the same Zone:
 
-![image of one larger screen next to a smaller screen to represent two merged zones](https://support.optisigns.com/hc/article_attachments/33382521823891)
-
 You can continue merging screens if you have a third to create a video wall that looks like the image below, with one continuous image.
 
-![optisigns three screen video wall displaying mountains and a lake](https://support.optisigns.com/hc/article_attachments/33501752188563)
-
 In order to unmerge screens, select the merged screens, hit the **Merge Screens** button again, then hit the two arrows going out from each other:
-
-![image showing arrow pointing toward unmerge screen option](https://support.optisigns.com/hc/article_attachments/33382521829907)
 
 This will separate the screens into separate Zones once again.
 
@@ -200,11 +165,7 @@ To support this, it's possible to input a custom resolution. Here's how.
 
 First, find your Pro Player screen with the Video Wall add-on applied. Go to **Advanced** → **More** → **Video Wall.** You may need to activate it. When activated, this will appear:
 
-![](https://support.optisigns.com/hc/article_attachments/47300715377555)
-
 Click **Change**, then hit any option. A resolution should be displayed, like this:
-
-![](https://support.optisigns.com/hc/article_attachments/47300715380883)
 
 To input a custom resolution, simply replace the numbers in the box with the resolution you would like to display.
 
@@ -214,21 +175,15 @@ To input a custom resolution, simply replace the numbers in the box with the res
 
 If you have a non-standard video wall setup, you may wish to force the display to either Portrait or Landscape mode. To do this, find your Pro Player screen with the Video Wall add-on applied. Then, go to **Advanced** → **More** → **Video Wall.** You may need to activate it. When activated, this will appear:
 
-![](https://support.optisigns.com/hc/article_attachments/47300715377555)
-
 Click **Change**, then hit any option. Your chosen resolution should be displayed. Then:
 
 **For Portrait:**
 
 Append ":P" to the end of the resolution string:
 
-![](https://support.optisigns.com/hc/article_attachments/47300715383699)
-
 **For Landscape:**
 
 Append ":L" to the end of the resolution string:
-
-![](https://support.optisigns.com/hc/article_attachments/47300715387027)
 
 Your video will now display in the requested mode.
 
@@ -240,15 +195,11 @@ With a Video Wall license purchased and app made, it's now time to set up your v
 
 ### ProMax Player
 
-![4 screen video wall diagram](https://support.optisigns.com/hc/article_attachments/40772872682259)
-
 When setting up a video wall using a ProMax player, begin with the HDMI outlets and go from left to right. **HD-A-1** will correspond to screen 1, **HD-A-2** will correspond to screen 2, **HD-A-3** will correspond to screen 3. Then the **DP** port will correspond to screen 4. If using three screens, the DP port is not needed; if using two, then the DP and HD-A-3 ports are not needed.
 
 Remember: in most setups, the player will be facing outward, with the AV ports facing toward the screens.
 
 ### Pro Player
-
-![video wall hdmi diagram](https://support.optisigns.com/hc/article_attachments/36987172953491)
 
 **HD-A-1** goes to your farthest left or most vertical screen, **HD-A-2** goes to your middle screen, and **HD-A-3** goes to the farthest right or bottom screen. If using just two screens, HD-A-3 is not needed.
 
@@ -283,8 +234,6 @@ Just download OptiSigns player for Win, Linux, and Raspberry Pi (version 4.2.9 o
 
 Arrange your screens setup as extended and set the position of the screens.
 
-![Using the convenient "multi-display" function on Windows 10 | EIZO](https://www.eizoglobal.com/library/basics/windows-10-multi-display-function/6.png)
-
 Run OptiSigns app, and resize the player to fill up across all the screens. This can be done in two ways:
 
 1. Dragging the app to fill up all screens (least precise method)
@@ -294,27 +243,17 @@ Run OptiSigns app, and resize the player to fill up across all the screens. This
 
 This is a simple, basic technique whereby you simply drag the OptiSigns app window to fill up your extended video wall display, like below:
 
-![optisigns video wall demo](https://support.optisigns.com/hc/article_attachments/40326717839635)
-
 This is the easiest method, but does not provide precise control over how large your screen will be. Remember to hide your taskbar, to make OptiSigns fill in all the screens.
 
 #### Option 2: Fixing Screen Size Using the Override Win Size & Position Option (Recommended)
 
 To get the most precisely optimized video wall, you'll want to follow these steps. First, in your OptiSigns app, click on the **Hamburger Menu**.
 
-![hamburger menu](https://support.optisigns.com/hc/article_attachments/40326717840531)
-
 This will open up a list of options. **Disable Fullscreen on Startup:**
-
-![fullscreen on startup option](https://support.optisigns.com/hc/article_attachments/40326717841555)
 
 Now, scroll down to the **Override Win Size & Position** option:
 
-![override win size and position option](https://support.optisigns.com/hc/article_attachments/40326748430739)
-
 Once selected, you'll see this screen:
-
-![override win size and position menu](https://support.optisigns.com/hc/article_attachments/40326717844755)
 
 Set the width and height to match the resolutions of your screens.
 

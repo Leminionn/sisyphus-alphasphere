@@ -2,6 +2,7 @@
 
 **Article ID:** 360049875794
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360049875794-How-to-use-Follow-Us-App
 **Last Updated:** 2026-07-05T19:15:39+00:00
 ---
 
@@ -11,11 +12,7 @@ This app is useful to encourage viewers to follow you on social media platform, 
 
 Here's how it looks like in Dark Theme:
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360076703993)
-
 And Light Theme:
-
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/360076704013)
 
 ## **Let's jump in and get started:**
 
@@ -25,11 +22,7 @@ Then log on to our portal: <http://app.optisigns.com/>
 
 Go to Files/Assets, Click on "App", and Click Follow Us app:
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/1500019182342)
-
 Enter your Follow Us Wall information:
-
-![mceclip7.png](https://support.optisigns.com/hc/article_attachments/360076704093)
 
 * Name: Name of your Follow Us Wall, this is the name of the wall in your asset list. It will **not** be displayed on your screens.
 * Title: Type in a Title you want to display on the screen.

@@ -2,6 +2,7 @@
 
 **Article ID:** 15268811715347
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/15268811715347-Cannot-find-the-OptiSigns-app-on-Your-Samsung-Smart-TV
 **Last Updated:** 2026-06-11T17:13:11+00:00
 ---
 

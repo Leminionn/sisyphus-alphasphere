@@ -2,6 +2,7 @@
 
 **Article ID:** 1500009343862
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/1500009343862-How-to-use-the-Taggbox-Display-app-with-OptiSigns
 **Last Updated:** 2025-09-04T15:16:41+00:00
 ---
 
@@ -21,17 +22,11 @@ First, you will need to have your screens set up and paired. For more informatio
 Got to [Taggbox.com](https://taggbox.com/) on your browser, open **My Walls**,  
 Copy the **Display Link** from your wall.
 
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/1500014464321)
-
 Then log on to our portal: <http://app.optisigns.com/>
 
 Go to Files/Assets, Click on "App", Click "Taggbox Display"
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/1500014464161)
-
 Enter your Taggbox Display Wall information:
-
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/1500014829161)
 
 * Name: Give your Taggbox Display a name. This is for displaying in your asset list only.
 * URL: Paste the link to your Taggbox Display wall display link here.

@@ -2,6 +2,7 @@
 
 **Article ID:** 4404590815635
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/4404590815635-How-to-set-up-SAML-2-0-with-OptiSigns-and-Okta
 **Last Updated:** 2026-06-08T15:02:21+00:00
 ---
 
@@ -21,8 +22,6 @@ You can also map your domain like digitalsigns.yourcompany.com by following this
 
 This will be the URL that you can share with your users so they can log in to use the app, once integration has set up. In our example, we will use <https://advanced.optisigns.net/>
 
-![](https://support.optisigns.com/hc/article_attachments/43875570896659)
-
 Next, go to the SAML Single Sign On setting page:
 
 <https://app.optisigns.com/app/s/saml-settings>
@@ -36,8 +35,6 @@ The settings are:
 * Enable User Override: Every time a user logs in, if their group assignment has changed on SAML, OptiSigns will update, and override new profile settings.
 * Note the "Single Sign On URL" and "Audience URI (SP Entity ID) URL", you will need this to use in Okta later.
 
-![](https://support.optisigns.com/hc/article_attachments/28207766414227)
-
 **Next, add OptiSigns as an App to your Okta account:**
 
 Log in to your Okta account as admin -> Application
@@ -46,36 +43,24 @@ Or go to: <https://optisigns-admin.okta.com/admin/apps/active>
 
 Click Create App Integration
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/4404598581779)
-
 Select SAML 2.0
-
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/4404590829203)
 
 Enter App name: OptiSigns
 
-If you want to upload a logo, you can use our logo [here](https://download.optisignsapp.com/marketing/optisigns-logo.png).
+If you want to upload a logo, you can use our logo .
 
 Click Next
-
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/4404590844691)
 
 In "Single sign-in URL" and "Audience URI (SP Entity ID)", these are the URL that you have in <https://app.optisigns.com/app/s/saml-settings>  
 Check "Use this for Recipient URL and Destination URLs"
 
 Click Next.
 
-![](https://support.optisigns.com/hc/article_attachments/52406311133459)
-
-![](https://support.optisigns.com/hc/article_attachments/28207766417811)
-
 The last step is just informational for Okta to know how you are using the app.
 
 Select "I'm an Okta customer adding an internal app" as OptiSigns is now an internal app in your organization.
 
 Click Next.
-
-![mceclip8.png](https://support.optisigns.com/hc/article_attachments/4404615741075)
 
 Then click "View Setup Instruction"
 
@@ -85,11 +70,7 @@ Copy these 3 fields and paste into OptiSigns' SAML config page:
 * Identity Provider Issuer -> OptiSigns: Identity Provider Issuer
 * X.509 Certificate -> OptiSigns: Public Certificate
 
-![okta-config.png](https://support.optisigns.com/hc/article_attachments/4404615786259)
-
 Lastly, set the "Sign In Button label", this is the text of the button you want your users to see in their login portal. Use something descriptive like "Log in with Okta" "Sign in with SSO" or something your user is familiar with.
-
-![okta-config-2.png](https://support.optisigns.com/hc/article_attachments/4404615885331)
 
 Click Save
 
@@ -106,8 +87,7 @@ It's not required, but recommended to create groups of users to be assigned, and
 To configure how OptiSigns should map the user groups to OptiSigns Roles by going to: <https://app.optisigns.com/app/s/saml-settings>
 
 Scroll to Advanced Settings and create a mapping.  
-Group Name (group names in Okta), Role (role in OptiSigns) mapping.   
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/4404820186003)
+Group Name (group names in Okta), Role (role in OptiSigns) mapping. 
 
 It's best practice to create a group name prefix with Optisigns- and map to OptiSigns like below:
 
@@ -121,35 +101,21 @@ You can map the "Unmapped users/group" to No Team (Disabled)
 
 This way they will receive an error when trying to log in and will have to reach out to Admins to get the correct teams, and roles assigned. This can be used as a safeguard, in case some users accidentally got assigned OptiSigns app but not the right groups.
 
-![mceclip3.png](https://support.optisigns.com/hc/article_attachments/4404812977171)
-
 Note that if you map a SAML group to a Team and then delete the team, it will result in new user being mapped to No Team and will have to contact you to be assigned to a team to use the app.
 
 Next, go to your Okta Admin portal. Click Applications -> OptiSigns.
 
-![mceclip11.png](https://support.optisigns.com/hc/article_attachments/4404615820691)
-
 Click Assign -> People or Groups to use this app. You can also configure your user to request to use the app, but that's beyond the scope of this article.
-
-![mceclip12.png](https://support.optisigns.com/hc/article_attachments/4404615832339)
 
 You can set up group mapping by going to General -> SAML settings
 
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/4404762241811)
-
 Click Next:
 
-![mceclip3.png](https://support.optisigns.com/hc/article_attachments/4404767623827)
-
 Creating these mappings will pass information to OptiSigns on the user's Name and Groups.
-
-![mceclip4.png](https://support.optisigns.com/hc/article_attachments/4404762334611)
 
 The "Attribute Statement" and "Group Attribute Statement" are corresponding to OptiSigns <https://app.optisigns.com/app/s/saml-settings>
 
 OptiSigns accept firstName, lastName, and group by default, but if you change these in Okta, you will need to match it here as well.
-
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/4404812916115)
 
 **Additional Note:**
 
@@ -165,15 +131,9 @@ https://app.optisigns.com/signIn/<accountId>
 
 You'll first need to find your OptiSigns Account ID. To do this, simply find a paired screen, and hit **Edit** **→** **Advanced** **→** **More**.
 
-![edit screen advanced more](https://support.optisigns.com/hc/article_attachments/38962229904659)
-
 Click **Device Info:**
 
-![info button edit screen](https://support.optisigns.com/hc/article_attachments/38962229906835)
-
 Find the **"accountId"** number, then write it down somewhere. You'll be needing it soon.
-
-![](https://support.optisigns.com/hc/article_attachments/38962235455635)
 
 Now copy the following URL, being sure to substitute your account ID where appropriate:
 

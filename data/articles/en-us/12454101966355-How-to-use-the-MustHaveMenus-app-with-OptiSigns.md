@@ -2,6 +2,7 @@
 
 **Article ID:** 12454101966355
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/12454101966355-How-to-use-the-MustHaveMenus-app-with-OptiSigns
 **Last Updated:** 2025-08-29T20:23:00+00:00
 ---
 
@@ -22,17 +23,11 @@ First, you will need to have your screens set up and paired. For more informatio
 Got to [musthavemenus.com](https://www.musthavemenus.com/) on your browser, open your design, and click the **Share** button,  
 Click the **Share Link**, and **Copy**from your menu design.
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/12454063939987)
-
 Then log on to our portal: <http://app.optisigns.com/>
 
 Go to Files/Assets, Click on "App", Click "MustHaveMenus"
 
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/12454067909267)
-
 Enter your MustHaveMenus information:
-
-![mceclip3.png](https://support.optisigns.com/hc/article_attachments/12454100393491)
 
 * Name: Give your MustHaveMenus a name. This is for displaying in your asset list only.
 * URL: Paste the link to your MustHaveMenus link here.

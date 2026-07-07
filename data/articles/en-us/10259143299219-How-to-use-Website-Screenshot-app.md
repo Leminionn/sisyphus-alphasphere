@@ -2,6 +2,7 @@
 
 **Article ID:** 10259143299219
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/10259143299219-How-to-use-Website-Screenshot-app
 **Last Updated:** 2026-06-25T19:46:15+00:00
 ---
 
@@ -17,11 +18,7 @@ Then log on to our portal: <http://app.optisigns.com/>
 
 Go to Files/Assets, Click on "App", search for and add Screen Capture to your Account.
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/10258962852883)
-
 Enter your Website Screenshot app information:
-
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/10258999491219)
 
 * Name: Name of your Website Screenshot app, this is the name of the app in your asset list. It will **not** be displayed on your screens.
 * URL: URL link that you want to take Screenshot.

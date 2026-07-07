@@ -2,6 +2,7 @@
 
 **Article ID:** 360058936513
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360058936513-Advanced-Proof-of-Play-or-Playback-report
 **Last Updated:** 2026-02-26T18:04:23+00:00
 ---
 
@@ -25,8 +26,6 @@ You can also include Assets Tags and Screens Tags that will allow you to create 
 
 Here's an example of how the Playback Report look:
 
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/360097337234)
-
 Here are the high level steps to set up and use Proof of Play report.
 
 1. Setup: Enable Proof of Play feature on your account
@@ -46,8 +45,6 @@ Once you are on Pro Plus or Enterprise plan:
 Go **Account Settings** -> **Proof of Play**
 
 And check "Enable Playback Reports"
-
-![mceclip3.png](https://support.optisigns.com/hc/article_attachments/360099191493)
 
 By default, screens will update data in real-time as assets are played.  
 If internet is disconnected, data will be saved locally and will be synced to server automatically when the device come back online.
@@ -79,44 +76,28 @@ By default, the report is ran for last 7 days for all of your data.
 You can filter by click the Filter button and set date range.  
 You can also select Assets or Screen Tags you want to filter for.
 
-![mceclip3.png](https://support.optisigns.com/hc/article_attachments/360097338574)
-
 Once the report is ran, you can also use the Search box to filter for data.  
 For example below we looking at all the assets names contained "food"
 
-![mceclip5.png](https://support.optisigns.com/hc/article_attachments/360097340034)
-
 Add more fields/columns to the report:
-
-![mceclip6.png](https://support.optisigns.com/hc/article_attachments/360099645633)
 
 Export Report
 
 You can export report to CSV, Excel, or PDF.
 
-![mceclip7.png](https://support.optisigns.com/hc/article_attachments/360099645673)
-
 Save & Open Report:
 
 You can save the report variant (i.e. Filter for last Month, for certain Advertiser's assets), and then quickly re-run these report later.
-
-![mceclip8.png](https://support.optisigns.com/hc/article_attachments/360097340474)
 
 **4. Using Report: Save & Schedule reports to be emailed out**
 
 You can also Save & Schedule report to be emailed out on Daily, Weekly or Monthly interval and a certain time. This is useful if you have many advertisers that you need to send reports to on regular basis.
 
-![mceclip9.png](https://support.optisigns.com/hc/article_attachments/360097340614)
-
 **5. Export Data: Schedule data export & download data**
 
 You can configure OptiSigns to regularly export your raw data for
 
-![mceclip10.png](https://support.optisigns.com/hc/article_attachments/360099208133)
-
 Here's how a data export looks like:
-
-![mceclip11.png](https://support.optisigns.com/hc/article_attachments/360096894574)
 
 ## **Summary:**
 

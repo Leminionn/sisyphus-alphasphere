@@ -2,6 +2,7 @@
 
 **Article ID:** 9169378546195
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/9169378546195-Data-Residency-and-OptiSigns
 **Last Updated:** 2026-06-05T14:25:01+00:00
 ---
 

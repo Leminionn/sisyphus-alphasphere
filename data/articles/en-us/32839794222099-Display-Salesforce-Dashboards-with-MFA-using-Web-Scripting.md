@@ -2,6 +2,7 @@
 
 **Article ID:** 32839794222099
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/32839794222099-Display-Salesforce-Dashboards-with-MFA-using-Web-Scripting
 **Last Updated:** 2025-09-02T20:45:08+00:00
 ---
 
@@ -25,21 +26,15 @@ Next, go to your account settings > My Personal Information > Advanced User Deta
 
 From there, click **"Connect"** on "**App Registration: One-Time Password Authenticator**"
 
-![Salesforce account settings and setting up authenticator app](https://support.optisigns.com/hc/article_attachments/35528791304211)
-
 When Salesforce prompts you to connect an Authenticator App, **DO NOT** immediately scan the QR code.
 
 Click "**I Can't Scan the QR Code**".
-
-![Salesforce setting up authenticator app. Select 'I can't scan the QR code'](https://support.optisigns.com/hc/article_attachments/35528807336979)
 
 **Copy and paste the alphanumeric string** displayed underneath "Key". **Save this key** somewhere secure, like the Notepad app.
 
 * This is ***necessary*** for the web scripting process later.
 
 Next, enter that setup key in your authenticator app, then enter the verification code into Salesforce, and connect!
-
-![Save the setup key that Salesforce provides you.](https://support.optisigns.com/hc/article_attachments/35528807340691)
 
 **Your MFA is now set up!**
 
@@ -57,22 +52,16 @@ During the recording process, **write down the exact verification code** you inp
 
 Once your script is recorded, Burp Suite should automatically copy it to your clipboard. You can also copy it to your clipboard by opening Burp Suite in the extension manager:
 
-![Click 'Copy to clipboard' on Burp Suite Navigation extension to copy the script again.](https://support.optisigns.com/hc/article_attachments/35528791311507)
-
 Log in to your OptiSigns account and open the Files/Assets page to create your asset. Click on **"Apps"** You need to:
 
 1. Paste your script into the "**Recorded Script**" box
 2. Paste the alphanumeric setup key you saved from Salesforce into "**Secret 2FA**"
 3. Input the *exact* verification code you used during the login process while recording into the "**Recorded 2FA Code**" box.
 
-![Web scripting in OptiSigns and pasting the script, setup key, and 2fa code in their respective boxes.](https://support.optisigns.com/hc/article_attachments/35528807348627)
-
 Click **Save!**
 
 ---
 
 Now you can [push this app to your screen,](https://support.optisigns.com/hc/en-us/articles/18988049363859) [add it to a split screen app](https://support.optisigns.com/hc/en-us/articles/360026559573), and more!
-
-![A salesforce dashboard displayed on a split screen app to show the dashboard, weather, and important news on your TV.](https://support.optisigns.com/hc/article_attachments/35377393852691)
 
 If you have any additional questions, concerns, or any feedback about OptiSigns, feel free to reach out to our support team at support@optisigns.com

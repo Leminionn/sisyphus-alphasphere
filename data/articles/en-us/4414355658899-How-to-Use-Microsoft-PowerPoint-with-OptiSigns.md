@@ -2,6 +2,7 @@
 
 **Article ID:** 4414355658899
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/4414355658899-How-to-Use-Microsoft-PowerPoint-with-OptiSigns
 **Last Updated:** 2026-02-05T17:57:12+00:00
 ---
 
@@ -17,8 +18,6 @@
   + [Option 3: Embed Your PowerPoint](#3)
 * [Best Practices for Using PowerPoint With OptiSigns](#Best)
 * [FAQs](#FAQs)
-
-![powerpoint tutorial image showing interior of a room](https://support.optisigns.com/hc/article_attachments/4414348181267)
 
 ---
 
@@ -38,11 +37,9 @@ Depending on how you download your PowerPoint, this option can be useful if you 
 3. Navigate to the **Files/Assets** page
 4. Click [**Upload Files**](https://support.optisigns.com/hc/en-us/articles/360016247974)
 5. **Drag** in or **select** your PowerPoint file from your device
-6. Click **Upload**  
-   **![chrome_g1LHNs2Iy9.png](https://support.optisigns.com/hc/article_attachments/32753273873683)**
+6. Click **Upload**
 7. Either: **Assign** to a screen on the Screens Management page or **push** the asset to your screen.
-   * If downloaded as a **PDF** or **PPT,** select the **Duration (seconds)**of the entire document. *(Min. 4/page)*  
-     ![](https://support.optisigns.com/hc/article_attachments/32753266813587)
+   * If downloaded as a **PDF** or **PPT,** select the **Duration (seconds)**of the entire document. *(Min. 4/page)*
 
 ### Limitations
 
@@ -60,11 +57,9 @@ This option allows you to access private PowerPoint files directly from your Mic
 | The first time logging on, your account will require Administrator access.   * If you are using a school/work Microsoft account, your IT admin may need to approve the permission the first time. * If you see a message like “Need admin approval” or you cannot accept the permission screen, please forward that screen to your IT admin and ask them to approve the OptiSigns access request for your tenant. |
 
 1. **Log in** to the OptiSigns portal.
-2. Go to **Files/Assets**, then **Apps,** and search for the **PowerPoint Online** app.  
-   ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXctyxphw64S7IffhAlKONz2CBtl9SM2hYnvL72AVhnlzbT1d3BSe_gnLGsrsRdWmB5TgjhXdOspMocHyc3dr_n3ExHZkoTWhf5wUz8wZLhk6oTEdNfuLrTx_cu4ShuD9Kfli5XmQCbaOevOCPUN9vJEiR_2?key=noHOHSXZOLEkm57p-PUcng)
+2. Go to **Files/Assets**, then **Apps,** and search for the **PowerPoint Online** app.
 3. Click “**Log In With Microsoft**” in the OptiSigns app.
-4. **Select the PowerPoint file** you wish to display.  
-   ![chrome_HitDNka7Wp.png](https://support.optisigns.com/hc/article_attachments/32753273882387)
+4. **Select the PowerPoint file** you wish to display.
 5. **Name your asset** for easy identification (this name will not be shown on the screen).
 6. **Adjust the speed** of slide transitions.
    * **Slow/5:** 19 seconds
@@ -86,22 +81,17 @@ This option allows you to access private PowerPoint files directly from your Mic
 *We do not currently recommend this option unless you are displaying one page.*
 
 1. **Upload your PowerPoint file** to Microsoft OneDrive and **open it**.
-2. Navigate to the **File** tab, select **Share**, and then click **Embed**.  
-   ![chrome_9JwlCn8RzV.png](https://support.optisigns.com/hc/article_attachments/32753260331411)
-3. **Copy** the HTML embed code.  
-   ![chrome_sR96oO3KwU (1).png](https://support.optisigns.com/hc/article_attachments/32753266835731)
+2. Navigate to the **File** tab, select **Share**, and then click **Embed**.
+3. **Copy** the HTML embed code.
 4. Next, **Share** your presentation publicly by clicking the **Share** button in PowerPoint Online.
 5. Select **Copy Link**
-   * Make sure that the link is accessible to anyone!  
-     ![Untitled design.png](https://support.optisigns.com/hc/article_attachments/32753266842003)
+   * Make sure that the link is accessible to anyone!
 6. **Replace** the URL in the generated embed code with the **public** **URL** of your PowerPoint that you just copied**,** as shown below. This ensures that the presentation is accessible without requiring a login.  
      
    <iframe src="https://**Your-Public-URL**&amp;action=embedview&amp;wdAr=1.7777777777777777&amp;wdEaa=1" width="476px" height="288px" frameborder="0">This is an embedded <a target="\_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="\_blank" href="https://office.com/webapps">Office</a>.</iframe>
 7. **Log in** to the OptiSigns portal.
-8. Go to **Files/Assets**, then **Apps,** and search for the **PowerPoint Online** app.  
-   ![chrome_fwwQKVRzVI.png](https://support.optisigns.com/hc/article_attachments/32753260348563)
-9. Paste the **modified embed code.**  
-   **![chrome_QYIejECtvB.png](https://support.optisigns.com/hc/article_attachments/32753260352659)**
+8. Go to **Files/Assets**, then **Apps,** and search for the **PowerPoint Online** app.
+9. Paste the **modified embed code.**
 10. Optionally, **customize the Update** **Interval** (default: 600 seconds).
 11. Click **Save.**
 12. [**Push to Screens**](https://support.optisigns.com/hc/en-us/articles/18988049363859)
@@ -134,8 +124,6 @@ This administrator access is only needed for first time access. Once the OptiSig
 ### I want to log in to PowerPoint directly through my Microsoft account, but I don't see the option! What's going on?
 
 If you're setting up the app and it looks like the image below, you're likely logged on through a **Branded Portal.**
-
-![](https://support.optisigns.com/hc/article_attachments/40597826081939)
 
 To use Microsoft single sign-on, sign in through [app.optisigns.com](http://app.optisigns.com) rather than your Branded Portal.
 

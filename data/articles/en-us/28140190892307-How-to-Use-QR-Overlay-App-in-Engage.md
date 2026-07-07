@@ -2,6 +2,7 @@
 
 **Article ID:** 28140190892307
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/28140190892307-How-to-Use-QR-Overlay-App-in-Engage
 **Last Updated:** 2025-08-29T20:47:28+00:00
 ---
 
@@ -19,8 +20,6 @@ First, head over to our Engage section in our OptiSigns portal, or click on the 
 
 Select QR Overlay → “Build”
 
-![](https://support.optisigns.com/hc/article_attachments/28149616742291)
-
 Select what you’d like your QR Code to take your audience to once scanned from the list of available options, such as,
 
 * Open your website URL
@@ -35,11 +34,7 @@ Fill out the corresponding information to set up your choice.
 
 For example, if you select “Link”, make sure to paste your desired website URL in the section directly below the options as we did below.
 
-![](https://support.optisigns.com/hc/article_attachments/28149616764307)
-
 If you’d like to customize your QR Code, select “QR Options” for a variety of customization options to drop down
-
-![](https://support.optisigns.com/hc/article_attachments/28150914403219)
 
 * Background: Will change the background color of the QR Code from white to whatever color you’d like. You can select a single color or color gradient, then choose your color.
 * Logo: Upload a logo or image to appear in the center of the QR Code. Change the Image Size to be bigger or smaller. Change the margin to create white space around the logo.
@@ -62,13 +57,9 @@ You can also adjust the scaling of the asset to
 * Stretch
 * Zoom your display.
 
-![](https://support.optisigns.com/hc/article_attachments/28149616806931)
-
 Change the QR Code's location with preset locations in the corners of the screen or customize it to where you’d like it to reside on your screen.
 
 Also, adjust the QR Code to your preferred size, making it bigger or smaller.
-
-![](https://support.optisigns.com/hc/article_attachments/28149646868883)
 
 Lastly, click **Save** and **Assign** your QR Overlay to your Screen or Tags, or you can assign it later.
 

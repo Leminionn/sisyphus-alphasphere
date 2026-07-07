@@ -2,6 +2,7 @@
 
 **Article ID:** 31449657955347
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/31449657955347-Getting-Started-with-Touch-Screen-Kiosks
 **Last Updated:** 2025-10-29T18:57:43+00:00
 ---
 
@@ -38,8 +39,6 @@ You can be reach this section by:
 2. Clicking **Touch Screen Kiosks** or by clicking on New App
 3. Click **Select App**
 
-![firefox_uKmURDpV6g.png](https://support.optisigns.com/hc/article_attachments/31449641328147)
-
 #### Each of these options is designed to meet specific needs, providing you with the flexibility to choose the best fit for your kiosk goals. Let’s take a closer look at what each option offers.
 
 |  |
@@ -58,8 +57,6 @@ Kiosk Lite is a quick and easy interactive solution for your kiosk. You can show
 | If you have a pre-built asset, such as a playlist, image, or video, that you want to use as an attract screen and then direct users to your website upon interaction, Kiosk Lite is the easiest method to get your kiosk up and running quickly. It's designed for easy use and quick setup, allowing you to get your kiosk running in minutes with engaging content that captures attention and drives user interaction. |
 
 To get started with **Kiosk Lite**, select and then click **Build**:
-
-![firefox_S3x7RBwQWC.png](https://support.optisigns.com/hc/article_attachments/31449641333139)
 
 For a complete guide on how to create your kiosk using the Kiosk Designer Lite, please click on the link below:
 
@@ -81,8 +78,6 @@ Check out and mess around with this live example to see how the Designer Pro can
 | If you want to build out your kiosk’s design elements in OptiSigns, or direct people to multiple links, Kiosk Designer Pro is the best option for you. |
 
 To get started with **Kiosk Designer Pro,** select it from the menu, then click **Build**:
-
-![RNPHd6J7GA.png](https://support.optisigns.com/hc/article_attachments/31449641334547)
 
 For a full tutorial on using Kiosk Designer Pro, see our [Kiosk Designer Pro guide](https://support.optisigns.com/hc/en-us/articles/15313086319763-How-to-Design-Kiosk-Apps-Using-Kiosk-Designer-Pro).
 
@@ -120,10 +115,6 @@ Note that you'll almost certainly want to enable **[Lock Down mode](https://sup
 
 This option will be chosen if you click **"Assign"** after setting up your Kiosk design in Kiosk Lite or Content Library Kiosk.
 
-![firefox_3tMGmCJBio.png](https://support.optisigns.com/hc/article_attachments/31449641337491)
-
-![firefox_HT8qICiYip.png](https://support.optisigns.com/hc/article_attachments/31449641342099)
-
 Once you've created the parameters for your kiosk, you can assign it directly to one of your screens. There are two options:
 
 * **Target -** Select between Screens and Tags. Selecting one or the other will change the next option to either Screens or Tags, depending on which you select here.
@@ -143,11 +134,7 @@ To push screens using the Designer app, start by creating your kiosk design. Fol
 
 Once you've created your kiosk design, rename it and hit **Save**. Once the asset is saved, the **Push to Screens** option will become available:
 
-![push to screen designer](https://support.optisigns.com/hc/article_attachments/43045937814931)
-
 Clicking it will open this window:
-
-![firefox_tPQdxC4U7a.png](https://support.optisigns.com/hc/article_attachments/31696267664915)
 
 * **Asset** - The name of your asset.
 * **Scale** - Choose between None, Fit, Stretch, and Zoom. Fit is the default. This shows how the image will be displayed on your screen.
@@ -168,15 +155,9 @@ You'll also be able to Preview your screen before you push it live. Once you do,
 
 This option will be necessary should you choose **"Save"** or **"Assign Later"** after setting up the kiosk design, and can be done with any type of kiosk design.
 
-![firefox_b2lsu0KfQ6.png](https://support.optisigns.com/hc/article_attachments/31449657938323)
-
 If you want to push your kiosk design to a screen, you'll need to find it under the **Engage** tab. Hover over it and you should see three dots. Click on this, and you'll see the **"Push to Screens"** option.
 
-![firefox_8U32WAaexO.png](https://support.optisigns.com/hc/article_attachments/31449657942419)
-
 Once there, you'll see these options:
-
-![dnqFMu0Ry0.png](https://support.optisigns.com/hc/article_attachments/31449641356051)
 
 * **Asset** - The name of your asset.
 * **Target -** Here, select between Screens, Tags, and Tag Rules. To better understand Tags and Tag Rules, read [this article.](https://support.optisigns.com/hc/en-us/articles/20879903340947-How-to-Use-Content-Tags-in-The-Playlist)

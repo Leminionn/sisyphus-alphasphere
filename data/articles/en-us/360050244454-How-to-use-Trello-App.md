@@ -2,6 +2,7 @@
 
 **Article ID:** 360050244454
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360050244454-How-to-use-Trello-App
 **Last Updated:** 2025-09-05T14:35:39+00:00
 ---
 
@@ -13,15 +14,9 @@ Go to [app.optisigns.com](https://app.optisigns.com).
 
 Click Files/Assets, then click Apps
 
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/360077797693)
-
 Then click Trello app
 
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/360076630234)
-
 Paste the Trello Board URL in.
-
-![mceclip3.png](https://support.optisigns.com/hc/article_attachments/360076630254)
 
 On your device, if your Trello Board is private, you will need to enter in username and password to log in.  
 You only need to do it once and set remember credential.  

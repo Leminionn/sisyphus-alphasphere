@@ -2,14 +2,13 @@
 
 **Article ID:** 360041481553
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360041481553-How-to-use-Simple-Calendar-App
 **Last Updated:** 2025-08-29T18:57:26+00:00
 ---
 
 Simple Calendar App is a simple way to display a calendar for your office.  
 You can also add a simple message on the calendar wall as well.  
 Below is an example:
-
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360055275573)
 
 ## **Let's jump in and get started:**
 
@@ -19,15 +18,9 @@ Then log on to our portal: <http://app.optisigns.com/>
 
 Go to Files/Assets, Click on "App".
 
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/360055275613)
-
 Click Simple Calendar app:
 
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/360054404234)
-
 Enter your Simple Calendar wall information:
-
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360054570894)
 
 * Name: Name of your Simple Calendar Wall, this is the name of the wall in your asset list. It will **not** be displayed on your screens.
 * Text: Optional, if you want to put a message under the date.

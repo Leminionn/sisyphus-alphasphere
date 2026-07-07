@@ -2,6 +2,7 @@
 
 **Article ID:** 34379983350163
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/34379983350163-Accepted-Payment-Methods
 **Last Updated:** 2025-09-04T15:39:32+00:00
 ---
 

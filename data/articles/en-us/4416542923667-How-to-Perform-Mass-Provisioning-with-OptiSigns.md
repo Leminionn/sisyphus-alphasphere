@@ -2,19 +2,9 @@
 
 **Article ID:** 4416542923667
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/4416542923667-How-to-Perform-Mass-Provisioning-with-OptiSigns
 **Last Updated:** 2026-04-16T14:17:14+00:00
 ---
-
-### In this article, we explain how to Mass Provision your devices for easy digital signage setup across numerous devices.
-
-* [How to Set Up Mass Provisioning in the OptiSigns Portal](#Setup)
-  + [Prerequisites](#Prerequisites)
-  + [Step 1: Create a Provisioning Template](#Step1)
-  + [Step 2: (Optional) Generate Device List](#Step2)
-* [Deployment by Device](#Deployment)
-  + [OptiSigns Digital Signage Players & Windows/Linux Devices](#OptiSigns)
-  + [Raspberry Pi Devices](#Raspberry)
-  + [Apple TV and ChromeOS](#AppleTV)
 
 |  |
 | --- |
@@ -47,21 +37,15 @@ First time using OptiSigns? [Learn how to set up your digital signs](https://www
 
 To create a provisioning template, access it from the admin menu or use this [provisioning templates link](https://app.optisigns.com/app/s/provisioning-templates).
 
-![provisioning templates dropdown in optisigns app](https://support.optisigns.com/hc/article_attachments/34385117085715)
-
 |  |
 | --- |
 | **NOTE:** This option will not be visible without an **Enterprise** level plan. |
 
 Create a new provisioning template by clicking the **Create templates** button.
 
-![create templates button with arrow pointing at it in optisigns app](https://support.optisigns.com/hc/article_attachments/34385123847827)
-
  If you want to auto-step up WiFi at provisioning, you will need to create a stored WiFi first. These steps are covered later.
 
 For now, set up the template in this popup:
-
-![provisioning template options in optisigns](https://support.optisigns.com/hc/article_attachments/4416555482899)
 
 * Template Name: Name of your template, this is for you to distinguish it when you have multiple provisioning templates.
 * Device Name Prefix: This is used to generate the device name during provisioning.
@@ -77,13 +61,9 @@ For now, set up the template in this popup:
 
 Once the template is created, it will be available under the list of provisioning templates. Download the config file for use during deployment. The configuration file's name is "provisioning-template-<Your Template Name>.cfg"
 
-![provisioning templates screen with arrow pointing at file name button](https://support.optisigns.com/hc/article_attachments/4416548298259)
-
 If you want to set up WiFi at the same time as provisioning, click the **Manage Stored WiFi** button.
 
 In the popup, click "Add New WiFi", then enter the WiFi SSID and password. The WiFi will be stored and available to use in the provisioning template.
-
-![manage stored wifi screen with arrow pointing at add new wifi button](https://support.optisigns.com/hc/article_attachments/4416570772627)
 
 ### Step 2: Generate Device List (Optional)
 
@@ -91,23 +71,13 @@ If you want the device name preassigned for each device, follow this step. Other
 
 To preassign the device name, choose **Preconfigure Devices** feature on the **Screens**tab to create a device list with a pairing code:
 
-![screens tab with arrows showing how to get to preconfigure devices option](https://support.optisigns.com/hc/article_attachments/4416556453779)
-
 In the popup, specify how many screens you want to preconfigure.
-
-![preconfigure devices options screen 1](https://support.optisigns.com/hc/article_attachments/4416556459923)
 
 Enter a prefix  to give to your device and assign some initial content to display onscreen. The device name will be generated based on the prefix with a sequence number added. This name can be changed later before deployment.
 
-![preconfigure devices options screen 2](https://support.optisigns.com/hc/article_attachments/4416556506003)
-
 Once done, the page will list all the devices preconfigured with the pairing code. Click **Done**.  This generates a CSV file named "preconfigure-devices.csv". Download it to your computer.
 
-![preconfigure devices screen with two screens added](https://support.optisigns.com/hc/article_attachments/4416556695571)
-
 Open the CSV file. It will contain the list of the preconfigured devices and their corresponding pairing code. To change the device name, simply update the CSV file. Then the file can be used in deployment if you want to have your screens using the exact pre-assigned name.
-
-![preconfigure devices downloaded csv file](https://support.optisigns.com/hc/article_attachments/4416571675923)
 
 ---
 
@@ -120,8 +90,6 @@ Once you have the provisioning template config file ready, you can proceed to th
 For mass provisioning deployment on the [OptiSigns Android Player](https://shop.optisigns.com/products/optisigns-android-stick-player-2), the [OptiSigns Pro Player](https://shop.optisigns.com/products/optisigns-digital-signage-player), or any Windows, Linux, or Android device, get a MicroSD card or USB drive and create a folder named "autoconfig" under the root directory. Place one or both of the CSV and CFG files into this folder.
 
 Next, attach the MicroSD card/USB drive to your player. Launch the player, and the player will automatically detect the config file and start the provisioning process. You will receive this message once the provisioning is complete (with your local timezone configured):
-
-![mass provisioning success screen](https://support.optisigns.com/hc/article_attachments/4416680470163)
 
 ### Raspberry Pi Devices
 

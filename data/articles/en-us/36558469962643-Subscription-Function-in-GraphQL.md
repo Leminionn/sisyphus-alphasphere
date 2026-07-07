@@ -2,6 +2,7 @@
 
 **Article ID:** 36558469962643
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/36558469962643-Subscription-Function-in-GraphQL
 **Last Updated:** 2025-09-04T15:00:36+00:00
 ---
 
@@ -39,13 +40,9 @@ subscription subscribe($_id:String,$type:OBJECT_TYPES){
 }
 ```
 
-![](https://support.optisigns.com/hc/article_attachments/36558469943443)
-
 Note the elements present in the Subscription query. These are the elements it will monitor, and return to you when any of them are changed via Mutation.
 
 When a Subscription is properly input, you should see this on the right side of the GraphQL UI:
-
-![](https://support.optisigns.com/hc/article_attachments/36558442820115)
 
 This means, as long as the Subscription is active, it will report any changes to the item.
 
@@ -82,11 +79,7 @@ mutation updateDevice($_id: String!,$payload: UpdateDeviceInput!, $teamId: Strin
 } 
 ```
 
-![](https://support.optisigns.com/hc/article_attachments/36558442824211)
-
 When we perform this Mutation, we can switch over to where our Subscription is Listening and see this:
-
-![](https://support.optisigns.com/hc/article_attachments/36558469955603)
 
 **Previous Article - [Error Handling](https://support.optisigns.com/hc/en-us/articles/4414564078995-Error-Handling)**
 

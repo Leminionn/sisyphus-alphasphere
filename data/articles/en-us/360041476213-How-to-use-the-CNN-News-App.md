@@ -2,21 +2,15 @@
 
 **Article ID:** 360041476213
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360041476213-How-to-use-the-CNN-News-App
 **Last Updated:** 2025-09-30T20:41:34+00:00
 ---
-
-### In this article, we'll explain how to use the CNN News app on OptiSigns.
-
-* [What You'll Need](#WhatYouNeed)
-* [Creating a CNN News Asset](#Creating)
 
 The OptiSigns CNN app allows you to display CNN News on your digital signs. It covers the most up-to-date Top Stories, Breaking News, World News, US News, EU News, Business, Technology, and more.
 
 QR Codes are displayed, which a viewer can scan with their phone to read the relevant article. CNN News can also be displayed as [Scrolling Strip.](https://support.optisigns.com/hc/en-us/articles/360026559613)
 
 Here is a Single view screenshot. View a live example [here](https://social-player.optisigns.com/cnn/?asset_id=QK3KMwFDtpmAS8p47):
-
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360054403534)
 
 ---
 
@@ -38,32 +32,20 @@ Then log on to our portal: <http://app.optisigns.com/>
 
 Go to **Files/Assets**, Click on "App" and add **CNN** on your Account.
 
-![](https://support.optisigns.com/hc/article_attachments/45189027306771)
-
 Click **CNN**:
 
-![](https://support.optisigns.com/hc/article_attachments/45189041510419)
-
 Enter your CNN Wall App information:
-
-![](https://support.optisigns.com/hc/article_attachments/45189041515923)
 
 * Name: Name of your CNN Wall app, this is the name of the app in your asset list. It will **not** be displayed on your screens.
 * Category: Select the region and category that you want to focus on. You can check as many as you want.
 * Theme: Select Light (default CNN red) or Dark Theme.
 * Speed: Select how fast you want the app to scroll or switch between posts. You can also customize your speed if you select Custom.
 
-![](https://support.optisigns.com/hc/article_attachments/45189041520659)
-
 * Font Size: Set the font size for the CNN Wall app.
 
 Clicking **Advanced**opens up additional options:
 
-![](https://support.optisigns.com/hc/article_attachments/45189041521811)
-
 * Date Format: Choose from a set of pre-formatted dates, or select a custom date format:
-
-  ![](https://support.optisigns.com/hc/article_attachments/45189041526547)
 
 * Scrolling Strip Font Size: If you put the CNN News Wall app to a SplitScreen zone that is a scrolling strip, you can set how big you want the scrolling text to be.
 

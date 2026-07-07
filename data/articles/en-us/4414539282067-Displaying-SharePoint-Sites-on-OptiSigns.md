@@ -2,14 +2,9 @@
 
 **Article ID:** 4414539282067
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/4414539282067-Displaying-SharePoint-Sites-on-OptiSigns
 **Last Updated:** 2025-11-10T15:11:25+00:00
 ---
-
-### In this article, we will show how to display an internal SharePoint site on OptiSigns digital signage.
-
-* [What You Need](#WhatYouNeed)
-* [Setting Up the SharePoint App](#SettingUp)
-* [Frequently Asked Questions](#FAQs)
 
 |  |
 | --- |
@@ -17,8 +12,6 @@
 | The **SharePoint app** is available to customers with a **Standard plan** **or above**. |
 
 With OptiSigns, it's possible to showcase your SharePoint site on any of your screens. Even gated sites requiring login can be shown. All you'll need is a URL to your SharePoint site and a valid Microsoft account.
-
-![sharepoint website example on optisigns](https://support.optisigns.com/hc/article_attachments/4414531378451)
 
 ---
 
@@ -35,15 +28,9 @@ With OptiSigns, it's possible to showcase your SharePoint site on any of your sc
 
 First, head to the SharePoint webpage you'd like to display on your screens.
 
-![](https://support.optisigns.com/hc/article_attachments/37403530778515)
-
 Next, hit **Share**. Click **Copy link to page**.
 
-![](https://support.optisigns.com/hc/article_attachments/37403516098835)
-
 The below screen should appear. Hit **Copy**.
-
-![](https://support.optisigns.com/hc/article_attachments/37403530789651)
 
 This is the URL you will be using to set up a SharePoint app within OptiSigns.
 
@@ -51,15 +38,9 @@ Next, log on to the [OptiSigns Portal](http://app.optisigns.com/).
 
 Go to **Files/Assets**, then click the **Apps** button on the left side of the screen.
 
-![](https://support.optisigns.com/hc/article_attachments/37403516103571)
-
 Find and click on **SharePoint.**
 
-![](https://support.optisigns.com/hc/article_attachments/37403530798611)
-
 Enter details for your SharePoint site. The URL will be the one you copied earlier.
-
-![](https://support.optisigns.com/hc/article_attachments/37403516113939)
 
 * **Name -** Name of your app asset, this is the name of the wall in your asset list. It will **not** be displayed on your screens.
 * **URL -** The URL address to your SharePoint site. This is the URL we copied earlier.
@@ -107,8 +88,6 @@ If you have one of these TVs and wish to display SharePoint, we recommend our [A
 
 Here's how the encryption flow works:
 
-[![](https://support.optisigns.com/hc/article_attachments/37403516119187)](https://support.optisigns.com/hc/article_attachments/37403516119187)
-
 When you input your Username and Password into the OptiSigns SharePoint app, it is being utilized as a [Web Script](https://support.optisigns.com/hc/en-us/articles/1500012522362-How-to-use-the-Web-Scripting-App). This script is encrypted at your browser, and transferred securely using HTTPS/SSL during transits and stored on our servers.
 
 It is then sent via the same method to devices, and decrypted at device level before executing on the target website. In this case, that's SharePoint.
@@ -120,11 +99,7 @@ If you want to add additional security by utilizing a Master Password and our Ze
 
 The Master Password can be input on each device under the **Advanced Options** menu under **Master Password**.
 
-![](https://support.optisigns.com/hc/article_attachments/37403530810387)
-
 The Master Password can then be input. It will need to match the Master Password field input on your assets.
-
-**![](https://support.optisigns.com/hc/article_attachments/37403516129043)**
 
 This will ensure no one, not even OptiSigns, can decrypt your password under any circumstance.
 

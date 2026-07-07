@@ -2,6 +2,7 @@
 
 **Article ID:** 11412877112595
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/11412877112595-What-if-the-OptiSigns-app-does-not-auto-start-on-an-Android-TV
 **Last Updated:** 2025-11-19T11:39:39+00:00
 ---
 

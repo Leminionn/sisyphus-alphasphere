@@ -2,25 +2,9 @@
 
 **Article ID:** 35184720136595
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/35184720136595-How-to-Install-a-Root-Certificate-and-Display-an-Internal-Website-on-Screens
 **Last Updated:** 2025-09-04T16:54:34+00:00
 ---
-
-### In this article, we will explain how to install a root certificate on your devices to set up an internal website for use with OptiSigns.
-
-* [Installing a Root Certificate on an OptiSigns Gen 3 Pro Player](#ProPlayer)
-* [Installing a Root Certificate on a Linux/Ubuntu Device](#Ubuntu)
-* [Installing a Root Certificate on a Windows Device](#Windows)
-  + [Open the Microsoft Management Console (MMC)](#MMC)
-  + [Add the Certificates Snap-in](#Snap-In)
-  + [Import the Certificate](#Import)
-  + [Verify the Installation](#Verify)
-  + [Command Line Installation](#Command1)
-* [Installing a Root Certificate on a MacOS Device](#MacOS)  
-  + [Install Certificate](#Install)
-  + [Command Line Installation](#Command2)
-* [Installing a Root Certificate on Chrome-Based Web Browsers](#Chrome)
-* [Setting Up an Internal Website for Use on OptiSigns Using the Website App](#InternalWebsite)
-  + [Using Web Scripting to Bypass Logins](#WebScripting)
 
 OptiSigns digital signage software is an extremely valuable tool for internal communication, capable of displaying internal memos, communications, and announcements across numerous locations and offices. Messaging can be tailored to specific audiences, scheduled, and automatically synced to data sources.
 
@@ -29,8 +13,6 @@ With all these capabilities, it stands to reason that some want to incorporate O
 However, in order to do this, you’ll need a trusted, self-signed root certificate installed on the platform you choose to run it on. Here, we’ll show you how to get that installed.
 
 Please note that you’ll need to obtain a trusted certificate yourself. This will need to be some sort of key, usually denoted by a **.pem** file extension.
-
-In this article, we will walk you through two main steps:
 
 1. Installing a root certificate on your device of choice (OptiSigns Pro Player, Ubuntu, Windows, MacOS, or Chrome browser)
 2. Configuring a Website app to display your internal website
@@ -57,11 +39,7 @@ In order to get your root certificate onto an OptiSigns Pro Digital Signage Play
 
 Now, open your OptiSigns player menu. Go to **About → Advanced Settings**.
 
-**![](https://support.optisigns.com/hc/article_attachments/35184705322515)**
-
 Here, you’ll see a field called **Certificate File**.
-
-![](https://support.optisigns.com/hc/article_attachments/35184705339539)
 
 Simply locate your certificate on your USB or MicroSD card and select it. The certificate will automatically be downloaded to the appropriate location. This will allow your OptiSigns player to display your internal website.
 
@@ -72,8 +50,6 @@ Simply locate your certificate on your USB or MicroSD card and select it. The ce
 To install a root certificate on a Linux or Ubuntu device, you’ll need to make heavy use of the **Terminal.**
 
 To begin, take your trusted, signed certificate (.pem file) and place it in the /usr/share/ca-certificates folder.
-
-![](https://support.optisigns.com/hc/article_attachments/35184720058515)
 
 |  |
 | --- |
@@ -87,8 +63,6 @@ sudo update-ca-certificates
 ```
 
 Once this command is executed, it should say that it has installed 1 (or more) new certificate.
-
-![](https://support.optisigns.com/hc/article_attachments/35184720067475)
 
 This means the certificate has been added to the operating system and signed certificates will be trusted.
 
@@ -130,25 +104,15 @@ The first step is opening the Microsoft Management Console (MMC), which is a fra
 
 To do this, click **Start,** type **mmc** into the Search bar, then press **Enter**.
 
-![](https://support.optisigns.com/hc/article_attachments/35184705345939)
-
 ### Add the Certificates Snap-In
 
 With the MMC open, go to **File → Add/Remove Snap-In**.
 
-![](https://support.optisigns.com/hc/article_attachments/35184705348371)
-
 In the “Available snap-ins” list, select **Certificates** and click **Add.**
-
-![](https://support.optisigns.com/hc/article_attachments/35184720078227)
 
 Choose **Computer account** to manage certificates for the local computer. Click **Next**.
 
-![](https://support.optisigns.com/hc/article_attachments/35184705352851)
-
 Next, click **Local computer** and click **Finish**.
-
-![](https://support.optisigns.com/hc/article_attachments/35184705355155)
 
 Click **OK** to close the “Add or Remove Snap-ins” dialog.
 
@@ -156,27 +120,17 @@ Click **OK** to close the “Add or Remove Snap-ins” dialog.
 
 Now **Certificates (Local Computer)** will appear as an option in your MMC. To continue, exp[and the **Certificates (Local Computer)** option within the right pane of the console. Then, expand **Trusted Root Certification Authorities**.
 
-![](https://support.optisigns.com/hc/article_attachments/35184720086931)
-
 Right-click on the **Certificates** folder and select **All Tasks → Import**.
-
-**![](https://support.optisigns.com/hc/article_attachments/35184720091795)**
 
 This will open the Certificate Import Wizard. Click **Next** to get started.
 
 Now, click **Browse.** Locate your self-signed certificate and select it. This should be a .pem file. You may need to expand the file name options to **All Files** to see it.
 
-![](https://support.optisigns.com/hc/article_attachments/35184705362323)
-
 Select the file and click **Open → Next.**
 
 Select **Place all certificates in the following store.** Ensure that **Trusted Root Certification Authorities** is selected, then click **Next.**
 
-**![](https://support.optisigns.com/hc/article_attachments/35184705364115)**
-
 Now you’ll be asked to confirm whether you want to complete the import. As long as you trust the certificate, agree to it by hitting **Finish**.
-
-**![](https://support.optisigns.com/hc/article_attachments/35184705368339)**
 
 ### Verify the Installation
 
@@ -206,29 +160,15 @@ To prepare for the installation, make sure your device is connected to the same 
 
 To begin, open **Keychain Access**. This is normally located in the “Other” folder in the launchpad.
 
-![](https://support.optisigns.com/hc/article_attachments/35184720101907)
-
 Select the System tab within the menu on the left. If you see a padlock icon next to the System folder, right click to unlock and enter the system password.
-
-![](https://support.optisigns.com/hc/article_attachments/35184720103571)
-
-![](https://support.optisigns.com/hc/article_attachments/35184720107027)
 
 Open the folder where your certificate is stored. Drag and drop the certificate into the system folder in Keychain Access. If a red x is displayed next to the certificate like below, keep following along. Otherwise, you’re done.
 
-![](https://support.optisigns.com/hc/article_attachments/35184705380883)
-
 Right click the certificate and select “get info”
-
-![](https://support.optisigns.com/hc/article_attachments/35184705382291)
 
 Select “Trust”.
 
-![](https://support.optisigns.com/hc/article_attachments/35184720114579)
-
 Select “Always Trust”. This means your computer will always trust this certificate to keep your connection secure.
-
-![](https://support.optisigns.com/hc/article_attachments/35184705386771)
 
 Exit and you will be prompted with entering password. Enter the system password.
 
@@ -258,27 +198,15 @@ Depending on the operating system, Chrome will use the system-wide certificates 
 
 To begin, open the **Settings** tab in the Chrome browser.
 
-![](https://support.optisigns.com/hc/article_attachments/35184720118803)
-
 Next, click **Privacy and security** **→ Security → Manage Certificates**
-
-**![](https://support.optisigns.com/hc/article_attachments/35184705392531)**
 
 This will open the Certificates manager. You’ll need to add your internal website certificate as an authority. Here, click the **Trusted Root Certification Authorities** tab, then click **Import**.
 
-![](https://support.optisigns.com/hc/article_attachments/35184720125715)
-
 This will open the Certificate Import Wizard. Click **Browse** and locate the certificate necessary for your internal website. Then, click **Next**.
-
-**![](https://support.optisigns.com/hc/article_attachments/35184720127635)**
 
 On the next screen, **Place all certificates in the following store** and make sure it’s “Trusted Root Certification Authorities”. Then hit **Next**.
 
-**![](https://support.optisigns.com/hc/article_attachments/35184705364115)**
-
 Now you’ll be asked to confirm whether you want to complete the import. As long as you trust the certificate, agree to it by hitting **Finish**.
-
-**![](https://support.optisigns.com/hc/article_attachments/35184705368339)**
 
 Congratulations, you’ve installed your root certificate on your Chrome browser.
 
@@ -289,8 +217,6 @@ Congratulations, you’ve installed your root certificate on your Chrome browser
 The OptiSigns Website app allows you to display an internal website on your screens once a valid private certificate (.pem file) has been installed on your device.
 
 To set it up, navigate to **Files/Assets** in your OptiSigns portal. Find the **Website** app.
-
-![](https://support.optisigns.com/hc/article_attachments/35184705404947)
 
 Enter the **URL** of your webpage here. The Name field is irrelevant to the app’s function and will only make the asset easier to find in OptiSigns.
 

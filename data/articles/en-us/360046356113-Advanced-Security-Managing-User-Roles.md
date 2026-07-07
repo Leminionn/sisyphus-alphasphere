@@ -2,16 +2,9 @@
 
 **Article ID:** 360046356113
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360046356113-Advanced-Security-Managing-User-Roles
 **Last Updated:** 2026-02-04T16:01:54+00:00
 ---
-
-### In this article, we will go over the ability to manage user roles in OptiSigns for improved security.
-
-* [Accessing User Management](#Accessing)
-* [Default User Roles](#Default)
-* [Creating New User Roles](#Creating)
-* [Adding or Inviting Users](#AddingorInviting)
-* [Managing Users](#Managing)
 
 |  |
 | --- |
@@ -26,11 +19,7 @@ With OptiSigns, it's possible to control User access by granting various roles. 
 
 User roles can be managed by the **Account Owner**, or Super Admin. They can be accessed through the **Account Members** tab under your User Profile:
 
-![mceclip0.jpg](https://support.optisigns.com/hc/article_attachments/38720525740691)
-
 You'll see a list of Users and Teams. By default, it will only be the Owner (Super Admin) in the Default Team.
-
-![mceclip1.jpg](https://support.optisigns.com/hc/article_attachments/38720509819027)
 
 From here, you are able to:
 
@@ -57,8 +46,6 @@ By default, there are 7 roles:
 
 Here's what each will look like in a single team:
 
-![mceclip5.jpg](https://support.optisigns.com/hc/article_attachments/38720525745043)
-
 It's possible to create custom roles, as well.
 
 ---
@@ -67,31 +54,19 @@ It's possible to create custom roles, as well.
 
 To create a custom role, hit the **Manage Roles** button:
 
-![mceclip7.jpg](https://support.optisigns.com/hc/article_attachments/38720784822035)
-
 When first getting started, you will have no custom roles created. To make one, hit **New Role**.
 
-![mceclip8.jpg](https://support.optisigns.com/hc/article_attachments/38720784824083)
-
 You'll see this somewhat intimidating screen:
-
-![mceclip9.jpg](https://support.optisigns.com/hc/article_attachments/38720784826003)
 
 The **Name** refers to the name of the role (i.e. Admin, User, etc.). The other options control what sorts of access the Role has.
 
 In this example, we'll be creating a custom role called Designer. We want the Designer to be able to create and upload content, but have no access to screens, playlists or schedules. This role would be one we'd consider for an outside contractor or someone we view as a slight security risk.
 
-![mceclip12.jpg](https://support.optisigns.com/hc/article_attachments/38720784827923)
-
 Once you've given the appropriate permissions to the role and named it, hit **Save**.
 
 You'll now see a list of Managed Roles. In this example, we've only created one, but if you create more they will all appear here.
 
-![mceclip13.jpg](https://support.optisigns.com/hc/article_attachments/38720784829715)
-
 Role permissions can be easily checked by hitting the small carrot next to the role name:
-
-![mceclip14.jpg](https://support.optisigns.com/hc/article_attachments/38720784834067)
 
 Now, any user given this role will have these permissions.
 
@@ -108,29 +83,17 @@ These users can be set up to be either individuals, or a Job Title within your c
 
 To Add a user directly, hit the **Add** button.
 
-![mceclip6.jpg](https://support.optisigns.com/hc/article_attachments/38720525755667)
-
 You'll see this screen. Here, you can input user information, including First Name, Last Name, Email, and Role. You can automatically generate a password, then allow the user to change it once they log in.
-
-![mceclip15.jpg](https://support.optisigns.com/hc/article_attachments/38720768955411)
 
 The Roles can be selected from a drop-down. The options include the 6 default roles and any custom roles you've made.
 
-![mceclip16.jpg](https://support.optisigns.com/hc/article_attachments/38720784838419)
-
 Once the information has been put in successfully, you'll see a confirmation:
-
-![mceclip17.jpg](https://support.optisigns.com/hc/article_attachments/38720784847379)
 
 These login credentials can be sent directly to an email address.
 
 Inviting users is a very similar process. To begin, hit the **Invite** button.
 
-![mceclip19.jpg](https://support.optisigns.com/hc/article_attachments/38720784851347)
-
 The difference here is that account information will need to be set up by the end user.
-
-![mceclip18.jpg](https://support.optisigns.com/hc/article_attachments/38720768965523)
 
 This is most useful for SSO setups.
 
@@ -142,17 +105,11 @@ If you're wanting to add users via SAML SSO, please see the [**SSO & SAML sectio
 
 The Manage Members tab allows you to quickly reassign user roles and teams across your entire account.
 
-![mceclip20.jpg](https://support.optisigns.com/hc/article_attachments/38720768970771)
-
 From here, you can add or remove users from teams, and quickly change their roles. By default, it displays only users who have an account but are not in the current team.
-
-![mceclip21.jpg](https://support.optisigns.com/hc/article_attachments/38720784856339)
 
 As you can see, we have the option to add our additional account to this team, and define its role. New users can be Added or Invited from here, as well.
 
 If you want to manage all accounts at once, hit **Show All Members**.
-
-![mceclip23.jpg](https://support.optisigns.com/hc/article_attachments/38720768973843)
 
 Now these members can be removed from this Team, and have their user permissions changed.
 

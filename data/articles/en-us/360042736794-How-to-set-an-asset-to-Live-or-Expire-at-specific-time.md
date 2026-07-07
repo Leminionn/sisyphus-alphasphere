@@ -2,6 +2,7 @@
 
 **Article ID:** 360042736794
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360042736794-How-to-set-an-asset-to-Live-or-Expire-at-specific-time
 **Last Updated:** 2026-05-14T22:03:28+00:00
 ---
 
@@ -31,18 +32,11 @@ Let's assume you want to define your business' Christmas season as December 1st 
 
 First, go to **Files/Assets** and create an asset. Then, hover over it to expose the **Three Dots** icon.
 
-![](https://support.optisigns.com/hc/article_attachments/51713326610067)
-
 Click this to get a series of menu options. Choose **Set Asset to Live/Expire**.
 
-![](https://support.optisigns.com/hc/article_attachments/51713326616211)
-
-You can also multi-select your assets and set the live/ expire. Select your assets, then click the **Set Live/Expire** button below.  
-![](https://support.optisigns.com/hc/article_attachments/51713317750419)
+You can also multi-select your assets and set the live/ expire. Select your assets, then click the **Set Live/Expire** button below.
 
 Either way, the **Set Asset to Live/Expire** menu will pop up:
-
-![](https://support.optisigns.com/hc/article_attachments/51713317751571)
 
 * **Type -** One time: You can set your asset to live / expire at one time
 * **Live Time -** Choose between Live Immediately or schedule when it goes live with Schedule.
@@ -56,17 +50,13 @@ Either way, the **Set Asset to Live/Expire** menu will pop up:
 
 Once you've set these options, a **Reset** button will appear - hit this to **clear all** **Live/Expire settings.**
 
-If you've chosen **Schedule** as your type, you will have slightly different options:![](https://support.optisigns.com/hc/article_attachments/51713326622099)
+If you've chosen **Schedule** as your type, you will have slightly different options:
 
 * **Type -** Schedule: You can set it live in the schedule
 * **Schedule -** Create the schedule for your asset live/ expire. It lets you create an event in your calendar.
 * **Timezone -** Set the appropriate time zone that relates to the asset status.
 
-Now, hit **Save**. Once the Live/Expire status setup is complete, the asset will indicate when it's scheduled to go live and if it was previously set to expire.   
-  
-![](https://support.optisigns.com/hc/article_attachments/51713317755027)
-
-![](https://support.optisigns.com/hc/article_attachments/51713317757587)
+Now, hit **Save**. Once the Live/Expire status setup is complete, the asset will indicate when it's scheduled to go live and if it was previously set to expire. 
 
 These assets can be added to any Playlist or Schedule just as a normal asset would.
 
@@ -83,11 +73,7 @@ When a Playlist or Schedule has expired assets, you'll see a banner at the top l
 
 **Playlist:**
 
-![](https://support.optisigns.com/hc/article_attachments/51713326630291)
-
 **Schedule:**
-
-![](https://support.optisigns.com/hc/article_attachments/51713326632979)
 
 This provides:
 

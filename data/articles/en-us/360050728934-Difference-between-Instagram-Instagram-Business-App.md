@@ -2,6 +2,7 @@
 
 **Article ID:** 360050728934
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360050728934-Difference-between-Instagram-Instagram-Business-App
 **Last Updated:** 2025-12-12T20:55:05+00:00
 ---
 

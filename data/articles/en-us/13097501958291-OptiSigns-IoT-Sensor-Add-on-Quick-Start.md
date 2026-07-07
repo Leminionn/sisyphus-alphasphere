@@ -2,19 +2,11 @@
 
 **Article ID:** 13097501958291
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/13097501958291-OptiSigns-IoT-Sensor-Add-on-Quick-Start
 **Last Updated:** 2025-09-02T18:16:29+00:00
 ---
 
 ### How to quickly get your IoT sensors up and running on any screens you wish.
-
-In this article:
-
-* [Set Up Serial Communication Channel](#Serial)
-* [Set Up IoT Sensor via Lift and Learn](#Lift)
-* [Assign the IoT Sensor to a Screen](#assign)
-  + [Option 1: Through Lift and Learn](#1)
-  + [Option 2: Through Edit Screen Menu](#2)
-* [Advanced Settings](#Advanced)
 
 |  |
 | --- |
@@ -40,8 +32,6 @@ For the following example, we will use a temperature sensor with an **Arduino** 
 
 The temperature sensor will send data in its own format to the OptiSigns player through serial communication. The temperature data can be displayed on the screen in realtime, and when the defined condition met, the screen content will change to show overheat status.
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/13110301584531)
-
 Setting up the IoT sensor add-on will take three steps:
 
 1. Set up the serial communication channel.
@@ -60,13 +50,9 @@ Then, click **Personal Profile →** Look to the left hand column.
 
 Expand **"Advanced" →** **"External Communications (RS232)"**.
 
-![firefox_kDKZkQZT6x.png](https://support.optisigns.com/hc/article_attachments/32208926824211)
-
 *You can also go the the page using this link: **<https://app.optisigns.com/app/s/external-coms>***
 
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/13110350933139)
-
-Click **"Add New"** in the **Connections** tab to bring up the **Create New Connection** page, where you can define the parameters for the serial communication.![firefox_KBKtcrjYw5.png](https://support.optisigns.com/hc/article_attachments/32208926832787)
+Click **"Add New"** in the **Connections** tab to bring up the **Create New Connection** page, where you can define the parameters for the serial communication.
 
 |  |
 | --- |
@@ -105,13 +91,7 @@ The other options (Data Bits, Stop Bits, Parity, Flow Controls, Receive Line End
 
 The IoT sensor is configured through our **"Lift and Learn"** builder, found under the **Engage** tab.
 
-![firefox_h7cyVMoyaT.png](https://support.optisigns.com/hc/article_attachments/32208926838675)
-
 Once you've selected Lift and Learn, click **Build.**
-
-![ZgbrWWmul3.png](https://support.optisigns.com/hc/article_attachments/32208910745747)
-
-![S0kR2qEg9y.png](https://support.optisigns.com/hc/article_attachments/32208910750355)
 
 |  |
 | --- |
@@ -129,8 +109,6 @@ Once you've selected Lift and Learn, click **Build.**
     - **Full Command:** A custom command can be input below.
   + **"</>":** A Javascript-based function where you can apply the needed logic to process the incoming command and derive the needed result. In the below example, the Ardunio board will send the temperature data from the sensor in a string, the processing rule extracts the temperature value and determine when the "TOOHOT30" custom command triggers the event.
 
-![mceclip5.png](https://support.optisigns.com/hc/article_attachments/13110786060691)
-
 * + **Play Content:** Determines what content plays (or stops) when trigger conditions are met. Options are "Asset," "Playlist," or "Stop Playing."
   + **Commands:** Allows you to send out commands to sensors instead of just receiving them. If you're using a typical IoT sensor, **you most likely won't need to use this**. These are typically used for other types of devices, such as atmospheric lighting or speakers. These commands are created in the "Commands" section of the "External Communications (RS232)" section from before. We will be returning to this later in the article.
   + **Action:** Allows you to move a Rule's place in the list, or delete them.
@@ -140,11 +118,7 @@ We ***strongly recommend*** obtaining a string command and inputting it into th
 
 To do this, boot up your screen and navigate to the OptiSigns main menu. Scroll down until you see **Trigger Event Viewer**.
 
-![firefox_VujXdIW6kJ(1).jpg](https://support.optisigns.com/hc/article_attachments/42985157371027)
-
 When your sensor is properly configured, you will be able to see it mapped to a COM port. This information can be  By placing pressure on the sensor, a **string** will appear on the right side of your screen. By typing this **case-sensitive** string into your **If Detected** area, your issues will likely resolve.
-
-![firefox_ISUylb5Aq5.png](https://support.optisigns.com/hc/article_attachments/32208926880915)
 
 This is the easiest way to get these command strings for non-Nexmosphere brand sensors. You can also find these command strings by looking at your manufacturer's website.
 
@@ -158,8 +132,6 @@ There are two options for assigning your Sensor Add-On to a screen.
 
 ### Option 1: Through Lift and Learn
 
-![firefox_vDbwOLdUam.png](https://support.optisigns.com/hc/article_attachments/32208926865683)
-
 Once you've created the parameters for your IoT sensor, you can assign it directly to one of your screens. There are two options:
 
 * **Target -** Select between Screens and Tags. Selecting one or the other will change the next option to either Screens or Tags, depending on which you select here.
@@ -172,10 +144,6 @@ You can also assign your completed Sensor app to a screen through the [Edit Scre
 To get there, go to Screen Management and click Edit the screen you want to add this Add-on to.
 
 Click **Advanced** **→** **More** **→** **Sensor Add-on → Activate** to open up more options.
-
-![mceclip7.png](https://support.optisigns.com/hc/article_attachments/13110881710611)
-
-![mceclip6.png](https://support.optisigns.com/hc/article_attachments/13110883397907)
 
 * **Sensor Add-on -** This is the IoT Sensor Add-on we created earlier. You can cycle through your created apps here.
 * **Sensor COM Connection** - This is the serial communication channel we created in the first step. Select it here!
@@ -197,11 +165,7 @@ Once IoT Sensor Addon is activated, you can assign the IoT sensor Add-on app tha
 
 First, navigate to **External Communications (RS232) →****Add New**
 
-![firefox_Ormk62EJMc.png](https://support.optisigns.com/hc/article_attachments/32208910780051)
-
 This screen will come up:
-
-![firefox_tdPfmJaP56.png](https://support.optisigns.com/hc/article_attachments/32208910797715)
 
 Here you'll see four options:
 
@@ -214,8 +178,6 @@ Once you've configured your Command, press **Save**.
 
 Next, navigate back to **Lift and Learn** and click on your IoT app to edit it. Click the empty box under **"Commands"** and you should be able to select your tag:
 
-![firefox_SASdQOLURh.png](https://support.optisigns.com/hc/article_attachments/32208926902675)
-
 As long as everything is configured correctly, this will allow you to send commands to external devices.
 
 ---
@@ -223,7 +185,5 @@ As long as everything is configured correctly, this will allow you to send comma
 **That's all!**
 
 Now you have completed all the needed configurations to use the IoT sensors add-on, just connect the sensors and controller to your screen(media player), then you are ready to go. In this case, the screen will play the standard content like the one on the left with real time data from the temperature sensor, and when the temperature surpasses 30 degrees in Celsius, it will trigger the overheat content on the screen like the one on the right.
-
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/13110301584531)
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

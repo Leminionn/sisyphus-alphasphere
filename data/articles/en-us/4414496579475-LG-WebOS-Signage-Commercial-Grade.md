@@ -2,6 +2,7 @@
 
 **Article ID:** 4414496579475
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/4414496579475-LG-WebOS-Signage-Commercial-Grade
 **Last Updated:** 2025-09-04T18:03:17+00:00
 ---
 
@@ -20,13 +21,9 @@ Please note that this article is for installing OptiSigns on LG WebOS Signage de
 
 - Ensure your TV is factory reset with basic settings
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/4414497081107)
-
 - Connect to internet (WiFi or Ethernet)
 
 - Set up date, time this is to ensure schedule will play correctly with your time zone
-
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/4414489377299)
 
 #### **1) Installation from a USB Drive:**
 
@@ -35,56 +32,38 @@ Download the this file [com.lg.app.signage.ipk](https://links.optisigns.com/lg) 
 Format your USB Drive to FAT32 if you not already have it.  
 Create a folder named **‘application’** in the root of your USB drive   
 Copy the .ipk file into this folder   
-![mceclip3.png](https://support.optisigns.com/hc/article_attachments/4414485674899)  
+  
 Insert the USB drive to the LG TV's USB port.
 
 On the TV, enter the settings menu (press the config wheel icon on the remote controller)  
 Navigate to: EZ Setting -> SI Server Setting
 
-![mceclip5.png](https://support.optisigns.com/hc/article_attachments/4414497608211)
-
 Select SI Server Setting
-
-![mceclip6.png](https://support.optisigns.com/hc/article_attachments/4414490220051)
 
 In this page, set the ‘Application Launch Mode’ to ‘Local’   
 Set the ‘Application Type’ to ‘IPK’  
 Then finally click ‘Local Application Upgrade’ -> ‘USB’
 
-![mceclip7.png](https://support.optisigns.com/hc/article_attachments/4414497878419)   
 Confirm your intent to install the application
-
-![mceclip8.png](https://support.optisigns.com/hc/article_attachments/4414498104851)
 
 If your USB thumbdrive prepared correctly, you will see message confirm that the upgrade is completed
 
-![mceclip9.png](https://support.optisigns.com/hc/article_attachments/4414490483859)  
 After that power off, and power on the TV.
 
 When the TV come back up, you will see it's updating:
 
-![mceclip10.png](https://support.optisigns.com/hc/article_attachments/4414498126355)
-
 After update completed, it will show this message:
-
-![mceclip11.png](https://support.optisigns.com/hc/article_attachments/4414490508179)
 
 And OptiSigns app will automatically be started, you will see the pairing code, you can start pairing it on app.optisigns.com and assign content to it there.  
 The installation process is completed, you now can remove the USB drive.  
 From now on, OptiSigns app will be automatically started with the TV, and it will also automatically check for updates itself.
-
-![mceclip12.png](https://support.optisigns.com/hc/article_attachments/4414487042195)
 
 #### **2) Installation from server:**
 
 On the TV, enter the settings menu (press the config wheel icon on the remote controller)  
 Navigate to: EZ Setting -> SI Server Setting
 
-![mceclip5.png](https://support.optisigns.com/hc/article_attachments/4414497608211)
-
 Select SI Server Setting
-
-![mceclip6.png](https://support.optisigns.com/hc/article_attachments/4414490220051)
 
 Set ‘Fully Qualified Domain Name’ to ‘On’   
 Then enter ‘https://links.optisigns.com/lg’ into the input field  
@@ -92,30 +71,19 @@ Set the ‘Application Launch Mode’ to ‘Local’
 Set the ‘Application Type’ to ‘IPK’   
 Finally click ‘Local Application Upgrade’ -> ‘REMOTE’
 
-![mceclip13.png](https://support.optisigns.com/hc/article_attachments/4414487226771)
-
 Confirm your intent to install the application
 
-![mceclip14.png](https://support.optisigns.com/hc/article_attachments/4414487260307)   
 If the FQDN URL is misspelled you will see an error message and have to modify the URL.  
 If the FQDN URL is correct, you will see this message confirm upgrade completed.
-
-![mceclip15.png](https://support.optisigns.com/hc/article_attachments/4414487276947)
 
 After that power off, and power on the TV.
 
 When the TV come back up, you will see it's updating:
 
-![mceclip10.png](https://support.optisigns.com/hc/article_attachments/4414498126355)
-
 After update completed, it will show this message:
-
-![mceclip11.png](https://support.optisigns.com/hc/article_attachments/4414490508179)
 
 And OptiSigns app will automatically be started, you will see the pairing code, you can start pairing it on app.optisigns.com and assign content to it there.  
 From now on, OptiSigns app will be automatically started with the TV, and it will also automatically check for updates itself.
-
-![mceclip12.png](https://support.optisigns.com/hc/article_attachments/4414487042195)
 
 #### **Batch installation from the server URL with settings from a USB drive:**
 

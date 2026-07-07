@@ -2,6 +2,7 @@
 
 **Article ID:** 29232460955539
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/29232460955539-How-to-Create-an-Attract-Screen-for-Your-Kiosk
 **Last Updated:** 2025-09-04T14:01:30+00:00
 ---
 

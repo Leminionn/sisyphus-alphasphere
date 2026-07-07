@@ -2,6 +2,7 @@
 
 **Article ID:** 53095698149011
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/53095698149011-Using-the-Japan-Earthquake-App
 **Last Updated:** 2026-07-06T14:22:20+00:00
 ---
 
@@ -34,11 +35,7 @@ To set up a Japan Earthquake app, go to the **Files/Assets** tab, then click **A
 
 Find and click on **地震情報 / Japan Earthquake**.
 
-![](https://support.optisigns.com/hc/article_attachments/53095667606419)
-
 Enter the details for your Earthquake app:
-
-![](https://support.optisigns.com/hc/article_attachments/53095698128787)
 
 * **Name -** This is the name of your asset. It is for internal OptiSigns use and will not display on your screens.
 * **Regions** - Choose which regions to show JMA earthquake information.
@@ -76,8 +73,6 @@ This brings us to the **Edit Screen** tab:
 Here, select **Asset** under Content type. If you already have an Asset, Playlist, or Schedule selected, you can hit **Change**.
 
 Then, select your created Japan Earthquake Asset:
-
-![](https://support.optisigns.com/hc/article_attachments/53095698141203)
 
 Now hit **Save**. Your Japan Earthquake asset will now display on screen.
 

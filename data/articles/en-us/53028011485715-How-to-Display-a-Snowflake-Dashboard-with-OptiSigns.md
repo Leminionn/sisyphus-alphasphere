@@ -2,6 +2,7 @@
 
 **Article ID:** 53028011485715
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/53028011485715-How-to-Display-a-Snowflake-Dashboard-with-OptiSigns
 **Last Updated:** 2026-07-01T21:59:22+00:00
 ---
 
@@ -34,15 +35,9 @@ At the risk of repeating ourselves, don't forget that this is **specifically for
 
 To set up a Snowflake app, go to the **Files/Assets** tab, then click **Apps** on the left side of the screen:
 
-![](https://support.optisigns.com/hc/article_attachments/53052248552467)
-
 Find and click on **Snowflake**.
 
-![](https://support.optisigns.com/hc/article_attachments/53027988862227)
-
 Enter the details for your Snowflake site.
-
-![](https://support.optisigns.com/hc/article_attachments/53027988863635)
 
 * **Name -** This is the name of your asset. It is for internal OptiSigns use and will not display on your screens.
 * **URL -** The URL of your Snowflake Report. Please note that this ***must be*** a Snowsight or Streamlit report with Snowflake authentication.
@@ -53,7 +48,7 @@ Enter the details for your Snowflake site.
   + **Username / Email** - The Username or Email associated with the Snowflake report.
   + **Password** - The password associated with the Snowflake report.
   + **Secret 2FA** - This is the Secret Key. Only needed if your login requires 2FA. We go over how to obtain this in [the FAQ section](#2FA).
-  + **Recorded 2FA Code** - If your login requires 2FA, this is where you input the code you received. Paired with the Secret Key, this keeps your 2FA channel open for this asset to use repeatedly.![](https://support.optisigns.com/hc/article_attachments/53027988864403)
+  + **Recorded 2FA Code** - If your login requires 2FA, this is where you input the code you received. Paired with the Secret Key, this keeps your 2FA channel open for this asset to use repeatedly.
 * **Delay Execute 2FA JavaScript -** Delays execution of JavaScript elements on the 2FA element by a set amount of time, measured in seconds.
 * **Delay Execute JavaScript -** Delays execution of JavaScript elements on the Snowflake report by a set amount of time, measured in seconds.
 
@@ -65,17 +60,11 @@ You can deploy your new Snowflake app as an individual asset, or as part of a [S
 
 To get your new Snowflake asset to a screen, go to the **Screens** tab, then click the screen you want to assign it to.
 
-![](https://support.optisigns.com/hc/article_attachments/53028011480979)
-
 This brings us to the **Edit Screen** tab:
-
-![](https://support.optisigns.com/hc/article_attachments/53027988865171)
 
 Here, select **Asset** under Content type. If you already have an Asset, Playlist, or Schedule selected, you can hit **Change**.
 
 Then, select your created Snowflake Asset:
-
-![](https://support.optisigns.com/hc/article_attachments/53027988866707)
 
 Now hit **Save**. Your Snowflake asset will now display on screen.
 
@@ -89,8 +78,6 @@ You can also deploy it as part of a split screen, allowing you to show other ass
 
 Here's how the encryption flow works:
 
-[![](https://support.optisigns.com/hc/article_attachments/53052194976659)](https://support.optisigns.com/hc/article_attachments/53052194976659)
-
 When you input your Username and Password into the OptiSigns Snowflake app, it is being utilized as a [Web Script](https://support.optisigns.com/hc/en-us/articles/1500012522362-How-to-use-the-Web-Scripting-App). This script is encrypted at your browser, and transferred securely using HTTPS/SSL during transits and stored on our servers.
 
 It is then sent via the same method to devices, and decrypted at device level before executing on the target website. In this case, that's Snowflake.
@@ -102,11 +89,7 @@ If you want to add additional security by utilizing a Master Password and our Ze
 
 The Master Password can be input on OptiSigns devices under the **Advanced Options** menu under **Master Password**.
 
-[![](https://support.optisigns.com/hc/article_attachments/53052210787603)](https://support.optisigns.com/hc/article_attachments/53052210787603)
-
 The Master Password can then be input. It will need to match the Master Password field input on your assets.
-
-[**![](https://support.optisigns.com/hc/article_attachments/53052210788371)**](https://support.optisigns.com/hc/article_attachments/53052210788371)
 
 This will ensure no one, not even OptiSigns, can decrypt your password under any circumstance.
 

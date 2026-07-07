@@ -2,6 +2,7 @@
 
 **Article ID:** 360058259834
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360058259834-Audience-Intelligence-AI-Camera-FAQs
 **Last Updated:** 2026-02-04T16:18:32+00:00
 ---
 
@@ -47,8 +48,6 @@ OptiSigns AI Camera detects:
 * Age: Provides a rough age estimate
   + Maps to Child, Young Adult, Adult, Senior Adult
 * Facial Expressions
-
-![](https://support.optisigns.com/hc/article_attachments/48816675717651)
 
 ---
 

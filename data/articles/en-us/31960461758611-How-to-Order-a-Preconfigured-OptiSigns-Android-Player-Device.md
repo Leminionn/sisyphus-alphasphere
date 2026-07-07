@@ -2,6 +2,7 @@
 
 **Article ID:** 31960461758611
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/31960461758611-How-to-Order-a-Preconfigured-OptiSigns-Android-Player-Device
 **Last Updated:** 2026-06-11T17:48:29+00:00
 ---
 
@@ -14,14 +15,10 @@ OptiSigns devices are designed for easy, fast deployment. To support it, OptiSig
 ## How to Order Devices:
 
 1. **Login** to your account within [**our portal**](https://app.optisigns.com/app/screenManagement).
-2. Either navigate to the [**Screens page**](https://app.optisigns.com/app/screenManagement) and select "**Order Device**" **or** select **"Order Devices"** under your account name.  
-   ![](https://support.optisigns.com/hc/article_attachments/31961196837779)
-3. Select **how many devices** you'd like to order, then select **Next**.  
-   ![](https://support.optisigns.com/hc/article_attachments/51544324605843)
-4. You can **name** **your** **Device** (which will have a label on the device), configure it with **Wi-Fi**, and adjust the **time** **zone**. Click **Next**.  
-   ![](https://support.optisigns.com/hc/article_attachments/52514558298771)
-5. Lastly, fill out and review your **payment** and **shipping** information to finish the order. If you have a promo code, that can be input here, as well.  
-   ![](https://support.optisigns.com/hc/article_attachments/51544383882899)
+2. Either navigate to the [**Screens page**](https://app.optisigns.com/app/screenManagement) and select "**Order Device**" **or** select **"Order Devices"** under your account name.
+3. Select **how many devices** you'd like to order, then select **Next**.
+4. You can **name** **your** **Device** (which will have a label on the device), configure it with **Wi-Fi**, and adjust the **time** **zone**. Click **Next**.
+5. Lastly, fill out and review your **payment** and **shipping** information to finish the order. If you have a promo code, that can be input here, as well.
 
 ---
 

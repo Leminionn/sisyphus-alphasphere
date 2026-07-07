@@ -2,6 +2,7 @@
 
 **Article ID:** 6605515731603
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/6605515731603-Apple-TV-player-release-notes-limitations
 **Last Updated:** 2025-12-31T22:07:40+00:00
 ---
 

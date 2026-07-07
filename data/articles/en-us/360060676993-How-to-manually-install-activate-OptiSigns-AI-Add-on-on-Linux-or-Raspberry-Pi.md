@@ -2,6 +2,7 @@
 
 **Article ID:** 360060676993
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360060676993-How-to-manually-install-activate-OptiSigns-AI-Add-on-on-Linux-or-Raspberry-Pi
 **Last Updated:** 2025-09-02T20:15:47+00:00
 ---
 
@@ -38,8 +39,6 @@ curl -s https://links.optisigns.com/ai-add-on-linux-install -L | sh
 ```
 
 This will download a script and run the installation.
-
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360099273994)
 
 After you see "Starting OptiSigns AI Detection Service ..." you are done!
 

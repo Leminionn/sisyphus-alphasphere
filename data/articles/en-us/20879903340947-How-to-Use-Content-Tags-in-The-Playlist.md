@@ -2,6 +2,7 @@
 
 **Article ID:** 20879903340947
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/20879903340947-How-to-Use-Content-Tags-in-The-Playlist
 **Last Updated:** 2025-09-04T19:48:57+00:00
 ---
 
@@ -27,23 +28,13 @@ In your Playlist settings by clicking on the **Cog** icon > Selecting **Advanced
 
 Create a tag for your desired assets in the Files/Assets page. Follow **[this guide](https://support.optisigns.com/hc/en-us/articles/360056397634-Asset-Tagging-How-does-it-work)** to learn more on how to do this.
 
-![](https://support.optisigns.com/hc/article_attachments/20879378439059)
-
 Add all items to the playlist. Follow **[this guide](https://support.optisigns.com/hc/en-us/articles/28295104605843)** if you need more information on this step.
-
-![](https://support.optisigns.com/hc/article_attachments/20879483116307)
 
 In your Playlist settings by clicking on the **Cog** icon > Selecting **Advanced** > Select **Use Asset Default** in the **Target tags** dropdown menu.
 
-![](https://support.optisigns.com/hc/article_attachments/20879517124371)
-
 Then go to **Screens page** > Click **Edit** on your preferred screen > Assign your playlist > Select **Advanced** > Click on **Content Tag Rule** dropdown menu > Select **+ New**.
 
-![chrome_0vCFoGxCB3.png](https://support.optisigns.com/hc/article_attachments/29681813331475)
-
 **Setup** your **Content Tag Rule** for your screen to control which content-tagged assets or sub-playlists are displayed when your selected playlist is playing.
-
-![](https://support.optisigns.com/hc/article_attachments/20879642428819)
 
 **What does inclusion and exclusion rules mean?**
 
@@ -64,8 +55,6 @@ When you choose 'Use Playlist Default,' you set a tag for the entire playlist. T
 |  |
 | --- |
 | **Note:** These tags do not affect the tags you have placed on your files/assets page. |
-
-**![chrome_zM7RA9Nr9p.png](https://support.optisigns.com/hc/article_attachments/29681825584147)**
 
 Similar to using 'Use Asset Default', if you set your **Content Tag rule** to **include or exclude any assets** with the **same default tag as the playlist** in the selected playlist, then only those assets **will be displayed** on the screen.
 
@@ -98,19 +87,13 @@ To help illustrate how this feature works, we will use the following simple scen
 
 * **Lobby Display:** Suppose your global playlist is tagged 'Front-Lobby' as the Playlist default. All assets within this playlist will be tagged as 'Front-Lobby.'
 
-![](https://support.optisigns.com/hc/article_attachments/29681825591187)
-
 * **Back Room Display:** If you have a specific asset you want to play in the back room within the global playlist, you can tag that asset as 'Back-Room'.
 
 * **Edit Screen > Selective Content Display:**
 
 On the Edit Screen level, you can set your content rule for your Front Lobby screens. In this example, the content tag rule is set to **include** items tagged as **'Front-Lobby'**. This way, the screen will only display assets tagged as 'Front-Lobby' from your global playlist and ignore any assets or sub-playlists that do not have the 'Front-Lobby' tag. So, anything tagged Back-Room will not display.
 
-**![](https://support.optisigns.com/hc/article_attachments/29681813371283)**
-
 For your screens in the Back Room, you can set your content rule to **include** items tagged as **'Back-Room'**. This way, only assets tagged as 'Back-Room' from your global playlist will be displayed, and any assets or sub-playlists that do not have the 'Back-Room' tag will be ignored. So, anything tagged Front-Lobby will no display.
-
-![](https://support.optisigns.com/hc/article_attachments/29681813377811)
 
 You also have the option to set an exclusion rule, which will prevent any assets with specific tags from being displayed on the selected screen.
 

@@ -2,6 +2,7 @@
 
 **Article ID:** 36558834998291
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/36558834998291-Tutorial-Creating-Schedules-and-Adding-Schedule-Items-Using-GraphQL
 **Last Updated:** 2025-09-04T14:03:45+00:00
 ---
 
@@ -44,21 +45,13 @@ mutation CreateSchedule($payload: ScheduleInput!, $teamId: String)
 }
 ```
 
-![](https://support.optisigns.com/hc/article_attachments/36558841524243)
-
 This Mutation creates a brand new schedule, as you can see from the data to the right:
-
-![](https://support.optisigns.com/hc/article_attachments/36558841526675)
 
 **2. Updating Schedules**
 
 This same Mutation can be used to update the schedule itself. In order to update the schedule, you’ll need to input the “\_id” value in the payload:
 
-![](https://support.optisigns.com/hc/article_attachments/36558841527955)
-
 Doing this will update the existing schedule.
-
-![](https://support.optisigns.com/hc/article_attachments/36558841534483)
 
 **3. Adding Assets or Playlists to the Schedule**
 
@@ -102,8 +95,6 @@ mutation addScheduleItem($force:Boolean,$payload: AddScheduleItemInput!, $teamId
 }
 ```
 
-![](https://support.optisigns.com/hc/article_attachments/36558841535507)
-
 **Variables:**
 
 ```
@@ -124,11 +115,7 @@ mutation addScheduleItem($force:Boolean,$payload: AddScheduleItemInput!, $teamId
 }
 ```
 
-![](https://support.optisigns.com/hc/article_attachments/36558834984339)
-
 When the values are set up correctly, your data should display like this:
-
-![](https://support.optisigns.com/hc/article_attachments/36558834986643)
 
 **4. Editing Schedule Items**
 
@@ -156,8 +143,6 @@ mutation updateScheduleItem($force:Boolean,$payload: UpdateScheduleItemInput!, $
 }
 ```
 
-![](https://support.optisigns.com/hc/article_attachments/36558834989843)
-
 With this mutation, we’ll input these variables:
 
 ```
@@ -177,11 +162,7 @@ With this mutation, we’ll input these variables:
 }
 ```
 
-![](https://support.optisigns.com/hc/article_attachments/36558834991379)
-
 Here, we’ve changed the repeat frequency from daily to weekly, and the start date from December 18, 2024 to December 20, 2024. This is reflected in the data retrieved:
-
-![](https://support.optisigns.com/hc/article_attachments/36558841549075)
 
 **Previous Article - [Tutorial: Creating or Updating Website Assets Using GraphQL](https://support.optisigns.com/hc/en-us/articles/36562094987795-Tutorial-Creating-or-Updating-Website-Assets-Using-GraphQL)**
 

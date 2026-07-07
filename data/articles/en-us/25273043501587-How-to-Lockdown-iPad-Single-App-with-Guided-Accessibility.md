@@ -2,6 +2,7 @@
 
 **Article ID:** 25273043501587
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/25273043501587-How-to-Lockdown-iPad-Single-App-with-Guided-Accessibility
 **Last Updated:** 2026-02-10T16:54:02+00:00
 ---
 
@@ -15,28 +16,16 @@ Here is a general video on limiting an iPhone or iPad to one app with Guided Acc
 
 Go to **Settings**, select **Accessibility**, then **Guided Access**
 
-![](https://support.optisigns.com/hc/article_attachments/25273043474451)
-
 Tap **Enable Guided Access**, then tap **Passcode Settings**
-
-![](https://support.optisigns.com/hc/article_attachments/25273043477523)
 
 Tap **Set Guided Access Passcode**. Enter a passcode, then re-enter it
 
-![](https://support.optisigns.com/hc/article_attachments/25273090484499)
-
 Open the app you want to lockdown: **OptiSigns App**
-
-![](https://support.optisigns.com/hc/article_attachments/25273043479827)
 
 Triple-click the **Power** (If there is no home button) or **Home** button to start lockdown  
 note: Please make sure the orientation is in portrait mode if no home button exists
 
-![](https://support.optisigns.com/hc/article_attachments/25273090486675)
-
 To end **Guided Access**, triple-click the **Power** button or **Home** button enter your passcode, and tap **End:**
-
-![](https://support.optisigns.com/hc/article_attachments/25273090489747)
 
 That's it! Now, the OptiSigns app will be locked on your screen.
 

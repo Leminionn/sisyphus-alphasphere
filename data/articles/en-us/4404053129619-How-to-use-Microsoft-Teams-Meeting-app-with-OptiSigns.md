@@ -2,6 +2,7 @@
 
 **Article ID:** 4404053129619
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/4404053129619-How-to-use-Microsoft-Teams-Meeting-app-with-OptiSigns
 **Last Updated:** 2025-09-04T18:53:44+00:00
 ---
 
@@ -11,43 +12,29 @@ It's simple, create (or schedule a MS Teams meeting).
 
 In the Meeting Options:
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/4404053182483)
-
 Make sure you set "Who can bypass the lobby" to "Everyone".
 
 Otherwise OptiSigns app will stuck at the lobby.
-
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/4404053190163)
 
 After that, copy your MS Team's URL.
 
 There are many ways you can copy the MS Teams Meeting URL. Here' one:  
 Click Participants, then click Share Invite. Then click Copy Link
 
-![mceclip3.png](https://support.optisigns.com/hc/article_attachments/4404053323411)
-
 Log in to OptiSigns:  
 <https://app.optisigns.com/app/assetManagement>
 
 Click Files/Assets -> Apps -> and select Microsoft Teams Meetings
 
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/4404053219347)
-
 Give your MS Teams Meeting app a name and paste the URL in there:
 
-![mceclip4.png](https://support.optisigns.com/hc/article_attachments/4404053339411)
-
 That's it!
-
-![mceclip5.png](https://support.optisigns.com/hc/article_attachments/4404045864339)
 
 Now you can assign this MS Teams Meeting app to your screens, or put it on a schedule so the screens will join automatically when the meeting start.
 
 The screens will join the meeting as Guests with names are the name of the screens.
 
 This can also be done with Teams Town hall. To enable Town hall, simply hit **Share Event**, then copy the **Join** **link** URL and paste this into OptiSigns.
-
-![](https://support.optisigns.com/hc/article_attachments/38297330621459)
 
 **Tips:**
 

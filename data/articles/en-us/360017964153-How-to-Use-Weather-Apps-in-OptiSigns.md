@@ -2,6 +2,7 @@
 
 **Article ID:** 360017964153
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360017964153-How-to-Use-Weather-Apps-in-OptiSigns
 **Last Updated:** 2025-09-02T19:43:55+00:00
 ---
 
@@ -29,8 +30,6 @@ We offer a variety of weather apps to utilize for your digital signage, keeping 
 
 The source for our Weather app is **<http://openweathermap.org/>.**
 
-In this article, we will teach you how to set up each app.
-
 ## Weather Wall App
 
 The Weather Wall app blends essential weather data with a sleek, user-friendly design - ideal for digital signage in commercial spaces or personal use. This weather app provides accurate weather information and visually appealing content tailored to your location. It is easy to use and customizable with themes and presets!
@@ -43,11 +42,7 @@ The Weather Wall app blends essential weather data with a sleek, user-friendly d
 
 Navigate to the **Files/Assets** section and choose **Apps**, select the **Weather** app.
 
-![](https://support.optisigns.com/hc/article_attachments/29483491100691)
-
 Fill in all the required information for your Weather Wall on the left side:
-
-![](https://support.optisigns.com/hc/article_attachments/29483607452307)
 
 * **Preset:** Predefined configurations and settings that help you quickly apply customized theme settings to your Weather Wall.
 * **Name:** This label is used to organize your assets and will not be displayed on the screen.
@@ -57,34 +52,20 @@ Fill in all the required information for your Weather Wall on the left side:
 * **Language:** The language in which the weather information is displayed.
 * **Date & Time:** This setting is currently set to Default. You can customize the date and time format for both Normal and Scrolling Strip modes, or select “Do not show”.
 
-![](https://support.optisigns.com/hc/article_attachments/29483885657107)
-
 * **Font Size:** Use the default font size or customize it for text on your Weather Wall.
 * **Theme:** You can select from a list of pre-designed themes.
-
-![](https://support.optisigns.com/hc/article_attachments/29483894777363)
 
 * **Theme Settings:** You can customize the theme with any color you want, which is useful if your company or organization has specific color branding requirements.
   + **Apply to All Weather Conditions:** When you enable this option, any changes you make below, such as background color, text color, or selected photo, will be applied to all weather conditions. Disable it to customize each weather condition individually.
 
-![](https://support.optisigns.com/hc/article_attachments/29483431942547)
-
 * **Weather Condition:** You can view our default settings or customize each weather condition for three themes: **City Themes, Pacific Blue,** and **Pearl Flaxen**. Additionally, you can upload a custom photo for the chosen weather condition.
-
-![](https://support.optisigns.com/hc/article_attachments/29483827903251)
 
 * **Photo**: Allows you to choose between the Default weather app photo, or upload your own custom photo. When Custom photo is selected, you can select a photo from your existing assets.
 
-![](https://support.optisigns.com/hc/article_attachments/40437012089491)
-
 * **Color Options:**Lets you change the Text Primary color, Text Secondary color, Background Primary color, Background Secondary color, and the Background Accent.
-
-![](https://support.optisigns.com/hc/article_attachments/40437012090003)
 
 * Click **Reset** to return to default settings.
 * **Advanced options:**More custom options
-
-![](https://support.optisigns.com/hc/article_attachments/29483431958931)
 
 * **Scrolling Strip Font Size:** If you put the Weather Wall app to a SplitScreen zone that is a scrolling strip, you can set how big you want the scrolling text to be.
 * **Lock Location:** Position and lock the weather location to the bottom left or right on the Scrolling Strip.
@@ -97,17 +78,15 @@ To enhance the user experience with the Weather Wall app, we have added the City
 
 #### What the Weather App Icons Mean
 
-![image (17).jpg](https://support.optisigns.com/hc/article_attachments/40107412467347)
-
-### cold-weather.png
+### 
 
 **Cold Weather -** This icon displays if the temperature is <=58°F
 
-### mild-weather.png
+### 
 
 **Mild Weather -** This icon displays if the temperature is between 59°F and 85°F.
 
-### hot-weather.png
+### 
 
 **Hot Weather**- This icon displays if the temperature is >=86°F.
 
@@ -122,8 +101,6 @@ With the weather app radar feature, you can quickly see if rain, snow, or thunde
 |  |
 | --- |
 | The below is an example of what to expect using this app: |
-
-![](https://support.optisigns.com/hc/article_attachments/30279572010899)
 
 ### Let's create your Weather Radar App
 

@@ -2,6 +2,7 @@
 
 **Article ID:** 360059386254
 **Locale:** en-us
+**Article URL:** https://support.optisigns.com/hc/en-us/articles/360059386254-How-to-use-YouTube-Playlist-with-OptiSigns
 **Last Updated:** 2025-08-29T21:12:53+00:00
 ---
 
@@ -18,15 +19,9 @@ Then log on to our portal: <http://app.optisigns.com/>
 
 Go to Files/Assets, Click on "App".
 
-![Youtube_playlist-1.png](https://support.optisigns.com/hc/article_attachments/1500001039562)
-
 Click YouTube Playlist app:
 
-![Youtube_playlist-3.png](https://support.optisigns.com/hc/article_attachments/1500001039582)
-
 Enter your YouTube Playlist information:
-
-![Youtube_playlist-2.png](https://support.optisigns.com/hc/article_attachments/1500001119001)
 
 * Name: Give your YouTube Playlist a name. This is for displaying in your asset list only. The app will try to get the video's title and use as a name, but you can change it to something else.
 * URL: Paste the link to your YouTube playlist here.
