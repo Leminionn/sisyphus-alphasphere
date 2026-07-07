@@ -1,126 +1,143 @@
-# OptiBot Mini-Clone (Take-Home Test)
+# 🌌 Sisyphus - Alphasphere
 
-A lightweight, robust Data Synchronization Pipeline (ETL) designed to sync support articles from `support.optisigns.com` directly to a Google Gemini File Search Store (Vector Store equivalent) for Retrieval-Augmented Generation (RAG).
+```text
+███████╗██╗███████╗██╗   ██╗██████╗ ██╗  ██╗██╗   ██╗███████╗
+██╔════╝██║██╔════╝╚██╗ ██╔╝██╔══██╗██║  ██║██║   ██║██╔════╝
+███████╗██║███████╗ ╚████╔╝ ██████╔╝███████║██║   ██║███████╗
+╚════██║██║╚════██║  ╚██╔╝  ██╔═══╝ ██╔══██║██║   ██║╚════██║
+███████║██║███████║   ██║   ██║     ██║  ██║╚██████╔╝███████║
+╚══════╝╚═╝╚══════╝   ╚═╝   ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚══════╝
+```
+
+A robust, production-ready ETL (Extract, Transform, Load) and synchronization pipeline that automates the ingestion of support articles into a managed AI Vector Store (File Search Store) for high-performance Retrieval-Augmented Generation (RAG).
+
+[![Python Version](https://img.shields.io/badge/python-3.12-blue.svg)](https://www.python.org/)
+[![Docker Compliant](https://img.shields.io/badge/docker-compliant-blue.svg)](https://www.docker.com/)
+[![CI/CD Pipeline](https://img.shields.io/badge/CI%2FCD-GitHub--Actions-orange.svg)](https://github.com/Leminionn/sisyphus-alphasphere/actions)
 
 ---
 
-## 🛠 Setup
+## 📖 Architecture & Design Overview
+
+`sisyphus-alphasphere` is structured with clean, modular, and resilient components:
+
+*   **Extractor (Zendesk API):** Paginated support center crawling with built-in connection timeouts and backoff-retry adapters for rate-limit safety.
+*   **Transformer (HTML to Markdown):** Normalizes raw HTML into clean, high-signal Markdown by stripping navigation, TOC blocks, image links, and advertisement wrappers. Injecting standardized header metadata (ID, Locale, Updated Date, Original URL) directly into the file.
+*   **Delta Detector (Hashing):** Analyzes changes incrementally using SHA-256 hashing. Only new, modified, or deleted documents are synchronized, bypassing redundant embedding operations.
+*   **Loader (Gemini File Search Store):** Handles API uploads, polls cloud operations with a safety timeout, and garbage-collects obsolete files on the vector search database.
+
+---
+
+## 🛠 Setup & Installation
 
 ### Prerequisites
 - Python 3.12+
-- Google Gemini API Key
+- Docker (optional, for containerized run)
+- A Google Gemini API Key (accessed via [Google AI Studio](https://aistudio.google.com/))
 
 ### Local Installation
 
-1. **Clone the repository** (use a cryptic name for privacy).
-2. **Create and activate a virtual environment**:
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/Leminionn/sisyphus-alphasphere.git
+   cd sisyphus-alphasphere
+   ```
+
+2. **Set up virtual environment**:
    ```bash
    python -m venv venv
-   # On Windows:
+   # Windows (PowerShell):
    .\venv\Scripts\Activate.ps1
-   # On macOS/Linux:
+   # macOS/Linux:
    source venv/bin/activate
    ```
+
 3. **Install dependencies**:
    ```bash
    pip install -r requirements.txt
    ```
+
 4. **Configure environment variables**:
-   Create a `.env` file in the project root:
+   Create a `.env` file by copying the template:
    ```bash
    cp .env.sample .env
    ```
-   Open `.env` and enter your `GEMINI_API_KEY`.
+   Open `.env` and fill in your `GEMINI_API_KEY`.
 
 ---
 
-## 🚀 How to Run Locally
+## 🚀 Run the Pipeline
 
-Run the pipeline execution command:
+### Local Run
+Run the main script to trigger a scraping and vector-store sync:
 ```bash
 python main.py
 ```
-Upon running:
-1. The scraper fetches public articles from `support.optisigns.com` (no credentials required).
-2. Converts raw HTML content into clean Markdown files saved under `data/articles/en-us/<slug>.md`.
-3. Performs delta detection via SHA-256 content hashing.
-4. Programmatically initializes and uploads/indexes new or updated markdown files to the Google Gemini `file_search_stores` RAG knowledge base.
-5. Deletes local and remote documents for deleted support articles.
 
----
-
-## 🐋 Running via Docker
-
-### Build the Image
+### Running via Docker
+Build the docker image:
 ```bash
-docker build -t optibot-sync-pipeline .
+docker build -t sisyphus-sync .
 ```
 
-### Run the Container
-Pass your `API_KEY` (or `GEMINI_API_KEY`) as an environment variable:
+Run the container (passing API key and mounting local data directory to preserve synchronization state):
 ```bash
-docker run --rm -e API_KEY="your_api_key_here" optibot-sync-pipeline
+# On Windows (PowerShell):
+docker run --rm -v "${pwd}/data:/app/data" -e API_KEY="your_api_key_here" sisyphus-sync
+
+# On macOS/Linux:
+docker run --rm -v "$(pwd)/data:/app/data" -e API_KEY="your_api_key_here" sisyphus-sync
 ```
 
 ---
 
-## 🧠 Chunking Strategy & Vector Store
+## 💬 RAG Query Assistant (CLI Tool)
 
-We leverage Gemini's managed **File Search Stores** for RAG.
-- **Managed Pipeline**: File ingestion, semantic embeddings, and vector indexing are handled automatically by Google's backend.
-- **Chunking Strategy**: We delegate chunking to Gemini's native managed File Search Store indexing pipeline. This automatically parses the Markdown document, preserving structural blocks (headings, paragraphs, lists, tables) to maintain context and optimize retrieval search relevance.
-- **Grounding & Citations**: The AI model uses the File Search Store tool directly, producing grounded answers with automated article citations.
+We provide a complete interactive CLI utility `query_assistant.py` to chat with the grounded assistant and verify RAG performance.
+
+### Configuration
+In `.env`, you can customize the defaults:
+- `GEMINI_STORE_NAME`: Display name of your file search store (default: `optibot-knowledge-base`).
+- `GEMINI_MODEL`: Gemini model for reasoning (default: `gemini-2.5-flash`).
+
+### Operations
+*   **Single query (with citations):**
+    ```bash
+    python query_assistant.py -q "How do I add a YouTube video?" --citations
+    ```
+*   **Interactive chat session:**
+    ```bash
+    python query_assistant.py
+    ```
+*   **Dynamic model override at runtime:**
+    If a model hits rate-limits or is temporarily unavailable, dynamically swap models using `-m` / `--model`:
+    ```bash
+    python query_assistant.py -m gemini-1.5-flash -q "How do I add a YouTube video?" --citations
+    ```
 
 ---
 
-## ☁️ Daily Job Scheduling (GitHub Actions)
+## 🧠 Ingestion & Chunking Strategy
 
-Deploy the scraper on any platform or run it as a daily cron job via GitHub Actions.
-Workflow details are configured in `.github/workflows/daily-sync.yml` to preserve `data/state.json` sync cache between runs:
+- **High-Signal Metadata Ingestion:** Documents are transformed into Markdown with standardized YAML-style header metadata (Article ID, locale, original URL, updated date) injected directly into the document stream.
+- **Native Semantic Chunking:** We delegate chunking to Gemini's native managed File Search Store indexing engine. This parses the Markdown structures (headings, paragraphs, tables, lists) semantically, avoiding boundary-tearing and maintaining high grounding response accuracy.
 
-```yaml
-name: Daily OptiBot Data Sync
+---
 
-on:
-  schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
+## ☁️ Daily CI/CD Sync Job
 
-jobs:
-  sync:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
+The pipeline is pre-configured to run as a daily cron job using **GitHub Actions** (`.github/workflows/daily-sync.yml`).
 
-      - name: Build Docker Image
-        run: docker build -t optibot-sync .
+### Stateful Execution in a Stateless CI/CD:
+1. **Dockerized Run:** Every run builds the local `Dockerfile` and executes the pipeline inside the container, verifying Dockerization on every cycle.
+2. **State Persistence:** The runner mounts the workspace `data/` directory to the container. If the sync pipeline makes any changes (adds/updates/deletes files or updates `state.json`), a final runner step commits and pushes the changes back to the repository using a bot account (`[skip ci]`).
 
-      - name: Run ETL Pipeline via Docker
-        run: |
-          docker run --rm \
-            -v ${{ github.workspace }}/data:/app/data \
-            -e API_KEY="${{ secrets.GEMINI_API_KEY }}" \
-            optibot-sync
-          sudo chown -R $USER:$USER ${{ github.workspace }}/data
-
-      - name: Commit and Push state changes
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add data/state.json data/articles/
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update sync state [skip ci]" && git push)
-```
-
-- **Daily Job Logs**: [Link to GitHub Actions Run Logs](https://github.com/your-username/your-repo-name/actions)
+- **Daily Job Logs:** [Link to GitHub Actions Run Logs](https://github.com/Leminionn/sisyphus-alphasphere/actions)
 
 ---
 
 ## 📸 Sanity Check Screenshot
 
-Ask the Assistant in Google AI Studio / OpenAI Playground: **"How do I add a YouTube video?"**
-Include your screenshot showing correct answer and citations here:
+Here is the assistant correctly answering the question **"How do I add a YouTube video?"** with grounding citations using our vector store:
 
 ![Assistant Sanity Check Response](docs/assets/assistant-response.png)
