@@ -9,15 +9,18 @@ class Article:
     body_html: str
     body_markdown: str = ""
     locale: str = "en-us"
+    html_url: str = ""
+    slug: str = ""
     updated_at: Optional[datetime] = None
     hash_val: str = ""
     file_path: str = ""
-    gemini_file_name: str = ""
+    gemini_file_name: str = ""  # resource name in Gemini File Search Store
     gemini_uri: str = ""
 
 @dataclass
 class ArticleState:
     id: int
+    slug: str
     hash_val: str
     updated_at: str  # ISO format string
     gemini_file_name: str
