@@ -1,0 +1,44 @@
+name: Daily OptiBot Data Sync
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+  workflow_dispatch:      # Allows manual trigger via GitHub Actions UI
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Restore cache state
+        id: cache-state
+        uses: actions/cache@v4
+        with:
+          path: data/
+          key: optibot-state-${{ github.run_id }}
+          restore-keys: |
+            optibot-state-
+
+      - name: Run ETL Pipeline
+        env:
+          API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python main.py
+
+      - name: Save cache state
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: data/
+          key: optibot-state-${{ github.run_id }}
