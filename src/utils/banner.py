@@ -1,0 +1,16 @@
+"""
+ASCII Art Welcome Banners for the Sisyphus Pipeline.
+"""
+
+SISYPHUS_ART = """
+███████╗██╗███████╗██╗   ██╗██████╗ ██╗  ██╗██╗   ██╗███████╗
+██╔════╝██║██╔════╝╚██╗ ██╔╝██╔══██╗██║  ██║██║   ██║██╔════╝
+███████╗██║███████╗ ╚████╔╝ ██████╔╝███████║██║   ██║███████╗
+╚════██║██║╚════██║  ╚██╔╝  ██╔═══╝ ██╔══██║██║   ██║╚════██║
+███████║██║███████║   ██║   ██║     ██║  ██║╚██████╔╝███████║
+╚══════╝╚═╝╚══════╝   ╚═╝   ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚══════╝"""
+
+def print_banner(subtitle: str):
+    """Prints the Sisyphus ASCII art banner with a centered subtitle."""
+    print(SISYPHUS_ART)
+    print(f"\n{subtitle:^60}\n")

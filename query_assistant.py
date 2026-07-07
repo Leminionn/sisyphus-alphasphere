@@ -11,6 +11,7 @@ from dotenv import load_dotenv
 from google import genai
 from google.genai import types
 from google.genai.errors import APIError
+from src.utils.banner import print_banner
 
 load_dotenv()
 
@@ -34,7 +35,7 @@ def find_store_name(client, display_name: str) -> str:
         print(f"[ERROR] Failed to query Gemini stores: {e}")
         sys.exit(1)
 
-def query_rag_assistant(client, store_resource_name: str, question: str, show_citations: bool = False):
+def query_rag_assistant(client, store_resource_name: str, question: str, model_name: str, show_citations: bool = False):
     """Sends a query to the Gemini model grounded with the File Search Store."""
     sys_instruction = (
         "You are OptiBot, the customer-support bot for OptiSigns.com.\n"
@@ -46,10 +47,11 @@ def query_rag_assistant(client, store_resource_name: str, question: str, show_ci
     
     try:
         response = client.models.generate_content(
-            model="gemini-2.5-flash",
+            model=model_name,
             contents=question,
             config=types.GenerateContentConfig(
                 system_instruction=sys_instruction,
+                temperature=0.0, 
                 tools=[
                     types.Tool(
                         file_search=types.FileSearch(
@@ -63,20 +65,21 @@ def query_rag_assistant(client, store_resource_name: str, question: str, show_ci
         print("\n[OptiBot]:")
         print(response.text)
         
-        # Display citation metadata if requested
-        if show_citations and response.candidates and response.candidates[0].grounding_metadata:
-            metadata = response.candidates[0].grounding_metadata
-            if metadata.grounding_chunks:
-                print("\n[Citations]:")
-                for idx, chunk in enumerate(metadata.grounding_chunks, start=1):
-                    if chunk.web and chunk.web.uri:
-                        print(f"  [{idx}] Web Source: {chunk.web.uri}")
-                    elif chunk.retrieved_context:
-                        ctx = chunk.retrieved_context
-                        title_str = f" ({ctx.title})" if ctx.title else ""
-                        print(f"  [{idx}] Document: {ctx.uri}{title_str}")
-            else:
-                print("\n[Citations]: No source citations returned.")
+        if show_citations and response.candidates and len(response.candidates) > 0:
+            candidate = response.candidates[0]
+            if hasattr(candidate, 'grounding_metadata') and candidate.grounding_metadata:
+                metadata = candidate.grounding_metadata
+                if hasattr(metadata, 'grounding_chunks') and metadata.grounding_chunks:
+                    print("\n[Citations]:")
+                    for idx, chunk in enumerate(metadata.grounding_chunks, start=1):
+                        if hasattr(chunk, 'retrieved_context') and chunk.retrieved_context:
+                            ctx = chunk.retrieved_context
+                            title_str = f" ({ctx.title})" if idx <= len(metadata.grounding_chunks) and hasattr(ctx, 'title') and ctx.title else ""
+                            print(f"  [{idx}] Document: {ctx.uri if hasattr(ctx, 'uri') else 'File Store'}{title_str}")
+                        elif hasattr(chunk, 'web') and chunk.web and chunk.web.uri:
+                            print(f"  [{idx}] Web Source: {chunk.web.uri}")
+                else:
+                    print("\n[Citations]: No source citations returned.")
         print("-" * 50)
         
     except APIError as e:
@@ -84,20 +87,9 @@ def query_rag_assistant(client, store_resource_name: str, question: str, show_ci
     except Exception as e:
         print(f"\n[ERROR] An unexpected error occurred: {e}")
 
-BANNER = """
- █████╗ ██╗     ██████╗ ██╗  ██╗ █████╗ ███████╗██████╗ ██╗  ██╗███████╗██████╗ ███████╗
-██╔══██╗██║     ██╔══██╗██║  ██║██╔══██╗██╔════╝██╔══██╗██║  ██║██╔════╝██╔══██╗██╔════╝
-███████║██║     ██████╔╝███████║███████║███████╗██████╔╝███████║█████╗  ██████╔╝█████╗  
-██╔══██║██║     ██╔═══╝ ██╔══██║██╔══██║╚════██║██╔═══╝ ██╔══██║██╔══╝  ██╔══██╗██╔══╝  
-██║  ██║███████╗██║     ██║  ██║██║  ██║███████║██║     ██║  ██║███████╗██║  ██║███████╗
-╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝
-
-               RAG Chat Assistant for OptiBot Mini-Clone
-"""
-
-def start_interactive_session(client, store_resource_name: str, show_citations: bool):
+def start_interactive_session(client, store_resource_name: str, model_name: str, show_citations: bool):
     """Launches an interactive shell chat loop with the assistant."""
-    print(BANNER)
+    print_banner("Interactive RAG Assistant")
     print("=" * 60)
     print("  Type 'exit', 'quit', or 'q' to end the chat session.")
     print("=" * 60)
@@ -111,7 +103,7 @@ def start_interactive_session(client, store_resource_name: str, show_citations: 
                 print("Goodbye!")
                 break
             
-            query_rag_assistant(client, store_resource_name, user_input, show_citations)
+            query_rag_assistant(client, store_resource_name, user_input, model_name, show_citations)
         except KeyboardInterrupt:
             print("\nGoodbye!")
             break
@@ -122,6 +114,12 @@ def main():
         "-q", "--question",
         type=str,
         help="A single question to ask OptiBot. If omitted, starts an interactive chat loop."
+    )
+    parser.add_argument(
+        "-m", "--model",
+        type=str,
+        default=os.environ.get("GEMINI_MODEL", "gemini-2.5-flash"),
+        help="The Gemini model to use for query/inference (default: gemini-2.5-flash)."
     )
     parser.add_argument(
         "-s", "--store",
@@ -148,9 +146,9 @@ def main():
         
     # Execute query or start loop
     if args.question:
-        query_rag_assistant(client, store_resource_name, args.question, args.citations)
+        query_rag_assistant(client, store_resource_name, args.question, args.model, args.citations)
     else:
-        start_interactive_session(client, store_resource_name, args.citations)
+        start_interactive_session(client, store_resource_name, args.model, args.citations)
 
 if __name__ == "__main__":
     main()
