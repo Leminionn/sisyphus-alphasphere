@@ -68,7 +68,7 @@ docker run --rm -e API_KEY="your_api_key_here" optibot-sync-pipeline
 
 We leverage Gemini's managed **File Search Stores** for RAG.
 - **Managed Pipeline**: File ingestion, semantic embeddings, and vector indexing are handled automatically by Google's backend.
-- **Chunking Strategy**: Configured with a `max_tokens_per_chunk` of 500 tokens and a `max_overlap_tokens` of 100 tokens using standard whitespace segment separators. This maintains paragraph coherence and preserves table structures and lists without tearing context.
+- **Chunking Strategy**: We delegate chunking to Gemini's native managed File Search Store indexing pipeline. This automatically parses the Markdown document, preserving structural blocks (headings, paragraphs, lists, tables) to maintain context and optimize retrieval search relevance.
 - **Grounding & Citations**: The AI model uses the File Search Store tool directly, producing grounded answers with automated article citations.
 
 ---
@@ -89,6 +89,8 @@ on:
 jobs:
   sync:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -100,26 +102,20 @@ jobs:
 
       - name: Install dependencies
         run: |
+          python -m pip install --upgrade pip
           pip install -r requirements.txt
-
-      - name: Restore cache state
-        uses: actions/cache@v4
-        with:
-          path: data/
-          key: optibot-state-${{ github.run_id }}
-          restore-keys: optibot-state-
 
       - name: Run ETL Pipeline
         env:
           API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python main.py
 
-      - name: Save cache state
-        if: always()
-        uses: actions/cache/save@v4
-        with:
-          path: data/
-          key: optibot-state-${{ github.run_id }}
+      - name: Commit and Push state changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add data/state.json data/articles/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update sync state [skip ci]" && git push)
 ```
 
 - **Daily Job Logs**: [Link to GitHub Actions Run Logs](https://github.com/your-username/your-repo-name/actions)
