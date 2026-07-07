@@ -14,20 +14,16 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
+      - name: Build Docker Image
+        run: docker build -t optibot-sync .
 
-      - name: Install dependencies
+      - name: Run ETL Pipeline via Docker
         run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
-
-      - name: Run ETL Pipeline
-        env:
-          API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: python main.py
+          docker run --rm \
+            -v ${{ github.workspace }}/data:/app/data \
+            -e API_KEY="${{ secrets.GEMINI_API_KEY }}" \
+            optibot-sync
+          sudo chown -R $USER:$USER ${{ github.workspace }}/data
 
       - name: Commit and Push state changes
         run: |
