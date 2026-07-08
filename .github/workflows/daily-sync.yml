@@ -2,7 +2,7 @@ name: Daily OptiBot Data Sync
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+    - cron: '35 2 * * *'
   workflow_dispatch:      # Allows manual trigger via GitHub Actions UI
 
 jobs:
@@ -12,7 +12,7 @@ jobs:
       contents: write
     steps:
       - name: Checkout code
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Build Docker Image
         run: docker build -t optibot-sync .
