@@ -3,7 +3,7 @@
 **Article ID:** 53095698149011
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/53095698149011-Using-the-Japan-Earthquake-App
-**Last Updated:** 2026-07-06T14:22:20+00:00
+**Last Updated:** 2026-07-08T18:39:51+00:00
 ---
 
 * [What You'll Need](#WhatYouNeed)

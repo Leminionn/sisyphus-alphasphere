@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-07-08T05:37:35.062758+00:00",
+  "last_sync": "2026-07-09T06:27:37.905383+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -13,10 +13,10 @@
     "53095698149011": {
       "id": 53095698149011,
       "slug": "53095698149011-Using-the-Japan-Earthquake-App",
-      "hash_val": "7c389974c4752a80fe3cf63cabf0f16c67dabe11845d1fa8fff4f13cea1520c1",
-      "updated_at": "2026-07-06T14:22:20+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/53095698149011usingthejapan-aifqxbetf723",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/53095698149011usingthejapan-aifqxbetf723",
+      "hash_val": "9ec33035f9bf95b6515b9ce70e7ea9ada64325d840f96d4a15115cbd094c2c20",
+      "updated_at": "2026-07-08T18:39:51+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/53095698149011usingthejapan-hc8ms1mofejh",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/53095698149011usingthejapan-hc8ms1mofejh",
       "locale": "en-us"
     },
     "53028011485715": {
@@ -58,10 +58,10 @@
     "52113036672403": {
       "id": 52113036672403,
       "slug": "52113036672403-Room-Integrations-Turn-Your-Meeting-Rooms-into-Digital-Signage",
-      "hash_val": "4584fa67679298df079ec14a5943f20839040f5d7ed5e9ac0764256d40de9f87",
-      "updated_at": "2026-06-15T19:14:16+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/52113036672403roomintegrati-puopcev79ber",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/52113036672403roomintegrati-puopcev79ber",
+      "hash_val": "9322ffe4a1226460a938c903d74432c6a7b75e29187b4343e9b637f79c782934",
+      "updated_at": "2026-07-08T14:58:11+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/52113036672403roomintegrati-n1fo2prb1lbb",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/52113036672403roomintegrati-n1fo2prb1lbb",
       "locale": "en-us"
     },
     "52069065128723": {
@@ -454,10 +454,10 @@
     "28598173096723": {
       "id": 28598173096723,
       "slug": "28598173096723-How-To-Create-and-Use-Operational-Schedules-HDMI-CEC-RS-232",
-      "hash_val": "700776168ab30800a4e0cea9581e8ea0b80f683ec198049c08ab5feeabc44a7a",
-      "updated_at": "2026-06-02T22:08:42+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28598173096723howtocreatean-uhmaolxe0iie",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28598173096723howtocreatean-uhmaolxe0iie",
+      "hash_val": "9464a234a8cddabbeae502356d3efd5b68bc9c3a774d643f5cff347566adbe4f",
+      "updated_at": "2026-07-08T14:47:07+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28598173096723howtocreatean-5de0t5m87ti1",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28598173096723howtocreatean-5de0t5m87ti1",
       "locale": "en-us"
     },
     "28427819992979": {
@@ -3271,10 +3271,10 @@
     "360051014713": {
       "id": 360051014713,
       "slug": "360051014713-How-to-use-YouTube-with-OptiSigns",
-      "hash_val": "18e2abcc3d30011c45159a8296e2e349b32795a3b2691a1c138975988c0e7435",
-      "updated_at": "2026-06-18T05:00:56+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360051014713howtouseyoutube-vvom4gbqbv1w",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360051014713howtouseyoutube-vvom4gbqbv1w",
+      "hash_val": "80c3c2bae981e51680237e24a68295723c2cb6b2b96f2627f883bbd575b16d65",
+      "updated_at": "2026-07-08T15:01:25+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360051014713howtouseyoutube-vnkkwnua7gfv",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360051014713howtouseyoutube-vnkkwnua7gfv",
       "locale": "en-us"
     },
     "360049875794": {
@@ -3644,6 +3644,15 @@
       "updated_at": "2026-02-03T18:12:07+00:00",
       "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016382473howtousethewebs-8xgdx3d2lu6q",
       "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016382473howtousethewebs-8xgdx3d2lu6q",
+      "locale": "en-us"
+    },
+    "53293393593491": {
+      "id": 53293393593491,
+      "slug": "53293393593491-Refer-Earn-OptiSigns-Referral-Program",
+      "hash_val": "52f567b236266f8652ea1ca0e636bad3fdc877fe34256ae91c4fd1dcd4eb5039",
+      "updated_at": "2026-07-08T17:09:50+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/53293393593491referearnopti-io8fn65uzcr9",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/53293393593491referearnopti-io8fn65uzcr9",
       "locale": "en-us"
     }
   }
