@@ -3,7 +3,7 @@
 **Article ID:** 360047275934
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-addresses-ports
-**Last Updated:** 2026-06-18T00:48:15+00:00
+**Last Updated:** 2026-07-09T19:48:39+00:00
 ---
 
 If you need to configure the firewall, here is the list of OptiSigns IP addresses and Port to whitelist:

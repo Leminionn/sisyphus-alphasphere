@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-07-09T06:27:37.905383+00:00",
+  "last_sync": "2026-07-10T06:26:39.925659+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -445,10 +445,10 @@
     "29217646663187": {
       "id": 29217646663187,
       "slug": "29217646663187-How-to-Set-Up-Dynamic-Data-Mapping-with-OptiSync",
-      "hash_val": "49c833494118ab2939d9761f855f4c8732b753fea778a289b8a6afc0e68b1745",
-      "updated_at": "2025-09-04T17:54:40+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/29217646663187howtosetupdyn-gfh8ppyn0bj2",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/29217646663187howtosetupdyn-gfh8ppyn0bj2",
+      "hash_val": "b7e83914c19ef6372db861dc9668e3e073107bb607a66f6c73ce107093dead2f",
+      "updated_at": "2026-07-09T15:33:50+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/29217646663187howtosetupdyn-urv2uas9wpup",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/29217646663187howtosetupdyn-urv2uas9wpup",
       "locale": "en-us"
     },
     "28598173096723": {
@@ -1480,10 +1480,10 @@
     "360056086653": {
       "id": 360056086653,
       "slug": "360056086653-How-to-Change-Time-Zone-on-Your-Fire-Stick-device",
-      "hash_val": "9a6df925be7edc1c25ce1880766443cc8a1b53a7bc47e4d8be34b6b777ce2071",
-      "updated_at": "2026-05-20T21:12:27+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360056086653howtochangetime-4dagp2dtf7yn",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360056086653howtochangetime-4dagp2dtf7yn",
+      "hash_val": "1dd54701d463b701f9c31a17b793c2a19b31d9e4364fa40a578f812711b7ccea",
+      "updated_at": "2026-07-09T18:27:02+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360056086653howtochangetime-uj3itmk6ds90",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360056086653howtochangetime-uj3itmk6ds90",
       "locale": "en-us"
     },
     "360053198573": {
@@ -1543,10 +1543,10 @@
     "360047275934": {
       "id": 360047275934,
       "slug": "360047275934-Whitelist-OptiSigns-IP-addresses-ports",
-      "hash_val": "03cef1a2f3af460f24538be1af27a57a4a68e4bd9eed153b9bbeab1d4537b8ec",
-      "updated_at": "2026-06-18T00:48:15+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360047275934whitelistoptisi-39o6yeoatoro",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360047275934whitelistoptisi-39o6yeoatoro",
+      "hash_val": "20280922fde86549a13558f708507408f4e535a4a156474bc40c6f411398aba0",
+      "updated_at": "2026-07-09T19:48:39+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360047275934whitelistoptisi-17c2dw03b2uc",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360047275934whitelistoptisi-17c2dw03b2uc",
       "locale": "en-us"
     },
     "360047232054": {
@@ -1768,10 +1768,10 @@
     "360026559573": {
       "id": 360026559573,
       "slug": "360026559573-How-to-Create-and-Use-the-Split-Screen-App",
-      "hash_val": "9b41cd7fa21a643a9f14c26f2d7cf8586675000ac69d90c2938fbc6266662b3c",
-      "updated_at": "2026-02-04T16:37:07+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360026559573howtocreateandu-rgvg0ik1sl9f",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360026559573howtocreateandu-rgvg0ik1sl9f",
+      "hash_val": "cf26787e7a1ce7e4b1136b5b8c2a6bb7c514792232f6fdb48273c9be0d152ad2",
+      "updated_at": "2026-07-09T21:32:58+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360026559573howtocreateandu-04nwdbs6cylf",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360026559573howtocreateandu-04nwdbs6cylf",
       "locale": "en-us"
     },
     "360025661053": {

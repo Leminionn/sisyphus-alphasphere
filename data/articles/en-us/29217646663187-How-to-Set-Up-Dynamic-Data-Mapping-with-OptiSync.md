@@ -3,7 +3,7 @@
 **Article ID:** 29217646663187
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/29217646663187-How-to-Set-Up-Dynamic-Data-Mapping-with-OptiSync
-**Last Updated:** 2025-09-04T17:54:40+00:00
+**Last Updated:** 2026-07-09T15:33:50+00:00
 ---
 
 ### In today's fast-paced digital environment, manually updating digital displays can be both tedious and error-prone. This guide will show you how to integrate live data into your digital screens, allowing for seamless automatic updates across your displays.
@@ -21,6 +21,8 @@
 |  |
 | --- |
 | Note: OptiSync is only available on Pro Plus and above plans. |
+
+---
 
 ## What is OptiSync?
 
@@ -44,6 +46,8 @@ OptiSync is ideal for a wide range of use cases, such as:
 * And, many more!
 
 With OptiSync, your digital displays remain accurate and up-to-date, enhancing communication and engagement in various settings.
+
+---
 
 ## Adding Your Data Source
 
@@ -74,7 +78,7 @@ You can add any data source, such as an Excel sheet, Google Sheet, POS system, i
 
 In addition, you can integrate and test API requests, and execute any necessary pre- or post-request coding.
 
-Once your data source is set up, you can see **Where Used,** **Edit** the data source, and/or **Duplicate** it.
+Once your data source is set up, you can see **Where Used, Edit** the data source, and/or **Duplicate** it.
 
 * **Where Used:** This will show you which of your designs are using this Data Source. This is useful to track the use of this data source across different assets.
 * **Edit Data:**Go into your data source and make any updates/changes.
@@ -104,6 +108,16 @@ A pop-up message will appear, asking "**Would you like to use this data in a Rep
 | --- |
 | **IMPORTANT** |
 | OptiSync does not support special characters (i.e. anything outside the scope of an English-language keyboard). This will cause the system data to read as blank, and it will not show. |
+
+When you choose to use the data as a Repeater, you're presented with additional options:
+
+You can create the Repeater as Text, as an Image, or as a QR code.
+
+* **Use it as Text:** Displays the Repeater data as-is. This is the most commonly used option.
+* **Use it as Image:** Displays the Repeater data as an image. Please note that this option will only work with API data uploaded in image format - otherwise, you will receive an error message when you try and select this option.
+* **Use it as QR Code:** Displays the Repeater data as a QR Code. Most useful for URLs, this automatically creates a dynamic QR code for your display.
+
+---
 
 ## Editing and Designing Your Repeater in Designer
 
@@ -142,7 +156,7 @@ Then, these options will be presented:
   + **Skip:** Skip it, or get rid of additional repeater items if there isn't enough data to reach the set "Total Items displayed per Page".
   + **Use Default Value:** Show default content, which is what your Repeater element looks like by itself.
   + **Use Blank:** The Repeater will show nothing.
-* **Spacing Betwee****n** **Items:**Increase or decrease the space between the Repeater items.
+* **Spacing Between Items:**Increase or decrease the space between the Repeater items.
 * **Item Display Direction:** Change the positioning of the rows from your DataSource within the Repeater items.   
   + **Left To Right**: It will display the rows going from left to right.
   + **Top To Bottom**: It will display the rows going top to bottom.
@@ -151,7 +165,12 @@ Then, these options will be presented:
 * **Maximum Items in Each Row/Column:** Increase or decrease how many Repeater items you'd like shown in each row/column.
 * **Additional Row/Column Spacing:** Increase or decrease the spacing between rows/columns.
 * **Duration (seconds):** Adjust the duration of time for how long each Repeater item is shown before.
+* **Page Transition:** Create a page transition for your Repeater. You can choose between Fade and Carousel options, or None at all.
+* **Sort by:** Allows you to quickly sort Repeaters by any data field, with quick filter shortcuts.
 * **Shuffle:** Randomly shuffle the items in your DataSource to be displayed on the Repeater.
+* **Swipe to Advance:** Allows you to tap or swipe to move between items. Ideal for touchscreen kiosks.
+* **Resume on Next Play:** When checked, the Repeater will resume from where it left off if used in a Playlist.
+* **Show Counter**: Toggle a "2/7 pages" or "13/45" display on or off.
 
 If you edit a Repeater, it will replicate your updates for each instance of data in the dataset.
 
@@ -207,11 +226,13 @@ If you'd like to change how the formatting of certain data from your DataSource 
 | Date Time | You can change the time zone, date format, and time format with available options. |
 | Number | You can format numbers to display as percentages, decimals, currency, and more. |
 
+---
+
 ## Push to Screens
 
 Once your design is completed, it is ready to push to screen.
 
-*(Here's **[a guide](https://support.optisigns.com/hc/en-us/articles/18988049363859)** if you need further assistance with this.)*
+*(Here's* [***a guide***](https://support.optisigns.com/hc/en-us/articles/18988049363859)*if you need further assistance with this.)*
 
 Your screen will automatically update based on your connected data source.
 

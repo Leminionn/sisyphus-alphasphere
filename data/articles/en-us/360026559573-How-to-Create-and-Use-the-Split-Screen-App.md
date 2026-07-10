@@ -3,7 +3,7 @@
 **Article ID:** 360026559573
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360026559573-How-to-Create-and-Use-the-Split-Screen-App
-**Last Updated:** 2026-02-04T16:37:07+00:00
+**Last Updated:** 2026-07-09T21:32:58+00:00
 ---
 
 The Split Screen feature in OptiSigns allows you to divide your screen into different zones or regions, enabling a more dynamic display of content. This feature is supported on all platforms except Roku and Apple TV. Commonly referred to as Split Screens, Screen Zones, or Screen Layouts, this guide will walk you through the steps to create and use the split screen app.
@@ -54,7 +54,7 @@ This will open the **Split Screen Configs** menu:
 * **Resolution** - Choose the final display resolution. This should match the total resolution of the screen you plan to display the split screen on.
 * **Background Music -** Lets you choose the Zone Playlist background music will be played.
 * **Audio Zone** - Lets you select which zone audio will be played in. Zones not selected will be muted.
-* **Primary Zone** - This settings lets you sync timing of all secondary zones to the zone selected. With None selected, all content will play at their own pace.
+* **Primary Zone** - This settings lets you sync timing of all secondary zones to the zone selected. With None selected, all content will play at their own pace. Note that this is only available for **Pro Plus plan** subscribers or above.
 
 ### 6. Preview and Save
 

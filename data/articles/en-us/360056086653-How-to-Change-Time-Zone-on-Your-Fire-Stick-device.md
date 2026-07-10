@@ -3,7 +3,7 @@
 **Article ID:** 360056086653
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360056086653-How-to-Change-Time-Zone-on-Your-Fire-Stick-device
-**Last Updated:** 2026-05-20T21:12:27+00:00
+**Last Updated:** 2026-07-09T18:27:02+00:00
 ---
 
 Your schedule doesn't start or end at the same time as your schedule. The issue may be your device's time zone setting. You can check your device's setting.
