@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-07-10T06:26:39.925659+00:00",
+  "last_sync": "2026-07-11T05:26:53.715709+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -1804,10 +1804,10 @@
     "360016313754": {
       "id": 360016313754,
       "slug": "360016313754-How-to-Install-an-APK-file-on-your-Fire-TV",
-      "hash_val": "b35a04f50fa32eac3d40fb4f5c00499eeb24caa1f00acd0d4d13e905b0155815",
-      "updated_at": "2026-06-19T15:42:09+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016313754howtoinstallana-h9ulopkrrqy4",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016313754howtoinstallana-h9ulopkrrqy4",
+      "hash_val": "163bcf732e18e76e494adf9c03632c1f6b93d55a685865754c41ac6ab89acccf",
+      "updated_at": "2026-07-10T23:06:42+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016313754howtoinstallana-mo1dohcd8cyx",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016313754howtoinstallana-mo1dohcd8cyx",
       "locale": "en-us"
     },
     "360016252654": {
