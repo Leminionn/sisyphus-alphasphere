@@ -3,7 +3,7 @@
 **Article ID:** 6604468198291
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/6604468198291-How-to-Use-the-CAP-Alert-App
-**Last Updated:** 2026-03-13T16:05:48+00:00
+**Last Updated:** 2026-07-13T17:44:57+00:00
 ---
 
 Some Emergency Alert Systems or Emergency Mass Notification Systems (like Everbridge, RAVE. and Alertus) can push CAP (Common Alerting Protocol) and Integrated Public Alert and Warning System (IPAWS) messages to the targets including digital signage when there is an emergency. You can integrate with these systems using the CAP Alert app with OptiSigns.

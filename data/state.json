@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-07-13T05:53:19.689409+00:00",
+  "last_sync": "2026-07-14T05:14:55.276350+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -2227,10 +2227,10 @@
     "360021855653": {
       "id": 360021855653,
       "slug": "360021855653-What-hardware-and-devices-are-supported",
-      "hash_val": "8524a592d84d7d71c12b08f0bf34c321c4005db8bdbdf0b01b7ba8d284000446",
-      "updated_at": "2026-01-07T16:05:26+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360021855653whathardwareand-73rirgjw4al1",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360021855653whathardwareand-73rirgjw4al1",
+      "hash_val": "fa33e865ff2a1fb9527ef73712452021409545d4b7936e5eb2d9ef1bc9f1b722",
+      "updated_at": "2026-07-13T15:50:57+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360021855653whathardwareand-3ic53r5gv53l",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360021855653whathardwareand-3ic53r5gv53l",
       "locale": "en-us"
     },
     "360019588654": {
@@ -2884,10 +2884,10 @@
     "6604468198291": {
       "id": 6604468198291,
       "slug": "6604468198291-How-to-Use-the-CAP-Alert-App",
-      "hash_val": "36857a0e60e8ae741eb13fc5920acac9010d3fb5dd9bd73be0e5517627e4ad89",
-      "updated_at": "2026-03-13T16:05:48+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/6604468198291howtousethecap-tpa81camwewp",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/6604468198291howtousethecap-tpa81camwewp",
+      "hash_val": "7fa4da3ef6702fef19439a03b90a4cd49cb3c0d56a5237096ab3587eed88a688",
+      "updated_at": "2026-07-13T17:44:57+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/6604468198291howtousethecap-m58rmvew078b",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/6604468198291howtousethecap-m58rmvew078b",
       "locale": "en-us"
     },
     "6091289267475": {
