@@ -3,7 +3,7 @@
 **Article ID:** 1500000485202
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/1500000485202-Custom-Branding-Settings
-**Last Updated:** 2025-12-29T21:04:58+00:00
+**Last Updated:** 2026-07-14T16:23:24+00:00
 ---
 
 It's possible to customize the OptiSigns Portal experience to match your brand. It's also possible to hide OptiSigns branding apps and features.
@@ -35,6 +35,8 @@ More on domain/sub-domain mapping [here](https://support.optisigns.com/hc/en-us/
 **Your domain:**
 
 You can map your sub-domain, i.e. login.abcmedia.com so that your users can log in and use the portal from login.abcmedia.com and use the app like the screenshot below.
+
+This requires a **Custom Domain add-on**. You can start a 14-day Trial, after which it will cost an additional $10/month for this feature.
 
 More on domain/sub-domain mapping [here](https://support.optisigns.com/hc/en-us/articles/1500000480302).
 

@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-07-14T05:14:55.276350+00:00",
+  "last_sync": "2026-07-15T05:15:38.431262+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -490,10 +490,10 @@
     "28295104605843": {
       "id": 28295104605843,
       "slug": "28295104605843-How-to-Create-Use-Playlists",
-      "hash_val": "92b3815e14f233423d22236f37ac8c2812b8b8e9312a6d1c8cc16625b522c984",
-      "updated_at": "2026-03-31T21:42:16+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28295104605843howtocreateus-1xtqlgfgl7wp",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28295104605843howtocreateus-1xtqlgfgl7wp",
+      "hash_val": "4a64e44a954171ee0f16f8b4456d1408b847a97a98a243c6b09a772fea2d25de",
+      "updated_at": "2026-07-14T12:09:21+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28295104605843howtocreateus-7evjpclf21g7",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28295104605843howtocreateus-7evjpclf21g7",
       "locale": "en-us"
     },
     "28140190892307": {
@@ -841,10 +841,10 @@
     "15313086319763": {
       "id": 15313086319763,
       "slug": "15313086319763-How-to-Design-Kiosk-Apps-Using-Kiosk-Designer-Pro",
-      "hash_val": "96a5b3baf55ead96638b3456b104164a22bf0518b1fe63d6706e402623aae5f3",
-      "updated_at": "2025-11-05T17:31:50+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/15313086319763howtodesignki-8epehw002kdd",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/15313086319763howtodesignki-8epehw002kdd",
+      "hash_val": "7902006a76b75d675b27a6c8c099fef48c35c6cefd27f9d0f117cd412bd9b3cb",
+      "updated_at": "2026-07-14T07:45:20+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/15313086319763howtodesignki-c3smsuurkujn",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/15313086319763howtodesignki-c3smsuurkujn",
       "locale": "en-us"
     },
     "15268811715347": {
@@ -1318,19 +1318,19 @@
     "1500000485202": {
       "id": 1500000485202,
       "slug": "1500000485202-Custom-Branding-Settings",
-      "hash_val": "bd742a9c66da1c8746e7d9ac3f64f01cae19557ce9afb799257b6a92e755840c",
-      "updated_at": "2025-12-29T21:04:58+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500000485202custombranding-s0fvomtt9dwy",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500000485202custombranding-s0fvomtt9dwy",
+      "hash_val": "ea91c99b2c95a9bb0e4602680e7c6d9f0878b222417b143fae29e15e13e8620e",
+      "updated_at": "2026-07-14T16:23:24+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500000485202custombranding-5dajhs7lhab5",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500000485202custombranding-5dajhs7lhab5",
       "locale": "en-us"
     },
     "1500000480302": {
       "id": 1500000480302,
-      "slug": "1500000480302-Advanced-Custom-Domain-mapping",
-      "hash_val": "1aa32c644e03a4df226f89d463a55b71e298f469e1d4ca68e4cbcdc4128a39e0",
-      "updated_at": "2026-05-29T17:34:19+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500000480302advancedcustom-0q66mw5s8njf",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500000480302advancedcustom-0q66mw5s8njf",
+      "slug": "1500000480302-Advanced-Custom-Domain-Mapping",
+      "hash_val": "af8239b6649e041f242af445b4e94bfdaa9afe8937371e9fc6da84cbad167cb1",
+      "updated_at": "2026-07-14T17:53:32+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500000480302advancedcustom-166rp6j1y02s",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500000480302advancedcustom-166rp6j1y02s",
       "locale": "en-us"
     },
     "360060676993": {

@@ -3,7 +3,7 @@
 **Article ID:** 15313086319763
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/15313086319763-How-to-Design-Kiosk-Apps-Using-Kiosk-Designer-Pro
-**Last Updated:** 2025-11-05T17:31:50+00:00
+**Last Updated:** 2026-07-14T07:45:20+00:00
 ---
 
 ### In this guide, we'll show you how to effortlessly customize templates into interactive kiosk apps with just a few clicks, perfectly tailored to your unique requirements.
