@@ -3,7 +3,7 @@
 **Article ID:** 360016388733
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360016388733-How-to-create-and-use-Instagram-Wall
-**Last Updated:** 2025-09-02T20:31:50+00:00
+**Last Updated:** 2026-07-15T15:27:32+00:00
 ---
 
 |  |
