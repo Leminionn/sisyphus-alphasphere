@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-07-16T05:25:23.886113+00:00",
+  "last_sync": "2026-07-17T05:27:25.514239+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -1543,10 +1543,10 @@
     "360047275934": {
       "id": 360047275934,
       "slug": "360047275934-Whitelist-OptiSigns-IP-addresses-ports",
-      "hash_val": "20280922fde86549a13558f708507408f4e535a4a156474bc40c6f411398aba0",
-      "updated_at": "2026-07-09T19:48:39+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360047275934whitelistoptisi-17c2dw03b2uc",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360047275934whitelistoptisi-17c2dw03b2uc",
+      "hash_val": "2e9068155a7300cda717d800b6e18a16ba618ecbc84602ba395fb90b4d625d0e",
+      "updated_at": "2026-07-16T10:01:04+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360047275934whitelistoptisi-9d0lcar2ic1j",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360047275934whitelistoptisi-9d0lcar2ic1j",
       "locale": "en-us"
     },
     "360047232054": {
@@ -2074,10 +2074,10 @@
     "360053211594": {
       "id": 360053211594,
       "slug": "360053211594-Set-OptiSigns-as-ScreenSaver-on-Windows",
-      "hash_val": "efb2d1468673355241f3fb98099628ce9e3f9d53e038315d3b924c8eadf0d67f",
-      "updated_at": "2025-08-29T20:39:30+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360053211594setoptisignsass-0jtf289dos74",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360053211594setoptisignsass-0jtf289dos74",
+      "hash_val": "f7e5ab21aeb31430bdb0f64acc9686526d987bc699e07ecc61e45949b80e2516",
+      "updated_at": "2026-07-16T22:15:47+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360053211594setoptisignsass-j2bhtliwlg64",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360053211594setoptisignsass-j2bhtliwlg64",
       "locale": "en-us"
     },
     "360051014773": {
@@ -3653,6 +3653,15 @@
       "updated_at": "2026-07-08T17:09:50+00:00",
       "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/53293393593491referearnopti-io8fn65uzcr9",
       "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/53293393593491referearnopti-io8fn65uzcr9",
+      "locale": "en-us"
+    },
+    "53497007807251": {
+      "id": 53497007807251,
+      "slug": "53497007807251-Device-Management-and-Mass-Provisioning",
+      "hash_val": "c333563fb0affffddc8b9996913c35385ee64af50b3afa5b9d6022d8c5a66d5b",
+      "updated_at": "2026-07-16T16:39:52+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/53497007807251devicemanagem-e81wpqgay071",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/53497007807251devicemanagem-e81wpqgay071",
       "locale": "en-us"
     }
   }

@@ -3,7 +3,7 @@
 **Article ID:** 360053211594
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360053211594-Set-OptiSigns-as-ScreenSaver-on-Windows
-**Last Updated:** 2025-08-29T20:39:30+00:00
+**Last Updated:** 2026-07-16T22:15:47+00:00
 ---
 
 Sometimes, you would want to set OptiSigns to run if the PC is idle for some time.  
