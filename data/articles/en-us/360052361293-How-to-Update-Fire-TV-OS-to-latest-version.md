@@ -3,7 +3,7 @@
 **Article ID:** 360052361293
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360052361293-How-to-Update-Fire-TV-OS-to-latest-version
-**Last Updated:** 2025-09-04T15:35:37+00:00
+**Last Updated:** 2026-07-18T01:28:41+00:00
 ---
 
 Some times your Fire Stick could encounter issues with some apps like weather, social not displaying correctly.

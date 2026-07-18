@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-07-17T05:27:25.514239+00:00",
+  "last_sync": "2026-07-18T05:09:49.331543+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -67,10 +67,10 @@
     "52069065128723": {
       "id": 52069065128723,
       "slug": "52069065128723-Connect-Zoom-Rooms-to-OptiSigns-Digital-Signage",
-      "hash_val": "d61d2733196d90019abcf0a97c02eba006e371cc8199fc0a82279f00608939cc",
-      "updated_at": "2026-06-11T22:22:00+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/52069065128723connectzoomro-nj3f1ua4gqke",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/52069065128723connectzoomro-nj3f1ua4gqke",
+      "hash_val": "adfb0f6a178c845e574f5666334c62dabb5ab4f57380cb9bc78289c47e4ba642",
+      "updated_at": "2026-07-17T22:17:54+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/52069065128723connectzoomro-rnauxejkwbgs",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/52069065128723connectzoomro-rnauxejkwbgs",
       "locale": "en-us"
     },
     "51343184586643": {
@@ -319,10 +319,10 @@
     "33382537925267": {
       "id": 33382537925267,
       "slug": "33382537925267-Making-a-Video-Wall-with-OptiSigns-Video-Wall-App",
-      "hash_val": "64dcb21ad5a61a1411e52379eff29d3a4f452c9cb90006b17283cf3d0f0bd5f0",
-      "updated_at": "2025-12-11T15:16:23+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/33382537925267makingavideow-t20wcue3vk09",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/33382537925267makingavideow-t20wcue3vk09",
+      "hash_val": "791fcfa1c2253e86f4a4ee6db2db6b17af5f2b4a84ffb0f136af8ae151b88435",
+      "updated_at": "2026-07-17T16:59:32+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/33382537925267makingavideow-6z324chor4nt",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/33382537925267makingavideow-6z324chor4nt",
       "locale": "en-us"
     },
     "32860569148819": {
@@ -1498,10 +1498,10 @@
     "360052361293": {
       "id": 360052361293,
       "slug": "360052361293-How-to-Update-Fire-TV-OS-to-latest-version",
-      "hash_val": "b4b4aad573aebd769df41de1b90acdd054f2197a46983a6932fd5e1c052c047b",
-      "updated_at": "2025-09-04T15:35:37+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360052361293howtoupdatefire-cndzlmfqbe6c",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360052361293howtoupdatefire-cndzlmfqbe6c",
+      "hash_val": "d7d5bef02e97942aacc84c7d5de5104be6946abcf23620064ffaee81db2cde07",
+      "updated_at": "2026-07-18T01:28:41+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360052361293howtoupdatefire-1tnyofwkjbm0",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360052361293howtoupdatefire-1tnyofwkjbm0",
       "locale": "en-us"
     },
     "360051745633": {

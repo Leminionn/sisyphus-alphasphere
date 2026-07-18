@@ -3,7 +3,7 @@
 **Article ID:** 52069065128723
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/52069065128723-Connect-Zoom-Rooms-to-OptiSigns-Digital-Signage
-**Last Updated:** 2026-06-11T22:22:00+00:00
+**Last Updated:** 2026-07-17T22:17:54+00:00
 ---
 
 Turn idle Zoom Rooms into digital signage. When a Zoom Room is not in a meeting, OptiSigns plays your assigned content — images, videos, dashboards, web apps — between meetings, and clears it the moment a meeting starts.
@@ -140,23 +140,17 @@ Disconnecting releases all OptiSigns screen licenses currently consumed by Zoom 
 
 ## Troubleshooting
 
-**My rooms don't appear after connecting.**
-Click **Sync now** on the status bar. If the table is still empty, confirm at least one Zoom Room is provisioned and recently online in your Zoom admin portal. Initial sync can take up to a minute on large accounts.
+**My rooms don't appear after connecting.** Click **Sync now** on the status bar. If the table is still empty, confirm at least one Zoom Room is provisioned and recently online in your Zoom admin portal. Initial sync can take up to a minute on large accounts.
 
-**The room drawer shows "Could not load settings" in the Zoom Settings card.**
-The room has not returned settings to Zoom yet (most common when the room appliance is offline or has been recently reset). Wait until the room is online (Health = active), click **Sync now**, then reopen the drawer.
+**The room drawer shows "Could not load settings" in the Zoom Settings card.** The room has not returned settings to Zoom yet (most common when the room appliance is offline or has been recently reset). Wait until the room is online (Health = active), click **Sync now**, then reopen the drawer.
 
-**Content shows but doesn't clear when a meeting starts.**
-Check the **Display Period** toggle in the Zoom Settings card — if it's on with a very small "stop displaying ... before meeting" offset, content can hang on for a few seconds. Either lower the start offset or disable Display Period to use Zoom's default behavior.
+**Content shows but doesn't clear when a meeting starts.** Check the **Display Period** toggle in the Zoom Settings card — if it's on with a very small "stop displaying ... before meeting" offset, content can hang on for a few seconds. Either lower the start offset or disable Display Period to use Zoom's default behavior.
 
-**"You don't have permission to install this app" on the Zoom Marketplace.**
-You're not signed in as the Account Owner or an Admin with Marketplace install permission. Ask your Zoom account owner to pre-approve OptiSigns at the account level, or to grant your account the appropriate role.
+**"You don't have permission to install this app" on the Zoom Marketplace.** You're not signed in as the Account Owner or an Admin with Marketplace install permission. Ask your Zoom account owner to pre-approve OptiSigns at the account level, or to grant your account the appropriate role.
 
-**A specific room shows "Digital Signage not enabled."**
-Open the room in the Zoom admin portal **Account Settings Zoom Rooms Digital Signage** ensure Digital Signage is enabled at the account, location, or room level. The next OptiSigns push will succeed automatically.
+**A specific room shows "Digital Signage not enabled."** Open the room in the Zoom admin portal **Account Settings Zoom Rooms Digital Signage** ensure Digital Signage is enabled at the account, location, or room level. The next OptiSigns push will succeed automatically.
 
-**Where does OptiSigns store the credentials?**
-The Marketplace OAuth token (or the Server App Client Secret) is encrypted at rest with an account-scoped key. They are never written to logs or returned over the API.
+**Where does OptiSigns store the credentials?** The Marketplace OAuth token (or the Server App Client Secret) is encrypted at rest with an account-scoped key. They are never written to logs or returned over the API.
 
 ---
 
