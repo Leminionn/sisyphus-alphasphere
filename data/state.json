@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-07-19T05:37:10.820099+00:00",
+  "last_sync": "2026-07-20T05:54:14.890313+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -553,10 +553,10 @@
     "27267311796243": {
       "id": 27267311796243,
       "slug": "27267311796243-OptiStick",
-      "hash_val": "3dfc862d635ad691545e918355b326b2b7aa959416c5b04497a34c4381281ff4",
-      "updated_at": "2026-06-26T13:51:49+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/27267311796243optistick-foflrztr4aah",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/27267311796243optistick-foflrztr4aah",
+      "hash_val": "f8a94d5d5ec701ec3691028b9b9add9f20b7e4e8965c901dcea017ec5de89ea3",
+      "updated_at": "2026-07-19T15:05:17+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/27267311796243optistick-nf8pgzwu8ks6",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/27267311796243optistick-nf8pgzwu8ks6",
       "locale": "en-us"
     },
     "25273043501587": {
@@ -1984,10 +1984,10 @@
     "360016380053": {
       "id": 360016380053,
       "slug": "360016380053-How-to-Check-WiFi-Signal-Strength-on-the-Amazon-Fire-TV-Stick",
-      "hash_val": "ea9ddd6c78d064d58f6e46abf4aab93e1b38ee1c27534cd427976654a1c646cf",
-      "updated_at": "2025-09-05T15:00:49+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016380053howtocheckwifis-mfocelwwcz2h",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016380053howtocheckwifis-mfocelwwcz2h",
+      "hash_val": "0dd950e826cc79484d8d616fba6702d40d1581691dc1faebb5a8fd068dbc6b45",
+      "updated_at": "2026-07-19T13:16:43+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016380053howtocheckwifis-nandjormnkzp",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016380053howtocheckwifis-nandjormnkzp",
       "locale": "en-us"
     },
     "42830652820115": {
