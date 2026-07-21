@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-07-20T05:54:14.890313+00:00",
+  "last_sync": "2026-07-21T05:36:12.413050+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -1381,10 +1381,10 @@
     "360055546594": {
       "id": 360055546594,
       "slug": "360055546594-How-does-pre-configured-devices-labeled-in-shipping-package",
-      "hash_val": "e02fc3d7455fbcd44fc52cdee96708473bcc511428c98664a0b7d134ab6e7a38",
-      "updated_at": "2025-08-29T18:41:08+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360055546594howdoespreconfi-cxa7lxnh5x90",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360055546594howdoespreconfi-cxa7lxnh5x90",
+      "hash_val": "786dae7881edcbde1169fc82f7db2061dfec634da1d4ada20c178669cba55b14",
+      "updated_at": "2026-07-20T15:15:23+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360055546594howdoespreconfi-49d7ue73jkvi",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360055546594howdoespreconfi-49d7ue73jkvi",
       "locale": "en-us"
     },
     "360057327693": {
@@ -3208,10 +3208,10 @@
     "360053993934": {
       "id": 360053993934,
       "slug": "360053993934-How-to-use-Kiosk-Lite-formerly-known-as-Interactive-Kiosk-app",
-      "hash_val": "13126782dd2984e82b12fe2ece9dc038eaf1f0df2701a4ab87d796c1ddd978bd",
-      "updated_at": "2025-09-04T14:30:55+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360053993934howtousekioskli-ie9cbolws64a",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360053993934howtousekioskli-ie9cbolws64a",
+      "hash_val": "4b6ef7b701f45b26b29fb4e730eb8695538239c2f96ae9090ca8782398240fe3",
+      "updated_at": "2026-07-21T05:24:44+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360053993934howtousekioskli-a0431v062r9o",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360053993934howtousekioskli-a0431v062r9o",
       "locale": "en-us"
     },
     "360052827713": {
