@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-07-21T05:36:12.413050+00:00",
+  "last_sync": "2026-07-22T05:34:58.424022+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -1408,10 +1408,10 @@
     "360055328454": {
       "id": 360055328454,
       "slug": "360055328454-How-to-Enable-Disable-Auto-Update-for-OptiSigns-app-on-Fire-TV",
-      "hash_val": "5399564b8e2090360c6d33e5d6a699642beae749dd3b79ad36527b7835f4b4bd",
-      "updated_at": "2026-06-28T17:13:26+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360055328454howtoenabledisa-xfu6g62xhymo",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360055328454howtoenabledisa-xfu6g62xhymo",
+      "hash_val": "e2e07c6c83d63999630ce17976f393c80352b9b12d3e39941e37defcae2fdc2e",
+      "updated_at": "2026-07-21T14:13:36+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360055328454howtoenabledisa-o4oio657evek",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360055328454howtoenabledisa-o4oio657evek",
       "locale": "en-us"
     },
     "360057146573": {
