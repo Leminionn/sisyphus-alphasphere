@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-07-22T05:34:58.424022+00:00",
+  "last_sync": "2026-07-23T05:39:35.631601+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -1543,10 +1543,10 @@
     "360047275934": {
       "id": 360047275934,
       "slug": "360047275934-Whitelist-OptiSigns-IP-addresses-ports",
-      "hash_val": "2e9068155a7300cda717d800b6e18a16ba618ecbc84602ba395fb90b4d625d0e",
-      "updated_at": "2026-07-16T10:01:04+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360047275934whitelistoptisi-9d0lcar2ic1j",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360047275934whitelistoptisi-9d0lcar2ic1j",
+      "hash_val": "864fe611b783d2610eb0b6cb955b1b4b65b865722003d9b27097c82dbb479d1a",
+      "updated_at": "2026-07-22T15:55:30+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360047275934whitelistoptisi-10hgyyejotd8",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360047275934whitelistoptisi-10hgyyejotd8",
       "locale": "en-us"
     },
     "360047232054": {
