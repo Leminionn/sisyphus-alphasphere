@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-07-23T05:39:35.631601+00:00",
+  "last_sync": "2026-07-24T05:36:10.242060+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -985,10 +985,10 @@
     "4416542923667": {
       "id": 4416542923667,
       "slug": "4416542923667-How-to-Perform-Mass-Provisioning-with-OptiSigns",
-      "hash_val": "f330c49444b2ad30bc8e2a45797d040a45f0bbb3443aec5c5ac04bbd2886fc85",
-      "updated_at": "2026-04-16T14:17:14+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4416542923667howtoperformma-ae0gfnakmsdq",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4416542923667howtoperformma-ae0gfnakmsdq",
+      "hash_val": "eecb5b0331b11d28074911d2d2cd0bb219d8241440535492df4e5e136c25c115",
+      "updated_at": "2026-07-23T09:04:57+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4416542923667howtoperformma-0x4vo1wzc8gy",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4416542923667howtoperformma-0x4vo1wzc8gy",
       "locale": "en-us"
     },
     "4414552808467": {
@@ -1714,10 +1714,10 @@
     "360034883113": {
       "id": 360034883113,
       "slug": "360034883113-Working-with-Teams-and-Security-Levels",
-      "hash_val": "709b079651e59d78ff625432bfa07a339c313a20615b4221f22202fc13b7a93c",
-      "updated_at": "2026-06-01T19:53:55+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360034883113workingwithteam-ktcar3w92cn3",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360034883113workingwithteam-ktcar3w92cn3",
+      "hash_val": "d07e83b1af06a2b8176729b4bfbf8c9e17d371b08c6a83d98fda0001fc0d000e",
+      "updated_at": "2026-07-23T23:32:27+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360034883113workingwithteam-oal8orq6ri3t",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360034883113workingwithteam-oal8orq6ri3t",
       "locale": "en-us"
     },
     "360034379293": {

@@ -3,7 +3,7 @@
 **Article ID:** 4416542923667
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/4416542923667-How-to-Perform-Mass-Provisioning-with-OptiSigns
-**Last Updated:** 2026-04-16T14:17:14+00:00
+**Last Updated:** 2026-07-23T09:04:57+00:00
 ---
 
 |  |
