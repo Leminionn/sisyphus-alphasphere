@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-07-26T05:46:01.301227+00:00",
+  "last_sync": "2026-07-27T06:05:15.442062+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -553,10 +553,10 @@
     "27267311796243": {
       "id": 27267311796243,
       "slug": "27267311796243-OptiStick",
-      "hash_val": "f8a94d5d5ec701ec3691028b9b9add9f20b7e4e8965c901dcea017ec5de89ea3",
-      "updated_at": "2026-07-19T15:05:17+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/27267311796243optistick-nf8pgzwu8ks6",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/27267311796243optistick-nf8pgzwu8ks6",
+      "hash_val": "34e3e4a65b4e83e5456d4454da877b59f7b8e1db4dc0f421095603203c948228",
+      "updated_at": "2026-07-26T22:40:02+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/27267311796243optistick-it57vi85co0r",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/27267311796243optistick-it57vi85co0r",
       "locale": "en-us"
     },
     "25273043501587": {
