@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-07-27T06:05:15.442062+00:00",
+  "last_sync": "2026-07-28T05:31:54.274828+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -526,10 +526,10 @@
     "27463953562899": {
       "id": 27463953562899,
       "slug": "27463953562899-Amazon-TV-FireStick-Troubleshooting-Guide",
-      "hash_val": "b800228f4ed0c5ea3635f0b87a17dc1ac3a60de8986ebe83052cc7f2944ef079",
-      "updated_at": "2026-04-28T15:36:27+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/27463953562899amazontvfires-4kx3nexruvhn",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/27463953562899amazontvfires-4kx3nexruvhn",
+      "hash_val": "aabd30e53d7cda6266107aaba9cc89716bcc04ae1569121be50263aed0ebccee",
+      "updated_at": "2026-07-27T12:19:26+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/27463953562899amazontvfires-2ptoc59rmcu1",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/27463953562899amazontvfires-2ptoc59rmcu1",
       "locale": "en-us"
     },
     "27458261258387": {
@@ -1705,10 +1705,10 @@
     "360035538093": {
       "id": 360035538093,
       "slug": "360035538093-My-image-content-are-bleeding-off-the-screens-with-Fire-TV-need-screen-calibration",
-      "hash_val": "c76520fc846fd8f39959b43a6f8f94494366313751208e45b16553fd3bc6c8bb",
-      "updated_at": "2026-07-07T16:43:26+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360035538093myimagecontenta-6rnhbw4jus8q",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360035538093myimagecontenta-6rnhbw4jus8q",
+      "hash_val": "c4ceac5fdb37a2852a8b4f8daa34491b3ce870365fdc6ed6da8a5507e1d37bd4",
+      "updated_at": "2026-07-27T15:11:19+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360035538093myimagecontenta-czm4ksqbll3k",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360035538093myimagecontenta-czm4ksqbll3k",
       "locale": "en-us"
     },
     "360034883113": {
@@ -2767,10 +2767,10 @@
     "4414496579475": {
       "id": 4414496579475,
       "slug": "4414496579475-LG-WebOS-Signage-Commercial-Grade",
-      "hash_val": "960980d71ff735819b76c911fc4a5d222ef0775e77973b3c73218455a1e3901e",
-      "updated_at": "2025-09-04T18:03:17+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4414496579475lgwebossignage-2bfkiqebrjrm",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4414496579475lgwebossignage-2bfkiqebrjrm",
+      "hash_val": "fbea679a21fae7b9df0f2a235d02085bd4de99a5b13bb9f004655c2be49c28ba",
+      "updated_at": "2026-07-27T11:33:43+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4414496579475lgwebossignage-wzo1rxex4ylf",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4414496579475lgwebossignage-wzo1rxex4ylf",
       "locale": "en-us"
     },
     "360016253694": {
@@ -3550,10 +3550,10 @@
     "360037463934": {
       "id": 360037463934,
       "slug": "360037463934-How-to-create-and-use-Google-Reviews-Wall",
-      "hash_val": "a21e29ddd638d409e68e8a3d73a9930c2cea7c9f221f9d37b9c643297f4194c1",
-      "updated_at": "2025-09-04T20:21:45+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360037463934howtocreateandu-8w52wh1p4ogj",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360037463934howtocreateandu-8w52wh1p4ogj",
+      "hash_val": "fca33b08c5ae318f1824942ea8672eb1f61078178c69a221ec91f10ec8a85adf",
+      "updated_at": "2026-07-27T15:39:23+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360037463934howtocreateandu-vlc93051qr4r",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360037463934howtocreateandu-vlc93051qr4r",
       "locale": "en-us"
     },
     "360036250853": {

@@ -3,7 +3,7 @@
 **Article ID:** 27463953562899
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/27463953562899-Amazon-TV-FireStick-Troubleshooting-Guide
-**Last Updated:** 2026-04-28T15:36:27+00:00
+**Last Updated:** 2026-07-27T12:19:26+00:00
 ---
 
 If you are experiencing black screens, device not powering up, not connected to network, etc.

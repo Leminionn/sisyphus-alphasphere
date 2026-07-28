@@ -3,7 +3,7 @@
 **Article ID:** 4414496579475
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/4414496579475-LG-WebOS-Signage-Commercial-Grade
-**Last Updated:** 2025-09-04T18:03:17+00:00
+**Last Updated:** 2026-07-27T11:33:43+00:00
 ---
 
 LG is one of the world leader in manufacturing commercial grade TV screens that are used in hotels, restaurants, retails and other environment.
