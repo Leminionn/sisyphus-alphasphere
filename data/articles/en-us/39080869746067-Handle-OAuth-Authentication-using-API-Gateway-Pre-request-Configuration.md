@@ -3,7 +3,7 @@
 **Article ID:** 39080869746067
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/39080869746067-Handle-OAuth-Authentication-using-API-Gateway-Pre-request-Configuration
-**Last Updated:** 2025-08-28T18:42:06+00:00
+**Last Updated:** 2026-07-28T20:42:44+00:00
 ---
 
 OptiSigns API Gateway allows for OAuth authentication via Pre-request. This gives users the capability to consume API that requires OAuth authentication or similar.

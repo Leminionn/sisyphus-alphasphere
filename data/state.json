@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-07-28T05:31:54.274828+00:00",
+  "last_sync": "2026-07-29T05:37:20.519172+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -238,10 +238,10 @@
     "39080869746067": {
       "id": 39080869746067,
       "slug": "39080869746067-Handle-OAuth-Authentication-using-API-Gateway-Pre-request-Configuration",
-      "hash_val": "f540edc1cfee8f50d354bcc7d4f6a1433aa815c55f4f50c783a6e226e03d46a6",
-      "updated_at": "2025-08-28T18:42:06+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/39080869746067handleoauthau-mufr0289eqwn",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/39080869746067handleoauthau-mufr0289eqwn",
+      "hash_val": "6aa6ccb6999edae92e665abdc5283aa0ab5c245c83129ca474849d2c1f4abd39",
+      "updated_at": "2026-07-28T20:42:44+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/39080869746067handleoauthau-2o9nvufpvgdm",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/39080869746067handleoauthau-2o9nvufpvgdm",
       "locale": "en-us"
     },
     "38062664690195": {
@@ -2011,10 +2011,10 @@
     "35626165056787": {
       "id": 35626165056787,
       "slug": "35626165056787-How-to-Contact-OptiSigns-Support",
-      "hash_val": "4fa6e76cf1a1e86afe7437f8417be0bc970118e8e41aab3ecd24dbd6ad4c3495",
-      "updated_at": "2025-09-04T17:13:59+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/35626165056787howtocontacto-ahqe44w0g5jx",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/35626165056787howtocontacto-ahqe44w0g5jx",
+      "hash_val": "9405711c2795cb657d9d36549fb944e9ef2bdfd8567d1dd7d976274fa2b48c8a",
+      "updated_at": "2026-07-28T18:51:24+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/35626165056787howtocontacto-5g4mr61supaz",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/35626165056787howtocontacto-5g4mr61supaz",
       "locale": "en-us"
     },
     "29838866920211": {
