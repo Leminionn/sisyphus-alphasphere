@@ -3,13 +3,13 @@
 **Article ID:** 4414539282067
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/4414539282067-Displaying-SharePoint-Sites-on-OptiSigns
-**Last Updated:** 2025-11-10T15:11:25+00:00
+**Last Updated:** 2026-07-29T21:56:37+00:00
 ---
 
 |  |
 | --- |
 | **NOTE** |
-| The **SharePoint app** is available to customers with a **Standard plan** **or above**. |
+| The **SharePoint app** is available to customers with a **Standard plan or above**. |
 
 With OptiSigns, it's possible to showcase your SharePoint site on any of your screens. Even gated sites requiring login can be shown. All you'll need is a URL to your SharePoint site and a valid Microsoft account.
 
@@ -82,7 +82,7 @@ Yes! Please see our complete article on [Creating Custom News Feeds with SharePo
 
 Microsoft requires a minimum Chromium version of 95 for their apps to display. These TVs typically don't update very often. This is a Microsoft issue, and there is little we can do on our end.
 
-If you have one of these TVs and wish to display SharePoint, we recommend our [Android Player](https://www.optisigns.com/product/hardware/android-player).
+If you have one of these TVs and wish to display SharePoint, we recommend our [Pro Player](https://shop.optisigns.com/products/optisigns-digital-signage-player).
 
 #### **How does the encryption of my password work at OptiSigns? If I input it, will I be at risk?**
 

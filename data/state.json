@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-07-29T05:37:20.519172+00:00",
+  "last_sync": "2026-07-30T05:24:33.528265+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -454,10 +454,10 @@
     "28598173096723": {
       "id": 28598173096723,
       "slug": "28598173096723-How-To-Create-and-Use-Operational-Schedules-HDMI-CEC-RS-232",
-      "hash_val": "9464a234a8cddabbeae502356d3efd5b68bc9c3a774d643f5cff347566adbe4f",
-      "updated_at": "2026-07-08T14:47:07+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28598173096723howtocreatean-5de0t5m87ti1",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28598173096723howtocreatean-5de0t5m87ti1",
+      "hash_val": "93af494546fb9fe9fd831adc45ae0350622bbf4cd537393ef2f0bd02b7dfe6a1",
+      "updated_at": "2026-07-30T00:40:11+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28598173096723howtocreatean-4nrdq5nm6791",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28598173096723howtocreatean-4nrdq5nm6791",
       "locale": "en-us"
     },
     "28427819992979": {
@@ -1606,10 +1606,10 @@
     "360042736794": {
       "id": 360042736794,
       "slug": "360042736794-How-to-set-an-asset-to-Live-or-Expire-at-specific-time",
-      "hash_val": "7ab9631ecdfc2f7839a4521d01ae6216c2df36ce3a17f2a63139520f8cae2d3e",
-      "updated_at": "2026-05-14T22:03:28+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360042736794howtosetanasset-7zlnj5oi1thi",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360042736794howtosetanasset-7zlnj5oi1thi",
+      "hash_val": "6f2618a1cd1b3626c7b229b741de91efd242136aa614eb4b183c5e6bb59e3959",
+      "updated_at": "2026-07-29T17:54:19+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360042736794howtosetanasset-232g78ek7kbn",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360042736794howtosetanasset-232g78ek7kbn",
       "locale": "en-us"
     },
     "360042143753": {
@@ -1804,10 +1804,10 @@
     "360016313754": {
       "id": 360016313754,
       "slug": "360016313754-How-to-Install-an-APK-file-on-your-Fire-TV",
-      "hash_val": "163bcf732e18e76e494adf9c03632c1f6b93d55a685865754c41ac6ab89acccf",
-      "updated_at": "2026-07-10T23:06:42+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016313754howtoinstallana-mo1dohcd8cyx",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016313754howtoinstallana-mo1dohcd8cyx",
+      "hash_val": "6b4147394f34440dfe8b0f7574632d3ce69ff80faea6abe8ce0e7302bb8f7e9d",
+      "updated_at": "2026-07-29T08:50:23+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016313754howtoinstallana-69r4ttqsjb08",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016313754howtoinstallana-69r4ttqsjb08",
       "locale": "en-us"
     },
     "360016252654": {
@@ -2947,10 +2947,10 @@
     "4414539282067": {
       "id": 4414539282067,
       "slug": "4414539282067-Displaying-SharePoint-Sites-on-OptiSigns",
-      "hash_val": "8bc5bb7733ee219ea8d3c08bf7c5801acee033e09754ee8c82f4daa28bc7cd56",
-      "updated_at": "2025-11-10T15:11:25+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4414539282067displayingshar-4cgbxwfgd4gt",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4414539282067displayingshar-4cgbxwfgd4gt",
+      "hash_val": "903dca8a30be59b0745a3afcf2ad736a021f4b8279a14960b3d1ccc9a5dda54b",
+      "updated_at": "2026-07-29T21:56:37+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4414539282067displayingshar-u0p31pdyn8ml",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4414539282067displayingshar-u0p31pdyn8ml",
       "locale": "en-us"
     },
     "4414355658899": {
