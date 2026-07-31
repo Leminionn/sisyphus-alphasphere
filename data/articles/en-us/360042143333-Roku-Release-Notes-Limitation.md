@@ -3,7 +3,7 @@
 **Article ID:** 360042143333
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360042143333-Roku-Release-Notes-Limitation
-**Last Updated:** 2026-06-02T20:21:45+00:00
+**Last Updated:** 2026-07-30T14:35:18+00:00
 ---
 
 Updated Sep 2023. After Roku OS 12.0.0 updates, Roku is enforcing stricter to power management & screensaver.

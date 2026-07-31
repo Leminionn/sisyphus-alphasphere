@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-07-30T05:24:33.528265+00:00",
+  "last_sync": "2026-07-31T05:50:52.448032+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -1624,10 +1624,10 @@
     "360042143333": {
       "id": 360042143333,
       "slug": "360042143333-Roku-Release-Notes-Limitation",
-      "hash_val": "4f0e54dc65ec043362c37a363b63680c56479312b5fa28ef3077cbd55c919414",
-      "updated_at": "2026-06-02T20:21:45+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360042143333rokureleasenote-xnpn2607esqy",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360042143333rokureleasenote-xnpn2607esqy",
+      "hash_val": "ce1a58afa5fba3347c826952b6d8f2c639cc19a12bdfa225987ec4e1a4ae26bf",
+      "updated_at": "2026-07-30T14:35:18+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360042143333rokureleasenote-9914fgxagt9t",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360042143333rokureleasenote-9914fgxagt9t",
       "locale": "en-us"
     },
     "360041587014": {
