@@ -3,7 +3,7 @@
 **Article ID:** 1500012522362
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/1500012522362-How-to-use-the-Web-Scripting-App
-**Last Updated:** 2026-05-14T16:05:37+00:00
+**Last Updated:** 2026-07-31T13:02:35+00:00
 ---
 
 ### Web Scripting is an advanced feature for OptiSigns' Pro Plus subscribers or higher, enabling users to automate website navigation and form entries without any coding. This guide will walk you through recording your script, creating Web Scripting assets in OptiSigns, and using them securely on your screens.
@@ -29,7 +29,7 @@ OptiSigns encrypts all the scripts and your password entered with our own privat
 
 We also provide Zero Knowledge encryption method so that you can protect your script with your own Master Password. *You can read more at the end of this article.*
 
-If your dashboard requires login with the 2FA, OptiSigns supports the 2FA in the Web Scripting app. You can read more [here](https://support.optisigns.com/hc/en-us/articles/19145077187859).
+If your dashboard requires login with the 2FA, OptiSigns supports 2FA in the Web Scripting app, as well.
 
 **Let's jump in and get started!**
 
