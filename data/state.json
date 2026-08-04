@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-08-03T05:57:47.346872+00:00",
+  "last_sync": "2026-08-04T05:31:48.092340+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -1462,10 +1462,10 @@
     "360054298754": {
       "id": 360054298754,
       "slug": "360054298754-How-to-Factory-Reset-Your-Fire-Stick-device",
-      "hash_val": "6a1f6cc79e46f74c0cb071497769d6ca3db4773af7d4835b4b53c5f2e4fe361c",
-      "updated_at": "2026-07-01T13:59:15+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360054298754howtofactoryres-79dkvwnq3h6t",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360054298754howtofactoryres-79dkvwnq3h6t",
+      "hash_val": "de086fa697b4afb422b84e1647858480d91fee6fa358c023af34c8f73d8ea962",
+      "updated_at": "2026-08-03T23:37:18+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360054298754howtofactoryres-80iwkx3u0q6t",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360054298754howtofactoryres-80iwkx3u0q6t",
       "locale": "en-us"
     },
     "360056087613": {
