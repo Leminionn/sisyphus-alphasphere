@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-08-04T05:31:48.092340+00:00",
+  "last_sync": "2026-08-05T05:31:07.360557+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -1714,10 +1714,10 @@
     "360034883113": {
       "id": 360034883113,
       "slug": "360034883113-Working-with-Teams-and-Security-Levels",
-      "hash_val": "d07e83b1af06a2b8176729b4bfbf8c9e17d371b08c6a83d98fda0001fc0d000e",
-      "updated_at": "2026-07-23T23:32:27+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360034883113workingwithteam-oal8orq6ri3t",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360034883113workingwithteam-oal8orq6ri3t",
+      "hash_val": "62ffcdd3f26f11511d36e5364abce6cb08e08e218951a152028002637d4d6264",
+      "updated_at": "2026-08-04T19:17:14+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360034883113workingwithteam-oezw5f2ggb3m",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360034883113workingwithteam-oezw5f2ggb3m",
       "locale": "en-us"
     },
     "360034379293": {
@@ -3662,6 +3662,15 @@
       "updated_at": "2026-07-16T16:39:52+00:00",
       "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/53497007807251devicemanagem-e81wpqgay071",
       "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/53497007807251devicemanagem-e81wpqgay071",
+      "locale": "en-us"
+    },
+    "53952018650515": {
+      "id": 53952018650515,
+      "slug": "53952018650515-How-to-Display-Databricks-Dashboards-on-OptiSigns",
+      "hash_val": "4cfe5465184991a3a3d15dc9d4a360a9be896ee18e7392dd1f0c0bbce2aa07d8",
+      "updated_at": "2026-08-04T17:57:34+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/53952018650515howtodisplayd-wr2qk035zt7v",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/53952018650515howtodisplayd-wr2qk035zt7v",
       "locale": "en-us"
     }
   }
