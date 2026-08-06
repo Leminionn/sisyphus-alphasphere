@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-08-05T05:31:07.360557+00:00",
+  "last_sync": "2026-08-06T05:33:53.458731+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -125,15 +125,6 @@
       "updated_at": "2026-04-20T21:26:17+00:00",
       "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/48241081473043operationalsc-2wuwmxz23ijh",
       "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/48241081473043operationalsc-2wuwmxz23ijh",
-      "locale": "en-us"
-    },
-    "47616485609491": {
-      "id": 47616485609491,
-      "slug": "47616485609491-How-to-Use-the-OptiDev-App",
-      "hash_val": "2fe79c909450236490eb7ac7638e7512b43618fc83232a504a41b46a959ce1b0",
-      "updated_at": "2026-02-11T23:03:49+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/47616485609491howtousetheop-81wtyuys2pj1",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/47616485609491howtousetheop-81wtyuys2pj1",
       "locale": "en-us"
     },
     "45619214182803": {
@@ -3667,10 +3658,19 @@
     "53952018650515": {
       "id": 53952018650515,
       "slug": "53952018650515-How-to-Display-Databricks-Dashboards-on-OptiSigns",
-      "hash_val": "4cfe5465184991a3a3d15dc9d4a360a9be896ee18e7392dd1f0c0bbce2aa07d8",
-      "updated_at": "2026-08-04T17:57:34+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/53952018650515howtodisplayd-wr2qk035zt7v",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/53952018650515howtodisplayd-wr2qk035zt7v",
+      "hash_val": "6e3b109a284adc3834e703f53cde11706168174488ccbfeb3b92c25b14cde09d",
+      "updated_at": "2026-08-05T16:53:02+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/53952018650515howtodisplayd-redt2hbumz2s",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/53952018650515howtodisplayd-redt2hbumz2s",
+      "locale": "en-us"
+    },
+    "54095075680275": {
+      "id": 54095075680275,
+      "slug": "54095075680275-OptiDev-Add-on-Free-Trial-and-Pricing",
+      "hash_val": "bd89325736ccf796bcd85c8e233611beff331f158cea819072117e3d56ac620c",
+      "updated_at": "2026-08-05T18:22:19+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/54095075680275optidevaddonf-izs8lur30t7m",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/54095075680275optidevaddonf-izs8lur30t7m",
       "locale": "en-us"
     }
   }

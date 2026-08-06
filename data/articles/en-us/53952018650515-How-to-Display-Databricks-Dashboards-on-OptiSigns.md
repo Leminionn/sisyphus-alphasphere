@@ -3,20 +3,8 @@
 **Article ID:** 53952018650515
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/53952018650515-How-to-Display-Databricks-Dashboards-on-OptiSigns
-**Last Updated:** 2026-08-04T17:57:34+00:00
+**Last Updated:** 2026-08-05T16:53:02+00:00
 ---
-
-* [What You'll Need](#WhatYouNeed)
-* [Create a Service Principal Connection](#CreateConnection)
-  + [In Databricks](#InDatabricks)
-  + [In OptiSigns](#InOptiSigns)
-* [Prepare Your Databricks Dashboard](#PrepareDashboard)
-  + [Enable Dashboard Embed](#EnableEmbedding)
-  + [Publish Dashboard](#PublishDashboard)
-  + [Share Dashboard with Service Principal](#ShareDashboard)
-* [Create a Databricks App in OptiSigns](#CreateDatabricksApp)
-* [Deploying a Databricks App](#DeployingDatabricks)
-* [Frequently Asked Questions](#FAQs)
 
 With the Databricks app, you can display a live **Databricks AI/BI dashboard** on any OptiSigns screen.
 
