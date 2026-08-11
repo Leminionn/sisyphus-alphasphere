@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-08-10T04:13:58.971216+00:00",
+  "last_sync": "2026-08-11T04:02:13.385894+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -2506,10 +2506,10 @@
     "4404608957075": {
       "id": 4404608957075,
       "slug": "4404608957075-How-to-Delete-Your-Account-from-OptiSigns",
-      "hash_val": "a44b8f18f61d15f09df4c093430d83f5e9429c3b7f9a55cececb4e96f035b36e",
-      "updated_at": "2025-08-29T17:02:02+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4404608957075howtodeleteyou-znjppwmml8mx",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4404608957075howtodeleteyou-znjppwmml8mx",
+      "hash_val": "3ad703306b22fdc23ee855631d7cb6a25deac79401f6312fa0ca1e9059e58079",
+      "updated_at": "2026-08-10T11:48:19+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4404608957075howtodeleteyou-vzdljsv82jzc",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4404608957075howtodeleteyou-vzdljsv82jzc",
       "locale": "en-us"
     },
     "360016174554": {
