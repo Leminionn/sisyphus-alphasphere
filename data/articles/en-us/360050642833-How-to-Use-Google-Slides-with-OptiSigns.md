@@ -3,7 +3,7 @@
 **Article ID:** 360050642833
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360050642833-How-to-Use-Google-Slides-with-OptiSigns
-**Last Updated:** 2026-01-31T15:45:41+00:00
+**Last Updated:** 2026-08-11T21:06:54+00:00
 ---
 
 [Google Slides](https://www.google.com/slides/about/) is a very popular way to create and share your presentations. These presentations can then be used on your Digital Signs for meetings, photo slideshows, and more!
@@ -22,15 +22,11 @@ There are two types of Google Slide: Public, and Private. Each has a different m
 
 ## Creating a Google Slide Asset on OptiSigns
 
-On the OptiSigns portal, go to **Assets → Add Asset → Apps**.
+On the OptiSigns portal, go to **Files/Assets → Apps**.
 
 Select **Google Slides**:
 
 You'll see the following screen:
-
-These are the options and what they do:
-
-**Name -** The name of the Google Slides asset as it will appear in OptiSigns. This is only for OptiSigns and will not affect your slideshow or anything in the asset itself.
 
 **URL -** The link of the Google Slides presentation you want to display.
 
@@ -42,11 +38,13 @@ A Public slide is one that reads **Anyone with the link**.
 
 When a URL to a Public slide is placed in the **URL** field in the Google Slides app and you hit **Next**, additional options will appear:
 
-**Update Interval -** Choose how often OptiSigns will check your Google Sheet for updates. Measured in seconds. Default is 600 seconds (10 minutes). If 0 is input, it will only refresh each time it loads - useful for using this asset in a Playlist.
+**Name -** The name of the Google Slides asset as it will appear in OptiSigns. This is only for OptiSigns and will not affect your slideshow or anything in the asset itself.
+
+**Update Interval -** Choose how often OptiSigns will check your Google Slide for updates. Measured in seconds. Default is 600 seconds (10 minutes). If 0 is input, it will only refresh each time it loads - useful for using this asset in a Playlist.
 
 **Auto-advance slides -** Choose how quickly your slides will advance. Measured in seconds. If your Google Slide asset is the only asset assigned to your screen, once it reaches the end of the slideshow it will loop from the beginning.
 
-Hit **Save.** Your slideshow will be Previewed on the left hand side, and you can make adjustments as necessary. When it is set up to your liking, hit **Close**.
+Hit **Save.**
 
 Congratulations! You've created a Google Slides app.
 
@@ -59,7 +57,7 @@ A Private slideshow is one that reads **Restricted.** This also applies to slide
 | **NOTE** |
 | Displaying a Private slideshow in OptiSigns requires OptiSigns to repeatedly ping your Google account to check for updates on your Google Slides document. This means we cannot set a definite "time" measured in seconds where we can guarantee your slides will advance due to network variability. However, you can still set the speed - see below. |
 
-Placing a Private Google Slides link in the **URL** section of the Google Slides app and hitting **Next** will prompt you to provide Google authorization.
+Placing a Private Google Slides link in the **URL** section of the Google Slides app will prompt you to provide Google authorization. You'll also need to input a **Name** for use within OptiSigns.
 
 Hitting **Sign In with Google** will prompt you to choose the Google account associated with the URL. This account must have access to the slide in question.
 
@@ -67,7 +65,7 @@ You'll have to grant OptiSigns certain permissions in order to display your Priv
 
 If this is acceptable, hit **Continue**. Now you'll be back in OptiSigns, with additional options:
 
-**Aspect Ratio** - Lets you choose the Aspect Ratio in which to display your slides. It's stuck at Landscape, but you can set it to display at either 16:9 or 4:3.
+**Aspect Ratio** - Lets you choose the Aspect Ratio in which to display your slides. It starts as "Default" (Landscape), but you can set it to display at either 16:9 or 4:3.
 
 **Speed -** Choose the speed at which the slideshow advances. Choose from **Slow**, **Medium**, **Fast**, or **Custom**. When Custom is chosen, you can adjust it via the below slider:
 
@@ -86,13 +84,13 @@ Click **Advanced** to expand the field and provide an additional option:
 
 ## Assigning a Google Slides Asset to Your Screens
 
-To get your new Google Slide asset to a screen, go to the **Screens** tab, then click the screen you want to assign it to.
+To get your new Google Slide asset to a screen, go to the **Screens** tab, then click the screen you want to assign it to. This may be within a folder.
 
-This brings up the **Edit Screen** tab:
+This brings up the **Edit Screen** menu:
 
-Here, select **Asset** under Content type, then hit **Change** next to Selected Asset.
+Here, select **Asset** under Content type.
 
-Now hit **Save**. Your Google Slides asset will play on
+Now hit **Save**. Your Google Slides asset will play on your screen, and flip through the slideshow regularly.
 
 ### Using a Google Slides Asset in a Playlist
 
@@ -100,9 +98,9 @@ Getting a Google Slides asset to play well in a Playlist requires a little bit o
 
 First, create a Playlist by going to **Playlists → Create Playlist.**
 
-Add your Google Slides asset to the Playlist by finding it on the right hand column:
+Add your Google Slides asset to the Playlist:
 
-Here, you'll want to adjust the time it plays for:
+Here, you'll want to adjust the time it plays for by clicking the column in the items table:
 
 This time applies to the ***entire slideshow***, not just a single slide.
 

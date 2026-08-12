@@ -3,7 +3,7 @@
 **Article ID:** 360039566974
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360039566974-How-to-install-OptiSigns-as-channel-app-on-Roku
-**Last Updated:** 2025-09-02T19:35:39+00:00
+**Last Updated:** 2026-08-12T01:53:55+00:00
 ---
 
 |  |

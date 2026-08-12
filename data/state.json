@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-08-11T04:02:13.385894+00:00",
+  "last_sync": "2026-08-12T04:23:45.654015+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -769,10 +769,10 @@
     "17882306279315": {
       "id": 17882306279315,
       "slug": "17882306279315-Samsung-Smart-Signage-Platform-SSSP-Supported-Model-List",
-      "hash_val": "50d2b6656d937a7d8bd4de716536ffb096b5eec8dc15ff732dbf394416b000f5",
-      "updated_at": "2025-09-04T14:36:56+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/17882306279315samsungsmarts-fd9m67svlk4y",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/17882306279315samsungsmarts-fd9m67svlk4y",
+      "hash_val": "cc49f3d2cc54025cfaaaddcc99430440ed68f972426491ee6033189f2293cd60",
+      "updated_at": "2026-08-11T10:19:33+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/17882306279315samsungsmarts-er12ndfuxx3w",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/17882306279315samsungsmarts-er12ndfuxx3w",
       "locale": "en-us"
     },
     "17604055961747": {
@@ -1651,10 +1651,10 @@
     "360039566974": {
       "id": 360039566974,
       "slug": "360039566974-How-to-install-OptiSigns-as-channel-app-on-Roku",
-      "hash_val": "e3117069d36cf150e5a07e476f0ce44746be110a9d16863bdc49a12fde2df3fd",
-      "updated_at": "2025-09-02T19:35:39+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360039566974howtoinstallopt-l4lx5j2lfxr1",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360039566974howtoinstallopt-l4lx5j2lfxr1",
+      "hash_val": "8baf12db5df011ffc001242492dce3cbea986a26e2f60d24705e81ad8ef05a91",
+      "updated_at": "2026-08-12T01:53:55+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360039566974howtoinstallopt-5mq18x3vwn8v",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360039566974howtoinstallopt-5mq18x3vwn8v",
       "locale": "en-us"
     },
     "360038992973": {
@@ -1939,10 +1939,10 @@
     "360050642833": {
       "id": 360050642833,
       "slug": "360050642833-How-to-Use-Google-Slides-with-OptiSigns",
-      "hash_val": "95065d6697a7658c001310e8025c54bef84230c7cc9f5c6aaa37fbab8f072064",
-      "updated_at": "2026-01-31T15:45:41+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360050642833howtousegoogles-v74qgly7q4iz",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360050642833howtousegoogles-v74qgly7q4iz",
+      "hash_val": "95818b04d5a84223457de4771a6ed95b10fdf1510391b3b1a9db4c718ef026db",
+      "updated_at": "2026-08-11T21:06:54+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360050642833howtousegoogles-k7n1x2l2toj4",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360050642833howtousegoogles-k7n1x2l2toj4",
       "locale": "en-us"
     },
     "360041501494": {
@@ -2263,10 +2263,10 @@
     "42526907045651": {
       "id": 42526907045651,
       "slug": "42526907045651-Photos-GIFs-and-QR-Codes-in-Designer",
-      "hash_val": "f4a9e0059a4202979e76eb89b20ff512a1c1182295b9ffe117581d01e2103297",
-      "updated_at": "2025-09-26T20:04:17+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/42526907045651photosgifsand-tb40f5q07zkz",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/42526907045651photosgifsand-tb40f5q07zkz",
+      "hash_val": "31c1bd9bbc1273088abd3284206aa77e45ddfc10e461481650e088ffa9554f2f",
+      "updated_at": "2026-08-11T21:18:17+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/42526907045651photosgifsand-nk71cnute7vz",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/42526907045651photosgifsand-nk71cnute7vz",
       "locale": "en-us"
     },
     "29979283289235": {
@@ -3658,10 +3658,10 @@
     "53952018650515": {
       "id": 53952018650515,
       "slug": "53952018650515-How-to-Display-Databricks-Dashboards-on-OptiSigns",
-      "hash_val": "6e3b109a284adc3834e703f53cde11706168174488ccbfeb3b92c25b14cde09d",
-      "updated_at": "2026-08-05T16:53:02+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/53952018650515howtodisplayd-redt2hbumz2s",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/53952018650515howtodisplayd-redt2hbumz2s",
+      "hash_val": "13e6ba96f86b5dd600ad499d1e126d68f3294eb8a4115d203e4d3c62ce3660c3",
+      "updated_at": "2026-08-11T19:04:29+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/53952018650515howtodisplayd-bcsm8o8j2ptc",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/53952018650515howtodisplayd-bcsm8o8j2ptc",
       "locale": "en-us"
     },
     "54095075680275": {

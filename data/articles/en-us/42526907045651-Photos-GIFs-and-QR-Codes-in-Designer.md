@@ -3,7 +3,7 @@
 **Article ID:** 42526907045651
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/42526907045651-Photos-GIFs-and-QR-Codes-in-Designer
-**Last Updated:** 2025-09-26T20:04:17+00:00
+**Last Updated:** 2026-08-11T21:18:17+00:00
 ---
 
 Using Designer, you can use a wide array of stock Photos, GIFs from GIPHY, and customizable QR codes to make your designs more dynamic.
@@ -60,6 +60,12 @@ The **Replace** option lets you replace the image or photo with an image off the
 The **Background Remover** option automatically detects and removes backgrounds from images. Currently, it only supports auto-removal and it is not possible to custom erase or restore the background.
 
 You’ll need to wait for a loading icon to finish:
+
+You can also use the **Erase/Restore brush:**
+
+This will let you fix any cutout by hand by erasing paints away from the leftover background or restoring paints back from the original image.
+
+There are also a suite of options here, including brush size, zoom/pan, undo/redo, and a selectable preview backdrop for checking halos.
 
 Once done, click **Save**, and the background will have disappeared.
 

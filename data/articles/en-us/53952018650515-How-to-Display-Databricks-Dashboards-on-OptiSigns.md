@@ -3,7 +3,7 @@
 **Article ID:** 53952018650515
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/53952018650515-How-to-Display-Databricks-Dashboards-on-OptiSigns
-**Last Updated:** 2026-08-05T16:53:02+00:00
+**Last Updated:** 2026-08-11T19:04:29+00:00
 ---
 
 With the Databricks app, you can display a live **Databricks AI/BI dashboard** on any OptiSigns screen.
@@ -38,8 +38,6 @@ A service principal (SP) is what OptiSigns uses to render the dashboard. This se
 ### In Databricks
 
 Create it in Databricks by clicking the workspace menu in the top right, then clicking **Settings:**
-
-### 
 
 Open **Identity and access**, then find **Service principals** and hit **Manage**.
 
@@ -120,6 +118,36 @@ Make sure the service principal can access the **data** the dashboard uses.
 
 Back in OptiSigns, **reopen the app config** (or re-select the connection) so the dashboard list refreshes.
 
+### Grant the Service Principal Access to the Data (Unity Catalog)
+
+**Only needed if you published with** ***Individual data permission***. With *Share data permission*, queries run on the publisher's credentials and you can skip this step.
+
+|  |
+| --- |
+| **NOTE** |
+| Sharing the dashboard is not the same as granting access to its data. Sharing lets the service principal OPEN the dashboard. Reading the tables behind it needs separate Unity Catalog privileges. Without them, the dashboard loads with all its titles and layout, but every tile will show "Unable to render visualization." |
+
+Click Catalog in the sidebar and select the schema your dashboard's tables live in. Then go to the Permissions tab and click Grant.
+
+Now navigate to **Principals** and find your service principal (e.g. `optisigns-embed`).
+
+Tick **USE SCHEMA** (under *Prerequisite*) and **SELECT** (under *Read*). Leave everything else unticked. The screens only need to read.
+
+Click **Confirm**.
+
+Privileges are inherited by all tables and views in the schema, so you don't need to repeat this per table. Do repeat it for **each schema the dashboard reads**, including any lookup or dimension tables it joins to.
+
+### Granting at the catalog level instead
+
+You can grant the same privileges on the **catalog** rather than the schema. Select the catalog and tick `USE CATALOG`, `USE SCHEMA` and `SELECT`.
+
+That covers every schema in the catalog, including ones created later, so there's nothing to repeat. The trade-off is that the service principal can then read *all* the data in that catalog, not just what the dashboards display.
+
+Choose based on what you're comfortable with the screens being able to query:
+
+* **Schema level** — the service principal reads only the schemas your dashboards use.
+* **Catalog level** — one grant, but the service principal can read everything in the catalog.
+
 ---
 
 ## Create a Databricks App Within OptiSigns
@@ -197,6 +225,6 @@ You can always refresh your screen manually to get the latest update.
 
 Usually, this has to do with an expired or rotated service principal secret. Try generating a new secret within Databricks and updating your OptiSigns connection.
 
-### That's all!
+### That’s all!
 
 OptiSigns is a leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns or getting Snowflake to work on it, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
