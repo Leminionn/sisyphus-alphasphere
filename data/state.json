@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-08-12T04:23:45.654015+00:00",
+  "last_sync": "2026-08-13T04:26:43.029808+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -13,10 +13,10 @@
     "53095698149011": {
       "id": 53095698149011,
       "slug": "53095698149011-Using-the-Japan-Earthquake-App",
-      "hash_val": "9ec33035f9bf95b6515b9ce70e7ea9ada64325d840f96d4a15115cbd094c2c20",
-      "updated_at": "2026-07-08T18:39:51+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/53095698149011usingthejapan-hc8ms1mofejh",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/53095698149011usingthejapan-hc8ms1mofejh",
+      "hash_val": "0cafdc73bebd3389c2d850afd768ab88429370d3885282cd525b7cb2a29b1ca3",
+      "updated_at": "2026-08-12T14:38:37+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/53095698149011usingthejapan-c7odlywm4ggz",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/53095698149011usingthejapan-c7odlywm4ggz",
       "locale": "en-us"
     },
     "53028011485715": {
@@ -2587,10 +2587,10 @@
     "1500003244381": {
       "id": 1500003244381,
       "slug": "1500003244381-About-the-OnHold-Devices-Folder",
-      "hash_val": "d31428377ed908473d1947a27f0462cb5638a7d684eca0bd2a515dfb82bce251",
-      "updated_at": "2025-08-29T20:02:46+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500003244381abouttheonhold-850m5eug1o6r",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500003244381abouttheonhold-850m5eug1o6r",
+      "hash_val": "d8dffde38216ebe3ad2443f6349f461efd67fd61d2e1a3cfc4ec9d4894bf56af",
+      "updated_at": "2026-08-11T22:01:43+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500003244381abouttheonhold-x1nt2thnwf47",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500003244381abouttheonhold-x1nt2thnwf47",
       "locale": "en-us"
     },
     "360016981853": {
