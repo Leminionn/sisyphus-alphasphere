@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-08-13T04:26:43.029808+00:00",
+  "last_sync": "2026-08-14T04:23:46.338829+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -1795,10 +1795,10 @@
     "360016313754": {
       "id": 360016313754,
       "slug": "360016313754-How-to-Install-an-APK-file-on-your-Fire-TV",
-      "hash_val": "6b4147394f34440dfe8b0f7574632d3ce69ff80faea6abe8ce0e7302bb8f7e9d",
-      "updated_at": "2026-07-29T08:50:23+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016313754howtoinstallana-69r4ttqsjb08",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016313754howtoinstallana-69r4ttqsjb08",
+      "hash_val": "4acccb7a3ff06be74f5e73174b0b434e986f07da6b35079eeaae3f38af5bf45f",
+      "updated_at": "2026-08-13T11:52:12+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016313754howtoinstallana-ik0j55ze8cdv",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016313754howtoinstallana-ik0j55ze8cdv",
       "locale": "en-us"
     },
     "360016252654": {
@@ -3577,10 +3577,10 @@
     "360024859713": {
       "id": 360024859713,
       "slug": "360024859713-How-to-Display-Microsoft-Power-BI-Dashboards-Reports-with-OptiSigns",
-      "hash_val": "b71c90e7ad2754f8b31e23d4d500ff09110dda6c8cf826897a4ab065163e5064",
-      "updated_at": "2026-03-25T21:24:00+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360024859713howtodisplaymic-r0y4m74pokt8",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360024859713howtodisplaymic-r0y4m74pokt8",
+      "hash_val": "f41755a6f003342702c0e4f1af4d62ecf0e3f4e484f77ed3be46d36fd9922375",
+      "updated_at": "2026-08-13T15:38:13+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360024859713howtodisplaymic-lyyb1v70g7di",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360024859713howtodisplaymic-lyyb1v70g7di",
       "locale": "en-us"
     },
     "360023848334": {

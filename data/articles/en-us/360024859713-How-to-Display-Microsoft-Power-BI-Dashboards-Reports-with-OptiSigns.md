@@ -3,7 +3,7 @@
 **Article ID:** 360024859713
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360024859713-How-to-Display-Microsoft-Power-BI-Dashboards-Reports-with-OptiSigns
-**Last Updated:** 2026-03-25T21:24:00+00:00
+**Last Updated:** 2026-08-13T15:38:13+00:00
 ---
 
 |  |
