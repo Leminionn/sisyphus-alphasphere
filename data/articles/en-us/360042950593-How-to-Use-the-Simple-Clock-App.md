@@ -3,7 +3,7 @@
 **Article ID:** 360042950593
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360042950593-How-to-Use-the-Simple-Clock-App
-**Last Updated:** 2026-01-23T15:20:46+00:00
+**Last Updated:** 2026-08-14T20:14:02+00:00
 ---
 
 ### The Simple Clock app allows you to display the time on screen, or as part of a Split Screen configuration.
@@ -13,7 +13,7 @@
   + [Theme and Clock Settings](#ThemeandClock)
     - [Digital Clocks](#Digital)
     - [Analog Clocks](#Analog)
-* [Deploying the Simple Clock App](#Deploying)
+* [Deploying a Simple Clock App](#Deploying)
 
 The Simple Clock App allows you to show a classic digital or analog clock on your screen.
 
@@ -31,7 +31,7 @@ Below are some examples.
 
 ## Setting Up a Simple Clock App
 
-On the OptiSigns portal, go to **Assets → Add Asset → Apps**.
+On the OptiSigns portal, go to **Files/Assets → Apps**.
 
 Select **Simple Clock:**
 
@@ -45,30 +45,34 @@ Set up your Simple Clock app:
   + **Modern Analog**
   + **Minimalist**
   + **Kinetic**
-* **Theme -** Choose between **Light** and **Dark** theme, or set it to Automatically shift between them depending on the time displayed.
-* **Landscape / Portrait -** Switch the Preview between Landscape and Portrait.
+* **Theme -** Choose between **Light** and **Dark** theme, or set it to Auto (6 AM/PM), which will automatically change between the two in the morning and evening.
+* **Landscape / Portrait -** Switch the Preview between Landscape, Portrait, and Custom.
 
 ### Theme and Clock Settings
 
 The actual Theme and Clock Settings will vary depending on whether your clock display is digital or analog.
+
+The remaining options live in two collapsible sections, **Clock Settings** and **Theme Settings**. Click either one to expand it. Which sections appear — and what’s inside them — depends on the Clock Type you chose.
 
 #### Digital Clocks
 
 * **Time Format -** How you want the time to be formatted on your digital clock.
   + **Show Seconds -**Choose whether or not to show seconds.
   + **Show Date -**Choose whether or not to display the date.
-* **Date Format -**If "Show Date" is checked, you can customize the way the date is formatted here.
+* **Date Format -**If **Show Date** is turned on, you can customize the way the date is formatted here.
 * **Time Font Size -** Choose the font size for the time display.
-* **Date Font Size -** Choose the font size for the date. This option only appears if "Show Date" is checked above.
+* **Date Font Size -** Choose the font size for the date. This option only appears if **Show Date** is turned on above.
 * **Text Color -** Choose the Text color for the digital clock.
 * **Background Color -** Choose the Background color for the display.
 
 |  |
 | --- |
 | **NOTE** |
-| Using Modern Digital, the Presets are Neon Cyberpunk and Gaming RGB. The Background colors of these Presets cannot have their gradi. |
+| Using Modern Digital, there are 6 Color Presets: Neon Cyberpunk, Minimalist Zen, Retro Digital, Elegant Classic, Gaming RGB, and Nature Organic.  The Background colors of these Presets cannot have their gradients changed. Modern Digital also has its own **Font Family**, **Font Size**, and **Text Animation** options. |
 
 #### Analog Clocks
+
+Analog clock types have only a **Theme Settings** section.
 
 * **Show Numbers -** Choose whether or not to show numbers on the analog clock display.
 * **Show Tick Marks -** Choose whether or not to show tick marks on the analog clock display.
@@ -79,7 +83,9 @@ The actual Theme and Clock Settings will vary depending on whether your clock di
 * **Clock Face Background -** Change the background color of the clock face.
 * **Background Color -** Change the background color of the entire display outside the clock face.
 
-Once you've configured the app the way you want, hit **Save**.
+Modern Analog uses a different set: **Outer Face Color**, **Inner Face Color**, **Clock Border Color**, and **Tick Mark Color** in place of Dial Color and Clock Face Background.
+
+Once you've configured the app the way you want, hit **Save**. Save stays greyed out until you've entered a **Name**.
 
 ---
 
@@ -89,11 +95,9 @@ You can deploy your new Simple Clock app as an individual asset, or as part of a
 
 To get your new Simple Clock asset to a screen, go to the **Screens** tab, then click the screen you want to assign it to.
 
-This brings up the **Edit Screen** tab:
+This brings up the **Edit Screen** menu:
 
-Here, select **Asset** under Content type, then hit **Change** next to Selected Asset.
-
-Then, select your created Simple Clock Asset:
+Here, select **Asset** under Content type. Then, select your created Simple Clock Asset:
 
 Now hit **Save**. Your Simple Clock asset will now display on screen.
 

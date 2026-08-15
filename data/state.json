@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-08-14T04:23:46.338829+00:00",
+  "last_sync": "2026-08-15T03:18:58.671100+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -3451,10 +3451,10 @@
     "360042950593": {
       "id": 360042950593,
       "slug": "360042950593-How-to-Use-the-Simple-Clock-App",
-      "hash_val": "146849e81c6718fce1bc552bc67bebe3d4fb8c26a68f60ec5c8e2bf178cc7076",
-      "updated_at": "2026-01-23T15:20:46+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360042950593howtousethesimp-6x27w6rygazx",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360042950593howtousethesimp-6x27w6rygazx",
+      "hash_val": "913929b12492fe4cd4cb0e17a32373850caac8f75d91b4d7705dc555ff6de19a",
+      "updated_at": "2026-08-14T20:14:02+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360042950593howtousethesimp-ng9pn4gxq8n9",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360042950593howtousethesimp-ng9pn4gxq8n9",
       "locale": "en-us"
     },
     "360042450514": {
