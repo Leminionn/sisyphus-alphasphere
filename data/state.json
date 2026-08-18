@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-08-17T03:28:29.256989+00:00",
+  "last_sync": "2026-08-18T03:23:51.553924+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -436,10 +436,10 @@
     "29217646663187": {
       "id": 29217646663187,
       "slug": "29217646663187-How-to-Set-Up-Dynamic-Data-Mapping-with-OptiSync",
-      "hash_val": "b7e83914c19ef6372db861dc9668e3e073107bb607a66f6c73ce107093dead2f",
-      "updated_at": "2026-07-09T15:33:50+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/29217646663187howtosetupdyn-urv2uas9wpup",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/29217646663187howtosetupdyn-urv2uas9wpup",
+      "hash_val": "3a55c0a61a190645fa05d1cba509f05e9066a94e941246b8f259576fe9594e62",
+      "updated_at": "2026-08-17T15:33:48+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/29217646663187howtosetupdyn-k2tn363a1cwb",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/29217646663187howtosetupdyn-k2tn363a1cwb",
       "locale": "en-us"
     },
     "28598173096723": {
@@ -625,10 +625,10 @@
     "22875592994195": {
       "id": 22875592994195,
       "slug": "22875592994195-How-to-Integrate-API-and-Publish-API-Data-via-OptiSync",
-      "hash_val": "336df32395701af75644a9805e91b8a5b258911c825b3d10e64db83c0d71c7dd",
-      "updated_at": "2025-09-04T21:00:02+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/22875592994195howtointegrat-5atoauptan4b",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/22875592994195howtointegrat-5atoauptan4b",
+      "hash_val": "afb224b76cb018bcbd46845c59480a04419f573ffae560bcf9064034704e9ec1",
+      "updated_at": "2026-08-17T15:33:02+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/22875592994195howtointegrat-4eqqgtypyv76",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/22875592994195howtointegrat-4eqqgtypyv76",
       "locale": "en-us"
     },
     "22474034993043": {
@@ -1534,10 +1534,10 @@
     "360047275934": {
       "id": 360047275934,
       "slug": "360047275934-Whitelist-OptiSigns-IP-addresses-ports",
-      "hash_val": "864fe611b783d2610eb0b6cb955b1b4b65b865722003d9b27097c82dbb479d1a",
-      "updated_at": "2026-07-22T15:55:30+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360047275934whitelistoptisi-10hgyyejotd8",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360047275934whitelistoptisi-10hgyyejotd8",
+      "hash_val": "86e702d08692d82cfff0242793c7f2a02a113b5fd6fb90d5fde8ec13778d3137",
+      "updated_at": "2026-08-17T15:21:01+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360047275934whitelistoptisi-8fjjcc7bgv8k",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360047275934whitelistoptisi-8fjjcc7bgv8k",
       "locale": "en-us"
     },
     "360047232054": {
@@ -1795,10 +1795,10 @@
     "360016313754": {
       "id": 360016313754,
       "slug": "360016313754-How-to-Install-an-APK-file-on-your-Fire-TV",
-      "hash_val": "4acccb7a3ff06be74f5e73174b0b434e986f07da6b35079eeaae3f38af5bf45f",
-      "updated_at": "2026-08-13T11:52:12+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016313754howtoinstallana-ik0j55ze8cdv",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016313754howtoinstallana-ik0j55ze8cdv",
+      "hash_val": "9ce401224fecd6e0b7f551a534a4ebd2861eef4cb65e73c53494e2e778c69af9",
+      "updated_at": "2026-08-17T21:10:23+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016313754howtoinstallana-s0lvjtx55jj6",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016313754howtoinstallana-s0lvjtx55jj6",
       "locale": "en-us"
     },
     "360016252654": {
@@ -2254,10 +2254,10 @@
     "44669013147923": {
       "id": 44669013147923,
       "slug": "44669013147923-Kiosk32",
-      "hash_val": "0710c14b12e73f0fb7215b31d8fae1cf3b87f221457baa692de5e34d341706f3",
-      "updated_at": "2026-04-29T15:27:37+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/44669013147923kiosk32-mq091olun3y7",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/44669013147923kiosk32-mq091olun3y7",
+      "hash_val": "5f1016a3795aa965fc5fa20ec2412e1708d749027e47a92b3b362e9275802a69",
+      "updated_at": "2026-08-17T12:43:11+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/44669013147923kiosk32-dk415w09h49l",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/44669013147923kiosk32-dk415w09h49l",
       "locale": "en-us"
     },
     "42526907045651": {

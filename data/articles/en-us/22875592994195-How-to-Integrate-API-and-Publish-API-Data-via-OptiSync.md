@@ -3,14 +3,14 @@
 **Article ID:** 22875592994195
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/22875592994195-How-to-Integrate-API-and-Publish-API-Data-via-OptiSync
-**Last Updated:** 2025-09-04T21:00:02+00:00
+**Last Updated:** 2026-08-17T15:33:02+00:00
 ---
 
 ### Integrating your API with OptiSigns has many uses and allows easy display of auto-updating data on your screens. In this guide, we'll walk you through how to connect your API - no software engineering background required.
 
 * [What API Integration Can Do](#Integration)
 * [What You'll Need to Get Started](#What)
-* [How to Set Up an API Request](#Request)  
+* [How to Set Up an API Request](#Request)
   + [Step 1: Store Your API Authorization Token in the OptiSigns API Keystore](#Store)
   + [Step 2: Set Up and Test the API Request](#Test)
     - [How to Use Parameters](#Parameters)
@@ -65,7 +65,7 @@ To get started, open your OptiSigns Web Portal.
 
 Once there, navigate to the upper right corner of the screen, and hover over your account name.
 
-Hover over **More →** **DataSources**
+Hover over **More** **→ DataSources**
 
 You'll see the screen below.
 
@@ -123,6 +123,7 @@ Click the **Add Request** button, it will launch the window for you to configure
 * **Post-request -** An optional piece of code which modifies the data received from the request. For example, if the data you receive is not exactly how you want it displayed, you can write a bit of code to modify it according to your digital display needs.
 * **Enable Webhook -** Generates a webhook link and an associated token. This webhook can be used to notify us of a change in the data, which will refresh the API request and update your screens automatically.
 * **Enable this Request** - Set the status of the API request.
+* **Enable Static IP** -Allows you to route this request through a fixed IP for those APIs which require whitelisting on your organization's firewall. That IP is 178.128.134.248 - with this checked, you'll need to whitelist this IP.
 
 To test the request, we'll need to configure the header. This is where the Keystore comes in. In the second box, type **Bearer {{apiKeystore.<<key>>}}**, where *Bearer* is the type of token and *{{apiKeystore.<<key>>}}* pulls the token stored in the Keystore. In this example, we'll use the name "clover" as referenced above.
 

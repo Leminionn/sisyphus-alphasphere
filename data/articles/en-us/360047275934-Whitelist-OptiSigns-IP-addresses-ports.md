@@ -3,7 +3,7 @@
 **Article ID:** 360047275934
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-addresses-ports
-**Last Updated:** 2026-07-22T15:55:30+00:00
+**Last Updated:** 2026-08-17T15:21:01+00:00
 ---
 
 If you need to configure the firewall, here is the list of OptiSigns IP addresses and Port to whitelist:
@@ -33,6 +33,8 @@ IP Address for **OptiSigns**:
 * 206.189.255.219 (API)
 * software-update.optisigns.com (Pro Player OTA update)
 * software-download.optisigns.com (Pro Player OTA update)
+* optisignsapp.com
+* \*.optisignsapp.com
 
 OptiSigns utilizes Transloadit for **uploading files via the OptiSigns portal**. If you encounter any issues with uploading files, you can resolve this by whitelisting Transloadit's IP address.
 
@@ -49,6 +51,11 @@ OptiSigns utilizes Unsplash images in the **Designer app**. If you encounter any
 OptiSigns utilizes RealVNC for **Remote Device Control**. If you use remote control and experience any connection issues with remote control, you can resolve this by whitelisting RealVNC's domain and IP address.
 
 * \*.services.vnc.com
+
+|  |
+| --- |
+| **NOTE** |
+| If Remote Access still does not work, try adding this rule to your firewall without the asterisk (services.vnc.com) |
 
 OptiSigns utilizes Sport Pulse for **Sports Feeds**. If you have an issue displaying the sports feed, you can resolve this by whitelisting Sport Pulse's domain.
 
