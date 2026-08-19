@@ -3,7 +3,7 @@
 **Article ID:** 4408658251027
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/4408658251027-How-to-use-Remote-Command-Execution-Windows-Linux
-**Last Updated:** 2025-09-05T14:59:20+00:00
+**Last Updated:** 2026-08-18T09:38:04+00:00
 ---
 
 |  |
