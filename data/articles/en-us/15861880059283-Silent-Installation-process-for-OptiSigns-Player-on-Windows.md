@@ -3,7 +3,7 @@
 **Article ID:** 15861880059283
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/15861880059283-Silent-Installation-process-for-OptiSigns-Player-on-Windows
-**Last Updated:** 2025-08-29T18:51:22+00:00
+**Last Updated:** 2026-08-19T07:25:03+00:00
 ---
 
 By default, when you install the OptiSigns Windows player on your Windows device, it will be installed on your default user profile.   

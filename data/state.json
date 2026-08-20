@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-08-19T03:25:51.254670+00:00",
+  "last_sync": "2026-08-20T03:25:07.648433+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -814,10 +814,10 @@
     "15861880059283": {
       "id": 15861880059283,
       "slug": "15861880059283-Silent-Installation-process-for-OptiSigns-Player-on-Windows",
-      "hash_val": "608a3049906dc3cf645bf48695a3d9c4a6318bab8fed0f84d9eb4ed4429a962d",
-      "updated_at": "2025-08-29T18:51:22+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/15861880059283silentinstall-bn8ejic7c5l3",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/15861880059283silentinstall-bn8ejic7c5l3",
+      "hash_val": "7ae02a1d1326cb9eb5b8d5ad60840bc557690c0de8476e0544a3d4aae3241e70",
+      "updated_at": "2026-08-19T07:25:03+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/15861880059283silentinstall-ewar90sqrb05",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/15861880059283silentinstall-ewar90sqrb05",
       "locale": "en-us"
     },
     "15808407287315": {
@@ -1030,10 +1030,10 @@
     "4408658251027": {
       "id": 4408658251027,
       "slug": "4408658251027-How-to-use-Remote-Command-Execution-Windows-Linux",
-      "hash_val": "cfc4bdb57b699e81ed985621e0eea56f562a622434e9aff830bfbb7d68684723",
-      "updated_at": "2025-09-05T14:59:20+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4408658251027howtouseremote-1ufwv6mzh33a",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4408658251027howtouseremote-1ufwv6mzh33a",
+      "hash_val": "677ed1ca47705445dcc2a08d16e270521d0c5391ee878452924ae90681135c81",
+      "updated_at": "2026-08-18T09:38:04+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4408658251027howtouseremote-ghw8cz87v74s",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4408658251027howtouseremote-ghw8cz87v74s",
       "locale": "en-us"
     },
     "4408052029587": {
@@ -1759,10 +1759,10 @@
     "360026559573": {
       "id": 360026559573,
       "slug": "360026559573-How-to-Create-and-Use-the-Split-Screen-App",
-      "hash_val": "cf26787e7a1ce7e4b1136b5b8c2a6bb7c514792232f6fdb48273c9be0d152ad2",
-      "updated_at": "2026-07-09T21:32:58+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360026559573howtocreateandu-04nwdbs6cylf",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360026559573howtocreateandu-04nwdbs6cylf",
+      "hash_val": "d3a8ee642706a74420490f02f7f5abdffbe5be0b9fd30b3a1711dac7b8063888",
+      "updated_at": "2026-08-19T14:57:06+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360026559573howtocreateandu-012lvq2uz6wu",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360026559573howtocreateandu-012lvq2uz6wu",
       "locale": "en-us"
     },
     "360025661053": {
@@ -1795,10 +1795,10 @@
     "360016313754": {
       "id": 360016313754,
       "slug": "360016313754-How-to-Install-an-APK-file-on-your-Fire-TV",
-      "hash_val": "9ce401224fecd6e0b7f551a534a4ebd2861eef4cb65e73c53494e2e778c69af9",
-      "updated_at": "2026-08-17T21:10:23+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016313754howtoinstallana-s0lvjtx55jj6",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016313754howtoinstallana-s0lvjtx55jj6",
+      "hash_val": "374a60207003f45b14463ccdbefe428c4485887d5107f629b2a287e0e9ca722e",
+      "updated_at": "2026-08-19T23:02:46+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016313754howtoinstallana-51dzkepefoys",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016313754howtoinstallana-51dzkepefoys",
       "locale": "en-us"
     },
     "360016252654": {
@@ -3451,10 +3451,10 @@
     "360042950593": {
       "id": 360042950593,
       "slug": "360042950593-How-to-Use-the-Simple-Clock-App",
-      "hash_val": "913929b12492fe4cd4cb0e17a32373850caac8f75d91b4d7705dc555ff6de19a",
-      "updated_at": "2026-08-14T20:14:02+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360042950593howtousethesimp-ng9pn4gxq8n9",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360042950593howtousethesimp-ng9pn4gxq8n9",
+      "hash_val": "534df55c9788b0bae008dc487bd0b601f91f89c459a16068c489b3eab34cc5fd",
+      "updated_at": "2026-08-19T18:54:53+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360042950593howtousethesimp-oin53jrezbwk",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360042950593howtousethesimp-oin53jrezbwk",
       "locale": "en-us"
     },
     "360042450514": {
@@ -3631,10 +3631,10 @@
     "360016382473": {
       "id": 360016382473,
       "slug": "360016382473-How-to-Use-the-Website-App-and-Display-URLs-on-OptiSigns",
-      "hash_val": "360e224bab0f74e0e3690c897e2bc71714756310ac1a32fa10410f013a241496",
-      "updated_at": "2026-02-03T18:12:07+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016382473howtousethewebs-8xgdx3d2lu6q",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016382473howtousethewebs-8xgdx3d2lu6q",
+      "hash_val": "63e8c9e3da15a50a8667829919c4afae970f55dccf1aa894af8a7eae640c3aa0",
+      "updated_at": "2026-08-19T20:31:24+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016382473howtousethewebs-bdw8ld2w0ogk",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016382473howtousethewebs-bdw8ld2w0ogk",
       "locale": "en-us"
     },
     "53293393593491": {
