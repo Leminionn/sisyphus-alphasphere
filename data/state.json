@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-08-20T03:25:07.648433+00:00",
+  "last_sync": "2026-08-21T03:30:11.778026+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -714,11 +714,11 @@
     },
     "19171222981523": {
       "id": 19171222981523,
-      "slug": "19171222981523-How-to-use-Yammer-app-on-OptiSigns",
-      "hash_val": "d904c9c65c57815b1d7a3d5be2f156be0249d3ab2c70b6e783a342336b8da2f0",
-      "updated_at": "2025-09-04T18:49:13+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/19171222981523howtouseyamme-teih1f4okt46",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/19171222981523howtouseyamme-teih1f4okt46",
+      "slug": "19171222981523-How-to-Use-the-Viva-Engage-app-formerly-Yammer-on-OptiSigns",
+      "hash_val": "7b22a7dcfaac30721c12632298f416832fed468ce2b3548317e3dabbb05ada11",
+      "updated_at": "2026-08-20T19:03:01+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/19171222981523howtousethevi-9jxrqs8fvu4w",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/19171222981523howtousethevi-9jxrqs8fvu4w",
       "locale": "en-us"
     },
     "18988049363859": {
@@ -1668,11 +1668,11 @@
     },
     "360037416494": {
       "id": 360037416494,
-      "slug": "360037416494-How-to-use-the-Atlassian-JIRA-app",
-      "hash_val": "9ab0bb68a5d1c642db835dc4d08c85df6f7992139ad211e1bffb2444aa1a937a",
-      "updated_at": "2025-08-28T20:12:13+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360037416494howtousetheatla-i3xhucfr26i8",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360037416494howtousetheatla-i3xhucfr26i8",
+      "slug": "360037416494-How-to-use-the-Jira-formerly-Atlassian-JIRA-app",
+      "hash_val": "153e9d2c2c9c1b408243f4c53549cce49ec9c50dbaa446d1f6df3e67ba94da97",
+      "updated_at": "2026-08-20T19:03:52+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360037416494howtousethejira-vft0g33gjbb5",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360037416494howtousethejira-vft0g33gjbb5",
       "locale": "en-us"
     },
     "360037391854": {
