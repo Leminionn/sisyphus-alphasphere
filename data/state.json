@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-08-21T03:30:11.778026+00:00",
+  "last_sync": "2026-08-22T03:21:31.841206+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -715,10 +715,10 @@
     "19171222981523": {
       "id": 19171222981523,
       "slug": "19171222981523-How-to-Use-the-Viva-Engage-app-formerly-Yammer-on-OptiSigns",
-      "hash_val": "7b22a7dcfaac30721c12632298f416832fed468ce2b3548317e3dabbb05ada11",
-      "updated_at": "2026-08-20T19:03:01+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/19171222981523howtousethevi-9jxrqs8fvu4w",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/19171222981523howtousethevi-9jxrqs8fvu4w",
+      "hash_val": "58ea1969f34d14a70c2147bb0cf002ead488d923779d2f08d99285c6373ae76a",
+      "updated_at": "2026-08-21T18:40:48+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/19171222981523howtousethevi-uqocncx4gm0x",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/19171222981523howtousethevi-uqocncx4gm0x",
       "locale": "en-us"
     },
     "18988049363859": {
@@ -733,10 +733,10 @@
     "18823504383891": {
       "id": 18823504383891,
       "slug": "18823504383891-OptiSigns-Getting-Started-Guide",
-      "hash_val": "cddbec71dd8fc491da42ab2f182edf926c4128ec61768689081832e53aa92d79",
-      "updated_at": "2026-03-31T21:41:21+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/18823504383891optisignsgett-0oiij0aidpq1",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/18823504383891optisignsgett-0oiij0aidpq1",
+      "hash_val": "7a8db60c2c36052cc6036077c479d8c8085499fbf8ab0d415bd7d11f7398b7e1",
+      "updated_at": "2026-08-21T05:37:19+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/18823504383891optisignsgett-innyi7r3ifdo",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/18823504383891optisignsgett-innyi7r3ifdo",
       "locale": "en-us"
     },
     "18470994953363": {
@@ -3451,10 +3451,10 @@
     "360042950593": {
       "id": 360042950593,
       "slug": "360042950593-How-to-Use-the-Simple-Clock-App",
-      "hash_val": "534df55c9788b0bae008dc487bd0b601f91f89c459a16068c489b3eab34cc5fd",
-      "updated_at": "2026-08-19T18:54:53+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360042950593howtousethesimp-oin53jrezbwk",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360042950593howtousethesimp-oin53jrezbwk",
+      "hash_val": "db15448db5641c598428865457a3ff19e14411fcb08a1a01d446fc3503365c7e",
+      "updated_at": "2026-08-21T21:14:32+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360042950593howtousethesimp-yf3k9txutvsz",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360042950593howtousethesimp-yf3k9txutvsz",
       "locale": "en-us"
     },
     "360042450514": {

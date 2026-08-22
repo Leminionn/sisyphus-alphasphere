@@ -3,7 +3,7 @@
 **Article ID:** 18823504383891
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/18823504383891-OptiSigns-Getting-Started-Guide
-**Last Updated:** 2026-03-31T21:41:21+00:00
+**Last Updated:** 2026-08-21T05:37:19+00:00
 ---
 
 ### New to OptiSigns or need a refresher? Here's your one-stop guide to get your screens ready to go!
