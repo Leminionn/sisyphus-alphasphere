@@ -3,7 +3,7 @@
 **Article ID:** 360056087613
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360056087613-How-to-Clear-Cache-on-Your-Fire-Stick-device
-**Last Updated:** 2026-05-30T19:09:27+00:00
+**Last Updated:** 2026-08-22T13:10:02+00:00
 ---
 
 When the OptiSigns stops working correctly, one of the most common causes is corrupted data. In some cases, OptiSigns may be slow down and doesn't perform well due to a cache that has become too large. In these cases, the solution is to clear the cache.
