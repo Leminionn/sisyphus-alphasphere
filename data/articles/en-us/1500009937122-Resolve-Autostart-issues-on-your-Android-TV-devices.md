@@ -3,7 +3,7 @@
 **Article ID:** 1500009937122
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/1500009937122-Resolve-Autostart-issues-on-your-Android-TV-devices
-**Last Updated:** 2025-08-29T18:50:41+00:00
+**Last Updated:** 2026-08-24T21:20:19+00:00
 ---
 
 Auto Start feature is not working on your devices. The devices give example: Chromecast with Android TV, Mi Stick, HiSense, Sony, and other TV with Android TV

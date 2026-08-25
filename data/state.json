@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-08-24T03:32:11.736476+00:00",
+  "last_sync": "2026-08-25T03:26:35.689200+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -1183,10 +1183,10 @@
     "1500009937122": {
       "id": 1500009937122,
       "slug": "1500009937122-Resolve-Autostart-issues-on-your-Android-TV-devices",
-      "hash_val": "cc573d40aea3fbed953afc9d4d3ef804df06768b44154111c3afd4c8c5f56b3d",
-      "updated_at": "2025-08-29T18:50:41+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500009937122resolveautosta-9q5eoa909vs0",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500009937122resolveautosta-9q5eoa909vs0",
+      "hash_val": "2fee5c5d2ef63da07e87740e2e6bf801fca11eb5c3b23ded63e1ad5474232b54",
+      "updated_at": "2026-08-24T21:20:19+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500009937122resolveautosta-vwaj0ehwhih1",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500009937122resolveautosta-vwaj0ehwhih1",
       "locale": "en-us"
     },
     "1500009382101": {
