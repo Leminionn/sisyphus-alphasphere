@@ -3,7 +3,7 @@
 **Article ID:** 360016174554
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360016174554-Amazon-Firestick
-**Last Updated:** 2026-06-05T22:12:50+00:00
+**Last Updated:** 2026-08-25T22:35:02+00:00
 ---
 
 |  |

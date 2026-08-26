@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-08-25T03:26:35.689200+00:00",
+  "last_sync": "2026-08-26T03:33:45.117887+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -336,11 +336,11 @@
     },
     "31960461758611": {
       "id": 31960461758611,
-      "slug": "31960461758611-How-to-Order-a-Preconfigured-OptiSigns-Android-Player-Device",
-      "hash_val": "340f75a62a6e599175b7cd4d2049ce215b758ab4365a1b7b6257a6ccb0b0c9c0",
-      "updated_at": "2026-06-11T17:48:29+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/31960461758611howtoorderapr-lj0r63i5ud67",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/31960461758611howtoorderapr-lj0r63i5ud67",
+      "slug": "31960461758611-How-to-Order-a-Preconfigured-OptiSigns-Android-Stick",
+      "hash_val": "b4920d79fd8964c344f899d74902d7905ce5d94f489cae37fa98202d9ae05dee",
+      "updated_at": "2026-08-25T21:52:40+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/31960461758611howtoorderapr-7d8wuvpp2j2o",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/31960461758611howtoorderapr-7d8wuvpp2j2o",
       "locale": "en-us"
     },
     "31860170199955": {
@@ -2515,10 +2515,10 @@
     "360016174554": {
       "id": 360016174554,
       "slug": "360016174554-Amazon-Firestick",
-      "hash_val": "1fa18faa63a9b7c79ebf6cfcb695f3a6f1bb9c202c74f885d4c501603b420e9c",
-      "updated_at": "2026-06-05T22:12:50+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016174554amazonfirestick-v57mzq35kirn",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016174554amazonfirestick-v57mzq35kirn",
+      "hash_val": "462c8026e5f0c6dec8a573d940e792aee3e6d065decd4af664711d1710bfb7d0",
+      "updated_at": "2026-08-25T22:35:02+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016174554amazonfirestick-dnt66aoof613",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016174554amazonfirestick-dnt66aoof613",
       "locale": "en-us"
     },
     "44650391786131": {
