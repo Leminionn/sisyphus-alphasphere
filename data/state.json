@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-08-26T03:33:45.117887+00:00",
+  "last_sync": "2026-08-27T13:01:31.746980+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -1453,10 +1453,10 @@
     "360054298754": {
       "id": 360054298754,
       "slug": "360054298754-How-to-Factory-Reset-Your-Fire-Stick-device",
-      "hash_val": "de086fa697b4afb422b84e1647858480d91fee6fa358c023af34c8f73d8ea962",
-      "updated_at": "2026-08-03T23:37:18+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360054298754howtofactoryres-80iwkx3u0q6t",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360054298754howtofactoryres-80iwkx3u0q6t",
+      "hash_val": "c0b3cc648476aae264145167849dd8ff2a8d8eed0d92c8da3da8fa8efb113ac8",
+      "updated_at": "2026-08-27T10:26:43+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360054298754howtofactoryres-646ilf2nve2y",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360054298754howtofactoryres-646ilf2nve2y",
       "locale": "en-us"
     },
     "360056087613": {
@@ -1678,10 +1678,10 @@
     "360037391854": {
       "id": 360037391854,
       "slug": "360037391854-How-to-display-content-inside-websites-that-require-login",
-      "hash_val": "959e75ee689cc6e52aa8082cedbc5aab3606a9fbb610b08132c05b453c5752c4",
-      "updated_at": "2026-06-25T12:33:44+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360037391854howtodisplaycon-owii8n8o6hlc",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360037391854howtodisplaycon-owii8n8o6hlc",
+      "hash_val": "fd5e39128f89b880b475e4a0ba758b36c02c612856949db0b228e94d1247f85b",
+      "updated_at": "2026-08-26T15:08:46+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360037391854howtodisplaycon-ze5umfeaja4c",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360037391854howtodisplaycon-ze5umfeaja4c",
       "locale": "en-us"
     },
     "360036465673": {

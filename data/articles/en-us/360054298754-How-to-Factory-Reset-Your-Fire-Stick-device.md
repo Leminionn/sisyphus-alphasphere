@@ -3,7 +3,7 @@
 **Article ID:** 360054298754
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360054298754-How-to-Factory-Reset-Your-Fire-Stick-device
-**Last Updated:** 2026-08-03T23:37:18+00:00
+**Last Updated:** 2026-08-27T10:26:43+00:00
 ---
 
 ## 
