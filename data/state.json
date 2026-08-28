@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-08-27T13:01:31.746980+00:00",
+  "last_sync": "2026-08-28T14:32:06.097982+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -49,10 +49,10 @@
     "52350277262483": {
       "id": 52350277262483,
       "slug": "52350277262483-Connect-Microsoft-Teams-Rooms-to-OptiSigns-Digital-Signage",
-      "hash_val": "e0546273afdaed4a9d75cbe6db0ddc84669edd75ffc3f91df60205af5cba231c",
-      "updated_at": "2026-06-24T18:39:16+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/52350277262483connectmicros-dzseiae2uknl",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/52350277262483connectmicros-dzseiae2uknl",
+      "hash_val": "0eefc9c71ab49fa3077ea4c3aabe5424de55979a2089449f7812d9e9a9aa8c08",
+      "updated_at": "2026-08-27T19:45:55+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/52350277262483connectmicros-ziws5lba9tn7",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/52350277262483connectmicros-ziws5lba9tn7",
       "locale": "en-us"
     },
     "52113036672403": {
@@ -598,10 +598,10 @@
     "23565267463315": {
       "id": 23565267463315,
       "slug": "23565267463315-Engage-Plan-FAQs",
-      "hash_val": "2a8b521249a57908c1ebc4acf25fb556c48c9ee2d1ea5537542abb5871417aeb",
-      "updated_at": "2026-06-29T19:25:18+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/23565267463315engageplanfaq-670d0s9jmsgh",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/23565267463315engageplanfaq-670d0s9jmsgh",
+      "hash_val": "787dbee7b27b2709e735da80462ebb0ee712fb3f5af914f1221a154cf15485bd",
+      "updated_at": "2026-08-27T17:21:45+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/23565267463315engageplanfaq-xnmwqvxq9sbn",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/23565267463315engageplanfaq-xnmwqvxq9sbn",
       "locale": "en-us"
     },
     "23274673797139": {
@@ -2506,10 +2506,10 @@
     "4404608957075": {
       "id": 4404608957075,
       "slug": "4404608957075-How-to-Delete-Your-Account-from-OptiSigns",
-      "hash_val": "3ad703306b22fdc23ee855631d7cb6a25deac79401f6312fa0ca1e9059e58079",
-      "updated_at": "2026-08-10T11:48:19+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4404608957075howtodeleteyou-vzdljsv82jzc",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4404608957075howtodeleteyou-vzdljsv82jzc",
+      "hash_val": "89cce928211441b74e220f4e9e01d21eb72035f9dbc94647c44c5c49a34c9ffc",
+      "updated_at": "2026-08-27T15:33:20+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4404608957075howtodeleteyou-akxm9bex3zyt",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4404608957075howtodeleteyou-akxm9bex3zyt",
       "locale": "en-us"
     },
     "360016174554": {
