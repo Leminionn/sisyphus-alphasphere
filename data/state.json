@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-08-31T08:51:13.958256+00:00",
+  "last_sync": "2026-09-01T07:57:08.046571+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -1768,10 +1768,10 @@
     "360025661053": {
       "id": 360025661053,
       "slug": "360025661053-How-Can-I-Remove-Delete-Uploaded-Files-or-Assets",
-      "hash_val": "14f77a4547314add1cdfd42454d0297e70654ee3f5681b34031eb6636b4c9f9c",
-      "updated_at": "2026-06-26T20:54:46+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360025661053howcaniremovede-umw8jvf9s252",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360025661053howcaniremovede-umw8jvf9s252",
+      "hash_val": "1a0bc2d4c6fdb68b0e85b74d4ec72e4a13272435f11f4ca1672f36a928fd8a31",
+      "updated_at": "2026-08-31T12:06:14+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360025661053howcaniremovede-w8qcpk2a2k38",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360025661053howcaniremovede-w8qcpk2a2k38",
       "locale": "en-us"
     },
     "360025626853": {
@@ -1903,10 +1903,10 @@
     "4472060158355": {
       "id": 4472060158355,
       "slug": "4472060158355-How-to-get-the-list-of-playlists-where-the-asset-is-used",
-      "hash_val": "25ef3f898f983ee7ba30bc3cca51bddcf9ce06596b00538039b5d367fdb9d351",
-      "updated_at": "2025-08-29T19:04:36+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4472060158355howtogetthelis-vbog1gkkaesq",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4472060158355howtogetthelis-vbog1gkkaesq",
+      "hash_val": "254d3ce0a57249fdbbb1b8b865e71dd6d5de8d1c852f5cdf14aec59d65a554bb",
+      "updated_at": "2026-08-31T16:30:59+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4472060158355howtogetthelis-r2vrlnnsiuvx",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4472060158355howtogetthelis-r2vrlnnsiuvx",
       "locale": "en-us"
     },
     "4414563797139": {
