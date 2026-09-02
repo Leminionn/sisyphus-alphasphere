@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-09-01T07:57:08.046571+00:00",
+  "last_sync": "2026-09-02T07:16:51.923227+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -2245,10 +2245,10 @@
     "360016375153": {
       "id": 360016375153,
       "slug": "360016375153-Assign-content-to-your-screens",
-      "hash_val": "563303735859083c7547904555e71fdc699f576eca33ef8f818b2ae3338e8060",
-      "updated_at": "2025-08-29T21:09:05+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016375153assigncontentto-wfavh5aigr1w",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016375153assigncontentto-wfavh5aigr1w",
+      "hash_val": "98a2096e87a37ae19e5ef7d423a2d9c69104b920c403cad4e8f99b1b4697c048",
+      "updated_at": "2026-09-01T22:55:42+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016375153assigncontentto-g7f1xmgp344q",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016375153assigncontentto-g7f1xmgp344q",
       "locale": "en-us"
     },
     "44669013147923": {
