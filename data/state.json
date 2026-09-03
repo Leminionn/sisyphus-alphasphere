@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-09-02T07:16:51.923227+00:00",
+  "last_sync": "2026-09-03T07:20:16.582375+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -391,10 +391,10 @@
     "30304278652563": {
       "id": 30304278652563,
       "slug": "30304278652563-How-to-Use-the-Mobile-App-for-Remote-Control",
-      "hash_val": "33426559e13be2f1610f869f27eda6c867b3410cac15725877a77c6979020cc5",
-      "updated_at": "2025-09-04T20:14:54+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/30304278652563howtousethemo-hlbfm4sxwzan",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/30304278652563howtousethemo-hlbfm4sxwzan",
+      "hash_val": "b976d507a1ff56a6c7766eb1934207bb810e1f067fe9285e1ff2255475fafc04",
+      "updated_at": "2026-09-02T20:41:23+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/30304278652563howtousethemo-hyxhmdnhusrp",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/30304278652563howtousethemo-hyxhmdnhusrp",
       "locale": "en-us"
     },
     "29792081890323": {
@@ -1525,19 +1525,19 @@
     "360048914673": {
       "id": 360048914673,
       "slug": "360048914673-Edit-Screen-What-does-each-option-do",
-      "hash_val": "0435903697bb7fdd87d3dec78d794e3db6ee53103c4e146e2ddacb04550dff61",
-      "updated_at": "2026-05-21T13:09:58+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360048914673editscreenwhatd-7dnlb5c4qlbp",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360048914673editscreenwhatd-7dnlb5c4qlbp",
+      "hash_val": "07851921c27bc95810ccf93ac87c17fcc9b0b73ceb5510143ad55a810ee5c71b",
+      "updated_at": "2026-09-02T20:33:01+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360048914673editscreenwhatd-5xpthojjajxw",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360048914673editscreenwhatd-5xpthojjajxw",
       "locale": "en-us"
     },
     "360047275934": {
       "id": 360047275934,
       "slug": "360047275934-Whitelist-OptiSigns-IP-addresses-ports",
-      "hash_val": "86e702d08692d82cfff0242793c7f2a02a113b5fd6fb90d5fde8ec13778d3137",
-      "updated_at": "2026-08-17T15:21:01+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360047275934whitelistoptisi-8fjjcc7bgv8k",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360047275934whitelistoptisi-8fjjcc7bgv8k",
+      "hash_val": "7571826b63e2be17fb610881cd3d5f0758e0d8307207268b5fb3aa311f14efa8",
+      "updated_at": "2026-09-02T20:00:13+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360047275934whitelistoptisi-2m86c4dmuyye",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360047275934whitelistoptisi-2m86c4dmuyye",
       "locale": "en-us"
     },
     "360047232054": {
@@ -2740,10 +2740,10 @@
     "12498801963027": {
       "id": 12498801963027,
       "slug": "12498801963027-Show-Offline-Indicator-feature",
-      "hash_val": "e8d906d3bc4f9b3f303e03ebcbb6dde873317e72795cc315895cedede7877209",
-      "updated_at": "2025-08-28T19:46:51+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/12498801963027showofflinein-5vrsl18tgjxx",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/12498801963027showofflinein-5vrsl18tgjxx",
+      "hash_val": "70c721c7ef9b38303c742daeb0190ad7b440b845da99d3f4b6ef36b3af82c218",
+      "updated_at": "2026-09-02T15:47:19+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/12498801963027showofflinein-eg76meaw8hu0",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/12498801963027showofflinein-eg76meaw8hu0",
       "locale": "en-us"
     },
     "10259143299219": {

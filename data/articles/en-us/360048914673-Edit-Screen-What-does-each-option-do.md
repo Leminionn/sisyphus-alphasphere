@@ -3,7 +3,7 @@
 **Article ID:** 360048914673
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360048914673-Edit-Screen-What-does-each-option-do
-**Last Updated:** 2026-05-21T13:09:58+00:00
+**Last Updated:** 2026-09-02T20:33:01+00:00
 ---
 
 ### OptiSigns gives you unparalleled customization options for your digital signs with its Edit Screen feature. Each setting will be thoroughly explained to ensure you can effectively manage and customize your digital signage.
@@ -19,21 +19,11 @@
 
 Navigate to the [**Screens page**](https://app.optisigns.com/app/screenManagement)in OptiSigns portal → Find your desired screen → Click '**Edit**' or click the screen name:
 
-|  |  |
-| --- | --- |
-| **OptiSigns 1.0** | **Updated** |
-|  |  |
-
 The Edit Screen window, shown below, will appear.
 
 ---
 
 ## Edit Screen Options
-
-|  |  |
-| --- | --- |
-| **OptiSigns 1.0** | **Updated** |
-|  |  |
 
 * **Device Name -** Name of your screen
   + This will **not** be displayed on your screens. It is best used as a way for you to know which screen is being accessed.
@@ -65,11 +55,6 @@ Clicking the **"Advanced"** option at the bottom of the Edit Screen window provi
 | **NOTE** |
 | The available settings and their ordering in your Edit Screen options may vary depending on your hardware, pricing plan, and version of OptiSigns (1.0 or the Updated UI). |
 
-|  |  |
-| --- | --- |
-| **OptiSigns 1.0** | **Updated** |
-|  |  |
-
 * **Device Locations**
   + **Location** - Set the device's location. This is tied to a city or address.
   + **Functional Location** - Denotes where in your screen is placed, i.e. "Conference Room" or "Hallway"
@@ -94,17 +79,12 @@ Clicking the **"Advanced"** option at the bottom of the Edit Screen window provi
 
 Clicking the **"More"** option under Advanced leads you to the options below.
 
-|  |  |
-| --- | --- |
-| **OptiSigns 1.0** | **Updated** |
-|  |  |
-
-* [**Lock Down**](https://support.optisigns.com/hc/en-us/articles/4416681544211) - Hide OptiSigns controls and menu to prevent viewers from making changes to the app. If running Kiosk, viewers still can interact with Kiosk, but cannot use the menu or close app.
+* [**Lock Down**](https://support.optisigns.com/hc/en-us/articles/30310366838803-Enabling-Lock-Down-Mode-on-Touch-Screen-Devices) - Hide OptiSigns controls and menu to prevent viewers from making changes to the app. If running Kiosk, viewers still can interact with Kiosk, but cannot use the menu or close app.
 * [**Playback Control**](https://support.optisigns.com/hc/en-us/articles/4416704273811)- Enable the viewer to navigate forward, backward, and pause the playlist.
 * [**Proof of Play**](https://support.optisigns.com/hc/en-us/articles/360058936513) - Send playback data to enable proof of play reporting.
 * **Brightness** - Controls the brightness of your screen.
 * **Volume** - Controls the volume of your screen.
-* [**Schedule Power, Volume, Brightness, mute**](https://support.optisigns.com/hc/en-us/articles/4416681142675) - Schedule Device, TV power on/off, Volume, Brightness or when device should download new contents. This will largely depend on your devices and TV/Monitor selection.
+* [**Schedule Power, Volume, Brightness, mute**](https://support.optisigns.com/hc/en-us/articles/28598173096723-How-To-Create-and-Use-Operational-Schedules-HDMI-CEC-RS-232) - Schedule Device, TV power on/off, Volume, Brightness or when device should download new contents. This will largely depend on your devices and TV/Monitor selection.
 * **Polling Interval**
   + **Polling Interval -** Controls how frequently the system checks for content updates, ensuring that the displayed content is always current and reflects any changes made to the source.
   + **Heartbeat Interval -** Controls how frequently the system checks in to OptiSigns server. This determines whether your device will appear Online or Offline in the OptiSigns portal.
@@ -119,11 +99,6 @@ Clicking the **"More"** option under Advanced leads you to the options below.
 
 To open the Device Additional Attributes window, click the **Wrench** icon at the bottom right of the window.
 
-|  |  |
-| --- | --- |
-| **OptiSigns 1.0** | **Updated** |
-|  |  |
-
 This feature ties in to Power BI app filters and API gateways, allowing substitution of your merchantID and the API or filter's value. Click [here](https://support.optisigns.com/hc/en-us/articles/22875592994195-How-to-consume-API-and-publish-the-API-data-on-the-screen) to learn more about how to use this much-requested feature.
 
 ---
@@ -132,17 +107,7 @@ This feature ties in to Power BI app filters and API gateways, allowing substitu
 
 To view the **Device Info** tab, click the small **'i'** at the bottom right of your screen.
 
-|  |  |
-| --- | --- |
-| **OptiSigns 1.0** | **Updated** |
-|  |  |
-
 This will open the **Device Info** window.
-
-|  |  |
-| --- | --- |
-| **OptiSigns 1.0** | **Updated** |
-|  |  |
 
 This window provides information about your system in the form of Python lists and dictionaries, which you can utilize for your own purposes.
 
@@ -150,20 +115,15 @@ This window provides information about your system in the form of Python lists a
 
 ## OptiSigns Player Specific Settings
 
-|  |  |
-| --- | --- |
-| **OptiSigns 1.0** | **Updated** |
-|  |  |
-
 |  |
 | --- |
 | **Note:** If you are not using an OptiSigns Player (OptiStick, Pro, or ProMax) these features will not be shown in your options. |
 
 [**Operational Schedule**](https://support.optisigns.com/hc/en-us/articles/28598173096723)- Schedule TV power on/off times and control volume and brightness.
 
-[**Background Music**](https://support.optisigns.com/hc/en-us/articles/360050726634-Playing-background-music-radio-with-OptiSigns) - Setup your screen to play Background Music through the OptiSound add-on.
+[**Background Music**](https://support.optisigns.com/hc/en-us/articles/40671590645651-How-to-Play-Licensed-Background-Music-on-Digital-Signs-with-OptiSound) - Setup your screen to play Background Music through the OptiSound add-on.
 
-[**Remote Commands**](https://support.optisigns.com/hc/en-us/articles/30010338528659) **-** Executes remote commands like rebooting, taking screenshots, adding Wi-Fi, and more.
+[**Remote Commands**](https://support.optisigns.com/hc/en-us/articles/360055486554-Remotely-Control-and-Command-OptiSigns-Devices) **-** Executes remote commands like rebooting, taking screenshots, adding Wi-Fi, and more.
 
 [**Video Wall**](https://support.optisigns.com/hc/en-us/articles/33382537925267-Making-a-Video-Wall-with-OptiSigns-Video-Wall-App)- Only available on OptiSigns Pro or ProMax player under the Advanced section, the Video Wall option enables the Video Wall app for creating multi-screen video walls.
 
@@ -171,23 +131,13 @@ This window provides information about your system in the form of Python lists a
 
 ## More Remote Command Options
 
-|  |  |
-| --- | --- |
-| **OptiSigns 1.0** | **Updated** |
-|  |  |
-
-Explore more about executing remote commands on Android by [clicking here](https://support.optisigns.com/hc/en-us/articles/30010338528659), and for Windows, [click here.](https://support.optisigns.com/hc/en-us/articles/4408658251027)
+Explore more about executing remote commands on Android by [clicking here](https://support.optisigns.com/hc/en-us/articles/360055486554-Remotely-Control-and-Command-OptiSigns-Devices), and for Windows, [click here.](https://support.optisigns.com/hc/en-us/articles/4408658251027)
 
 ---
 
 ## Final Options
 
 At the bottom of the window, you will see several options, including **Help, Preview, Close, Schedule, Save,** and an arrow leading to **Identify Screen**.
-
-|  |  |
-| --- | --- |
-| **OptiSigns 1.0** | **Updated** |
-|  |  |
 
 * **Help -** This leads you here, to this article. Hello!
 * **Preview** - Lets you check out the settings you've selected on the chosen screen, without saving it. See our article on [**How to Preview a Screen**](https://support.optisigns.com/hc/en-us/articles/360035739414-How-to-Preview-a-Screen) for more information about this feature.

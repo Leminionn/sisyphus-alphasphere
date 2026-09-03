@@ -3,7 +3,7 @@
 **Article ID:** 360047275934
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-addresses-ports
-**Last Updated:** 2026-08-17T15:21:01+00:00
+**Last Updated:** 2026-09-02T20:00:13+00:00
 ---
 
 If you need to configure the firewall, here is the list of OptiSigns IP addresses and Port to whitelist:
@@ -31,6 +31,9 @@ IP Address for **OptiSigns**:
 * 162.243.189.2 (Files)
 * 157.230.201.46 (API)
 * 206.189.255.219 (API)
+* 167.172.3.79 (API)
+* 209.38.62.216 (API)
+* 24.199.67.135 (API)
 * software-update.optisigns.com (Pro Player OTA update)
 * software-download.optisigns.com (Pro Player OTA update)
 * optisignsapp.com
