@@ -3,7 +3,7 @@
 **Article ID:** 360035739414
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360035739414-How-to-Preview-a-Screen
-**Last Updated:** 2026-05-17T21:11:45+00:00
+**Last Updated:** 2026-09-03T10:41:51+00:00
 ---
 
 You can always preview a screen before committing an assignment.

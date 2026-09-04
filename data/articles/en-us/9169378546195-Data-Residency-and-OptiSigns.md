@@ -3,10 +3,10 @@
 **Article ID:** 9169378546195
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/9169378546195-Data-Residency-and-OptiSigns
-**Last Updated:** 2026-06-05T14:25:01+00:00
+**Last Updated:** 2026-09-03T14:57:01+00:00
 ---
 
-Customers on the Engage or Enterprise Plans can request their data to be stored in a certain country, or region for data residency requirements.
+Customers on the Engage plan or above can request their data to be stored in a certain country, or region for data residency requirements.
 
 By default, all customer's data are stored simultaneously in the:
 
@@ -15,7 +15,7 @@ By default, all customer's data are stored simultaneously in the:
 
 And distributed to your devices via CDN for the fastest speed.
 
-Engage or Enterprise customers can request your data to be stored in:
+Customers on the Engage plan or above can request your data to be stored in:
 
 * US:
   + N. Virginia (Amazon AWS)

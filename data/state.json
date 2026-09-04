@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-09-03T07:20:16.582375+00:00",
+  "last_sync": "2026-09-04T07:22:54.279091+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -301,10 +301,10 @@
     "33940834613139": {
       "id": 33940834613139,
       "slug": "33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan",
-      "hash_val": "f4b20f869941ce80e9313bcbe3d676c8fa548f5a4f59b2e10c9eb3664a914e14",
-      "updated_at": "2026-03-27T20:38:29+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/33940834613139whatdoigetwit-4tc84v39jg78",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/33940834613139whatdoigetwit-4tc84v39jg78",
+      "hash_val": "2d0f33f36dab631048b4bf3113ee2128bb81353381e9813c38b5d5ba1cc24a3b",
+      "updated_at": "2026-09-03T14:57:58+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/33940834613139whatdoigetwit-u50qb9ke362y",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/33940834613139whatdoigetwit-u50qb9ke362y",
       "locale": "en-us"
     },
     "33382537925267": {
@@ -409,10 +409,10 @@
     "29465595849235": {
       "id": 29465595849235,
       "slug": "29465595849235-List-of-Supported-Cities-for-Weather-Wall-City-Themes",
-      "hash_val": "c944ad616cedaebf3086b3292f43c1457e71a12726f00d483d14845323719ddc",
-      "updated_at": "2026-04-08T13:41:37+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/29465595849235listofsupport-c77v140036r5",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/29465595849235listofsupport-c77v140036r5",
+      "hash_val": "8a7fb71b70f18761654a8c35208cac1c883281b0abef0ec4089413c0cc43ea5f",
+      "updated_at": "2026-09-03T16:49:43+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/29465595849235listofsupport-17hyfbbfuqcv",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/29465595849235listofsupport-17hyfbbfuqcv",
       "locale": "en-us"
     },
     "29238381023123": {
@@ -598,10 +598,10 @@
     "23565267463315": {
       "id": 23565267463315,
       "slug": "23565267463315-Engage-Plan-FAQs",
-      "hash_val": "787dbee7b27b2709e735da80462ebb0ee712fb3f5af914f1221a154cf15485bd",
-      "updated_at": "2026-08-27T17:21:45+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/23565267463315engageplanfaq-xnmwqvxq9sbn",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/23565267463315engageplanfaq-xnmwqvxq9sbn",
+      "hash_val": "15bf14ea1f4d41badb5d7d6dc56859ba90ce8ac1b0c008a5f6520d68d3cfdda9",
+      "updated_at": "2026-09-03T14:57:02+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/23565267463315engageplanfaq-o5dmopgzh1b7",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/23565267463315engageplanfaq-o5dmopgzh1b7",
       "locale": "en-us"
     },
     "23274673797139": {
@@ -895,10 +895,10 @@
     "9169378546195": {
       "id": 9169378546195,
       "slug": "9169378546195-Data-Residency-and-OptiSigns",
-      "hash_val": "23b720c2627745d7e24f0f324f97ee18d7d95597b3caa7625fd4cab1dbe59cf8",
-      "updated_at": "2026-06-05T14:25:01+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/9169378546195dataresidencya-dxhm7i7miyyd",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/9169378546195dataresidencya-dxhm7i7miyyd",
+      "hash_val": "05753e2c090ae1fbda16c5929bf2178d8dc5409a185309be5177bec4bcce48fd",
+      "updated_at": "2026-09-03T14:57:01+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/9169378546195dataresidencya-yiqvjfw1wxua",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/9169378546195dataresidencya-yiqvjfw1wxua",
       "locale": "en-us"
     },
     "9061950942995": {
@@ -1534,10 +1534,10 @@
     "360047275934": {
       "id": 360047275934,
       "slug": "360047275934-Whitelist-OptiSigns-IP-addresses-ports",
-      "hash_val": "7571826b63e2be17fb610881cd3d5f0758e0d8307207268b5fb3aa311f14efa8",
-      "updated_at": "2026-09-02T20:00:13+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360047275934whitelistoptisi-2m86c4dmuyye",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360047275934whitelistoptisi-2m86c4dmuyye",
+      "hash_val": "730290c4d5c2560f951df85c5051641136babe7dc57f10a1c679c8a4f8d4d7a3",
+      "updated_at": "2026-09-03T14:57:04+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360047275934whitelistoptisi-rgynsb8gvn08",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360047275934whitelistoptisi-rgynsb8gvn08",
       "locale": "en-us"
     },
     "360047232054": {
@@ -1795,10 +1795,10 @@
     "360016313754": {
       "id": 360016313754,
       "slug": "360016313754-How-to-Install-an-APK-file-on-your-Fire-TV",
-      "hash_val": "374a60207003f45b14463ccdbefe428c4485887d5107f629b2a287e0e9ca722e",
-      "updated_at": "2026-08-19T23:02:46+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016313754howtoinstallana-51dzkepefoys",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016313754howtoinstallana-51dzkepefoys",
+      "hash_val": "781e9445fea340ae544107d174d2f2fb527f78662a5803376000c1f51a2db84e",
+      "updated_at": "2026-09-03T15:56:32+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016313754howtoinstallana-jsv4nps5hawr",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016313754howtoinstallana-jsv4nps5hawr",
       "locale": "en-us"
     },
     "360016252654": {
@@ -1957,10 +1957,10 @@
     "360035739414": {
       "id": 360035739414,
       "slug": "360035739414-How-to-Preview-a-Screen",
-      "hash_val": "2e4398adb998e90174dd1d6cc9116d3a25956cde196ce97e8b012da31b8b7552",
-      "updated_at": "2026-05-17T21:11:45+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360035739414howtopreviewasc-2akwny9zpqy2",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360035739414howtopreviewasc-2akwny9zpqy2",
+      "hash_val": "92d0e4ebf09db8ea0dcc7b81bdd748fe9f797263d7c626f9031789653938277a",
+      "updated_at": "2026-09-03T10:41:51+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360035739414howtopreviewasc-iqr0hr8wwizc",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360035739414howtopreviewasc-iqr0hr8wwizc",
       "locale": "en-us"
     },
     "360024310813": {
@@ -3199,10 +3199,10 @@
     "360053993934": {
       "id": 360053993934,
       "slug": "360053993934-How-to-use-Kiosk-Lite-formerly-known-as-Interactive-Kiosk-app",
-      "hash_val": "4b6ef7b701f45b26b29fb4e730eb8695538239c2f96ae9090ca8782398240fe3",
-      "updated_at": "2026-07-21T05:24:44+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360053993934howtousekioskli-a0431v062r9o",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360053993934howtousekioskli-a0431v062r9o",
+      "hash_val": "d7464f4244debab26d8884c2fb6cb926d0f055fb99188a95ff177e781081644d",
+      "updated_at": "2026-09-03T14:57:05+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360053993934howtousekioskli-87a9vdj4pmxe",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360053993934howtousekioskli-87a9vdj4pmxe",
       "locale": "en-us"
     },
     "360052827713": {
