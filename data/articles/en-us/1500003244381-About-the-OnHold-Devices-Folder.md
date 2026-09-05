@@ -3,7 +3,7 @@
 **Article ID:** 1500003244381
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/1500003244381-About-the-OnHold-Devices-Folder
-**Last Updated:** 2026-08-11T22:01:43+00:00
+**Last Updated:** 2026-09-04T16:45:10+00:00
 ---
 
 When poking around the Screens tab in OptiSigns, you may have noticed the **OnHold Devices** folder.
@@ -12,7 +12,10 @@ This useful folder allows you to place screens to the side, where they will no l
 
 To do this, click the **Three Dots** icon, then hit the **“Move to OnHold Devices”** option.
 
-**NOTE:** This feature can be used by any OptiSigns user, from **Free Plan** and above.
+|  |
+| --- |
+| **NOTE** |
+| Moving a screen to OnHold requires a Team Administrator role (Owner, Super Admin, or Admin). The feature is available to **Free Plan subscribers and above**. |
 
 ---
 
@@ -22,21 +25,21 @@ To show the value of the OnHold Folder, a demonstration is in order. The easiest
 
 When here, you’ll see a screen similar to this:
 
-This means that this account has 10 screen licenses, and is currently using a single screen.
+This means that this account has 50 screen licenses, and is currently using a single screen.
 
-Now, we’ll navigate back to the screen tab. Click any screen and hit the **“Move to OnHold Folder”** option. You’ll be given this prompt:
+Now, we’ll navigate back to the screen tab. Click any screen and hit the **“Move to OnHold Devices”** option. You’ll be given this prompt:
 
-Crucially, ***any content displaying on this screen will cease***. For all intents and purposes, hitting **Move** here will deactivate this screen completely. Pushing content to this screen will show this:
+Crucially, ***any content displaying on this screen will cease***. For all intents and purposes, hitting **Move to OnHold** and clicking throughhere will deactivate this screen completely. Pushing content to this screen will show this:
 
-If you are alright with the above, hitting **Move** will place it in the Folder. It will disappear from the Screens tab, and you’ll see the number next to the OnHold Devices folder go up, signifying that the screen is in this folder now.
+If you are alright with the above, hitting **Move to OnHold** will place it in the Folder. It will disappear from the Screens tab, and you’ll see the number next to the OnHold Devices folder go up, signifying that the screen is in this folder now.
 
 Clicking the OnHold Devices folder will let you see the screen again.
 
-Hitting **Edit** on any screen in the OnHold Devices folder will display a much shorter list of options until it is removed from the folder.
+The Three-Dot menu here only lets you View Device Info, Move, Favorite, or Remove within the OnHold folder.
 
 Now, to see the effects of moving a screen to the OnHold folder, navigate back to the **Subscription Plan** screen. Your active screen count will have decreased by one:
 
-Note that this ***does not affect total license count****.* All this does is free up a license for a different screen while not deleting your screen’s settings. This lets your account have more screens registered than licenses, in case you need to swap them around.
+Note that this ***does not affect total license count**.* All this does is free up a license for a different screen while not deleting your screen’s settings. This lets your account have more screens registered than licenses, in case you need to swap them around.
 
 ---
 
@@ -48,7 +51,7 @@ The actual process of removing a screen from the folder is straightforward. Firs
 
 Click the **Three Dots** icon, then click **Move**:
 
-A screen will show up displaying all your created Screen folders. By default, hitting **Move** without clicking one of these folders will move it to the Screens tab homepage. Either select a folder to use, or simply hit Move:
+A screen will show up displaying all your created Screen folders. By default, hitting **Move to "Home"** without clicking one of these folders will move it to the Screens tab homepage. Either select a folder to use, or simply hit Move to "Home":
 
 Now, you should see a notification letting you know the move was successful, and the screen should no longer be present in your OnHold Devices folder:
 

@@ -3,7 +3,7 @@
 **Article ID:** 20425113117459
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/20425113117459-Navigating-Through-OptiSigns-Template-Library
-**Last Updated:** 2025-09-04T14:39:07+00:00
+**Last Updated:** 2026-09-04T09:52:58+00:00
 ---
 
 ### Want to display captivating content? Our exclusive, extensive, and ever-growing template library covering various industries is here to optimize your screens in minutes!
@@ -43,10 +43,10 @@ Once you've accessed the template library, you should be taken to this home page
 
 1. **New Design:** Click to access a blank canvas and create your own design.
 2. **Your Designs:** Designs that you have created.
-3. **Category:** Our templates are organized into intuitive categories, simplifying your search and catering to diverse needs.
+3. **Filters:** Templates are organized into categories under **Filters** in the left rail — pick one to narrow the library. You can also filter by orientation and visual mode.
 4. **Search Bar:** Use related keywords to search for a template.
-5. **Tags:** Popular tags used in templates to help you effortlessly search for a template to match your needs. If clicked, will take you to a list of all templates using those tags.
-6. **Featured:** This section is constantly updating to display relevant templates for upcoming holidays, events, and more!
+5. **Tags:** Popular tags appear as chips under the search bar. Click one to see every template using that tag. A template’s own tags also show on its preview.
+6. **Featured:** One of the filter rows in the left rail, constantly updating with templates for upcoming holidays, events and more.
 
 ## Selecting and Customizing a Template
 
@@ -56,13 +56,15 @@ Once you have chosen your category or found a template you'd like to use, click 
 
 You can click on the tags to quickly search for relevant templates.
 
-Click **Use this template** to open the template in our **Designer app**.
+Click **Use this Template** to open the template in our **Designer app**.
 
 To learn more about how to use OptiSigns' Designer app to be able to customize your templates, please click [here](https://support.optisigns.com/hc/en-us/articles/4404151402899-How-to-use-OptiSigns-Template-Designer-app-to-make-your-Digital-Signs-in-minutes).
 
-Once you're done customizing your template, click the **Save**icon.
+Once you're done customizing your template, click the **Save**icon. **Push to Screens** stays greyed out until the design is saved.
 
 You can also directly push this template to your screens or do so from the screens page. Follow [this guide](https://support.optisigns.com/hc/en-us/articles/18988049363859) to learn more about assigning content to your screens.
+
+## 
 
 ## That's it!
 

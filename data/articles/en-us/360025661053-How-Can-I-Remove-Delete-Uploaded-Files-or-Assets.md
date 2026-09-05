@@ -3,7 +3,7 @@
 **Article ID:** 360025661053
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360025661053-How-Can-I-Remove-Delete-Uploaded-Files-or-Assets
-**Last Updated:** 2026-08-31T12:06:14+00:00
+**Last Updated:** 2026-09-04T11:07:56+00:00
 ---
 
 1. Hover the mouse on the asset in the **Files/Assets** tab.

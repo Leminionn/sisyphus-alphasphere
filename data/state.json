@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-09-04T07:22:54.279091+00:00",
+  "last_sync": "2026-09-05T07:04:41.756610+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -310,10 +310,10 @@
     "33382537925267": {
       "id": 33382537925267,
       "slug": "33382537925267-Making-a-Video-Wall-with-OptiSigns-Video-Wall-App",
-      "hash_val": "791fcfa1c2253e86f4a4ee6db2db6b17af5f2b4a84ffb0f136af8ae151b88435",
-      "updated_at": "2026-07-17T16:59:32+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/33382537925267makingavideow-6z324chor4nt",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/33382537925267makingavideow-6z324chor4nt",
+      "hash_val": "01063b116f98676a3afd84dfb2955b040afed0c30745cb8b89bc20ec7058734d",
+      "updated_at": "2026-09-04T16:24:39+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/33382537925267makingavideow-9wbdc84zxcql",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/33382537925267makingavideow-9wbdc84zxcql",
       "locale": "en-us"
     },
     "32860569148819": {
@@ -679,10 +679,10 @@
     "20425113117459": {
       "id": 20425113117459,
       "slug": "20425113117459-Navigating-Through-OptiSigns-Template-Library",
-      "hash_val": "0f258ce36856d9dbd9c7c241fe8d81138214da5786b9fdd01c385bf12a0eb235",
-      "updated_at": "2025-09-04T14:39:07+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/20425113117459navigatingthr-3io1137qoxrz",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/20425113117459navigatingthr-3io1137qoxrz",
+      "hash_val": "364d06ddea6ab75abec78a5e99d10e5491351854d8eae85566bdf68c0c85dc76",
+      "updated_at": "2026-09-04T09:52:58+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/20425113117459navigatingthr-8a9to6ytbae3",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/20425113117459navigatingthr-8a9to6ytbae3",
       "locale": "en-us"
     },
     "20153471319187": {
@@ -1209,11 +1209,11 @@
     },
     "1500006130902": {
       "id": 1500006130902,
-      "slug": "1500006130902-How-to-use-Live-TV-with-Ads-App",
-      "hash_val": "5a83a1746b50d4679e1537a22493cf975f1d732205c8fd5cf08d19953cd6bece",
-      "updated_at": "2025-09-04T18:40:28+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500006130902howtouselivetv-dwh4fx6efmh3",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500006130902howtouselivetv-dwh4fx6efmh3",
+      "slug": "1500006130902-How-to-Use-the-Live-TV-with-Ads-App",
+      "hash_val": "de17f494b791df4e7b7d2690bf7077e12a5392733391604f01764d8094594946",
+      "updated_at": "2026-09-04T18:30:12+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500006130902howtousetheliv-2oqb9wcanhuw",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500006130902howtousetheliv-2oqb9wcanhuw",
       "locale": "en-us"
     },
     "1500006056101": {
@@ -1768,10 +1768,10 @@
     "360025661053": {
       "id": 360025661053,
       "slug": "360025661053-How-Can-I-Remove-Delete-Uploaded-Files-or-Assets",
-      "hash_val": "1a0bc2d4c6fdb68b0e85b74d4ec72e4a13272435f11f4ca1672f36a928fd8a31",
-      "updated_at": "2026-08-31T12:06:14+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360025661053howcaniremovede-w8qcpk2a2k38",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360025661053howcaniremovede-w8qcpk2a2k38",
+      "hash_val": "21bd3a450f2022fc2d81f28df572224fb70111b5817a11580457f74b08b6898a",
+      "updated_at": "2026-09-04T11:07:56+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360025661053howcaniremovede-houd8nofy3fy",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360025661053howcaniremovede-houd8nofy3fy",
       "locale": "en-us"
     },
     "360025626853": {
@@ -1840,10 +1840,10 @@
     "32272215514131": {
       "id": 32272215514131,
       "slug": "32272215514131-ProPlayer",
-      "hash_val": "8a1c8ae84f43396c8f68fbd97703d556f7bff32c87727768fc43f271d7c44742",
-      "updated_at": "2026-03-30T17:22:38+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/32272215514131proplayer-yqsjg1185v0u",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/32272215514131proplayer-yqsjg1185v0u",
+      "hash_val": "c1afce7250bb60e90d39c9c3f2c99c3059f576a3a47511b208d142a4ac1320a2",
+      "updated_at": "2026-09-04T16:24:05+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/32272215514131proplayer-14odgn4b7iis",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/32272215514131proplayer-14odgn4b7iis",
       "locale": "en-us"
     },
     "30003143806099": {
@@ -1903,10 +1903,10 @@
     "4472060158355": {
       "id": 4472060158355,
       "slug": "4472060158355-How-to-get-the-list-of-playlists-where-the-asset-is-used",
-      "hash_val": "254d3ce0a57249fdbbb1b8b865e71dd6d5de8d1c852f5cdf14aec59d65a554bb",
-      "updated_at": "2026-08-31T16:30:59+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4472060158355howtogetthelis-r2vrlnnsiuvx",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4472060158355howtogetthelis-r2vrlnnsiuvx",
+      "hash_val": "3f5a2a133b193002aca1a5f8c1a7ce154cf2524e47f8183e75b28c09d8e097c4",
+      "updated_at": "2026-09-04T11:19:07+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4472060158355howtogetthelis-t2fuklfdrxah",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4472060158355howtogetthelis-t2fuklfdrxah",
       "locale": "en-us"
     },
     "4414563797139": {
@@ -1993,10 +1993,10 @@
     "38680194603155": {
       "id": 38680194603155,
       "slug": "38680194603155-ProMax",
-      "hash_val": "b277421d444720847670d51281711874e86d4b59131612ec3a12fda333135696",
-      "updated_at": "2026-03-30T17:22:38+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/38680194603155promax-5nb66yw0669b",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/38680194603155promax-5nb66yw0669b",
+      "hash_val": "9bd07be9234b076d92a480305a0e857aaf4ab8bd858eaca5f75d46096279faab",
+      "updated_at": "2026-09-04T16:55:12+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/38680194603155promax-5wwzdpwhxdsx",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/38680194603155promax-5wwzdpwhxdsx",
       "locale": "en-us"
     },
     "35626165056787": {
@@ -2587,10 +2587,10 @@
     "1500003244381": {
       "id": 1500003244381,
       "slug": "1500003244381-About-the-OnHold-Devices-Folder",
-      "hash_val": "d8dffde38216ebe3ad2443f6349f461efd67fd61d2e1a3cfc4ec9d4894bf56af",
-      "updated_at": "2026-08-11T22:01:43+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500003244381abouttheonhold-x1nt2thnwf47",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500003244381abouttheonhold-x1nt2thnwf47",
+      "hash_val": "9f80be358535fbf244f31eb280fe44dbc961687d63d7bf3332bd903cff47f389",
+      "updated_at": "2026-09-04T16:45:10+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500003244381abouttheonhold-kixy8ozb7918",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500003244381abouttheonhold-kixy8ozb7918",
       "locale": "en-us"
     },
     "360016981853": {
@@ -3261,11 +3261,11 @@
     },
     "360051014713": {
       "id": 360051014713,
-      "slug": "360051014713-How-to-use-YouTube-with-OptiSigns",
-      "hash_val": "80c3c2bae981e51680237e24a68295723c2cb6b2b96f2627f883bbd575b16d65",
-      "updated_at": "2026-07-08T15:01:25+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360051014713howtouseyoutube-vnkkwnua7gfv",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360051014713howtouseyoutube-vnkkwnua7gfv",
+      "slug": "360051014713-How-to-Use-YouTube-with-OptiSigns",
+      "hash_val": "19687b21823bcb2da1a451be35f2d39240a7782261e8906e9cb3828243fd24d1",
+      "updated_at": "2026-09-04T20:47:35+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360051014713howtouseyoutube-idnqpo2q89wt",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360051014713howtouseyoutube-idnqpo2q89wt",
       "locale": "en-us"
     },
     "360049875794": {
