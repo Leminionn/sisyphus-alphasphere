@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-09-05T07:04:41.756610+00:00",
+  "last_sync": "2026-09-06T07:15:55.821927+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -976,10 +976,10 @@
     "4416542923667": {
       "id": 4416542923667,
       "slug": "4416542923667-How-to-Perform-Mass-Provisioning-with-OptiSigns",
-      "hash_val": "eecb5b0331b11d28074911d2d2cd0bb219d8241440535492df4e5e136c25c115",
-      "updated_at": "2026-07-23T09:04:57+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4416542923667howtoperformma-0x4vo1wzc8gy",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4416542923667howtoperformma-0x4vo1wzc8gy",
+      "hash_val": "649ed90529d69d3a8a44b8825678a40fcfed1b580897b766d593ffd6c05db95e",
+      "updated_at": "2026-09-05T10:20:27+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4416542923667howtoperformma-9solmp14wv93",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4416542923667howtoperformma-9solmp14wv93",
       "locale": "en-us"
     },
     "4414552808467": {
@@ -1795,10 +1795,10 @@
     "360016313754": {
       "id": 360016313754,
       "slug": "360016313754-How-to-Install-an-APK-file-on-your-Fire-TV",
-      "hash_val": "781e9445fea340ae544107d174d2f2fb527f78662a5803376000c1f51a2db84e",
-      "updated_at": "2026-09-03T15:56:32+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016313754howtoinstallana-jsv4nps5hawr",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016313754howtoinstallana-jsv4nps5hawr",
+      "hash_val": "94065d725179577fa46ee68e33c64b61020da31c7956eba6343fcfa105db967b",
+      "updated_at": "2026-09-05T20:36:08+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016313754howtoinstallana-nd747ubuu93o",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016313754howtoinstallana-nd747ubuu93o",
       "locale": "en-us"
     },
     "360016252654": {
@@ -2002,10 +2002,10 @@
     "35626165056787": {
       "id": 35626165056787,
       "slug": "35626165056787-How-to-Contact-OptiSigns-Support",
-      "hash_val": "9405711c2795cb657d9d36549fb944e9ef2bdfd8567d1dd7d976274fa2b48c8a",
-      "updated_at": "2026-07-28T18:51:24+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/35626165056787howtocontacto-5g4mr61supaz",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/35626165056787howtocontacto-5g4mr61supaz",
+      "hash_val": "04d3f2d42a4df43d1816aafa98ce8731f77c645d726f7186e303dea7f5a54c77",
+      "updated_at": "2026-09-05T16:01:39+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/35626165056787howtocontacto-bn6leitm5pif",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/35626165056787howtocontacto-bn6leitm5pif",
       "locale": "en-us"
     },
     "29838866920211": {
