@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-09-06T07:15:55.821927+00:00",
+  "last_sync": "2026-09-07T07:30:04.210584+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -346,10 +346,10 @@
     "31860170199955": {
       "id": 31860170199955,
       "slug": "31860170199955-Integrating-Point-of-Sale-POS-Systems-to-Build-Digital-Menu-Boards-with-OptiSync",
-      "hash_val": "b82b8e66196968a3b071487829a2afb0f5f45adb491cbf1b11cafaa995ebc528",
-      "updated_at": "2025-09-04T20:31:25+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/31860170199955integratingpo-4ckhscsjtfta",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/31860170199955integratingpo-4ckhscsjtfta",
+      "hash_val": "1d842771c23f61a346ad70a6d10dc60fcd8bad12596902e6d01adeefef936a24",
+      "updated_at": "2026-09-07T01:18:36+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/31860170199955integratingpo-p5u6e4rnzsd9",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/31860170199955integratingpo-p5u6e4rnzsd9",
       "locale": "en-us"
     },
     "31695220475283": {
