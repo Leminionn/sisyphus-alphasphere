@@ -3,7 +3,7 @@
 **Article ID:** 33940834613139
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan
-**Last Updated:** 2026-09-03T14:57:58+00:00
+**Last Updated:** 2026-09-07T09:51:00+00:00
 ---
 
 ### An OptiSigns Free Plan lets you get started with our digital signage software. Here’s what you get when you sign up!
@@ -37,7 +37,6 @@ Free plan is good for users with basic digital signage needs. With a Free Plan, 
   + Many More!
 * Uploading of images, videos, and documents up to 25mb per file
 * 1GB cloud storage
-* Local folder app - Store your large files locally and mix with your playlist
 * Complete access to the OptiSigns Knowledge Base
 
 ---

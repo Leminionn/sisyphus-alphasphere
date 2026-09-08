@@ -3,7 +3,7 @@
 **Article ID:** 4417940565139
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/4417940565139-How-to-display-Microsoft-Teams-on-OptiSigns
-**Last Updated:** 2025-09-04T18:24:28+00:00
+**Last Updated:** 2026-09-07T09:37:05+00:00
 ---
 
 This app is to display Microsoft Teams Chat, we have other apps for [Microsoft Team Meeting](https://support.optisigns.com/hc/en-us/articles/4404053129619) or [Team Live event](https://support.optisigns.com/hc/en-us/articles/4411530012307)

@@ -3,7 +3,7 @@
 **Article ID:** 4404616314515
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/4404616314515-How-to-Change-Account-Owners
-**Last Updated:** 2026-05-05T16:36:22+00:00
+**Last Updated:** 2026-09-07T10:13:21+00:00
 ---
 
 Account Owner is a special role. Only Account Owners can request deletion of accounts.  

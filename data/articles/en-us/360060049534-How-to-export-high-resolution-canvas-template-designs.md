@@ -3,7 +3,7 @@
 **Article ID:** 360060049534
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360060049534-How-to-export-high-resolution-canvas-template-designs
-**Last Updated:** 2025-08-28T19:46:15+00:00
+**Last Updated:** 2026-09-08T04:06:29+00:00
 ---
 
 You can export high resolution canvas, template designs for other purposes such as printing out.

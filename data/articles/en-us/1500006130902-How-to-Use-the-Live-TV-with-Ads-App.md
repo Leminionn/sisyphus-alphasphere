@@ -3,7 +3,7 @@
 **Article ID:** 1500006130902
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/1500006130902-How-to-Use-the-Live-TV-with-Ads-App
-**Last Updated:** 2026-09-04T18:30:12+00:00
+**Last Updated:** 2026-09-07T09:04:05+00:00
 ---
 
 |  |
@@ -19,7 +19,7 @@ Localized, relevant ads like below is proven to increase sales.
 
 #### **Before we get started, a few points on how to best use these type of pop in ads:**
 
-* Make your ads visible, but obstructive. While you can place the ads anywhere, it's better to place in the corners (bottom right, top left, etc.) instead of middle of the screen.
+* Make your ads visible, but not obstructive. While you can place the ads anywhere, it's better to place in the corners (bottom right, top left, etc.) instead of middle of the screen.
 * Make the ads jiggle, this will capture much more attention (see how below).
 * Make time based, localize ads (i.e. $2 off beers in next 30min) which will create a sense of urgency and proven to have better conversion.
 * Place it on TV program that people actively watching (Sport is great example).
