@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-09-08T07:23:32.728459+00:00",
+  "last_sync": "2026-09-09T07:32:07.073831+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -868,10 +868,10 @@
     "12947300131731": {
       "id": 12947300131731,
       "slug": "12947300131731-Show-Hide-downloading-status-on-your-Player",
-      "hash_val": "d7bebb94159d8ce03532f689e4974f8b7476ee4d95829d4e6245e442bbf3c46f",
-      "updated_at": "2025-09-04T15:32:11+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/12947300131731showhidedownl-pi0e473u16es",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/12947300131731showhidedownl-pi0e473u16es",
+      "hash_val": "d7bb12ea7066b49c647f35917c079a4a11ca8a55335afe1c0cada810c67c909b",
+      "updated_at": "2026-09-08T08:53:05+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/12947300131731showhidedownl-msfa585cj1v8",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/12947300131731showhidedownl-msfa585cj1v8",
       "locale": "en-us"
     },
     "11412877112595": {
@@ -967,10 +967,10 @@
     "4416704273811": {
       "id": 4416704273811,
       "slug": "4416704273811-Manually-control-playlist-playback-with-OptiSigns",
-      "hash_val": "976cc1900d5ea5935ce1705a87831ee267ed029a99441529147fffb2c500526b",
-      "updated_at": "2025-08-29T18:48:01+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4416704273811manuallycontro-d14dcned0usx",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4416704273811manuallycontro-d14dcned0usx",
+      "hash_val": "536319ae45a0d569768c55d0f57b01d5975c61bd6dda696da212cab615061148",
+      "updated_at": "2026-09-08T16:46:49+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4416704273811manuallycontro-90d6h1ijdxe4",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4416704273811manuallycontro-90d6h1ijdxe4",
       "locale": "en-us"
     },
     "4416542923667": {
@@ -1588,10 +1588,10 @@
     "360043621953": {
       "id": 360043621953,
       "slug": "360043621953-How-to-Create-and-Use-Nested-Playlists",
-      "hash_val": "dd6ecfbcf7f4d831f122452e07e5dc52425beed1dcc05f25cf44e0ae9995efab",
-      "updated_at": "2025-09-04T20:17:22+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360043621953howtocreateandu-zhnossacgakx",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360043621953howtocreateandu-zhnossacgakx",
+      "hash_val": "cd7bc0a8a068b388044b21ff46955ab07d84bda53e42af0256f500fd04c3a189",
+      "updated_at": "2026-09-08T19:09:15+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360043621953howtocreateandu-o426zs2lyi3k",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360043621953howtocreateandu-o426zs2lyi3k",
       "locale": "en-us"
     },
     "360042736794": {
@@ -1749,11 +1749,11 @@
     },
     "360026559613": {
       "id": 360026559613,
-      "slug": "360026559613-How-to-create-a-scrolling-strip-bars",
-      "hash_val": "deebb027716917ca9f9cc6983cd1808207168807ed0e4cfcedd63781439a971b",
-      "updated_at": "2025-09-02T19:11:51+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360026559613howtocreateascr-4q4d33rxs585",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360026559613howtocreateascr-4q4d33rxs585",
+      "slug": "360026559613-How-to-Create-a-Scrolling-Strip-or-Bar",
+      "hash_val": "44749d8935ef97634c26767c434daad1397f776ea976c284b13e760b7652c06c",
+      "updated_at": "2026-09-08T20:13:08+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360026559613howtocreateascr-9xh81i9zz4sq",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360026559613howtocreateascr-9xh81i9zz4sq",
       "locale": "en-us"
     },
     "360026559573": {
@@ -1768,10 +1768,10 @@
     "360025661053": {
       "id": 360025661053,
       "slug": "360025661053-How-Can-I-Remove-Delete-Uploaded-Files-or-Assets",
-      "hash_val": "21bd3a450f2022fc2d81f28df572224fb70111b5817a11580457f74b08b6898a",
-      "updated_at": "2026-09-04T11:07:56+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360025661053howcaniremovede-houd8nofy3fy",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360025661053howcaniremovede-houd8nofy3fy",
+      "hash_val": "fc5363648d04973c2bd77a7cdabaa5e620220bd6efb0dddd8b4b74def43af514",
+      "updated_at": "2026-09-08T20:49:51+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360025661053howcaniremovede-zybcp3oytfb5",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360025661053howcaniremovede-zybcp3oytfb5",
       "locale": "en-us"
     },
     "360025626853": {
@@ -1921,10 +1921,10 @@
     "360054557434": {
       "id": 360054557434,
       "slug": "360054557434-View-Billing-History-and-Download-Receipts",
-      "hash_val": "8ec7379e77f1ddaab13f6df8643735cf8a50681fa42a1800972909506cab0049",
-      "updated_at": "2025-09-04T15:43:44+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360054557434viewbillinghist-0xjrk3whkfay",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360054557434viewbillinghist-0xjrk3whkfay",
+      "hash_val": "35bb143abdeb40634fc97af5c5053437c7077be78ac951662c2086742bf80c64",
+      "updated_at": "2026-09-08T21:26:23+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360054557434viewbillinghist-a2ee4zv6vcol",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360054557434viewbillinghist-a2ee4zv6vcol",
       "locale": "en-us"
     },
     "360050855313": {
@@ -2542,10 +2542,10 @@
     "21449362442003": {
       "id": 21449362442003,
       "slug": "21449362442003-Update-OptiSigns-player-on-OptiSigns-Pro-Player-Gen-2-via-script",
-      "hash_val": "e92c368d2a617a0aef43a31f8f9193550488655234d8a06c58b3ffeb00818e3b",
-      "updated_at": "2025-09-02T20:33:55+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/21449362442003updateoptisig-wvkwery9tdmy",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/21449362442003updateoptisig-wvkwery9tdmy",
+      "hash_val": "4c55acbdc02c5c0ded2f4d97ee6f13828fe1e5d08b1f69f11c3d9bcec22f06ee",
+      "updated_at": "2026-09-08T21:23:44+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/21449362442003updateoptisig-dwwxgj1y5l90",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/21449362442003updateoptisig-dwwxgj1y5l90",
       "locale": "en-us"
     },
     "12454101966355": {
@@ -2560,10 +2560,10 @@
     "4414558369811": {
       "id": 4414558369811,
       "slug": "4414558369811-Pagination",
-      "hash_val": "c169255843afd296eed7086486a9c49813f64ecb2ea8409026ab6f13ba5c32d5",
-      "updated_at": "2025-09-04T16:16:44+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4414558369811pagination-t9mzz44u8uw9",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4414558369811pagination-t9mzz44u8uw9",
+      "hash_val": "7c7daa66d2f38de4c79dfdee3b510e15c0c120866b39078920f7515914ee7834",
+      "updated_at": "2026-09-08T21:23:42+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4414558369811pagination-yad4818muny7",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4414558369811pagination-yad4818muny7",
       "locale": "en-us"
     },
     "1500009498782": {
@@ -2578,10 +2578,10 @@
     "1500009042742": {
       "id": 1500009042742,
       "slug": "1500009042742-FireOS-TVs-Amazon-Insigna-Toshiba-TCL",
-      "hash_val": "431b8d3e51f1bf777a288f4f47c57860913fd65c2ee7e192aa508dc23c640fca",
-      "updated_at": "2025-09-02T20:43:39+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500009042742fireostvsamazo-0n7f83wxd5bh",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500009042742fireostvsamazo-0n7f83wxd5bh",
+      "hash_val": "eb1bf87493c260f94d6763276e7192d5897c41e86a2e2a10449a5c98a505e805",
+      "updated_at": "2026-09-08T08:33:10+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500009042742fireostvsamazo-y49tp9qab9nj",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500009042742fireostvsamazo-y49tp9qab9nj",
       "locale": "en-us"
     },
     "1500003244381": {
@@ -2677,10 +2677,10 @@
     "360019710493": {
       "id": 360019710493,
       "slug": "360019710493-How-to-display-Google-Slide-in-Portrait-Mode",
-      "hash_val": "881d58336524fc5ed500dfd2f10fab3a6e9555902ee0ab49b610f357515882a6",
-      "updated_at": "2025-09-04T15:42:07+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360019710493howtodisplaygoo-gao77n2lacff",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360019710493howtodisplaygoo-gao77n2lacff",
+      "hash_val": "665e8639be9e0381dded950b58bacd122363d44c0b3d4614e0ba10bdf97008ee",
+      "updated_at": "2026-09-08T21:26:00+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360019710493howtodisplaygoo-deba09i7cg4o",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360019710493howtodisplaygoo-deba09i7cg4o",
       "locale": "en-us"
     },
     "360016376793": {
@@ -2748,11 +2748,11 @@
     },
     "10259143299219": {
       "id": 10259143299219,
-      "slug": "10259143299219-How-to-use-Website-Screenshot-app",
-      "hash_val": "fc707cf94ecc8a3ac30aee764edf6bd0a85925111512655bf42a68486fd55d58",
-      "updated_at": "2026-06-25T19:46:15+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/10259143299219howtousewebsi-tdc75q1923sn",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/10259143299219howtousewebsi-tdc75q1923sn",
+      "slug": "10259143299219-How-to-Use-the-Website-Screenshot-app",
+      "hash_val": "f304dc00ab6a05e5c8fe220e4a95a1bcc3868dc91c09eed765053b9c9c11a105",
+      "updated_at": "2026-09-08T21:51:42+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/10259143299219howtousethewe-ip2c3d0xy8a0",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/10259143299219howtousethewe-ip2c3d0xy8a0",
       "locale": "en-us"
     },
     "4414496579475": {
@@ -3324,20 +3324,20 @@
     },
     "360049156234": {
       "id": 360049156234,
-      "slug": "360049156234-How-to-use-Currency-Exchange-App",
-      "hash_val": "6b50c0a1a12f8a3a3f8856cfd5857e63fa5f36a71de99ff1e0a3d5f8743ddbd6",
-      "updated_at": "2025-09-04T15:14:58+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360049156234howtousecurrenc-htjc0muz21yg",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360049156234howtousecurrenc-htjc0muz21yg",
+      "slug": "360049156234-How-to-Use-the-Currency-Exchange-App",
+      "hash_val": "c1ba7f7cb4ab9b983668e287a5c89479ee0b8dde53856977dc215ebb4c268a6c",
+      "updated_at": "2026-09-08T19:52:57+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360049156234howtousethecurr-ltjh3zmzmbwq",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360049156234howtousethecurr-ltjh3zmzmbwq",
       "locale": "en-us"
     },
     "360049919933": {
       "id": 360049919933,
-      "slug": "360049919933-How-to-use-Crypto-Index-Crypto-Exchange-App",
-      "hash_val": "c517f8dc4fd9b0bb5739934f7ab906e63f321a34c85860781b5f68e68e5c10f5",
-      "updated_at": "2025-08-29T21:36:03+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360049919933howtousecryptoi-7l9cegqyc9na",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360049919933howtousecryptoi-7l9cegqyc9na",
+      "slug": "360049919933-How-to-Use-the-Crypto-Index-Crypto-Exchange-App",
+      "hash_val": "d861d0166397e9d347fa9e20bd59d4f41bc8fe6302ae96d0eb7f4ea2945bbdfb",
+      "updated_at": "2026-09-08T20:18:39+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360049919933howtousethecryp-1hje3hbs8xy0",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360049919933howtousethecryp-1hje3hbs8xy0",
       "locale": "en-us"
     },
     "360049155994": {
@@ -3486,11 +3486,11 @@
     },
     "360041481553": {
       "id": 360041481553,
-      "slug": "360041481553-How-to-use-Simple-Calendar-App",
-      "hash_val": "7695d9949fb0c3f72520eb57390c5b05f7f10f89e67c05e1108c59cb6b9ff6ec",
-      "updated_at": "2025-08-29T18:57:26+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360041481553howtousesimplec-krjtats69hjw",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360041481553howtousesimplec-krjtats69hjw",
+      "slug": "360041481553-How-to-Use-the-Simple-Calendar-App",
+      "hash_val": "2b180c864d1ef73fc20cf5f4e08a4097ac42d4658b4fd5434004413a01c72626",
+      "updated_at": "2026-09-08T19:14:39+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360041481553howtousethesimp-s6htw17889pq",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360041481553howtousethesimp-s6htw17889pq",
       "locale": "en-us"
     },
     "360040991534": {
@@ -3531,11 +3531,11 @@
     },
     "360038769394": {
       "id": 360038769394,
-      "slug": "360038769394-How-to-create-and-use-Yelp-Reviews-Wall",
-      "hash_val": "a4f0b649b482b268b24811eb4d8065b90a17d349792b128d27a27f5442a44537",
-      "updated_at": "2025-09-02T20:21:49+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360038769394howtocreateandu-gb9a4ta4zoq4",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360038769394howtocreateandu-gb9a4ta4zoq4",
+      "slug": "360038769394-How-to-Create-and-Use-the-Yelp-App",
+      "hash_val": "248afeb8a2740cb7b1d4aea7ad476b9f91be555d45b56d8fcacab22dc862b477",
+      "updated_at": "2026-09-08T20:18:24+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360038769394howtocreateandu-v5ttye401wtf",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360038769394howtocreateandu-v5ttye401wtf",
       "locale": "en-us"
     },
     "360037463934": {

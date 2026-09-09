@@ -3,7 +3,7 @@
 **Article ID:** 4416704273811
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/4416704273811-Manually-control-playlist-playback-with-OptiSigns
-**Last Updated:** 2025-08-29T18:48:01+00:00
+**Last Updated:** 2026-09-08T16:46:49+00:00
 ---
 
 In some cases, you may want to give the users the capability to control the playlist playback, so that the users can advance to the next asset in the playlist or move back to the previous one.
@@ -19,9 +19,11 @@ Go to the Edit Screen page of your screen, and expand the Advanced and More sett
 
 Once you confirm to activate the playback control, it is then activated and you will have the option to control how you would like the playback control to work.
 
-**Timeout**: after X seconds of no activity, the screen will go back to the normal playback of the playlist.
+**Timeout in seconds**: after X seconds of no activity, the screen will go back to the normal playback of the playlist.
 
-**Autoplay**: whether to autoplay the video in the playlist when it is under control.
+**Autoplay Video**: whether to autoplay the video in the playlist when it is under control. This option will be checked by default after you activate Playback Control.
+
+**Show NavBar**: Toggle on-screen playback navigation bar by a tap or a click.
 
 With the playback control, you can pause/play the playlist, advance to the next asset, back to the previous asset. You can control it using the corresponding buttons on the remote control, or it will respond to swipe on touch screens.
 
