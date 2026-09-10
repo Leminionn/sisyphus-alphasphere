@@ -3,7 +3,7 @@
 **Article ID:** 34087061669523
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/34087061669523-Amazon-Signage-Stick
-**Last Updated:** 2025-09-02T18:43:56+00:00
+**Last Updated:** 2026-09-09T07:45:55+00:00
 ---
 
 The new [Amazon Signage Stick](https://www.amazon.com/dp/B0D4FCG9MX/ref=pmkt_cms105_web) is out, and it supports OptiSigns. We’ll help you get our app up and running on it in no time.
@@ -26,7 +26,7 @@ You’ll see the screen below.
 
 Next, input the pairing code appearing on your screen. Then, select **OptiSigns** from the dropdown.
 
-Then hit **Save**. The OptiSigns app wil automatically download to your device.
+Then hit **Save**. The OptiSigns app will automatically download to your device.
 
 On your desktop, you’ll be taken back to the previous screen and your device will be saved on the **Devices** tab.
 

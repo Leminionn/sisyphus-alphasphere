@@ -3,7 +3,7 @@
 **Article ID:** 360017964153
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360017964153-How-to-Use-Weather-Apps-in-OptiSigns
-**Last Updated:** 2025-09-02T19:43:55+00:00
+**Last Updated:** 2026-09-09T16:30:11+00:00
 ---
 
 #### Wanting to keep your customers, employees, or visitors up-to-date with weather forecasts? OptiSigns has a Weather App, offering numerous options to customize your screens with current weather updates. In the sections below, we'll walk you through each of these weather apps and how to set them up in your OptiSigns portal.
@@ -28,7 +28,7 @@ We offer a variety of weather apps to utilize for your digital signage, keeping 
 * **Weather Alert:** Set up weather alerts provided by the National Weather Service.
 * **Weather Radar:** A detailed and customizable weather radar
 
-The source for our Weather app is **<http://openweathermap.org/>.**
+The source for our Weather app is [**http://openweathermap.org/**](http://openweathermap.org/)**.**
 
 ## Weather Wall App
 
@@ -38,39 +38,47 @@ The Weather Wall app blends essential weather data with a sleek, user-friendly d
 | --- |
 | Note: You can see a live example [**here**](https://social-player.optisigns.com/weather/?asset_id=FLWLTQ4iaCn46EQz3), and the wall view screenshots below: |
 
+**Landscape View:**
+
+**Portrait View:**
+
+**Custom Orientation:**
+
 ### Let’s set up your Weather Wall App
 
 Navigate to the **Files/Assets** section and choose **Apps**, select the **Weather** app.
 
 Fill in all the required information for your Weather Wall on the left side:
 
-* **Preset:** Predefined configurations and settings that help you quickly apply customized theme settings to your Weather Wall.
+* **Start from a Preset:** Predefined configurations and settings that help you quickly apply customized theme settings to your Weather Wall.
 * **Name:** This label is used to organize your assets and will not be displayed on the screen.
-* **Scale:** Fahrenheit (F) or Celsius (C).
 * **Use Device Setting’s Location:** Detect the weather based on the device’s location setting. Read more [here](https://support.optisigns.com/hc/en-us/articles/4408052029587-How-to-Use-Weather-Apps-Based-on-Device-Location).
 * **Location:** You can enter a city name or zip code and select from the dropdown helper. This location will appear on the wall and be used for City Themes images.
 * **Language:** The language in which the weather information is displayed.
-* **Date & Time:** This setting is currently set to Default. You can customize the date and time format for both Normal and Scrolling Strip modes, or select “Do not show”.
 
 * **Font Size:** Use the default font size or customize it for text on your Weather Wall.
-* **Theme:** You can select from a list of pre-designed themes.
+* **Date & Time:** Use Show the Date & Time on your weather wall.
+* **Scale:**Select the Temperature scale (Fahrenheit, Celsius).
+* **Wind Speed:**Select the wind speed unit - mph, m/sec, or km/h.
+* **Visibility:** The unit of measurement used to show visibility radius (miles, kilometers).
+* **Rain:** The unit of measurement used to show rainfall (inches, centimeters).
 
-* **Theme Settings:** You can customize the theme with any color you want, which is useful if your company or organization has specific color branding requirements.
-  + **Apply to All Weather Conditions:** When you enable this option, any changes you make below, such as background color, text color, or selected photo, will be applied to all weather conditions. Disable it to customize each weather condition individually.
+* **Theme options:** You can customize the theme with any color you want, which is useful if your company or organization has specific color branding requirements.
+* **Apply to All Weather Conditions:** When enabled, any changes you make below, such as background color, text color, or selected photo, will be applied to all weather conditions. Disable it to customize each weather condition individually.
 
 * **Weather Condition:** You can view our default settings or customize each weather condition for three themes: **City Themes, Pacific Blue,** and **Pearl Flaxen**. Additionally, you can upload a custom photo for the chosen weather condition.
 
-* **Photo**: Allows you to choose between the Default weather app photo, or upload your own custom photo. When Custom photo is selected, you can select a photo from your existing assets.
+* **Background Image**: Allows you to choose between the Default weather app photo, or upload your own custom photo. When Custom photo is selected, you can select a photo from your existing assets.
 
 * **Color Options:**Lets you change the Text Primary color, Text Secondary color, Background Primary color, Background Secondary color, and the Background Accent.
 
-* Click **Reset** to return to default settings.
-* **Advanced options:**More custom options
+Click **Reset** to return to default settings.
+
+**Advanced:**
 
 * **Scrolling Strip Font Size:** If you put the Weather Wall app to a SplitScreen zone that is a scrolling strip, you can set how big you want the scrolling text to be.
 * **Lock Location:** Position and lock the weather location to the bottom left or right on the Scrolling Strip.
 * **Visibility:** With City-theme, select the visibility unit - miles, meters, or kilometers.
-* **Wind Speed:**Select the wind speed unit - mph, m/sec, or km/h.
 
 To enhance the user experience with the Weather Wall app, we have added the City Themes feature, which you can view at the following article:
 
@@ -119,17 +127,19 @@ Then fill out the information in the Weather Radar app:
 * **Name:** name of your Scrolling Website App, this is only for use in File/Asset list, it will not be displayed on your screen.
 * **Location:** Center of the map where you want to display weather radar around it.
 * **Layer:** Display the weather layer. There are four type of weather layers: Wind, Wind Gusts, Weather Radar, and Satellite.
+* **Show Weather Details:** display an overlay layer to show forecast day by day, hour by hour details.
+* **Auto-play Forecast:** play the forecast radar movement like you would see on TVs.
 * **Zoom:** select zoom level for the map view.
-* **Show forecast details:** display an overlay layer to show forecast day by day, hour by hour details.
-* **Play forecast:** play the forecast radar movement like you would see on TVs.
-* **Update interval:** The default is 600 seconds, or 10 minutes. This means the app will refresh the link every 10 mins for any changes in your presentation. You can adjust this interval by typing in a different value.
-* **Advanced Settings:** In this section, you can adjust the metric system for **Wind, Temperature, Rain, Waves, Snow, and Pressure.**
+* **Refreshinterval:** The default is 600 seconds, or 10 minutes. This means the app will refresh the link every 10 mins for any changes in your presentation. You can adjust this interval by typing in a different value.
+* **Advanced Settings:** In this section, you can adjust the metric system for **Wind Speed, Temperature, Rain, Waves, Snow, and Pressure.**
 
 After setting up your information, click **Save** to add your Weather Radar app to your account. If you'd like to tailor it to your specific location, see our article on [how to use weather apps based on device location](https://support.optisigns.com/hc/en-us/articles/4408052029587-How-to-use-weather-app-based-on-devices-location).
 
 ## Push to Screens
 
 Weather Apps can ideally be used within a [Split Screen](https://support.optisigns.com/hc/en-us/articles/360026559573), allowing you to display weather content alongside other assets and content on a screen. If you don't know how to [push content to your screens](https://support.optisigns.com/hc/en-us/articles/18988049363859), read our article.
+
+---
 
 ## That's it!
 

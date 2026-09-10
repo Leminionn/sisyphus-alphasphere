@@ -3,7 +3,7 @@
 **Article ID:** 360049872414
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360049872414-How-to-use-Facebook-Video-App
-**Last Updated:** 2025-09-05T14:55:21+00:00
+**Last Updated:** 2026-09-10T02:31:21+00:00
 ---
 
 This article will guide you through how to create and use Facebook Video App.
@@ -14,9 +14,9 @@ First, you will need to have your screens set up and paired. For more informatio
 
 Open the Facebook video that you would like to use and copy the URL:
 
-Then log on to our portal: <http://app.optisigns.com/>
+Then log on to our portal: [https://app.optisigns.com/](http://app.optisigns.com/)
 
-Go to Files/Assets, Click on "App".
+Go to Files/Assets, Click on "Apps".
 
 Click Facebook Video:
 
@@ -24,7 +24,7 @@ Enter your information:
 
 * Name: Name of your Facebook Video asset, this is the name of the wall in your asset list. It will **not** be displayed on your screens.
 * Facebook Video URL: Paste the video URL link that you copied from Facebook here.
-* Mute: Select if you want to mute the video during playback.
+* Mute: Toggle if you want to mute the video during playback.
 
 Click Save.  
 After Saving, you can Preview the asset.

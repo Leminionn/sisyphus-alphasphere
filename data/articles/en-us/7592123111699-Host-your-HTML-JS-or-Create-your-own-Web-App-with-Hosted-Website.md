@@ -3,7 +3,7 @@
 **Article ID:** 7592123111699
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/7592123111699-Host-your-HTML-JS-or-Create-your-own-Web-App-with-Hosted-Website
-**Last Updated:** 2025-08-29T20:55:40+00:00
+**Last Updated:** 2026-09-09T19:14:29+00:00
 ---
 
 For advanced & enterprise users who know how to create their own HTML/JS app, you can use OptiSigns Hosted Website app to deploy & host your web app
@@ -14,7 +14,7 @@ By default you can create 1 Hosted Website app, if you need more please contact 
 
 **When to use the Hosted Website app?**
 
-If you have simple web apps like ones to handle Kiosk interactivities, your restaurant dynamic menus, your team status dashboard, etc. to be used with your Digital Signs.
+If you have simple web apps like ones to handle Kiosk interactive elements, your restaurant dynamic menus, your team status dashboard, etc. to be used with your Digital Signs.
 
 For Enterprise Customers, you can use API to send/store data specific to each device to be used in your web app. For example: pricing, and inventory data for each screen.
 
@@ -34,15 +34,13 @@ The easiest way to use a Hosted Website is to upload a zip file with your HTML/J
 
 Click Files/Assets -> Apps -> find Hosted Website
 
-Click Upload Zip
-
-**IMPORTANT: your Zip file must have /index.html**, that's the entry point to be loaded by default.
+Click **Upload Zip.**
 
 Give your app a name, this is only to be used in Files/Assets to manage your app.
 
-Browse your Zip file and click Save.
+Browse your Zip file and click **Upload & Deploy**.
 
-If you have index.html, the preview will show up on the right.
+The preview will show up on the right. It may take some time for this to show.
 
 The asset will be created in your library:
 
@@ -58,4 +56,4 @@ With Hosted Website app there's built in Editor & Templates that you can use to 
 
 To use this editor, you will need to either Import your project Zip file (not the minified, compiled version), create it from scratch, or with one of our templates.
 
-If you need API to push data to device level and use your web app to consume this data, or if you further questions on how to use a Hosted Website please contact us at [support@optisigns.com](mailto:support@optisigns.com)
+If you need API to push data to device level and use your web app to consume this data, or if you further questions on how to use a Hosted Website please contact us at [support@optisigns.com](mailto:support@optisigns.com).

@@ -3,7 +3,7 @@
 **Article ID:** 1500011611322
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/1500011611322-How-to-use-the-CBC-News-App
-**Last Updated:** 2025-10-10T18:50:47+00:00
+**Last Updated:** 2026-09-09T19:26:10+00:00
 ---
 
 The OptiSigns CBC app allows you to display CBC News on your digital signs. It covers the most up-to-date Top Stories, Breaking News, World News, Canada News, EU News, Business, Technology, and more.
@@ -28,7 +28,7 @@ First, you will need to have your screens set up and paired. For more informatio
 
 Then log on to our portal: <http://app.optisigns.com/>
 
-Go to **Files/Assets**, Click on "App" and add **CBC** on your Account.
+Go to **Files/Assets**, then click on **Apps**.
 
 Click **CBC**:
 
@@ -43,11 +43,13 @@ Enter your CBC Wall App information:
 
 Clicking **Advanced**opens up additional options:
 
-* Date Format: Choose from a set of pre-formatted dates, or select a custom date format:
+* Date & Time: Choose from a set of pre-formatted dates, or select a custom date format:
 
 * Scrolling Strip Font Size: If you put the CBC News Wall app to a SplitScreen zone that is a scrolling strip, you can set how big you want the scrolling text to be.
 
 After you've configured the CBC News app to your liking, hit **Save**. Your CBC app will appear as an Asset in OptiSigns, and it can now be directly assigned to a screen or used in a Playlist. This asset can then be edited at any time from the Files/Assets tab.
+
+---
 
 ## **That's all!**
 

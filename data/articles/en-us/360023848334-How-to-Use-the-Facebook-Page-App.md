@@ -3,7 +3,7 @@
 **Article ID:** 360023848334
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360023848334-How-to-Use-the-Facebook-Page-App
-**Last Updated:** 2026-02-02T17:17:28+00:00
+**Last Updated:** 2026-09-10T02:49:33+00:00
 ---
 
 With the Facebook app, you're able to display posts and such from public-facing Facebook pages you have ownership access over.
@@ -23,7 +23,7 @@ Let's get started.
 
 ## Setting Up a Facebook App
 
-On the OptiSigns portal, go to **Assets → Add Asset → Apps.**
+On the OptiSigns portal, go to **Files/Assets**, then click **Apps** in the left sidebar.
 
 Select **Facebook**:
 
@@ -35,7 +35,7 @@ After logging on with Facebook in the Facebook popup window, select the Pages yo
 
 Click **Next**, then Click **Done**.
 
-Whether you connect a new Facebook page or choose it from an existing on, you'll see the below screen:
+Whether you connect a new Facebook page or choose it from an existing one, you'll see the below screen:
 
 After that, you can enter information for your wall.
 
@@ -54,11 +54,21 @@ After that, you can enter information for your wall.
 
 ### Advanced
 
-Click the **Advanced** option to
+Click the **Advanced** option to show more settings:
 
 * **Moderation:** Clicking Moderation opens up a popup:
 
-This screen allows you to determine which posts will appear on your app - you can change the settings to disallow certain posts.
+This screen lists the posts OptiSigns has pulled from your Page and lets you control which of them reach your screens. Anything you hide or delete here applies to this Facebook asset only — your Facebook Page itself is not changed.
+
+* **Search:** Find a post by its text. Type a word or phrase and click the magnifier button — the list then shows only the posts that match.
+* **Newest / Oldest:** Choose the order the posts are listed in. **Newest** is the default.
+* **Refresh Data:** Fetch the latest posts from your Page. Use this if a post you just published has not appeared yet — it can take a few moments for the app to pick it up.
+* **Hide:** The eye-with-a-slash button at the end of a post stops that post appearing on your screens, but keeps it in this list so you can bring it back later.
+* **Delete:** The red trash button removes the post from this wall. You are asked to confirm first.
+* **First / Previous / Next / Last:** Page through the list when your Page has more posts than fit on one screen.
+* **Close:** Return to the app settings.
+
+Back in **Advanced**, the remaining settings are:
 
 * **Always show new posts:** When checked, this will ensure you are only showing new posts
 * **Filter Type:** Choose to Filter by Quantity or by Time. If one of these is selected, you can choose how many posts to show, or across what timeframe to show posts.
@@ -66,8 +76,6 @@ This screen allows you to determine which posts will appear on your app - you ca
 * **Scrolling Strip Font Size:** Set the font size of the scrolling strip. Default is 20, but this can be set to **Custom** and changed to whatever you wish.
 * **Continue Playing Content in Playlist:** When checked, if the Facebook wall is placed in a Playlist, it will continue displaying posts from where it left off. Otherwise, it will always start with the first post in your sequence.
 * **Show QR Code**: When checked, allows you to add a QR code. You can choose for the QR code to go to the Facebook page, or to any other page by choosing **Custom**.
-
-Click Save to the QR code and the Facebook app page.
 
 Finally, hit **Save**. You've created a Facebook asset.
 
@@ -77,11 +85,11 @@ Finally, hit **Save**. You've created a Facebook asset.
 
 You can deploy your new Facebook app as an individual asset, or as part of a [Split Screen](https://support.optisigns.com/hc/en-us/articles/360026559573-How-to-Create-and-Use-the-Split-Screen-App).
 
-To get your new Facebook asset to a screen, go to the **Screens** tab, then click the screen you want to assign it to.
+To get your new Facebook asset to a screen, go to the **Screens** tab, then click **Edit** on the screen you want to assign it to.
 
-This brings up the **Edit Screen** tab:
+This brings up the **Edit Screen** dialog:
 
-Here, select **Asset** under Content type, then hit **Select Asset**.
+Here, select **Asset** under **Content Type**, then hit **Change**.
 
 Then, select your created Facebook Asset:
 

@@ -3,23 +3,21 @@
 **Article ID:** 360049030453
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360049030453-How-to-use-the-Motivational-Quote-App
-**Last Updated:** 2025-08-29T21:33:29+00:00
+**Last Updated:** 2026-09-09T20:46:35+00:00
 ---
 
-This article will show you how to set up and display the Motivational Quote app on your big screens TVs.
+This article will show you how to set up and display the Motivational Quote app on your digital signs.
 
 In the Files/Assets and within the Apps section, select the Motivational Quotes within the apps list:
 
 The following window will pop-up and you will need to enter the details and quotes you'd like to display:
 
 * Name: Name of your Motivational Quote app that you wish to see it labeled as within the OptiSigns platform. This name is internal to you only.
-
 * Background Type:  The drop-down will show you either Playlist or Single Color
-  + Playlist - This allows you to select an playlist of images that you want to appear as backgrounds to the quotes provided. Background Opacity and Text Color also become enabled.
-  + Single Color - This allows you to select a single color background based on the default themes provided through OptiSigns.
+* Selected Playlist - This allows you to select an playlist of images that you want to appear as backgrounds to the quotes provided. Background Opacity and Text Color also become enabled.
+* Single Color - This allows you to select a single color background based on the default themes provided through OptiSigns. You can select a Theme and Background Color here, as well.
 * Background Opacity: This appears only when Playlist is selected and allows user to customize and optimize the opacity of the background so that the text still stands out effectively.
-* Text Color:  This appears only when a Playlist is selected and allows user to enter the hex-code for the text color
-
+* Text Color:  This appears only when a Playlist is selected, or if your Theme is Custom. Its allows you to enter the text color hex codes.
 * Quote:  Free-form text field to allow you to enter the quote and the author of the quote. Additional quotes can be added using the "+ New Quote" button
 * Duration (sec): Enter the duration you'd like to have for each quote to be displayed.
 * Show Date/Time: Enable a center justified date and time to be displayed above the quotes.

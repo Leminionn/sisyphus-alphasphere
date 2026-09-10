@@ -3,7 +3,7 @@
 **Article ID:** 360038769394
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360038769394-How-to-Create-and-Use-the-Yelp-App
-**Last Updated:** 2026-09-08T20:18:24+00:00
+**Last Updated:** 2026-09-10T06:59:29+00:00
 ---
 
 If you are a business with a lot of reviews on Yelp, you can display these reviews on your big screen TVs to show case your business and also incentive, and make it easy for customers to post more reviews.
