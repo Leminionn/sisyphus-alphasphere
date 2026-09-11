@@ -3,7 +3,7 @@
 **Article ID:** 360056090593
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360056090593-OptiSigns-Side-Menu-Options
-**Last Updated:** 2025-09-04T17:29:50+00:00
+**Last Updated:** 2026-09-10T09:44:24+00:00
 ---
 
 * [OptiSigns Devices](#OptiSigns)

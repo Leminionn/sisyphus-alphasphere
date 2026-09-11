@@ -3,7 +3,7 @@
 **Article ID:** 4407128433299
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/4407128433299-SAML-Integration-Strategies-Best-Practices
-**Last Updated:** 2026-02-05T20:22:33+00:00
+**Last Updated:** 2026-09-10T09:46:50+00:00
 ---
 
 There are many ways to implement SAML to manage users and access OptiSigns with your IDP.

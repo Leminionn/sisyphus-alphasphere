@@ -3,7 +3,7 @@
 **Article ID:** 22875592994195
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/22875592994195-How-to-Integrate-API-and-Publish-API-Data-via-OptiSync
-**Last Updated:** 2026-08-17T15:33:02+00:00
+**Last Updated:** 2026-09-10T09:50:23+00:00
 ---
 
 ### Integrating your API with OptiSigns has many uses and allows easy display of auto-updating data on your screens. In this guide, we'll walk you through how to connect your API - no software engineering background required.

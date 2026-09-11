@@ -3,7 +3,7 @@
 **Article ID:** 360040991534
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360040991534-How-to-use-the-TechCrunch-News-App
-**Last Updated:** 2026-09-09T20:54:43+00:00
+**Last Updated:** 2026-09-10T09:41:37+00:00
 ---
 
 The OptiSigns TechCrunch app allows you to display TechCrunch News on your digital signs. It covers the most up-to-date Startups, AI, Venture, Security, Crypto, Apps, Fintech, Hardware news and more.

@@ -3,7 +3,7 @@
 **Article ID:** 6091289267475
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/6091289267475-How-to-use-Matterport-App
-**Last Updated:** 2025-08-29T21:50:33+00:00
+**Last Updated:** 2026-09-10T09:48:13+00:00
 ---
 
 Matterport is a very cool way to visualize, show case your facilities.

@@ -3,7 +3,7 @@
 **Article ID:** 20062273670163
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/20062273670163-How-to-Control-and-Schedule-Playlist-Items
-**Last Updated:** 2025-09-04T17:26:34+00:00
+**Last Updated:** 2026-09-10T09:50:02+00:00
 ---
 
 It's possible to apply schedules to individual Playlist items. This feature is now available on Windows, Linux, Android, and ChromeOS devices.

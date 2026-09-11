@@ -3,7 +3,7 @@
 **Article ID:** 4409673381011
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/4409673381011-How-to-Use-the-Emergency-Feed-App
-**Last Updated:** 2025-12-29T21:30:40+00:00
+**Last Updated:** 2026-09-10T09:47:27+00:00
 ---
 
 Some Emergency Alert Systems or Emergency Mass Notification Systems push out RSS feeds.

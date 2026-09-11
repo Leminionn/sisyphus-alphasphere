@@ -3,7 +3,7 @@
 **Article ID:** 37966066335891
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/37966066335891-Getting-Started-with-an-OptiSigns-Free-Trial
-**Last Updated:** 2025-09-04T18:44:24+00:00
+**Last Updated:** 2026-09-10T10:46:25+00:00
 ---
 
 Looking into [digital signage](https://www.optisigns.com/)? OptiSigns makes it simple to try our platform with our 14-day Free Trial, a fully-featured look at all OptiSigns has to offer.

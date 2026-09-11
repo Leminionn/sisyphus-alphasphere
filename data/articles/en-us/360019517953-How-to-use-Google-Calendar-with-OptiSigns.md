@@ -3,7 +3,7 @@
 **Article ID:** 360019517953
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360019517953-How-to-use-Google-Calendar-with-OptiSigns
-**Last Updated:** 2025-11-21T01:13:20+00:00
+**Last Updated:** 2026-09-10T09:40:19+00:00
 ---
 
 Displaying a Google Calendar on a digital sign is a common use case for many. OptiSigns allows you to display a fully-customizable Google Calendar, tuned to your exact specifications. Here are a few examples:

@@ -3,7 +3,7 @@
 **Article ID:** 32839794222099
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/32839794222099-Display-Salesforce-Dashboards-with-MFA-using-Web-Scripting
-**Last Updated:** 2025-09-02T20:45:08+00:00
+**Last Updated:** 2026-09-10T09:51:44+00:00
 ---
 
 #### Displaying Salesforce Dashboards on your digital screens is crucial to getting real-time data directly to who needs it. Let's go through how to set up your MFA-protected Salesforce Dashboard by using our Web Scripting app!

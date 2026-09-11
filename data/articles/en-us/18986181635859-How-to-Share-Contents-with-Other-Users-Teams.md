@@ -3,7 +3,7 @@
 **Article ID:** 18986181635859
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/18986181635859-How-to-Share-Contents-with-Other-Users-Teams
-**Last Updated:** 2026-05-29T17:35:48+00:00
+**Last Updated:** 2026-09-10T09:49:58+00:00
 ---
 
 #### Teams are designed for the separation of resources to maintain structured and secure workflows. Despite the separation, cross-teaming resource sharing is supported using folder security features. With OptiSigns, you can use folder security features in the folder and share the folder with different teams.

@@ -3,7 +3,7 @@
 **Article ID:** 1500001985341
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/1500001985341-How-to-Use-the-Local-Folder-App-in-OptiSigns
-**Last Updated:** 2025-09-04T19:36:02+00:00
+**Last Updated:** 2026-09-10T09:45:24+00:00
 ---
 
 Sometimes, due to network limitations or security reasons, you'll have content you'd rather keep locally at your device. The Local Folder app allows you to access content stored locally.

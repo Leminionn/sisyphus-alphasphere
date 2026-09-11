@@ -3,7 +3,7 @@
 **Article ID:** 360038992973
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360038992973-Video-codec-or-video-playback-issues
-**Last Updated:** 2025-08-29T20:15:48+00:00
+**Last Updated:** 2026-09-10T09:41:25+00:00
 ---
 
 There are different codecs that used by videos, such as H264, HEVC, VP9, Mpeg-4, AV1. The support of the codec are dependent on the hardware, when the codec is not supported by the device used for video playback, you may see this error screen like below on OptiSigns. Or it could be simply that the video playback is slow and dropping frames, because it is use software decoding instead of hardware decoding. Similarly, when the video resolution or bit rate is too high for the hardware to handle, you may experience the same issue.

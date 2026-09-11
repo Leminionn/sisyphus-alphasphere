@@ -3,7 +3,7 @@
 **Article ID:** 23566927217939
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/23566927217939-How-to-use-Check-in-app-with-SMS-follow-up
-**Last Updated:** 2025-09-04T15:04:03+00:00
+**Last Updated:** 2026-09-10T09:50:30+00:00
 ---
 
 **What is the OptiSigns Check-in app with SMS follow-up?**

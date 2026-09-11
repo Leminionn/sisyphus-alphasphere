@@ -3,7 +3,7 @@
 **Article ID:** 4414539282067
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/4414539282067-Displaying-SharePoint-Sites-on-OptiSigns
-**Last Updated:** 2026-07-29T21:56:37+00:00
+**Last Updated:** 2026-09-10T09:47:40+00:00
 ---
 
 |  |

@@ -3,7 +3,7 @@
 **Article ID:** 1500008112642
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/1500008112642-How-to-install-OptiSigns-Player-on-Android-Boxes
-**Last Updated:** 2025-09-02T19:45:53+00:00
+**Last Updated:** 2026-09-10T09:45:51+00:00
 ---
 
 There are many cost effective Android Boxes or Sticks on the market, such as Xiaomi boxes, sticks, Onn TV box, Mecool, etc.

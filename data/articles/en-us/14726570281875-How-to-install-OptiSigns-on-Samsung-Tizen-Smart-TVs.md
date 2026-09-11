@@ -3,7 +3,7 @@
 **Article ID:** 14726570281875
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/14726570281875-How-to-install-OptiSigns-on-Samsung-Tizen-Smart-TVs
-**Last Updated:** 2025-09-02T19:37:57+00:00
+**Last Updated:** 2026-09-10T09:49:19+00:00
 ---
 
 While OptiSigns app is available on Samsung Tizen app store, we still recommend to use a dedicated player like [OptiSigns Android Player](https://links.optisigns.com/szzk) due to following reasons:

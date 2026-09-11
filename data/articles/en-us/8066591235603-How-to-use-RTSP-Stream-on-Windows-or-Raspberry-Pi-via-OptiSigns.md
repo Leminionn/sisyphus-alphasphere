@@ -3,7 +3,7 @@
 **Article ID:** 8066591235603
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/8066591235603-How-to-use-RTSP-Stream-on-Windows-or-Raspberry-Pi-via-OptiSigns
-**Last Updated:** 2025-09-02T19:20:51+00:00
+**Last Updated:** 2026-09-10T09:48:28+00:00
 ---
 
 #### Nowadays, RTSP Camera Streaming is popular. You can display your RTSP Stream on your Digital Screen via OptiSigns.

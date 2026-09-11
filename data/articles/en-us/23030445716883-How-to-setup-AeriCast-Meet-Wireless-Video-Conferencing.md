@@ -3,7 +3,7 @@
 **Article ID:** 23030445716883
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/23030445716883-How-to-setup-AeriCast-Meet-Wireless-Video-Conferencing
-**Last Updated:** 2025-08-29T16:59:17+00:00
+**Last Updated:** 2026-09-10T09:50:26+00:00
 ---
 
 AeriCast Meet is a new feature included in the AeriCast add-on. It allows users to wirelessly connect to the conference room webcam, microphone and speakers, and join various video conference platforms, such as Zoom, MS Teams, Google Meet, Webex and more. AeriCast Meet also supports wide range of the conference room webcam, microphone and speaker devices, and is a perfect solution to fit your current and future conference room setup and needs.

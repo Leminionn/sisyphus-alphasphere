@@ -3,7 +3,7 @@
 **Article ID:** 31449657955347
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/31449657955347-Getting-Started-with-Touch-Screen-Kiosks
-**Last Updated:** 2025-10-29T18:57:43+00:00
+**Last Updated:** 2026-09-10T09:51:34+00:00
 ---
 
 ### The ability to turn your screens into engaging, interactive touch screen kiosks is one of Optisigns’ most powerful features. Here, we’ll show you the different options available and how to get your kiosks up and running fast.

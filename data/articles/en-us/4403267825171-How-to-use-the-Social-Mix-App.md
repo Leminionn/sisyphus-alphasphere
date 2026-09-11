@@ -3,7 +3,7 @@
 **Article ID:** 4403267825171
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/4403267825171-How-to-use-the-Social-Mix-App
-**Last Updated:** 2025-09-02T18:26:51+00:00
+**Last Updated:** 2026-09-10T09:46:24+00:00
 ---
 
 The Social Mix app allows you to mix your posts from Instagram, Facebook, Twitter in a single social wall.

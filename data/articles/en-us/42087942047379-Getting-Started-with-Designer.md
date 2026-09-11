@@ -3,7 +3,7 @@
 **Article ID:** 42087942047379
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/42087942047379-Getting-Started-with-Designer
-**Last Updated:** 2025-10-07T17:18:32+00:00
+**Last Updated:** 2026-09-10T10:46:39+00:00
 ---
 
 The OptiSigns Designer app is our most feature-rich application, allowing complete creation of content for display on digital signs. This guide will get you started on creating content within the OptiSigns platform.

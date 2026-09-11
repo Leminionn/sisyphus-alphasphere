@@ -3,7 +3,7 @@
 **Article ID:** 28427819992979
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/28427819992979-Performance-Stability-issues-on-Android-devices-and-Best-Practices
-**Last Updated:** 2025-09-04T16:21:18+00:00
+**Last Updated:** 2026-09-10T09:51:09+00:00
 ---
 
 Android devices are devices such as Smart TV with Android TV, Google ChromeCast,  Amazon Fire TV, FireSticks devices and OptiSigns Android Sticks are good options for regular digital signage uses. It is low cost, small form factor or built-in TVs hence can be installed easily without drilling holes, and the Android system is user friendly too.

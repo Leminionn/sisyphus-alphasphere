@@ -3,7 +3,7 @@
 **Article ID:** 360050855313
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360050855313-How-to-link-Instagram-Business-or-Creator-Account-to-Facebook-Account
-**Last Updated:** 2025-08-28T18:44:34+00:00
+**Last Updated:** 2026-09-10T09:43:23+00:00
 ---
 
 |  |

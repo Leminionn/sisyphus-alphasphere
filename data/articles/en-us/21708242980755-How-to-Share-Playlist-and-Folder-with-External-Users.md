@@ -3,7 +3,7 @@
 **Article ID:** 21708242980755
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/21708242980755-How-to-Share-Playlist-and-Folder-with-External-Users
-**Last Updated:** 2026-06-26T13:56:08+00:00
+**Last Updated:** 2026-09-10T09:50:19+00:00
 ---
 
 Making it effortless to share playlists and folders with external users has become a must. Exclusive to our Pro Plus and higher plans, this feature opens the door to a wide array of content contributions, encompassing images, videos, and documents—essential for enhancing collaboration.

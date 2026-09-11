@@ -3,7 +3,7 @@
 **Article ID:** 360049155994
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360049155994-How-to-use-Market-Index-App
-**Last Updated:** 2025-08-29T21:28:36+00:00
+**Last Updated:** 2026-09-10T09:42:51+00:00
 ---
 
 Beside the [Stock Apps](https://support.optisigns.com/hc/en-us/articles/360044115513), where you can select a list of your own Stock Tickers, you can use Marked Index app for quicker, more general market prices update. You can add one of these app:

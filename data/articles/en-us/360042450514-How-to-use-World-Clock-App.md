@@ -3,7 +3,7 @@
 **Article ID:** 360042450514
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360042450514-How-to-use-World-Clock-App
-**Last Updated:** 2025-08-29T21:54:59+00:00
+**Last Updated:** 2026-09-10T09:42:04+00:00
 ---
 
 World Clock App allow you to show up to 6 clocks of different cities, locations on your screen.  

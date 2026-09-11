@@ -3,7 +3,7 @@
 **Article ID:** 360056627833
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360056627833-How-To-Connect-To-WiFi-For-Raspberry-Pi
-**Last Updated:** 2025-09-02T19:22:01+00:00
+**Last Updated:** 2026-09-10T09:44:32+00:00
 ---
 
 In this guide, we will walk you through end to end process to connect to WiFi on your Raspberry Pi.

@@ -3,7 +3,7 @@
 **Article ID:** 360056356414
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360056356414-How-to-use-Scrolling-Website-App
-**Last Updated:** 2025-09-02T18:32:51+00:00
+**Last Updated:** 2026-09-10T09:44:30+00:00
 ---
 
 Sometimes you have requirement to show a certain website and have it scroll or zoom in a certain way.  

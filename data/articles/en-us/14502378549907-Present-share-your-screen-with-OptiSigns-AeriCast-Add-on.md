@@ -3,7 +3,7 @@
 **Article ID:** 14502378549907
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/14502378549907-Present-share-your-screen-with-OptiSigns-AeriCast-Add-on
-**Last Updated:** 2025-09-02T20:12:05+00:00
+**Last Updated:** 2026-09-10T09:49:14+00:00
 ---
 
 On your TVs running OptiSigns, you should see 4 digit presenter codes like below:  

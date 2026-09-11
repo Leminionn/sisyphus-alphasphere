@@ -3,7 +3,7 @@
 **Article ID:** 360042143753
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360042143753-How-to-re-encode-video-files-for-better-compatibility-on-your-devices
-**Last Updated:** 2026-06-29T19:08:36+00:00
+**Last Updated:** 2026-09-10T09:41:59+00:00
 ---
 
 Amazon Fire TV, Android or Roku rely on Hardware decode to decode your videos files.

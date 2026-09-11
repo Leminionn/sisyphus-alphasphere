@@ -3,7 +3,7 @@
 **Article ID:** 10159088954387
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/10159088954387-How-to-put-Live-TV-on-your-screens-with-OptiSigns
-**Last Updated:** 2025-09-02T20:01:30+00:00
+**Last Updated:** 2026-09-10T09:48:47+00:00
 ---
 
 With OptiSigns, you can show the Live TV from your cable TV services (such as Xfinity, DirectTV) on your screens. There are 2 ways you can do it with OptiSigns.

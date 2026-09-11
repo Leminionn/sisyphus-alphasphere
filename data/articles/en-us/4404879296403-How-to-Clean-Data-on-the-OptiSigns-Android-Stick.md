@@ -3,7 +3,7 @@
 **Article ID:** 4404879296403
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/4404879296403-How-to-Clean-Data-on-the-OptiSigns-Android-Stick
-**Last Updated:** 2025-09-05T15:00:38+00:00
+**Last Updated:** 2026-09-10T09:46:45+00:00
 ---
 
 This article, it guides you on how to clear data on the Android Stick.  

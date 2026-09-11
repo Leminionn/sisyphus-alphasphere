@@ -3,7 +3,7 @@
 **Article ID:** 1500005889381
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/1500005889381-How-to-use-the-MindMeister-App
-**Last Updated:** 2025-08-28T20:06:43+00:00
+**Last Updated:** 2026-09-10T09:45:44+00:00
 ---
 
 Mind map is highly visual, engaging way to organize & communicate your thoughts, create it with MindMeister and share on your Digital Signs.

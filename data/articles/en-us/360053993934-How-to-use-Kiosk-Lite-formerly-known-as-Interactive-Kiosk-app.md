@@ -3,7 +3,7 @@
 **Article ID:** 360053993934
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360053993934-How-to-use-Kiosk-Lite-formerly-known-as-Interactive-Kiosk-app
-**Last Updated:** 2026-09-03T14:57:05+00:00
+**Last Updated:** 2026-09-10T09:43:50+00:00
 ---
 
 Kiosk Lite app, also formerly known as the Interactive Kiosk app, allows you to let your screens play a set of contents, but when the user taps or clicks on the screens, a website URL will be loaded, and the customer can interact with it.

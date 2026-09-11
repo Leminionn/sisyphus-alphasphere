@@ -3,7 +3,7 @@
 **Article ID:** 360054557434
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360054557434-View-Billing-History-and-Download-Receipts
-**Last Updated:** 2026-09-08T21:26:23+00:00
+**Last Updated:** 2026-09-10T09:43:59+00:00
 ---
 
 You can view history of your payments, upcoming charges and download receipts by going to:

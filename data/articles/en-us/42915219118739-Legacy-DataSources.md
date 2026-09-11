@@ -3,7 +3,7 @@
 **Article ID:** 42915219118739
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/42915219118739-Legacy-DataSources
-**Last Updated:** 2025-09-04T16:58:08+00:00
+**Last Updated:** 2026-09-10T11:36:55+00:00
 ---
 
 Using Designer, it’s possible to assign a key value to an element, then map it to a Google Sheet or Microsoft Excel document. This will create a new spreadsheet directly mapped to the individual design. The values on this new spreadsheet can be modified to change what the design displays.

@@ -3,7 +3,7 @@
 **Article ID:** 360041222994
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360041222994-How-to-Use-the-CountUp-App
-**Last Updated:** 2026-05-05T17:07:53+00:00
+**Last Updated:** 2026-09-10T09:41:44+00:00
 ---
 
 The CountUp (or Count Up) app is a simple way to display a customizable count up clock for any occasion.

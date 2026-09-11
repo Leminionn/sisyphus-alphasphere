@@ -3,7 +3,7 @@
 **Article ID:** 360016247974
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360016247974-How-to-Upload-Manage-Your-Files-Assets
-**Last Updated:** 2026-05-28T19:30:59+00:00
+**Last Updated:** 2026-09-10T09:39:25+00:00
 ---
 
 ## **Introduction:**

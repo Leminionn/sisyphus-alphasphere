@@ -3,7 +3,7 @@
 **Article ID:** 25127398699667
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/25127398699667-How-to-add-a-QR-Code-in-designs-using-OptiSigns-Designer
-**Last Updated:** 2025-09-04T15:43:33+00:00
+**Last Updated:** 2026-09-10T21:45:48+00:00
 ---
 
 With OptiSigns you can add QR Code directly in the Designer tool without the need of another QR Code generator.
@@ -15,7 +15,7 @@ You can set the QR Code to:
 * Send an SMS with some prefilled information if needed
 * Email address with prefilled subject
 * Take users to download your Application for either Apple or Google
-* Take users to follow your social media accounts: Facebook, Instagram, Twitter
+* Take users to follow your social media accounts: Facebook, Instagram, X, WhatsApp, etc.
 * Share your wifi credentials
 * Or just simply a text message that you want to reach your audiences.
 
@@ -27,7 +27,7 @@ Choose the QR code style for your design, input the necessary information, and c
 
 Finally, don’t forget to click on the save button before closing the design.
 
-That's all!
+### That's all!
 
 Congratulations! You have inserted your QR code on your design.
 

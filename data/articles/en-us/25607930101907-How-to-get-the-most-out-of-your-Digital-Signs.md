@@ -3,7 +3,7 @@
 **Article ID:** 25607930101907
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/25607930101907-How-to-get-the-most-out-of-your-Digital-Signs
-**Last Updated:** 2026-06-08T15:18:50+00:00
+**Last Updated:** 2026-09-10T09:50:43+00:00
 ---
 
 Here is a quick list of ideas and things you can achieve with OptiSigns to get the most out of your digital signs:

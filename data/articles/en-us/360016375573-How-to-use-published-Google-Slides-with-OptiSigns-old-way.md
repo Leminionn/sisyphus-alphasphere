@@ -3,7 +3,7 @@
 **Article ID:** 360016375573
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360016375573-How-to-use-published-Google-Slides-with-OptiSigns-old-way
-**Last Updated:** 2025-09-02T18:55:54+00:00
+**Last Updated:** 2026-09-10T09:39:49+00:00
 ---
 
 This method still works, but we have implemented [new method to connect to your Google Slides](https://support.optisigns.com/hc/en-us/articles/360050642833).

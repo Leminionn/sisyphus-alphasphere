@@ -3,7 +3,7 @@
 **Article ID:** 8098889840531
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/8098889840531-How-to-use-RTSP-Streams-on-OptiSigns-Devices
-**Last Updated:** 2026-03-16T15:03:03+00:00
+**Last Updated:** 2026-09-10T09:48:33+00:00
 ---
 
 #### Nowadays, RTSP Camera Streaming is popular. You can display your RTSP Stream on your Digital Screen via OptiSigns.

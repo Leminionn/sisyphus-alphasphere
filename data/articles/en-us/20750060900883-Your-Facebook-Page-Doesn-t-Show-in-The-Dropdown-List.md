@@ -3,7 +3,7 @@
 **Article ID:** 20750060900883
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/20750060900883-Your-Facebook-Page-Doesn-t-Show-in-The-Dropdown-List
-**Last Updated:** 2026-04-30T20:24:48+00:00
+**Last Updated:** 2026-09-10T09:50:14+00:00
 ---
 
 **First, you can go to the Facebook Business Integrations page:**

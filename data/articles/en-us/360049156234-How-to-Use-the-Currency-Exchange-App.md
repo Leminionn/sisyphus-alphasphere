@@ -3,7 +3,7 @@
 **Article ID:** 360049156234
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360049156234-How-to-Use-the-Currency-Exchange-App
-**Last Updated:** 2026-09-08T19:52:57+00:00
+**Last Updated:** 2026-09-10T09:42:52+00:00
 ---
 
 With OptiSigns, you can display up to date currency exchange rate on your digital signs.

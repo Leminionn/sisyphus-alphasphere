@@ -3,7 +3,7 @@
 **Article ID:** 6757989639827
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/6757989639827-How-to-Use-the-Weather-Alert-App
-**Last Updated:** 2025-08-29T20:04:43+00:00
+**Last Updated:** 2026-09-10T09:48:18+00:00
 ---
 
 With the OptiSigns Weather Alert App, you can select a region to receive weather alerts from. The app will listen to the ATOM feed published by the National Weather Service and display any incoming notices. Filters can be applied for certain types of messages and target locations.\

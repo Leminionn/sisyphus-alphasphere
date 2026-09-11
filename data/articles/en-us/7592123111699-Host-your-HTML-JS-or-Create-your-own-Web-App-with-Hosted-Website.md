@@ -3,7 +3,7 @@
 **Article ID:** 7592123111699
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/7592123111699-Host-your-HTML-JS-or-Create-your-own-Web-App-with-Hosted-Website
-**Last Updated:** 2026-09-09T19:14:29+00:00
+**Last Updated:** 2026-09-10T09:48:25+00:00
 ---
 
 For advanced & enterprise users who know how to create their own HTML/JS app, you can use OptiSigns Hosted Website app to deploy & host your web app

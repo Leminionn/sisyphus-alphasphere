@@ -3,7 +3,7 @@
 **Article ID:** 15268811715347
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/15268811715347-Cannot-find-the-OptiSigns-app-on-Your-Samsung-Smart-TV
-**Last Updated:** 2026-06-11T17:13:11+00:00
+**Last Updated:** 2026-09-10T09:49:21+00:00
 ---
 
 If you've encountered an issue with the OptiSigns application not being available in your Samsung Smart TV's default region, you can easily change the region to access the application.

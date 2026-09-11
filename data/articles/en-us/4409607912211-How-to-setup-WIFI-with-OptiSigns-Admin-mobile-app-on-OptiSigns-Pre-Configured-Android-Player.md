@@ -3,7 +3,7 @@
 **Article ID:** 4409607912211
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/4409607912211-How-to-setup-WIFI-with-OptiSigns-Admin-mobile-app-on-OptiSigns-Pre-Configured-Android-Player
-**Last Updated:** 2025-09-02T20:57:22+00:00
+**Last Updated:** 2026-09-10T09:47:22+00:00
 ---
 
 In some cases, you may need to setup wifi on the OptiSigns pre-configured android player. For example, you choose not to pre-configure wifi at the time of ordering, or if you are planning to move the devices from one location to another location with different wifi network.

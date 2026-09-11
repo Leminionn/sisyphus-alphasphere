@@ -3,7 +3,7 @@
 **Article ID:** 9061950942995
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/9061950942995-Using-RS-232-to-Schedule-TV-Power-On-Off-or-other-commands
-**Last Updated:** 2025-09-19T18:38:49+00:00
+**Last Updated:** 2026-09-10T09:48:39+00:00
 ---
 
 With OptiSigns, you can schedule TV Power On/Off using the advanced schedule feature. There are 2 ways you can do it with OptiSigns depending on what devices you are using.

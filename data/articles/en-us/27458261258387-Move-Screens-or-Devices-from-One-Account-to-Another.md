@@ -3,7 +3,7 @@
 **Article ID:** 27458261258387
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/27458261258387-Move-Screens-or-Devices-from-One-Account-to-Another
-**Last Updated:** 2025-08-29T17:03:07+00:00
+**Last Updated:** 2026-09-10T09:50:47+00:00
 ---
 
 To move screens, devices from one account to another account, you will need to:

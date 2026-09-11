@@ -3,7 +3,7 @@
 **Article ID:** 4408946045715
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/4408946045715-How-to-Integrate-Bonusly-Digital-Signage-with-Optisigns
-**Last Updated:** 2025-08-29T21:49:14+00:00
+**Last Updated:** 2026-09-10T09:47:16+00:00
 ---
 
 Some companies use [Bonusly](bonus.ly) for internal communication channel and like to show the Messages sent between agents on a signage across their work space.

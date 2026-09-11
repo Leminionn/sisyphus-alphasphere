@@ -3,7 +3,7 @@
 **Article ID:** 360055080914
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360055080914-How-to-Use-USB-HUB-Adaptor-Connect-to-Your-Fire-Stick
-**Last Updated:** 2025-09-04T15:23:44+00:00
+**Last Updated:** 2026-09-10T09:44:01+00:00
 ---
 
 Sometime you have content behind a secured website that requires login, such as your project schedule in Atlassian's JIRA, Trello, dashboard behind PowerBI, Tableau, etc.

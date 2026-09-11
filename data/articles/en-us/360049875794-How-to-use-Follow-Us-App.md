@@ -3,7 +3,7 @@
 **Article ID:** 360049875794
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360049875794-How-to-use-Follow-Us-App
-**Last Updated:** 2026-07-05T19:15:39+00:00
+**Last Updated:** 2026-09-10T09:42:59+00:00
 ---
 
 This article will guide you through how to create and use Follow Us Wall app.

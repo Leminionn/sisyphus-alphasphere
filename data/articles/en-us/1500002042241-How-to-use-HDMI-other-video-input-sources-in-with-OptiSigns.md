@@ -3,7 +3,7 @@
 **Article ID:** 1500002042241
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/1500002042241-How-to-use-HDMI-other-video-input-sources-in-with-OptiSigns
-**Last Updated:** 2025-09-02T20:19:01+00:00
+**Last Updated:** 2026-09-10T09:45:25+00:00
 ---
 
 It can be useful to split up your screens with part of Live TV, HDMI in, and part display of other information.

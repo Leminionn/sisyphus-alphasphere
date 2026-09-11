@@ -3,7 +3,7 @@
 **Article ID:** 360052827713
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360052827713-How-to-Use-the-Flash-Message-App
-**Last Updated:** 2025-12-23T21:35:47+00:00
+**Last Updated:** 2026-09-10T16:43:35+00:00
 ---
 
 Flash Message App lets you quickly override your screens with a message. This is useful for for quick alerts and announcements.The Flash Message app lets you:
@@ -30,7 +30,7 @@ Flash Message App lets you quickly override your screens with a message. This is
 
 ## Setting Up the Flash Message App
 
-On the OptiSigns portal, go to **Assets → Add Asset → Apps**.
+On the OptiSigns portal, go to **Files/Assets → Apps**.
 
 Select **Flash Message:**
 
@@ -39,15 +39,16 @@ Set up your Flash Message:
 * **Name**: Name of your Flash Message App, this is the name in your asset list and will **not** be displayed on your screens.
 * **Target:** Select the screens you want to target, or screens that has certain tags. Learn more about screens tagging [here](https://support.optisigns.com/hc/en-us/articles/360051746974).
 * **Screens/Tags:** Select the tags or screens you want to target when message is activated.
-* **Content:** Select what do you want to display when Flash Message app is activated. You can choose between a single **Asset**, a **Playlist**, or create a **Simple Message**.
+* **Content Type:** Select what do you want to display when Flash Message app is activated. You can choose between a single **Asset**, a **Playlist**, or create a **Simple Message**.
 
   + **Message Text:** If you select Simple Message, you can enter your message here. Note that any changes in this box should immediately be reflected in the Preview window on the right side of the screen.
   + **Theme Settings:** Apply when Simple Message is chosen. These can be expanded.
 
     - **Theme:** Choose a theme for your message. Pick between **Light**, **Dark**, or **Custom.** Choosing Custom will allow you to change the Text and Background color to whatever you like.
-    - **Font Size:** Choose between Default Font Size, or Custom. When Custom is selected, will provide a new option: **Custom Font Size**.
-    - **Custom Font Size:** Choose your font size.
+    - **Font Size:** Choose between Default, or Custom. When Custom is selected, will provide a new option: **Custom Font Size**.
+    - **Custom:** Choose your font size.
 * **Timezone:** Set the timezone for scheduling your flash message.
+* **Status:** Shows when the Emergency Alert is Active or not. You can use this for seasonal or irregular potential Emergencies.
 * **Flash Time:** Set when you want to flash. You can choose to flash **Immediately** or select **Schedule** to flash sometime in the future.
   + **Start Time / End Time:** Choose when to start and when to end your Flash Message.
 

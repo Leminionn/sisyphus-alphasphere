@@ -3,20 +3,21 @@
 **Article ID:** 360060676993
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360060676993-How-to-manually-install-activate-OptiSigns-AI-Add-on-on-Linux-or-Raspberry-Pi
-**Last Updated:** 2025-09-02T20:15:47+00:00
+**Last Updated:** 2026-09-10T16:39:47+00:00
 ---
 
 OptiSigns AI Add-on is a background service running on your Linux, Raspberry Pi device to use a Camera to detect & count people passing by.
 
 If you have not tried to automatically activate this feature, please try it first by following [this guide](https://support.optisigns.com/hc/en-us/articles/27690296225555).
 
-The add-on is a ~200MB app, so it will take several minutes to download and activate on your device, so please be patient after auto-activation before you try manual activation.
+The add-on is between ~130MB to 200MB app, so it will take several minutes to download and activate on your device, so please be patient after auto-activation before you try manual activation.
 
 If auto-activation fails, then you can follow these steps to manually install & activate AI detection add-on on your Linux or Raspberry Pi devices.
 
 **Before you start, please ensure that you have:**
 
-* Your device has OptiSigns Digital Signage player version 4.2.10 or newer installed. You can download the latest version [here](https://www.optisigns.com/download).
+* An OptiSigns [**Engage plan or higher**](https://www.optisigns.com/pricing).
+* Your device has OptiSigns Digital Signage player version 4.2.10 or newer installed. You can download the latest version [here](https://www.optisigns.com/download). You'll want to download either the Linux player, or the ARM Linux player depending on your version of Raspberry Pi.
 * There's a network connection to your device
 * You have enough authorization, and privileges to install apps, and background services on your device
 * optisigns-ai-detection runs on any Raspberry Pi OS, or any major Linux distro such as Ubuntu.
@@ -55,14 +56,14 @@ This will ensure the AI detection add-on is independent of OptiSigns Digital Sig
 You can manually execute the optisigns-ai-detection executable:
 
 ```
-<path>/optisigns-ai-detection [arg]  
-install : to install ai detection agent  
-remove : to remove/uninstall ai detection agent  
-start or restart : to start ai detection agent service  
-stop : to stop ai detection agent service  
-version or -V : to print ai detection agent version  
-help : to print this instructions  
-run : to run the ai detection agent in console or terminal or service  
+<path>/optisigns-ai-detection [arg]
+install : to install ai detection agent
+remove : to remove/uninstall ai detection agent
+start or restart : to start ai detection agent service
+stop : to stop ai detection agent service
+version or -V : to print ai detection agent version
+help : to print this instructions
+run : to run the ai detection agent in console or terminal or service
 show or -s: show camera feed
 ```
 

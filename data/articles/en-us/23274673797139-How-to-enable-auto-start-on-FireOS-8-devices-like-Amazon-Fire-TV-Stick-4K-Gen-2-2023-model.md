@@ -3,7 +3,7 @@
 **Article ID:** 23274673797139
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/23274673797139-How-to-enable-auto-start-on-FireOS-8-devices-like-Amazon-Fire-TV-Stick-4K-Gen-2-2023-model
-**Last Updated:** 2025-09-04T16:18:04+00:00
+**Last Updated:** 2026-09-10T09:50:28+00:00
 ---
 
 Amazon recently released their new Gen 2 Fire Sticks that come with many changes including to its hardware and OS. While OptiSigns will run great on these new devices, there is an issue where the auto-start feature will not function properly, likely due to the updated version of Fire OS.

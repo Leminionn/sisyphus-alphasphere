@@ -3,7 +3,7 @@
 **Article ID:** 360053198573
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360053198573-How-to-uninstall-reinstall-OptiSigns-app-from-your-Fire-Stick-device
-**Last Updated:** 2025-09-02T19:06:34+00:00
+**Last Updated:** 2026-09-10T09:43:43+00:00
 ---
 
 Sometimes, if you experiencing issues with OptiSigns app, a common way to fix is to reinstall the app.  

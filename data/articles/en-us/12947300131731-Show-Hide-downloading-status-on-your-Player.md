@@ -3,7 +3,7 @@
 **Article ID:** 12947300131731
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/12947300131731-Show-Hide-downloading-status-on-your-Player
-**Last Updated:** 2026-09-08T08:53:05+00:00
+**Last Updated:** 2026-09-10T09:49:09+00:00
 ---
 
 With Android, Fire TV, Windows, Linux, and Raspberry Pi players, you can set to show/hide downloads.

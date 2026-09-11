@@ -3,7 +3,7 @@
 **Article ID:** 360037416494
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360037416494-How-to-use-the-Jira-formerly-Atlassian-JIRA-app
-**Last Updated:** 2026-08-20T19:03:52+00:00
+**Last Updated:** 2026-09-10T09:41:23+00:00
 ---
 
 ### Jira is a popular project management tool that helps teams plan, track, release, and support work. Let's go through how to set this app integration up!

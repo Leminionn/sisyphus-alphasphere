@@ -3,7 +3,7 @@
 **Article ID:** 360037391854
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360037391854-How-to-display-content-inside-websites-that-require-login
-**Last Updated:** 2026-08-26T15:08:46+00:00
+**Last Updated:** 2026-09-10T09:41:19+00:00
 ---
 
 Sometimes you have content behind a website that requires log-in, such as your project schedule in Atlassian's Jira, Trello, dashboard behind Tableau, Salesforces, etc.

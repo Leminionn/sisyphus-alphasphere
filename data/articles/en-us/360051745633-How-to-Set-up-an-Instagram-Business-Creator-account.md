@@ -3,7 +3,7 @@
 **Article ID:** 360051745633
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360051745633-How-to-Set-up-an-Instagram-Business-Creator-account
-**Last Updated:** 2025-08-28T18:43:19+00:00
+**Last Updated:** 2026-09-10T09:43:35+00:00
 ---
 
 |  |

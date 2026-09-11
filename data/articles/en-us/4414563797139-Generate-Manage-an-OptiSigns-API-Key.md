@@ -3,7 +3,7 @@
 **Article ID:** 4414563797139
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/4414563797139-Generate-Manage-an-OptiSigns-API-Key
-**Last Updated:** 2026-09-09T21:49:12+00:00
+**Last Updated:** 2026-09-10T09:47:50+00:00
 ---
 
 In order to use the API, you will need first get an API key. To get an API key, you can either use the link below, or click the **API Keys** button in the side menu of account management on the OptiSigns portal.

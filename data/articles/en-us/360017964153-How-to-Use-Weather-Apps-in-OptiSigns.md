@@ -3,7 +3,7 @@
 **Article ID:** 360017964153
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360017964153-How-to-Use-Weather-Apps-in-OptiSigns
-**Last Updated:** 2026-09-09T16:30:11+00:00
+**Last Updated:** 2026-09-10T09:40:16+00:00
 ---
 
 #### Wanting to keep your customers, employees, or visitors up-to-date with weather forecasts? OptiSigns has a Weather App, offering numerous options to customize your screens with current weather updates. In the sections below, we'll walk you through each of these weather apps and how to set them up in your OptiSigns portal.

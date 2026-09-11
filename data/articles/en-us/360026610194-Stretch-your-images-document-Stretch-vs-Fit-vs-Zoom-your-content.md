@@ -3,7 +3,7 @@
 **Article ID:** 360026610194
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360026610194-Stretch-your-images-document-Stretch-vs-Fit-vs-Zoom-your-content
-**Last Updated:** 2025-08-29T18:50:02+00:00
+**Last Updated:** 2026-09-10T09:40:48+00:00
 ---
 
 In general, we recommend you to upload images, document that will fit the size of your screens.  

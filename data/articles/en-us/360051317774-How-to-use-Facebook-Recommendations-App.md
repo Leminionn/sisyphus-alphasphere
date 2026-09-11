@@ -3,7 +3,7 @@
 **Article ID:** 360051317774
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360051317774-How-to-use-Facebook-Recommendations-App
-**Last Updated:** 2025-09-04T16:16:13+00:00
+**Last Updated:** 2026-09-10T09:43:31+00:00
 ---
 
 This article will guide you through how to create and use Facebook Recommendation App.

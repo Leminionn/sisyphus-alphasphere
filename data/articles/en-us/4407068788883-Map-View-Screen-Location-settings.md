@@ -3,7 +3,7 @@
 **Article ID:** 4407068788883
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/4407068788883-Map-View-Screen-Location-settings
-**Last Updated:** 2025-08-28T19:29:32+00:00
+**Last Updated:** 2026-09-10T09:46:49+00:00
 ---
 
 You can view your devices on a map.

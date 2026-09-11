@@ -3,7 +3,7 @@
 **Article ID:** 1500002233221
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/1500002233221-How-to-use-Asana-App
-**Last Updated:** 2025-09-04T15:11:27+00:00
+**Last Updated:** 2026-09-10T09:45:28+00:00
 ---
 
 To put Asana Board on your Digital Signs.  

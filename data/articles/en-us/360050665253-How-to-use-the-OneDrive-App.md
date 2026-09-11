@@ -3,7 +3,7 @@
 **Article ID:** 360050665253
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360050665253-How-to-use-the-OneDrive-App
-**Last Updated:** 2026-01-29T15:45:29+00:00
+**Last Updated:** 2026-09-10T09:43:15+00:00
 ---
 
 With OptiSigns, you can quickly put images, videos from your Microsoft OneDrive on your Digital Signs screens  by using OneDrive App. The app will create a playlist for files in your OneDrive, any changes, updates, add, remove will automatically be synced. This allow you to quickly update, share contents within your team without needing to login to OptiSigns portal.

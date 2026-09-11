@@ -3,7 +3,7 @@
 **Article ID:** 360058936513
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360058936513-Advanced-Proof-of-Play-or-Playback-report
-**Last Updated:** 2026-02-26T18:04:23+00:00
+**Last Updated:** 2026-09-10T09:44:49+00:00
 ---
 
 With OptiSigns you can enable tracking of playback of your contents.

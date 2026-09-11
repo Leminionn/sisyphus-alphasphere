@@ -3,7 +3,7 @@
 **Article ID:** 360043621953
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360043621953-How-to-Create-and-Use-Nested-Playlists
-**Last Updated:** 2026-09-08T19:09:15+00:00
+**Last Updated:** 2026-09-11T02:59:22+00:00
 ---
 
 ## Introduction

@@ -3,7 +3,7 @@
 **Article ID:** 42526907045651
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/42526907045651-Photos-GIFs-and-QR-Codes-in-Designer
-**Last Updated:** 2026-08-11T21:18:17+00:00
+**Last Updated:** 2026-09-10T10:46:45+00:00
 ---
 
 Using Designer, you can use a wide array of stock Photos, GIFs from GIPHY, and customizable QR codes to make your designs more dynamic.

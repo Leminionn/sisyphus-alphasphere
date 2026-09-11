@@ -3,7 +3,7 @@
 **Article ID:** 11784310183571
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/11784310183571-How-to-use-Waitwhile-App
-**Last Updated:** 2025-08-29T21:22:22+00:00
+**Last Updated:** 2026-09-10T09:49:03+00:00
 ---
 
 Waitwhile is a great platform to display and manage your in location waitlist and more.  

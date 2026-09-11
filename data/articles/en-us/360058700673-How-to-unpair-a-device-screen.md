@@ -3,7 +3,7 @@
 **Article ID:** 360058700673
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360058700673-How-to-unpair-a-device-screen
-**Last Updated:** 2025-08-28T20:07:13+00:00
+**Last Updated:** 2026-09-10T09:44:43+00:00
 ---
 
 Sometimes you need to unpair a screens when you not using it anymore or to move to different account.

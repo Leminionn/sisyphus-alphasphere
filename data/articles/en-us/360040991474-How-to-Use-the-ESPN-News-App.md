@@ -3,7 +3,7 @@
 **Article ID:** 360040991474
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360040991474-How-to-Use-the-ESPN-News-App
-**Last Updated:** 2026-09-09T21:57:39+00:00
+**Last Updated:** 2026-09-10T09:41:36+00:00
 ---
 
 The OptiSigns ESPN app allows you to display ESPN News on your digital signs. It covers the most up-to-date Top Headlines, NFL, NBA, MLB, NHL, College Sports, and more.

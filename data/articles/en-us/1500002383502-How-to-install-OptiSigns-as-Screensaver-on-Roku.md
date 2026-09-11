@@ -3,7 +3,7 @@
 **Article ID:** 1500002383502
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/1500002383502-How-to-install-OptiSigns-as-Screensaver-on-Roku
-**Last Updated:** 2025-09-04T20:46:23+00:00
+**Last Updated:** 2026-09-10T09:45:30+00:00
 ---
 
 Updated Sep 2023. After Roku OS 12.0.0 updates, Roku is enforcing stricter to power management & screensaver.

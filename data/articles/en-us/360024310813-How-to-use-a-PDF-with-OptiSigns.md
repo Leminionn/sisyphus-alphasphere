@@ -3,7 +3,7 @@
 **Article ID:** 360024310813
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360024310813-How-to-use-a-PDF-with-OptiSigns
-**Last Updated:** 2025-09-04T18:06:19+00:00
+**Last Updated:** 2026-09-10T09:40:33+00:00
 ---
 
 There are 3 ways you can use a PDF file:

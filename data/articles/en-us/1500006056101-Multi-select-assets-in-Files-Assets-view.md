@@ -3,20 +3,22 @@
 **Article ID:** 1500006056101
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/1500006056101-Multi-select-assets-in-Files-Assets-view
-**Last Updated:** 2025-08-29T19:08:26+00:00
+**Last Updated:** 2026-09-10T21:49:44+00:00
 ---
 
 There are a few ways to can select multiple assets at a time:
 
-**1) Press Ctrl and click on the assets you want to select:**
+**1) Click the check mark when hovering your mouse over the asset:**
+
+Hover your mouse over the asset to click the check mark.
 
 Once multiple items selected, you can use the toolbar to interact with it: Delete, Move, Edit Tags or set them to Live & Expire.
 
-**2) Click the check mark when hovering your mouse over the asset:**
+**2) Hold Shift while clicking a second tick box to select every asset between the two**
 
-Hover your mouse over the asset to click the check mark. This is effectively the same as Ctrl + Click.
+This is the fastest way to select multiple assets quickly.
 
-**3) Change your preference to Singe Click to select:**
+**3) Change your preference to Single Click to select:**
 
 In your Personal Settings: <https://app.optisigns.com/app/s/personal-profile>
 

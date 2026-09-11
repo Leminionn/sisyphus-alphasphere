@@ -3,7 +3,7 @@
 **Article ID:** 360044619014
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360044619014-How-to-Use-the-Facebook-Counter-App
-**Last Updated:** 2026-09-09T15:32:49+00:00
+**Last Updated:** 2026-09-10T14:23:21+00:00
 ---
 
 * [What You'll Need](#WhatYouNeed)

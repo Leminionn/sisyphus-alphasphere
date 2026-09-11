@@ -3,7 +3,7 @@
 **Article ID:** 4403332894867
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/4403332894867-How-to-set-up-Audit-Log-for-your-account
-**Last Updated:** 2026-03-18T22:16:52+00:00
+**Last Updated:** 2026-09-10T09:46:28+00:00
 ---
 
 With Pro Plus or Enterprise Plan, you can enable Audit Log feature, which will log who has made what changes to your account.

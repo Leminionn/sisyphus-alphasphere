@@ -3,7 +3,7 @@
 **Article ID:** 1500000485202
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/1500000485202-Custom-Branding-Settings
-**Last Updated:** 2026-07-14T16:23:24+00:00
+**Last Updated:** 2026-09-10T09:45:11+00:00
 ---
 
 It's possible to customize the OptiSigns Portal experience to match your brand. It's also possible to hide OptiSigns branding apps and features.

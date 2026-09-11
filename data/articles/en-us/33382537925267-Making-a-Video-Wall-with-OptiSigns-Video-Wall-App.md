@@ -3,7 +3,7 @@
 **Article ID:** 33382537925267
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/33382537925267-Making-a-Video-Wall-with-OptiSigns-Video-Wall-App
-**Last Updated:** 2026-09-04T16:24:39+00:00
+**Last Updated:** 2026-09-10T09:51:47+00:00
 ---
 
 ### In this guide, we’ll show you how to set up a video wall in the OptiSigns app using the Video Wall app and an OptiSigns Pro or ProMax Player, or a makeshift video wall.

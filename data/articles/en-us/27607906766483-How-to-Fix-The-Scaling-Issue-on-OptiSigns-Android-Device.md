@@ -3,7 +3,7 @@
 **Article ID:** 27607906766483
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/27607906766483-How-to-Fix-The-Scaling-Issue-on-OptiSigns-Android-Device
-**Last Updated:** 2025-08-29T16:56:22+00:00
+**Last Updated:** 2026-09-10T09:50:53+00:00
 ---
 
 If you encounter any issues with displaying the correct text size or graph size using the OptiSigns Android Stick, following these steps should help resolve your problem.

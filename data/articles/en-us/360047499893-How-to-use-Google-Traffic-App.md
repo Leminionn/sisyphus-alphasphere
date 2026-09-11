@@ -3,7 +3,7 @@
 **Article ID:** 360047499893
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360047499893-How-to-use-Google-Traffic-App
-**Last Updated:** 2025-08-28T19:56:05+00:00
+**Last Updated:** 2026-09-10T09:42:33+00:00
 ---
 
 You can use OptiSigns to show Traffic around your locations, this could be helpful for your employees, customers, visitors as they are coming in and out of your location.

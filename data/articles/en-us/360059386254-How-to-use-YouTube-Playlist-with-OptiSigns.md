@@ -3,7 +3,7 @@
 **Article ID:** 360059386254
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360059386254-How-to-use-YouTube-Playlist-with-OptiSigns
-**Last Updated:** 2025-08-29T21:12:53+00:00
+**Last Updated:** 2026-09-10T09:44:51+00:00
 ---
 
 Putting YouTube playlist on your digital signs screens is easy with OptiSigns.  

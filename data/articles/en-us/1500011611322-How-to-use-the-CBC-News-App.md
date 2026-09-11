@@ -3,7 +3,7 @@
 **Article ID:** 1500011611322
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/1500011611322-How-to-use-the-CBC-News-App
-**Last Updated:** 2026-09-09T19:26:10+00:00
+**Last Updated:** 2026-09-10T09:46:17+00:00
 ---
 
 The OptiSigns CBC app allows you to display CBC News on your digital signs. It covers the most up-to-date Top Stories, Breaking News, World News, Canada News, EU News, Business, Technology, and more.

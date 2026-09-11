@@ -3,7 +3,7 @@
 **Article ID:** 12454101966355
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/12454101966355-How-to-use-the-MustHaveMenus-app-with-OptiSigns
-**Last Updated:** 2025-08-29T20:23:00+00:00
+**Last Updated:** 2026-09-10T09:49:08+00:00
 ---
 
 |  |

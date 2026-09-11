@@ -3,7 +3,7 @@
 **Article ID:** 360047232054
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360047232054-Amazon-Fire-Stick-and-security-considerations
-**Last Updated:** 2025-08-29T17:00:38+00:00
+**Last Updated:** 2026-09-10T09:42:29+00:00
 ---
 
 This article will address some commons questions around security for Amazon Fire Stick.

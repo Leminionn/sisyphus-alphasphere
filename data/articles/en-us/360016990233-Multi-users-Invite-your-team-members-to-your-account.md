@@ -3,7 +3,7 @@
 **Article ID:** 360016990233
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360016990233-Multi-users-Invite-your-team-members-to-your-account
-**Last Updated:** 2025-09-04T18:00:06+00:00
+**Last Updated:** 2026-09-10T09:40:13+00:00
 ---
 
 With OptiSigns, you can invite your team members to help with managing and updating screens.  

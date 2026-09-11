@@ -3,7 +3,7 @@
 **Article ID:** 360041638433
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360041638433-How-to-use-the-CountDown-App
-**Last Updated:** 2026-05-05T17:08:12+00:00
+**Last Updated:** 2026-09-11T04:37:51+00:00
 ---
 
 The CountDown (or Count Down) app is a simple way to display a customizable count down clock for any occasion.

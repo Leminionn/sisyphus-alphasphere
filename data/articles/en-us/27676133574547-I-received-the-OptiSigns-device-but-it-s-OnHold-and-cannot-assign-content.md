@@ -3,7 +3,7 @@
 **Article ID:** 27676133574547
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/27676133574547-I-received-the-OptiSigns-device-but-it-s-OnHold-and-cannot-assign-content
-**Last Updated:** 2025-08-28T19:48:56+00:00
+**Last Updated:** 2026-09-10T09:50:55+00:00
 ---
 
 ## Issue:

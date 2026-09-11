@@ -3,7 +3,7 @@
 **Article ID:** 22474034993043
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/22474034993043-Advanced-Playlist-Item-Playback-Control-Campaign-Management
-**Last Updated:** 2025-10-10T15:42:34+00:00
+**Last Updated:** 2026-09-10T09:50:21+00:00
 ---
 
 |  |

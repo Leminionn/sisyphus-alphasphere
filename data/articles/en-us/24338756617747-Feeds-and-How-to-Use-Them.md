@@ -3,7 +3,7 @@
 **Article ID:** 24338756617747
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/24338756617747-Feeds-and-How-to-Use-Them
-**Last Updated:** 2026-09-09T21:11:45+00:00
+**Last Updated:** 2026-09-10T09:50:35+00:00
 ---
 
 ## Want to bring your screens to life with curated content across a variety of topics? Let's get to know OptiSigns Feeds!

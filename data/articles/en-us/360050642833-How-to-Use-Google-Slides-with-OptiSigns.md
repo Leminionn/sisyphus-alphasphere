@@ -3,7 +3,7 @@
 **Article ID:** 360050642833
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360050642833-How-to-Use-Google-Slides-with-OptiSigns
-**Last Updated:** 2026-08-11T21:06:54+00:00
+**Last Updated:** 2026-09-10T09:43:07+00:00
 ---
 
 [Google Slides](https://www.google.com/slides/about/) is a very popular way to create and share your presentations. These presentations can then be used on your Digital Signs for meetings, photo slideshows, and more!

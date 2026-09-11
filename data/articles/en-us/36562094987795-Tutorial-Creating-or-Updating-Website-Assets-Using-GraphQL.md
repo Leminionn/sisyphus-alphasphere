@@ -3,7 +3,7 @@
 **Article ID:** 36562094987795
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/36562094987795-Tutorial-Creating-or-Updating-Website-Assets-Using-GraphQL
-**Last Updated:** 2025-09-04T18:54:21+00:00
+**Last Updated:** 2026-09-10T10:46:23+00:00
 ---
 
 Using GraphQL, it is possible to create a website asset on OptiSigns.

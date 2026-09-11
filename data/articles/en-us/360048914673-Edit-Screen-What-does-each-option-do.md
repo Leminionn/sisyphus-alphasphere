@@ -3,7 +3,7 @@
 **Article ID:** 360048914673
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360048914673-Edit-Screen-What-does-each-option-do
-**Last Updated:** 2026-09-02T20:33:01+00:00
+**Last Updated:** 2026-09-10T09:42:40+00:00
 ---
 
 ### OptiSigns gives you unparalleled customization options for your digital signs with its Edit Screen feature. Each setting will be thoroughly explained to ensure you can effectively manage and customize your digital signage.

@@ -3,7 +3,7 @@
 **Article ID:** 12947820509971
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/12947820509971-Show-Hide-Offline-Indicator-on-your-Player
-**Last Updated:** 2025-08-29T21:13:36+00:00
+**Last Updated:** 2026-09-10T08:01:07+00:00
 ---
 
 By default, if the device is offline, OptiSigns Player will keep playing cached content and skip some content that requires online (i.e. YouTube), if you have critical content requiring network like Dashboards, you can turn offline indicator to let the viewer know that the device is offline.

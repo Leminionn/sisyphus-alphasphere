@@ -3,7 +3,7 @@
 **Article ID:** 4412065189267
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/4412065189267-Synchronized-playback-Sync-Play-feature
-**Last Updated:** 2026-07-06T21:29:32+00:00
+**Last Updated:** 2026-09-10T09:47:37+00:00
 ---
 
 With OptiSigns you can enable screens to play in-sync. This means:

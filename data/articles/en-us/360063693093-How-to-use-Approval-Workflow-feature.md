@@ -3,7 +3,7 @@
 **Article ID:** 360063693093
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360063693093-How-to-use-Approval-Workflow-feature
-**Last Updated:** 2025-08-29T18:47:00+00:00
+**Last Updated:** 2026-09-10T09:45:08+00:00
 ---
 
 With OptiSigns Pro or Enterprise Plan, you can set up Approval Workflow so that you can have:

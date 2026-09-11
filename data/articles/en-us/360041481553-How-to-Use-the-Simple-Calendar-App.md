@@ -3,7 +3,7 @@
 **Article ID:** 360041481553
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360041481553-How-to-Use-the-Simple-Calendar-App
-**Last Updated:** 2026-09-08T19:14:39+00:00
+**Last Updated:** 2026-09-10T09:41:49+00:00
 ---
 
 Simple Calendar App is a simple way to display a calendar for your office.  

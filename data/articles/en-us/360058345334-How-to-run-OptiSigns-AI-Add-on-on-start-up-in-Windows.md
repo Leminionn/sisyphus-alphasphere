@@ -3,7 +3,7 @@
 **Article ID:** 360058345334
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360058345334-How-to-run-OptiSigns-AI-Add-on-on-start-up-in-Windows
-**Last Updated:** 2025-08-29T19:07:49+00:00
+**Last Updated:** 2026-09-10T09:44:40+00:00
 ---
 
 In Windows, you can use Windows' Task Scheduler to set up OptiSigns AI Add-on to run on start up.

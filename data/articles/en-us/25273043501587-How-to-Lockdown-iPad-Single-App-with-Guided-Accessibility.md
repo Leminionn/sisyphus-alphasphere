@@ -3,7 +3,7 @@
 **Article ID:** 25273043501587
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/25273043501587-How-to-Lockdown-iPad-Single-App-with-Guided-Accessibility
-**Last Updated:** 2026-02-10T16:54:02+00:00
+**Last Updated:** 2026-09-10T09:50:40+00:00
 ---
 
 This article will guide you on how to activate the kiosk mode on your iPad for a specific application.

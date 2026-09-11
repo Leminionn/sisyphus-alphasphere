@@ -3,7 +3,7 @@
 **Article ID:** 360016494933
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360016494933-How-to-use-iMovie-content-with-OptiSigns
-**Last Updated:** 2025-08-29T18:55:22+00:00
+**Last Updated:** 2026-09-10T09:40:11+00:00
 ---
 
 All you need to do is export iMovie to. an MP4 video file and upload it to OptiSigns.

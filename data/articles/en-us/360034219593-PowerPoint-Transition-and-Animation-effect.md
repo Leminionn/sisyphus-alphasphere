@@ -3,7 +3,7 @@
 **Article ID:** 360034219593
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360034219593-PowerPoint-Transition-and-Animation-effect
-**Last Updated:** 2025-08-28T19:47:16+00:00
+**Last Updated:** 2026-09-10T09:40:57+00:00
 ---
 
 By default, uploaded PowerPoint presentation will be played without transition or animation effect.

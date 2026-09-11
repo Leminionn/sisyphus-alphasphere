@@ -3,7 +3,7 @@
 **Article ID:** 20428606424723
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/20428606424723-How-to-Use-Coordinate-Based-Positioning-and-Sizing-of-Elements-in-OptiSigns-Designer
-**Last Updated:** 2025-08-28T20:10:45+00:00
+**Last Updated:** 2026-09-10T09:50:08+00:00
 ---
 
 If you want to craft visually appealing and professional designs, achieving pixel-perfect layouts and precise element positioning is essential.

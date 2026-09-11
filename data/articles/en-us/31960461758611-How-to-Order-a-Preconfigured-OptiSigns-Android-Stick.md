@@ -3,7 +3,7 @@
 **Article ID:** 31960461758611
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/31960461758611-How-to-Order-a-Preconfigured-OptiSigns-Android-Stick
-**Last Updated:** 2026-08-25T21:52:40+00:00
+**Last Updated:** 2026-09-10T09:51:37+00:00
 ---
 
 OptiSigns devices are designed for easy, fast deployment. To support it, OptiSigns Android Sticks can be ordered with pre-configuration. You can order your devices directly through our portal, which will pair it to your account and pre-configure the device with screen name, Wi-Fi, and time zone.

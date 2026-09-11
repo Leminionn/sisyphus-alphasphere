@@ -3,7 +3,7 @@
 **Article ID:** 360050244454
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360050244454-How-to-use-Trello-App
-**Last Updated:** 2025-09-05T14:35:39+00:00
+**Last Updated:** 2026-09-10T09:43:03+00:00
 ---
 
 To put Trello Board on your Digital Signs.  

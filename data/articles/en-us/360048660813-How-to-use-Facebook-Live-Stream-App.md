@@ -3,7 +3,7 @@
 **Article ID:** 360048660813
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360048660813-How-to-use-Facebook-Live-Stream-App
-**Last Updated:** 2025-09-02T18:30:50+00:00
+**Last Updated:** 2026-09-10T09:42:38+00:00
 ---
 
 This article will guide you through how to create and use Facebook Live Stream app.

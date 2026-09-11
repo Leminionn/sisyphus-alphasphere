@@ -3,7 +3,7 @@
 **Article ID:** 1500001561861
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/1500001561861-How-to-mix-playlists-and-maintain-screen-time-share-with-OptiSigns-Content-Rotation-App
-**Last Updated:** 2025-09-02T19:32:41+00:00
+**Last Updated:** 2026-09-10T09:45:23+00:00
 ---
 
 |  |

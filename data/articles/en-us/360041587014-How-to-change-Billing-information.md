@@ -3,7 +3,7 @@
 **Article ID:** 360041587014
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360041587014-How-to-change-Billing-information
-**Last Updated:** 2025-08-28T20:03:48+00:00
+**Last Updated:** 2026-09-10T09:41:53+00:00
 ---
 
 You can go to Payment Settings to change your billing information. You will be able to change and maintain your billing email, payment method, billing address, and tax ID. To do so, you can simply go to <https://app.optisigns.com/app/s/payment>

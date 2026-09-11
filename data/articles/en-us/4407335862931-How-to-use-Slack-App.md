@@ -3,7 +3,7 @@
 **Article ID:** 4407335862931
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/4407335862931-How-to-use-Slack-App
-**Last Updated:** 2025-12-22T15:34:06+00:00
+**Last Updated:** 2026-09-10T09:47:03+00:00
 ---
 
 To use Slack app with any 3rd party app like OptiSigns you will need:

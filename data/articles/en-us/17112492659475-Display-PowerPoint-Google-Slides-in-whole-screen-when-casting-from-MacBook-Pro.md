@@ -3,7 +3,7 @@
 **Article ID:** 17112492659475
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/17112492659475-Display-PowerPoint-Google-Slides-in-whole-screen-when-casting-from-MacBook-Pro
-**Last Updated:** 2025-08-29T18:58:05+00:00
+**Last Updated:** 2026-09-10T09:49:30+00:00
 ---
 
 Here is the suggestion:

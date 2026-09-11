@@ -3,7 +3,7 @@
 **Article ID:** 29863080711059
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/29863080711059-How-to-add-a-Microsoft-365-Excel-Spreadsheet-as-a-DataSource-for-OptiSync
-**Last Updated:** 2026-01-29T16:01:49+00:00
+**Last Updated:** 2026-09-10T09:51:23+00:00
 ---
 
 #### Using our new OptiSync feature in Designer, you can add your Google Sheets to your DataSources and apply to your designs or our prebuilt Repeater Templates or Components. To learn more about OptiSync, please visit our guide [**here**](https://support.optisigns.com/hc/en-us/articles/29217646663187).

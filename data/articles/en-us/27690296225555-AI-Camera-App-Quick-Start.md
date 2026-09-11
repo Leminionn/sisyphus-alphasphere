@@ -3,7 +3,7 @@
 **Article ID:** 27690296225555
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/27690296225555-AI-Camera-App-Quick-Start
-**Last Updated:** 2026-06-29T19:26:02+00:00
+**Last Updated:** 2026-09-10T09:50:56+00:00
 ---
 
 OptiSigns AI Camera app that allows you to use any camera, plug into the device playing OptiSigns Digital Signage player to:

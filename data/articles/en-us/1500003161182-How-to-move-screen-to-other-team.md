@@ -3,7 +3,7 @@
 **Article ID:** 1500003161182
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/1500003161182-How-to-move-screen-to-other-team
-**Last Updated:** 2025-09-04T15:11:08+00:00
+**Last Updated:** 2026-09-10T09:45:32+00:00
 ---
 
 This article will guide you through how to move the screen to another team.

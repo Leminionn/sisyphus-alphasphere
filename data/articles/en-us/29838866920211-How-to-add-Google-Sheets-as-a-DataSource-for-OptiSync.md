@@ -3,7 +3,7 @@
 **Article ID:** 29838866920211
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/29838866920211-How-to-add-Google-Sheets-as-a-DataSource-for-OptiSync
-**Last Updated:** 2025-09-04T14:07:29+00:00
+**Last Updated:** 2026-09-10T09:51:21+00:00
 ---
 
 #### Using our new OptiSync feature in Designer, you can add your Google Sheets to your DataSources and apply to your designs or our prebuilt Repeater Templates or Components. For a breakdown on OptiSync, please visit our guide **[here](https://support.optisigns.com/hc/en-us/articles/29217646663187)**.

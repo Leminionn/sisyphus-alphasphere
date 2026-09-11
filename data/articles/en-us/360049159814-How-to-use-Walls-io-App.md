@@ -3,7 +3,7 @@
 **Article ID:** 360049159814
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360049159814-How-to-use-Walls-io-App
-**Last Updated:** 2025-09-04T20:16:07+00:00
+**Last Updated:** 2026-09-10T09:42:53+00:00
 ---
 
 You can display walls.io social media walls on your digital signs using OptiSigns Wall.io app.  

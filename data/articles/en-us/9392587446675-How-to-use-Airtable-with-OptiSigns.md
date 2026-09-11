@@ -3,7 +3,7 @@
 **Article ID:** 9392587446675
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/9392587446675-How-to-use-Airtable-with-OptiSigns
-**Last Updated:** 2025-08-29T20:20:28+00:00
+**Last Updated:** 2026-09-10T08:01:00+00:00
 ---
 
 *Airtable* is a platform for building collaborative applications. You can display it on your Digital Signage screen with the OptiSigns.

@@ -3,7 +3,7 @@
 **Article ID:** 4404053129619
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/4404053129619-How-to-use-Microsoft-Teams-Meeting-app-with-OptiSigns
-**Last Updated:** 2025-09-04T18:53:44+00:00
+**Last Updated:** 2026-09-10T09:46:32+00:00
 ---
 
 You can broadcast a Microsoft Teams meeting on your digital signs with OptiSigns.

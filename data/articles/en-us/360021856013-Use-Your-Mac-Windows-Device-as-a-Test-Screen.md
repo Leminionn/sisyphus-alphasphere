@@ -3,7 +3,7 @@
 **Article ID:** 360021856013
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360021856013-Use-Your-Mac-Windows-Device-as-a-Test-Screen
-**Last Updated:** 2025-09-04T20:39:46+00:00
+**Last Updated:** 2026-09-10T09:40:30+00:00
 ---
 
 ### Are you looking for a quick and easy way to test out OptiSigns during your trial or before pushing to your main screens?

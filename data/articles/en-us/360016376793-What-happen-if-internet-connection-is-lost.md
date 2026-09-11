@@ -3,7 +3,7 @@
 **Article ID:** 360016376793
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360016376793-What-happen-if-internet-connection-is-lost
-**Last Updated:** 2026-09-10T04:00:57+00:00
+**Last Updated:** 2026-09-10T15:27:50+00:00
 ---
 
 ### **OptiSigns is designed to handle offline playback:**

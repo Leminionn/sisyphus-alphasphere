@@ -3,7 +3,7 @@
 **Article ID:** 1500009042742
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/1500009042742-FireOS-TVs-Amazon-Insigna-Toshiba-TCL
-**Last Updated:** 2026-09-08T08:33:10+00:00
+**Last Updated:** 2026-09-10T09:45:55+00:00
 ---
 
 |  |

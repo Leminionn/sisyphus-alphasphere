@@ -3,7 +3,7 @@
 **Article ID:** 360040943374
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360040943374-Assign-Default-Content-for-Schedules
-**Last Updated:** 2026-05-05T19:18:10+00:00
+**Last Updated:** 2026-09-10T09:41:35+00:00
 ---
 
 If you create a schedule, at times when there's no content scheduled, the display will default to a black screen.  

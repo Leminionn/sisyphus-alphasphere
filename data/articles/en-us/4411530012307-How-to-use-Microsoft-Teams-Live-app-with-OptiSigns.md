@@ -3,7 +3,7 @@
 **Article ID:** 4411530012307
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/4411530012307-How-to-use-Microsoft-Teams-Live-app-with-OptiSigns
-**Last Updated:** 2025-09-04T15:27:21+00:00
+**Last Updated:** 2026-09-10T09:47:32+00:00
 ---
 
 You can broadcast a Microsoft Teams Live on your digital signs with OptiSigns.

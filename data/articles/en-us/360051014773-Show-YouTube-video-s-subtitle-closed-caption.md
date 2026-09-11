@@ -3,7 +3,7 @@
 **Article ID:** 360051014773
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360051014773-Show-YouTube-video-s-subtitle-closed-caption
-**Last Updated:** 2025-07-31T18:59:55+00:00
+**Last Updated:** 2026-09-10T09:43:30+00:00
 ---
 
 You can show YouTube video's subtitles on your OptiSigns Digital Signage player.

@@ -3,7 +3,7 @@
 **Article ID:** 36558834998291
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/36558834998291-Tutorial-Creating-Schedules-and-Adding-Schedule-Items-Using-GraphQL
-**Last Updated:** 2025-09-04T14:03:45+00:00
+**Last Updated:** 2026-09-10T10:46:21+00:00
 ---
 
 Using GraphQL, it’s possible to create a schedule on OptiSigns, then add items to it and assign values to them. We’ll cover each of these steps in turn.

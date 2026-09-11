@@ -3,7 +3,7 @@
 **Article ID:** 360049919933
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360049919933-How-to-Use-the-Crypto-Index-Crypto-Exchange-App
-**Last Updated:** 2026-09-08T20:18:39+00:00
+**Last Updated:** 2026-09-10T09:43:01+00:00
 ---
 
 With OptiSigns you can display up to date information on Cryptocurrency market. We offer 2 apps:

@@ -3,7 +3,7 @@
 **Article ID:** 360055549854
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360055549854-Pre-configure-Wi-Fi-with-OptiSigns-devices
-**Last Updated:** 2026-06-11T17:53:34+00:00
+**Last Updated:** 2026-09-10T09:44:12+00:00
 ---
 
 When ordering [OptiSticks via the OptiSigns portal](https://app.optisigns.com/app/s/order-device), you can put in Wi-Fi information & credentials and the device will be configured with those Wi-Fi details before shipped out.

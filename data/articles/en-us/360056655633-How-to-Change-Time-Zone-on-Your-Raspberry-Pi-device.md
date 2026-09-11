@@ -3,7 +3,7 @@
 **Article ID:** 360056655633
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360056655633-How-to-Change-Time-Zone-on-Your-Raspberry-Pi-device
-**Last Updated:** 2025-09-04T15:35:11+00:00
+**Last Updated:** 2026-09-10T09:44:34+00:00
 ---
 
 Your schedule doesn't start or end at the same time as your schedule. The issue may be your device's time zone setting. You can check your device's setting.

@@ -3,7 +3,7 @@
 **Article ID:** 6605515731603
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/6605515731603-Apple-TV-player-release-notes-limitations
-**Last Updated:** 2025-12-31T22:07:40+00:00
+**Last Updated:** 2026-09-10T09:48:14+00:00
 ---
 
 Apple TV is a powerful & reliable device.

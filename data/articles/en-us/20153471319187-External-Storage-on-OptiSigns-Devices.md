@@ -3,7 +3,7 @@
 **Article ID:** 20153471319187
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/20153471319187-External-Storage-on-OptiSigns-Devices
-**Last Updated:** 2026-09-09T14:46:27+00:00
+**Last Updated:** 2026-09-10T09:50:04+00:00
 ---
 
 |  |

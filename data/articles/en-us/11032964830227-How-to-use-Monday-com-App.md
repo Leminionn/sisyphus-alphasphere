@@ -3,7 +3,7 @@
 **Article ID:** 11032964830227
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/11032964830227-How-to-use-Monday-com-App
-**Last Updated:** 2025-09-04T15:31:20+00:00
+**Last Updated:** 2026-09-10T09:48:51+00:00
 ---
 
 To put Monday.com Board on your Digital Signs.

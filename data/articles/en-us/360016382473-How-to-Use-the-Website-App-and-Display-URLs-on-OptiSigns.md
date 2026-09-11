@@ -3,7 +3,7 @@
 **Article ID:** 360016382473
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360016382473-How-to-Use-the-Website-App-and-Display-URLs-on-OptiSigns
-**Last Updated:** 2026-08-19T20:31:24+00:00
+**Last Updated:** 2026-09-10T09:39:57+00:00
 ---
 
 To display Websites on your digital signs, you can use the **Website app**. Here is how to set one up.

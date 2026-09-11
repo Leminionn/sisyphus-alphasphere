@@ -3,7 +3,7 @@
 **Article ID:** 4410655948563
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/4410655948563-How-to-use-livestream-com-app
-**Last Updated:** 2025-08-29T19:33:32+00:00
+**Last Updated:** 2026-09-10T09:47:31+00:00
 ---
 
 You can broadcast your live events with livestream.com to your OptiSigns digital signs screens.

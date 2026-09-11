@@ -3,7 +3,7 @@
 **Article ID:** 36558469962643
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/36558469962643-Subscription-Function-in-GraphQL
-**Last Updated:** 2025-09-04T15:00:36+00:00
+**Last Updated:** 2026-09-10T10:46:20+00:00
 ---
 
 Subscriptions are a query type that allows you to be notified when any changes are made to a device, asset, or playlist.

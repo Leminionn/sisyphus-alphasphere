@@ -3,7 +3,7 @@
 **Article ID:** 4408052029587
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/4408052029587-How-to-Use-Weather-Apps-Based-on-Device-Location
-**Last Updated:** 2025-09-04T14:07:59+00:00
+**Last Updated:** 2026-09-10T09:47:09+00:00
 ---
 
 If you have many screens in different locations, and you want to display local weather, you can just make 1 weather app, and set it to use device's location instead of having to make many weather apps.

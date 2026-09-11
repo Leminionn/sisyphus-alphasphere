@@ -3,7 +3,7 @@
 **Article ID:** 360025626853
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360025626853-How-to-start-OptiSigns-automatically-when-devices-boot-up
-**Last Updated:** 2026-06-08T18:26:02+00:00
+**Last Updated:** 2026-09-10T09:40:36+00:00
 ---
 
 When you start the app for the first time.  

@@ -3,7 +3,7 @@
 **Article ID:** 18470994953363
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/18470994953363-How-to-keep-OptiSigns-running-on-Fire-Stick
-**Last Updated:** 2025-09-04T15:31:51+00:00
+**Last Updated:** 2026-09-10T09:49:53+00:00
 ---
 
 If you have experience with the OptiSigns app will go to sleep mode after 4 hours on the Fire Stick, you can follow this article to turn off the **Still Watching** feature.

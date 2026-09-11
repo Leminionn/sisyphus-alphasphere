@@ -3,7 +3,7 @@
 **Article ID:** 8099928867475
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/8099928867475-How-to-get-the-MAC-Address-on-your-media-player
-**Last Updated:** 2025-08-29T20:29:34+00:00
+**Last Updated:** 2026-09-10T09:48:36+00:00
 ---
 
 If your IT team is looking for the MAC address on your media player, you can follow this article to get the MAC Address on your devices.

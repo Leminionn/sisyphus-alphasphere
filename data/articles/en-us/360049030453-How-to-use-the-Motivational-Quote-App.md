@@ -3,7 +3,7 @@
 **Article ID:** 360049030453
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360049030453-How-to-use-the-Motivational-Quote-App
-**Last Updated:** 2026-09-09T20:46:35+00:00
+**Last Updated:** 2026-09-10T09:42:45+00:00
 ---
 
 This article will show you how to set up and display the Motivational Quote app on your digital signs.

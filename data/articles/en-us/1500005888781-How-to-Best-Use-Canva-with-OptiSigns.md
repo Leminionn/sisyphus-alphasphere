@@ -3,7 +3,7 @@
 **Article ID:** 1500005888781
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/1500005888781-How-to-Best-Use-Canva-with-OptiSigns
-**Last Updated:** 2025-09-04T13:52:52+00:00
+**Last Updated:** 2026-09-10T09:45:39+00:00
 ---
 
 ### Turn your ideas into striking designs effortlessly with Canva, a versatile graphic design tool. Follow this guide learn how to bring your screens to life with Canva.

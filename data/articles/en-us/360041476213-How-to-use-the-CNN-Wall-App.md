@@ -3,7 +3,7 @@
 **Article ID:** 360041476213
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360041476213-How-to-use-the-CNN-Wall-App
-**Last Updated:** 2026-09-09T17:00:22+00:00
+**Last Updated:** 2026-09-10T09:41:46+00:00
 ---
 
 The OptiSigns CNN app allows you to display CNN News on your digital signs. It covers the most up-to-date US, Politics, Business, Sport, Entertainment, Football, Health, World, Technology, Europe, Travel, and Most Recent news.

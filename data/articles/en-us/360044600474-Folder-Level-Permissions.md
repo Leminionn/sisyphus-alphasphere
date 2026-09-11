@@ -3,7 +3,7 @@
 **Article ID:** 360044600474
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360044600474-Folder-Level-Permissions
-**Last Updated:** 2025-09-10T15:02:26+00:00
+**Last Updated:** 2026-09-10T09:42:14+00:00
 ---
 
 Folder permission options give account Admins access to granular permissions structuring. It provides many options for controlling and managing who has access to what content.

@@ -3,7 +3,7 @@
 **Article ID:** 360047501233
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360047501233-How-to-use-Instagram-Counter-App
-**Last Updated:** 2025-08-29T20:18:47+00:00
+**Last Updated:** 2026-09-10T09:42:34+00:00
 ---
 
 |  |

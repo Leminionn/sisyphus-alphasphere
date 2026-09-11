@@ -3,7 +3,7 @@
 **Article ID:** 4406214738707
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/4406214738707-How-to-Use-the-Microsoft-Meeting-Room-App
-**Last Updated:** 2026-03-25T21:28:34+00:00
+**Last Updated:** 2026-09-10T09:46:46+00:00
 ---
 
 * [What You'll Need](#WhatYouNeed)

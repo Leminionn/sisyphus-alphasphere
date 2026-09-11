@@ -3,7 +3,7 @@
 **Article ID:** 18399492388371
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/18399492388371-How-to-Customize-the-Thumbnail-of-Files-Assets-and-Folders
-**Last Updated:** 2025-09-04T18:20:38+00:00
+**Last Updated:** 2026-09-10T09:49:51+00:00
 ---
 
 Take control of your files, assets, and folders by personalizing their thumbnails. By adding your personal touch to thumbnails, you can enhance your browsing experience, effortlessly spot and distinguish specific items, and uphold a polished and cohesive visual identity.

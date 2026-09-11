@@ -3,7 +3,7 @@
 **Article ID:** 1500002047642
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/1500002047642-Advanced-How-to-assign-security-for-users-to-only-edit-certain-zones-of-the-screens
-**Last Updated:** 2025-09-02T19:14:05+00:00
+**Last Updated:** 2026-09-10T08:00:57+00:00
 ---
 
 This article will guide you through how to assign security for users to only edit certain zones of the screens.  

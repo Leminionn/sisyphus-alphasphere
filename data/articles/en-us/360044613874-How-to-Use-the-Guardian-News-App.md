@@ -3,7 +3,7 @@
 **Article ID:** 360044613874
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360044613874-How-to-Use-the-Guardian-News-App
-**Last Updated:** 2026-09-09T21:32:02+00:00
+**Last Updated:** 2026-09-10T09:42:15+00:00
 ---
 
 * [What You'll Need](https://support.optisigns.com/hc/en-us/articles/360040991534#WhatYouNeed)

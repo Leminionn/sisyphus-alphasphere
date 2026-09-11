@@ -3,7 +3,7 @@
 **Article ID:** 360049518313
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360049518313-How-to-use-Google-Drive-App
-**Last Updated:** 2025-08-29T19:49:24+00:00
+**Last Updated:** 2026-09-10T09:42:57+00:00
 ---
 
 With OptiSigns, you can quickly put images, videos from your Google Drive on your Digital Signs screens  by using Google Drive App. The app will create a playlist for files in your Google Drive, any changes, updates, add, remove will automatically be synced. This allow you to quickly update, share contents within your team without needing to login to OptiSigns portal.

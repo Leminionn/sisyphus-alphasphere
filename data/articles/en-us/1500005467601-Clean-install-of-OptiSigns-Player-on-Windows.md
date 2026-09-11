@@ -3,7 +3,7 @@
 **Article ID:** 1500005467601
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/1500005467601-Clean-install-of-OptiSigns-Player-on-Windows
-**Last Updated:** 2025-10-23T21:18:17+00:00
+**Last Updated:** 2026-09-10T09:45:38+00:00
 ---
 
 Performing a clean install of OptiSigns on Windows could help to resolve issues you experiencing.

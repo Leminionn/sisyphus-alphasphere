@@ -3,7 +3,7 @@
 **Article ID:** 14557706459283
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/14557706459283-Present-share-iOS-Android-phone-tablet-to-your-screen-with-OptiSigns-AeriCast-Add-on
-**Last Updated:** 2025-09-04T15:09:56+00:00
+**Last Updated:** 2026-09-10T09:49:15+00:00
 ---
 
 You can download the AeriCast Presenter app from the app store.

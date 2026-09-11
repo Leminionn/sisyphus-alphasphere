@@ -3,7 +3,7 @@
 **Article ID:** 36911639377683
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/36911639377683-How-to-Use-OptiSigns-with-Microsoft-Teams-Rooms
-**Last Updated:** 2025-09-04T18:42:32+00:00
+**Last Updated:** 2026-09-10T10:46:24+00:00
 ---
 
 Microsoft has released a new Digital Signage option for their [Microsoft Teams Rooms](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms) application, which allows digital signage to be displayed on a Microsoft Teams Rooms device. This will cause Teams Rooms screens and devices to display digital signage content when idle.

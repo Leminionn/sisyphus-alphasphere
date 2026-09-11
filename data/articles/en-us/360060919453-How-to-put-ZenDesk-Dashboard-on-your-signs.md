@@ -3,7 +3,7 @@
 **Article ID:** 360060919453
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360060919453-How-to-put-ZenDesk-Dashboard-on-your-signs
-**Last Updated:** 2025-09-02T18:19:33+00:00
+**Last Updated:** 2026-09-10T09:45:01+00:00
 ---
 
 This article will guide you through how to create and use a Zendesk App.

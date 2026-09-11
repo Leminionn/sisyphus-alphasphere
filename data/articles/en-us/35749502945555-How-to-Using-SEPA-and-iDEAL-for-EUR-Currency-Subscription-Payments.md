@@ -3,7 +3,7 @@
 **Article ID:** 35749502945555
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/35749502945555-How-to-Using-SEPA-and-iDEAL-for-EUR-Currency-Subscription-Payments
-**Last Updated:** 2025-08-29T16:58:30+00:00
+**Last Updated:** 2026-09-10T10:46:19+00:00
 ---
 
 Here’s a simple guide to help you use SEPA and iDEAL for the EUR Currency payment methods when creating or upgrading your subscription.

@@ -3,7 +3,7 @@
 **Article ID:** 360044115513
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360044115513-How-to-Use-the-Stock-App
-**Last Updated:** 2026-09-09T19:22:54+00:00
+**Last Updated:** 2026-09-10T11:36:53+00:00
 ---
 
 ### The Stock app allows you to display your choice of stock tickers on screen, or as part of a Split Screen configuration as a ticker.

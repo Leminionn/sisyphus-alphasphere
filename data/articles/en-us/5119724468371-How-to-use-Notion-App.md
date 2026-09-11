@@ -3,7 +3,7 @@
 **Article ID:** 5119724468371
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/5119724468371-How-to-use-Notion-App
-**Last Updated:** 2025-08-29T21:52:07+00:00
+**Last Updated:** 2026-09-10T09:48:04+00:00
 ---
 
 To put Notion Note on your Digital Signs.  

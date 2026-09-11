@@ -3,7 +3,7 @@
 **Article ID:** 360033693534
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360033693534-PowerPoint-Resolution-Size-for-use-with-Digital-Signage
-**Last Updated:** 2025-08-29T21:01:45+00:00
+**Last Updated:** 2026-09-10T09:40:52+00:00
 ---
 
 One of the common question we got is what's the optimal page size, resolution for PowerPoint slides to use on big screens TVs.
