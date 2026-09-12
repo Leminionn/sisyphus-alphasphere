@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-09-11T07:26:28.566631+00:00",
+  "last_sync": "2026-09-12T07:18:51.883461+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -445,10 +445,10 @@
     "28598173096723": {
       "id": 28598173096723,
       "slug": "28598173096723-How-To-Create-and-Use-Operational-Schedules-HDMI-CEC-RS-232",
-      "hash_val": "93af494546fb9fe9fd831adc45ae0350622bbf4cd537393ef2f0bd02b7dfe6a1",
-      "updated_at": "2026-07-30T00:40:11+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28598173096723howtocreatean-4nrdq5nm6791",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28598173096723howtocreatean-4nrdq5nm6791",
+      "hash_val": "083332c7edeae6e93da64cfe98c2e18e79a5d18f672c7dcf90e6f47aaa4777df",
+      "updated_at": "2026-09-11T20:59:10+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28598173096723howtocreatean-bhbobsyjqa6h",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28598173096723howtocreatean-bhbobsyjqa6h",
       "locale": "en-us"
     },
     "28427819992979": {
@@ -616,10 +616,10 @@
     "23030445716883": {
       "id": 23030445716883,
       "slug": "23030445716883-How-to-setup-AeriCast-Meet-Wireless-Video-Conferencing",
-      "hash_val": "a978af19efaaeb9ee06b8eea3cf0eedd41d680e9000749110bb0396249ed34e4",
-      "updated_at": "2026-09-10T09:50:26+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/23030445716883howtosetupaer-qqkznb19paol",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/23030445716883howtosetupaer-qqkznb19paol",
+      "hash_val": "fca145bc383c1377e7139407478c5c0c04ae3ac9fb26d7a0ee1d22cb4d919109",
+      "updated_at": "2026-09-11T17:16:28+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/23030445716883howtosetupaer-iyqv95y8u0bu",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/23030445716883howtosetupaer-iyqv95y8u0bu",
       "locale": "en-us"
     },
     "22875592994195": {
@@ -642,20 +642,20 @@
     },
     "21708242980755": {
       "id": 21708242980755,
-      "slug": "21708242980755-How-to-Share-Playlist-and-Folder-with-External-Users",
-      "hash_val": "8c46c65bb44fe3cadf42aa4620585ebba635fb7ce62fb65b420580ec19acdb66",
-      "updated_at": "2026-09-10T09:50:19+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/21708242980755howtosharepla-bc4ps1t78rpx",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/21708242980755howtosharepla-bc4ps1t78rpx",
+      "slug": "21708242980755-Sharing-Playlists-and-Folders-with-External-Users",
+      "hash_val": "57aa99bd607d1d5525775c80f84149ae719afa0e62353ea1c8f024a2e978d93a",
+      "updated_at": "2026-09-11T17:02:25+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/21708242980755sharingplayli-nwva490cn55q",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/21708242980755sharingplayli-nwva490cn55q",
       "locale": "en-us"
     },
     "20879903340947": {
       "id": 20879903340947,
       "slug": "20879903340947-How-to-Use-Content-Tags-in-The-Playlist",
-      "hash_val": "03589531a82b27cf890fe40d0c40ff638a796bb678608ee3d80d9250ba2f358a",
-      "updated_at": "2026-09-10T09:50:16+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/20879903340947howtouseconte-g1e38qm5gc1d",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/20879903340947howtouseconte-g1e38qm5gc1d",
+      "hash_val": "f2e564208fe7fba476f0b841a64fb13d506c36b38c3c8abada7c52998ce174b7",
+      "updated_at": "2026-09-11T11:22:47+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/20879903340947howtouseconte-cu1ax3jiwzuy",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/20879903340947howtouseconte-cu1ax3jiwzuy",
       "locale": "en-us"
     },
     "20750060900883": {
@@ -1588,10 +1588,10 @@
     "360042736794": {
       "id": 360042736794,
       "slug": "360042736794-How-to-set-an-asset-to-Live-or-Expire-at-specific-time",
-      "hash_val": "0a5f883ca0915f7152673ac560d5ad576b66d3c6454dda08a5918432df03fe84",
-      "updated_at": "2026-09-10T09:42:05+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360042736794howtosetanasset-f1zklek4caau",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360042736794howtosetanasset-f1zklek4caau",
+      "hash_val": "fd7164bf09ea8e2e326370cbb0fb2d418d8ed2536471959daab41dd1b3afdc92",
+      "updated_at": "2026-09-11T20:37:05+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360042736794howtosetanasset-7cxbcy4d2ma6",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360042736794howtosetanasset-7cxbcy4d2ma6",
       "locale": "en-us"
     },
     "360042143753": {
@@ -1732,10 +1732,10 @@
     "360026559613": {
       "id": 360026559613,
       "slug": "360026559613-How-to-Create-a-Scrolling-Strip-or-Bar",
-      "hash_val": "813b47b66ec6d370bd7654349c0ff650a4ecf18430fda39573f51619c60f7835",
-      "updated_at": "2026-09-10T09:40:43+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360026559613howtocreateascr-4niibxng4ae2",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360026559613howtocreateascr-4niibxng4ae2",
+      "hash_val": "4d29e27f038296298d8c5769a61087ad394a426248579d86aad7cd768d81d06f",
+      "updated_at": "2026-09-11T08:02:40+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360026559613howtocreateascr-wr8fsthnc0kc",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360026559613howtocreateascr-wr8fsthnc0kc",
       "locale": "en-us"
     },
     "360026559573": {
@@ -2020,10 +2020,10 @@
     "6636047009427": {
       "id": 6636047009427,
       "slug": "6636047009427-How-to-install-OptiSigns-Player-on-Apple-TV",
-      "hash_val": "cf4c63940c13753d61bc04b645f8f9866f21217124314bd0f5fca264c7da78b5",
-      "updated_at": "2026-09-10T09:48:16+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/6636047009427howtoinstallop-hc9nvhf0yp8e",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/6636047009427howtoinstallop-hc9nvhf0yp8e",
+      "hash_val": "b2d4d5137253c5cb4daec9eaa84c30b3cbf8040e1667b7234e82981f439c2234",
+      "updated_at": "2026-09-11T11:00:02+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/6636047009427howtoinstallop-62zz01r76pyu",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/6636047009427howtoinstallop-62zz01r76pyu",
       "locale": "en-us"
     },
     "4414563863827": {
@@ -2281,10 +2281,10 @@
     "4414558295955": {
       "id": 4414558295955,
       "slug": "4414558295955-Tutorial-Create-Update-Add-Remove-items-from-Playlists",
-      "hash_val": "a8f29121e142af12d1c99595f7b1bc4527f181a86255f37c5975fc6b25a6f5fa",
-      "updated_at": "2026-09-10T09:47:44+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4414558295955tutorialcreate-dcsakmwc4llm",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4414558295955tutorialcreate-dcsakmwc4llm",
+      "hash_val": "c02db0b7ba8830674b65f05f4f6af035955aabe0a60df4955228349094d521eb",
+      "updated_at": "2026-09-11T10:15:55+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4414558295955tutorialcreate-8x3yfvmv2sd0",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4414558295955tutorialcreate-8x3yfvmv2sd0",
       "locale": "en-us"
     },
     "4411762539027": {
@@ -3109,10 +3109,10 @@
     "1500001985341": {
       "id": 1500001985341,
       "slug": "1500001985341-How-to-Use-the-Local-Folder-App-in-OptiSigns",
-      "hash_val": "1dba8a615384ef365f688e76e378ed631855d9a657af327a690ffa83e8c2eb9f",
-      "updated_at": "2026-09-10T09:45:24+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500001985341howtousetheloc-wlh99c1xfe2l",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500001985341howtousetheloc-wlh99c1xfe2l",
+      "hash_val": "65de6bcf441b4de654d0be2e9c86fc22b267bcfa0a4d7d08740b7cb1af637763",
+      "updated_at": "2026-09-11T11:30:23+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500001985341howtousetheloc-uofrxm4n811g",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500001985341howtousetheloc-uofrxm4n811g",
       "locale": "en-us"
     },
     "360060284174": {
@@ -3163,10 +3163,10 @@
     "360056356414": {
       "id": 360056356414,
       "slug": "360056356414-How-to-use-Scrolling-Website-App",
-      "hash_val": "5f9bbfda55c6306a50af4ac67cf82d4b3bf2a428599e4d8762a0a76d31febaba",
-      "updated_at": "2026-09-10T09:44:30+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360056356414howtousescrolli-538hzvve0xpe",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360056356414howtousescrolli-538hzvve0xpe",
+      "hash_val": "d4ec628c0ffa5c717efaf2649b2ca5a974692c40be94597a4d1603bd3cdcc606",
+      "updated_at": "2026-09-11T16:16:33+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360056356414howtousescrolli-njn7z69ub7if",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360056356414howtousescrolli-njn7z69ub7if",
       "locale": "en-us"
     },
     "360055900513": {

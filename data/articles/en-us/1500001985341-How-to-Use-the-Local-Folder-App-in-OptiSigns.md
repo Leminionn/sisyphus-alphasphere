@@ -3,7 +3,7 @@
 **Article ID:** 1500001985341
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/1500001985341-How-to-Use-the-Local-Folder-App-in-OptiSigns
-**Last Updated:** 2026-09-10T09:45:24+00:00
+**Last Updated:** 2026-09-11T11:30:23+00:00
 ---
 
 Sometimes, due to network limitations or security reasons, you'll have content you'd rather keep locally at your device. The Local Folder app allows you to access content stored locally.
@@ -28,7 +28,7 @@ You can also use USB thumb drives. OptiSigns detects drives plugged in and scan 
 
 First, you will need to have your screens set up and paired. For more information on how to do that, click [here](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv).
 
-Then log on to our portal: <http://app.optisigns.com/>
+Then log on to our portal: <https://app.optisigns.com/>
 
 Go to **Files/Assets** and click on **"Apps"**:
 
@@ -38,10 +38,10 @@ Enter the path to your local folder (explained in more detail below) and other s
 
 * **Name** - Name of your Local Folder app. This will be displayed on your asset list, and will **not** be displayed on your screens.
 * **Local Folder** - Path to the folder on your device. We will provide detailed instructions per platform later in this article.
-* **Transition Effect** - Transition effect between your images and videos in the folder.
+* **Transition Effects** - Transition effect between your images and videos in the folder.
 * **Transition Speed** - How fast you want your transitions to animate.
-* **Duration for Image** - How long each images should show on your screen, default is 10 seconds.
-* **Max Video Duration** - Default is 0, which means the app will play each video till the end. You can set it to some other values to prevent too long videos. For example if you set this value to 60 seconds. If a video is longer than 60s, it will get cut off at 60s to play next item. If a video is less than 60s, it will play the duration of the video.
+* **Duration for Image** - How long each image should show on your screen, default is 10 seconds.
+* **Max Video Duration** - Default is 0, which means the app will play each video till the end. You can set it to some other values to prevent too long videos. For example, if you set this value to 60 seconds. If a video is longer than 60s, it will get cut off at 60s to play next item. If a video is less than 60s, it will play the duration of the video.
 * **Scale Image** - select how the player should handle if image's resolution is less than your screen's resolution
 * **Scale Video** - select how the player should handle if the video's resolution is less than your screen's resolution
 * **Shuffle** - select if you want to shuffle play the content in the folder (Default order is by filename alphabetically)

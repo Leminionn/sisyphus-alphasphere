@@ -3,7 +3,7 @@
 **Article ID:** 28598173096723
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/28598173096723-How-To-Create-and-Use-Operational-Schedules-HDMI-CEC-RS-232
-**Last Updated:** 2026-07-30T00:40:11+00:00
+**Last Updated:** 2026-09-11T20:59:10+00:00
 ---
 
 ### Do you want your screen to automatically turn on and off according to a schedule to save time and energy? Operational Schedule, an all-in-one feature, makes this easier than ever before!
@@ -81,25 +81,27 @@ For more on Schedules, see our article on [**Creating and Using Schedules**](htt
 
 On the side menu, you can customize your schedule with the following options:
 
-1. 1. **Name:** Create a name for your schedule. We ***highly recommend*** doing this so as to differentiate it from other Operational Schedules you may wish to make.
-   2. **Time:**This is the time of your event, click on it to edit the day and time.
-   3. **Repeat:**Choose whether you'd like your event to repeat from the available options, or create your own custom repeat.
-   4. **Power:** Choose from On, Off, HDMI-CEC On or Off, or RS-232 On or Off.
-      * **On:** Sends a signal to turn the screen **ON** during the designated hours. This will be through RS-232 first if available, then through HDMI-CEC. This is our ***recommended option.***
-      * **Off:**Sends a signal to turn the screen **OFF**during the designated hours. This will be through RS-232 first if available then through HDMI-CEC.
-      * **HDMI-CEC - On:**Sends a command to turn the screen **ON**using HDMI-CEC during the designated hours.
-      * **HDMI-CEC - Off:**Sends a command to turn the screen **OFF**using HDMI-CECduring the designated hours.
-      * **RS-232 - On:**Sends a command to turn the screen **ON**using RS-232 during the designated hours.
-      * **RS-232 - Off:**Sends a command to turn the screen **OFF** through RS-232 during the designated hours.
+* **Name:** Create a name for your schedule. We ***highly recommend*** doing this so as to differentiate it from other Operational Schedules you may wish to make.
+* **Schedule:**Where you schedule the time of your Operational Schedule.
+* **Repeat:**Choose whether you'd like your event to repeat from the available options, or create your own custom repeat.
+* **Power State:** Choose from On, Off, or None.
+  + **On:** Sends a signal to turn the screen **ON** during the designated hours. This will be through RS-232 first if available, then through HDMI-CEC. This is our ***recommended option.***
+  + **Off:**Sends a signal to turn the screen **OFF**during the designated hours. This will be through RS-232 first if available then through HDMI-CEC.
+  + **None:** Will not power on/off your screen.
+* **Control Method:** Choose which method you'd like to power on or off your screen.
+  + **Auto:** Will automatically detect which method you have (RS232 or HDMI-CEC)
+  + **RS232:** Will exclusively attempt to power on/off your device via RS232 connection.
+  + **HDMI-CEC:** Will exclusively attempt to power on/off your device via HDMI-CEC connection.
 
-        |  |
-        | --- |
-        | **Note:** *Your device will try RS-232 first if available, then HDMI-CEC command to turn off TV/Monitor. Your TV/Monitor model and player needs to support this feature for it to work. Players sold by OptiSigns support HDMI-CEC and RS-232.* |
-   5. **Mute:**Choose if you'd like your screen to be mute or not if sound is available.
-   6. **Volume:**Adjust the volume of the screen.
-   7. **Brightness:** Adjust the brightness of the screen, with 100% being your screen's current brightness.
-   8. **RS-232 Commands:** If you have already configured [**RS-232 commands**](https://support.optisigns.com/hc/en-us/articles/9061950942995-Using-RS-232-to-Schedule-TV-Power-On-Off-or-other-commands), you can select them from this dropdown.
-   9. **HDMI Lock:**If checked, the system will periodically check which HDMI input the TV is using. If it detects that the TV has been switched away from the OptiSigns HDMI-CEC input, it will automatically switch back. This check runs approximately once every hour.
+|  |
+| --- |
+| **Note:** On Auto, y*our device will try RS-232 first if available, then HDMI-CEC command to turn off TV/Monitor. Your TV/Monitor model and player needs to support this feature for it to work. Players sold by OptiSigns support HDMI-CEC and RS-232.* |
+
+* **Mute:**Choose if you'd like your screen to be mute or not if sound is available.
+* **Volume:**Adjust the volume of the screen.
+* **Brightness:** Adjust the brightness of the screen, with 100% being your screen's current brightness.
+* **RS-232 Commands:** If you have already configured [**RS-232 commands**](https://support.optisigns.com/hc/en-us/articles/9061950942995-Using-RS-232-to-Schedule-TV-Power-On-Off-or-other-commands), you can select them from this dropdown.
+* **HDMI Lock:**If checked, the system will periodically check which HDMI input the TV is using. If it detects that the TV has been switched away from the OptiSigns HDMI-CEC input, it will automatically switch back. This check runs approximately once every hour.
 
 **3.**Make sure to **Save** your event at the bottom so that it will assign the event to the schedule. Then, click "**Apply**" to assign it to your screen.
 

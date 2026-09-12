@@ -3,54 +3,79 @@
 **Article ID:** 23030445716883
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/23030445716883-How-to-setup-AeriCast-Meet-Wireless-Video-Conferencing
-**Last Updated:** 2026-09-10T09:50:26+00:00
+**Last Updated:** 2026-09-11T17:16:28+00:00
 ---
 
-AeriCast Meet is a new feature included in the AeriCast add-on. It allows users to wirelessly connect to the conference room webcam, microphone and speakers, and join various video conference platforms, such as Zoom, MS Teams, Google Meet, Webex and more. AeriCast Meet also supports wide range of the conference room webcam, microphone and speaker devices, and is a perfect solution to fit your current and future conference room setup and needs.
+With the AeriCast add-on, you can turn any conference room TV into a digital sign. Aericast also allows user to present from their laptops to those screens without needing cables, dongles or extra hardware.
 
-Here is the detailed information to setup your AeriCast Meet solution:
+With a USB webcam, mic and speakers connected to the OptiSigns Windows Player, users can wirelessly link these devices and use them in the video conference.
 
-# Requirements
+It's done in three easy steps:
 
-* Upgraded AeriCast add-on license
-* Receiver device
-  + A Windows device to run the **OptiSigns Player** software (v5.6.24+)
-  + Minimun hardware spec: Intel J6426 CPU, 4GB RAM, 80GB storage
-  + OS: Win/Mac/Linux
-* Video conferencing A/V devices
-  + USB Webcam, microphone and speakers that are compatible with Windows 10 OS
-  + Ex: Yealink UVC34, Yealink UVC40, Logitech Meetup and Owl Bar
-* Network
-  + Wired ethernet connection to to the Windows Receiver device is strongly recommended for the best quality and experience
-  + 5GHz with 30+Mbps is minimum required
-  + Allow UDP traffics on port 10000 - 60000
-* User laptops
-  + Windows 10+
-  + MacOS Monterey (12.3+)
+1. Create AeriCast Wireless Presentation app in your "Files/Assets"
+2. Assign it to your screen
+3. Wirelessly mirror your screen from a [laptop](https://support.optisigns.com/hc/en-us/articles/14502378549907) or [iOS/Android phone, tablet](https://support.optisigns.com/hc/en-us/articles/14557706459283), or begin [AeriCast Add-on wireless conferencing](https://support.optisigns.com/hc/en-us/articles/23030445716883/)
 
-# Steps
+**Note:**  
+All customers can use AeriCast add-on with a 14-day free trial.
 
-**Windows Receiver Device:**
+The trial allows two free licenses of the AeriCast add-on. When the trial is over, each created AeriCast add-on will cost $20 per month.
 
-1. Connect the Windows device to the TV screen's HDMI input
-2. Download and install the [OptiSigns Windows Player](https://links.optisigns.com/win) on the Windows device, and pair it to your account after the installation
-3. Plugin the webcam/microphone/speaker device to the Windows device's USB port and install the device's driver provided by the manufacturer if needed
-4. Open the OptiSigns Player app, and go to AeriCast Meet Settings from the left menu. Select the desired Webcam and Microphone.
-5. Change the system default speaker to the desired device
-6. Login to [https://app.optisigns.com](https://app.optisigns.com/) and Manage Subscription menu to get AeriCast add-on and assign the AeriCast add-on license to the screen device we just set up above.
+## **Let's Get Started:**
 
-  
+When pushed to a screen, the Aericast Screen Share app will appear like this by default:
 
-**User Laptops:**
+The app can also be placed at the bottom strip of a [Split Screen](https://support.optisigns.com/hc/en-us/articles/360026559573). This allows the rest of your screen to be used as a sign when not in use:
 
-1. Download and install AeriCast Client for [Mac](https://links.aericast.com/ac-client-mac) or [Windows](https://links.aericast.com/ac-client-win) on your Mac/Windows laptop
-2. Open AeriCast Client app, click on Meeting from left and input the 4 digit code displayed on the screen, and **Start**
-3. Open the video conferencing software, such as Zoom or MS Teams, and change the video and audio device settings:
-   * Video: AeriCast Camera
-   * Microphone: AeriCast Virtual Input
-   * Speaker: AeriCast Virtual Output devices
-4. Start your video conference meeting
+## **Setting Up the Aericast Add-On:**
 
-Please note that AeriCast Meet does NOT work with Android Player due to the resource restrictions.
+### 1. Create AeriCast Wireless Presentation app
+
+First, you will need to have your [screens set up and paired](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv).
+
+Then log on to our portal: <http://app.optisigns.com/>
+
+Go to **Files/Assets →** **Apps** and search for the **"AeriCast Wireless Presentation"** app.
+
+Enter your AeriCast Wireless Presentation app information:
+
+* **Name:** Name of your AeriCast Wireless Presentation app, this is the name of the app in your asset list. It will not be displayed on your screens.
+* **Title:** Enter a title to be displayed on your screen. For example: "Welcome to Conf. Room N123"
+* **Message:** Enter a message to be displayed on your screen. This could be anything: a fun workplace meme, a reminder message, or instructions on how to use the room.
+* **Expires in:** The 4 character presenter codes are set to expire every 10 minutes by default. This is to prevent someone saving the code and using it days or weeks later.
+* **Background Playlist:** By default, the app plays a few images in the background. This is for aesthetics, and also to prevent your screen from developing stuck pixels. You can customize what images play here with a Playlist. Note: only images will be played.
+* **Background Opacity:** This appears only when a Playlist is selected and allows the user to change the opacity of the background so that the text still stands out effectively.
+* **Text Color:** Default is white, but if you'd like another color, this option provides them.
+* **Different Presenter Code for each screens**: When you assign any device, the pairing code will be different on different devices.
+
+|  |
+| --- |
+| **NOTE:** The **Different Presenter Code for Each Screens** option is only supported on the PAID Aericast subscription. If you want to show the same Presenter Code across multiple screens, it can only be done with a paid subscription. |
+
+Click **"Advanced"** to set:
+
+* **Instruction 1:**The default message is "To present," this can be changed to whatever you like.
+* **Instruction 2:** The default message is "present.optisigns.com," this can be changed to whatever you like.
+* **Instruction 3:** The default message is "and enter the code below to start presenting," this can be changed to whatever you like.
+* **Scrolling strip:** By default is "To present, go to present.optisigns.com and enter", this can be changed to whatever you like.
+
+Click **Save**.  
+After saving, you can **Preview** the wall. It may take several seconds for the app to load.
+
+### 2. Assign it to your screen
+
+You can assign the AeriCast Wireless Presentation app directly to a screen by going to the **Screens** tab and selecting the screens you want to put it on.
+
+Alternatively, you can put the AeriCast Wireless Presentation asset in the **bottom strip of a Split Screen**:
+
+### 3. How to present your screen or start AeriCast Add-on
+
+* If you want to know how to present your laptop, click [here](https://support.optisigns.com/hc/en-us/articles/14502378549907).
+* If you want to know how to present your phone or tablet, click [here](https://support.optisigns.com/hc/en-us/articles/14557706459283).
+
+### **That's it!**
+
+You have configured the Aericast Wireless Presentation add-on.  
+You can change these settings by clicking on it in the **Files/Assets** tab.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

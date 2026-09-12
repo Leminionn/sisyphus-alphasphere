@@ -3,7 +3,7 @@
 **Article ID:** 20879903340947
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/20879903340947-How-to-Use-Content-Tags-in-The-Playlist
-**Last Updated:** 2026-09-10T09:50:16+00:00
+**Last Updated:** 2026-09-11T11:22:47+00:00
 ---
 
 ## Want more control over which assets and tags in your playlist display on your screen? Follow this guide to learn more!
@@ -26,9 +26,9 @@ In your Playlist settings by clicking on the **Cog** icon > Selecting **Advanced
 
 ## **How to Set Up 'Use Asset Default'**
 
-Create a tag for your desired assets in the Files/Assets page. Follow **[this guide](https://support.optisigns.com/hc/en-us/articles/360056397634-Asset-Tagging-How-does-it-work)** to learn more on how to do this.
+Create a tag for your desired assets in the Files/Assets page. Follow [**this guide**](https://support.optisigns.com/hc/en-us/articles/360056397634-Asset-Tagging-How-does-it-work) to learn more on how to do this.
 
-Add all items to the playlist. Follow **[this guide](https://support.optisigns.com/hc/en-us/articles/28295104605843)** if you need more information on this step.
+Add all items to the playlist. Follow [**this guide**](https://support.optisigns.com/hc/en-us/articles/28295104605843) if you need more information on this step.
 
 In your Playlist settings by clicking on the **Cog** icon > Selecting **Advanced** > Select **Use Asset Default** in the **Target tags** dropdown menu.
 
@@ -46,7 +46,7 @@ Then go to **Screens page** > Click **Edit** on your preferred screen > Assign y
 * **+ Rule:** Will add an additional box for you to add more tags.
 * **+Ruleset:** Will create additional rules to attach to your original tag rules.
 
-In this example, any assets **with the location-A tag** in the selected playlist **will** **display** on this screen. Other assets in this playlist **without location-A tag will not display** on the screen.
+In this example, any assets **with the location-a tag** in the selected playlist **will** **display** on this screen. Other assets in this playlist **without location-a tag will not display** on the screen.
 
 ## **How to Set Up 'Use Playlist Default'**
 
@@ -63,7 +63,7 @@ Other assets in the playlist **without the same tag** **will not be displayed** 
 |  |
 | --- |
 | **NOTE** |
-| Letter case matters. Ensure when pairing Playlist tags to your screen that the tags match *exactly.* |
+| Tags are saved in lowercase and turns spaces into hyphens, so Front Lobby is stored as front-lobby. You don't need to match capitalization; the portal normalizes it for you. |
 
 ### **Custom Content Tagging**
 
@@ -85,15 +85,14 @@ To help illustrate how this feature works, we will use the following simple scen
 | **IMPORTANT NOTE** |
 | These Content Tag rules **will not**apply to screen Previews. This is because Previews are limited by web browser - your screen, however, should display properly. |
 
-* **Lobby Display:** Suppose your global playlist is tagged 'Front-Lobby' as the Playlist default. All assets within this playlist will be tagged as 'Front-Lobby.'
+* **Lobby Display:** Suppose your global playlist is tagged 'front-lobby' as the Playlist default. All assets within this playlist will be tagged as 'front-lobby.'
 
-* **Back Room Display:** If you have a specific asset you want to play in the back room within the global playlist, you can tag that asset as 'Back-Room'.
-
+* **Back Room Display:** If you have a specific asset you want to play in the back room within the global playlist, you can tag that asset as 'back-room'.
 * **Edit Screen > Selective Content Display:**
 
-On the Edit Screen level, you can set your content rule for your Front Lobby screens. In this example, the content tag rule is set to **include** items tagged as **'Front-Lobby'**. This way, the screen will only display assets tagged as 'Front-Lobby' from your global playlist and ignore any assets or sub-playlists that do not have the 'Front-Lobby' tag. So, anything tagged Back-Room will not display.
+On the Edit Screen level, you can set your content rule for your Front Lobby screens. In this example, the content tag rule is set to **include** items tagged as **'front-lobby'**. This way, the screen will only display assets tagged as 'front-lobby' from your global playlist and ignore any assets or sub-playlists that do not have the 'front-lobby' tag. So, anything tagged back-room will not display.
 
-For your screens in the Back Room, you can set your content rule to **include** items tagged as **'Back-Room'**. This way, only assets tagged as 'Back-Room' from your global playlist will be displayed, and any assets or sub-playlists that do not have the 'Back-Room' tag will be ignored. So, anything tagged Front-Lobby will no display.
+For your screens in the Back Room, you can set your content rule to **include** items tagged as **'back-room'**. This way, only assets tagged as 'back-room' from your global playlist will be displayed, and any assets or sub-playlists that do not have the 'back-room' tag will be ignored. So, anything tagged front-lobby will no display.
 
 You also have the option to set an exclusion rule, which will prevent any assets with specific tags from being displayed on the selected screen.
 
