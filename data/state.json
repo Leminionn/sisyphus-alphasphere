@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-09-13T07:37:20.714645+00:00",
+  "last_sync": "2026-09-14T08:04:03.315736+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -652,10 +652,10 @@
     "20879903340947": {
       "id": 20879903340947,
       "slug": "20879903340947-How-to-Use-Content-Tags-in-The-Playlist",
-      "hash_val": "f2e564208fe7fba476f0b841a64fb13d506c36b38c3c8abada7c52998ce174b7",
-      "updated_at": "2026-09-11T11:22:47+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/20879903340947howtouseconte-cu1ax3jiwzuy",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/20879903340947howtouseconte-cu1ax3jiwzuy",
+      "hash_val": "3eb4004bec8ac44f7513284836450daf580b64641a3aab310f84afe372921eae",
+      "updated_at": "2026-09-14T02:42:33+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/20879903340947howtouseconte-6fiwyko6en9v",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/20879903340947howtouseconte-6fiwyko6en9v",
       "locale": "en-us"
     },
     "20750060900883": {
@@ -1777,10 +1777,10 @@
     "360016313754": {
       "id": 360016313754,
       "slug": "360016313754-How-to-Install-an-APK-file-on-your-Fire-TV",
-      "hash_val": "7a9fcd2a89227cddd8e4cf0b801041ebb100f41928447496be0ebef4333f1bba",
-      "updated_at": "2026-09-10T09:39:36+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016313754howtoinstallana-9gitg2n4vhrt",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016313754howtoinstallana-9gitg2n4vhrt",
+      "hash_val": "67b65fce2c0ca329226c8101ac95e7adc798c13563a5efdf01fa7d94b3dcdac0",
+      "updated_at": "2026-09-13T15:02:03+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016313754howtoinstallana-t30mo7mcvqd9",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016313754howtoinstallana-t30mo7mcvqd9",
       "locale": "en-us"
     },
     "360016252654": {

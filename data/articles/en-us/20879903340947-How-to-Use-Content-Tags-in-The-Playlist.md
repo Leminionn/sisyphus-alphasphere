@@ -3,7 +3,7 @@
 **Article ID:** 20879903340947
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/20879903340947-How-to-Use-Content-Tags-in-The-Playlist
-**Last Updated:** 2026-09-11T11:22:47+00:00
+**Last Updated:** 2026-09-14T02:42:33+00:00
 ---
 
 ## Want more control over which assets and tags in your playlist display on your screen? Follow this guide to learn more!
