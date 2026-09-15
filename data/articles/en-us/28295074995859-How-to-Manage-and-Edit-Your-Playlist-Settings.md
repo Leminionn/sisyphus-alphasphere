@@ -3,7 +3,7 @@
 **Article ID:** 28295074995859
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/28295074995859-How-to-Manage-and-Edit-Your-Playlist-Settings
-**Last Updated:** 2026-06-04T22:14:32+00:00
+**Last Updated:** 2026-09-14T16:01:05+00:00
 ---
 
 ### This guide will show you how to manage and edit your playlist settings in OptiSigns.
@@ -16,24 +16,28 @@ To edit a playlist, simply **click** on the playlist.
 
 Modify attributes, add, delete, or rearrange items, and the content on your screens will automatically update.
 
-**1.** To edit all items in the playlist, click **Select All** button in the top left corner.
+**1.** To edit all items in the playlist, click the **Select All** checkbox in the header row.
 
 or, hover over the item in the playlist and check the checkbox.
 
-**2.** Select assets within your playlist to access **Remove from Playlist** and **Edit Duration** options.
+**2.** Select assets within your playlist to access **Remove** and **Edit Duration** options.
+
+**EDITOR’S NOTE — The button is now labelled just "Remove". (delete before publishing)**
 
 |  |
 | --- |
-| **Remove from Playlist:** This option will delete selected asset(s) from the playlist. |
+| **Remove:** This option will delete selected asset(s) from the playlist. |
 | **Edit Duration:** You will be able to customize the duration in seconds for all asset(s). |
 
 ## **Add Additional Items Into a Playlist**
 
 To add items from your files/asset to your playlist:
 
-**1.** Select an asset from the right panel, or hold the Ctrl key to select multiple items.
+**1.** Select an asset from the right panel, or use the checkboxes to select multiple items.
 
 **2.** Click the **'Add Selected Items to Playlist'** button OR just simply Drag and Drop to the Playlist.
+
+**EDITOR’S NOTE — That button label is gone. Selecting assets opens a "N selected" bar at the top of the right-hand panel, and the add-to-playlist icon sits in that bar. (delete before publishing)**
 
 * This action will promptly incorporate the chosen assets into your preferred playlist.
 
@@ -43,7 +47,7 @@ To add items from your files/asset to your playlist:
 
 **1.** Click the **gear icon** on the top right-hand side.
 
-**2.** The Playlist Option page will then appear:
+**2.** The Playlist Options page will then appear:
 
 **3.** The following Playlist Option features will be listed below.
 
@@ -75,7 +79,8 @@ To add items from your files/asset to your playlist:
   + Slow
   + Medium
   + Fast
-  + Custom: You will have the option to select a specific duration in seconds, with choices ranging from 1 to 20 in five-second intervals.
+  + Custom: You will have the option to select a specific duration in seconds, with choices ranging from 1 to 20 in five-second intervals.  
+    **EDITOR’S NOTE — Not correct any more. Choosing Custom reveals a "Speed Value" slider from 0.1 to 2.0 seconds, in 0.1 steps. (delete before publishing)**
 
 **4.** Click the Advanced button:
 
@@ -96,7 +101,8 @@ To add items from your files/asset to your playlist:
     - You will also need to set up content tagging which you can learn more about [here](https://support.optisigns.com/hc/en-us/articles/20879903340947-How-to-Use-The-Asset-Tag-Features-in-The-Playlist).
     - Make sure to select "Use Playlist Default".
     - Under the "Content Tag Rule" under Edit Screens simply select the playlist tag instead of the asset tag.
-* **Item Schedule:** Control the schedule of each playlist item.
+* **Item Schedule:** Control the schedule of each playlist item.  
+  **EDITOR’S NOTE — Renamed "Sub-Playlist Schedule", and moved under a "Sub-playlist" group together with Sub-playlist control. (delete before publishing)**
 * **Sub-playlist control:** With Sub-playlist control, you can define how many items you want to play from the sub-playlist and if it is embedded as a nested playlist. It can help you better manage the time allocation of a certain type of content.
 * **Resume on next play:** With this option enabled, the playlist will resume from where it left off last time, rather than starting from the beginning. This can enhance the user experience, especially when the playlist is interrupted for any reason.
 * **Respect Orientation:** Choose the orientation you would like for your playlist:
@@ -104,7 +110,8 @@ To add items from your files/asset to your playlist:
   + Both
   + Landscape
   + Portrait
-* **Background Music:** You will be able to add music to your playlist here. You'll have to upload an MP3 file to OptiSigns before you can select this.
+* **Background Music:** You will be able to add music to your playlist here. You'll have to upload an MP3 file to OptiSigns before you can select this.  
+  **EDITOR’S NOTE — No longer a dropdown defaulting to None - it is a "Pick audio file" picker, with Change and Remove once a file is set. Uploading an MP3 first is still required. (delete before publishing)**
 
 #### **Change Multiple Playlist Settings at Once:**
 
@@ -138,11 +145,15 @@ A **Playlist Operation Report** offers a summary of the features activated withi
 
 ## **Modify Playlist Colors**
 
-Set a color for the playlist to enhance organization and improve visibility in schedules. You can view the available colors and how they look in a schedule in the following presentation:
+Set a color for the playlist to enhance organization and improve visibility in schedules.
+
+**EDITOR’S NOTE — THIS SENTENCE NEEDS REWORDING. The slideshow it points at has been replaced by the two screenshots below. Suggested: "The available colors are shown below." (delete before publishing)**
+
+The available colors are shown below:
 
 ## **Delete a Playlist**
 
-**1.** Delete a playlist by clicking the **three vertical buttons** and then selecting the **"Delete"** button.
+**1.** Delete a playlist by clicking the **three vertical buttons** and then selecting the **"Delete Playlist"** button.
 
 **2.** **Confirm** the deletion.
 
@@ -150,9 +161,11 @@ Set a color for the playlist to enhance organization and improve visibility in s
 
 **1.** Select the desired playlist.
 
-**2.** Click the **"Share Link"** button second from the left-hand side.
+**2.** Click the **"Share Link"** button on the left-hand side.
 
-To learn more about this feature, you can click [here](https://support.optisigns.com/hc/en-us/articles/21708242980755-How-to-Share-Playlist-and-Folder-with-External-Users)
+To learn more about this feature, click [here](https://support.optisigns.com/hc/en-us/articles/21708242980755-How-to-Share-Playlist-and-Folder-with-External-Users)
+
+---
 
 ## **That's all!**
 

@@ -3,7 +3,7 @@
 **Article ID:** 13097501958291
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/13097501958291-OptiSigns-IoT-Sensor-Add-on-Quick-Start
-**Last Updated:** 2025-09-02T18:16:29+00:00
+**Last Updated:** 2026-09-14T18:49:07+00:00
 ---
 
 ### How to quickly get your IoT sensors up and running on any screens you wish.
@@ -30,6 +30,8 @@ Our YouTube video shows how it supports the lift and learn use cases using a Nex
 
 For the following example, we will use a temperature sensor with an **Arduino** board to demonstrate how it works. ***Your board may have slightly different connection options - we will note instances where this may be the case.***
 
+**EDITOR’S NOTE — PRIVACY: the first screenshot (repeated as the last image) shows a real person photo, full name and social handle, readable at full size. Recommend replacing or blurring it. It is also the same image twice, opening and closing the article. (delete before publishing)**
+
 The temperature sensor will send data in its own format to the OptiSigns player through serial communication. The temperature data can be displayed on the screen in realtime, and when the defined condition met, the screen content will change to show overheat status.
 
 Setting up the IoT sensor add-on will take three steps:
@@ -48,11 +50,11 @@ In the top right corner, click on the account name.
 
 Then, click **Personal Profile →** Look to the left hand column.
 
-Expand **"Advanced" →** **"External Communications (RS232)"**.
+See **"Advanced" →** **"External Communications"**.
 
-*You can also go the the page using this link: **<https://app.optisigns.com/app/s/external-coms>***
+*You can also go the the page using this link:* [***https://app.optisigns.com/app/s/external-coms***](https://app.optisigns.com/app/s/external-coms)
 
-Click **"Add New"** in the **Connections** tab to bring up the **Create New Connection** page, where you can define the parameters for the serial communication.
+Click **"Add New"** in the **Connections** tab to bring up the **Add Connection** page, where you can define the parameters for the serial communication.
 
 |  |
 | --- |
@@ -89,7 +91,9 @@ The other options (Data Bits, Stop Bits, Parity, Flow Controls, Receive Line End
 
 ## **2. Set Up IoT sensor via Lift and Learn**
 
-The IoT sensor is configured through our **"Lift and Learn"** builder, found under the **Engage** tab.
+The IoT sensor is configured through our **Engage** tab. Click **New App,** then find **Lift and Learn**.
+
+**EDITOR’S NOTE — Engage has been redesigned. The builder now starts from the "New App" button in the Engage sidebar, and the wizard runs Category -> Select App -> Build -> Assign. (delete before publishing)**
 
 Once you've selected Lift and Learn, click **Build.**
 
@@ -101,24 +105,24 @@ Once you've selected Lift and Learn, click **Build.**
 * **Change Content:** Switch between "Immediately" and a "Delay" of your choice in milliseconds.
 * **Play for at least:** When triggered, the app will play the content corresponding to the play rule for as many seconds as you select here. We recommend keeping this at 3 seconds to give a smoother experience, just in case the triggering events are met frequently.
 * **Rest for:** When the triggering condition is not met, the device will resume playing the content assigned to it for this number of seconds. We recommend keeping this at 3 seconds to give a smoother experience, just in case the triggering events are met frequently.
-* **Play Rules:** Set content you want to play when the corresponding trigger event fires.  
+* **Play Rules:** Set content you want to play when the corresponding trigger event fires.
   + **Effective Time:** Determines the time at which the IoT sensor is active. You can select times and days of the week, or a customized schedule.
-  + **If Detected:** Sets the command trigger for the rule. This can be one of two preset options, or a custom command. This is a command *received* from the sensor.  
+  + **If Detected:** Sets the command trigger for the rule. This can be one of two preset options, or a custom command. This is a command *received* from the sensor.
     - **Tag picked up:** If something is placed on the sensor and then picked up, this will trigger the rule. This gives a Default value specifically for Nexmosphere sensors. Please see the below sectionto get the exact command for your sensor.
-    - **Tag put down:** If something is put down on the sensor, this will trigger the rule. This gives a Default value made for Nexmosphere sensors. Please see the below section to get the exact command for your sensor.
+    - **Tag placed back:** If something is put down on the sensor, this will trigger the rule. This gives a Default value made for Nexmosphere sensors. Please see the below section to get the exact command for your sensor.
     - **Full Command:** A custom command can be input below.
-  + **"</>":** A Javascript-based function where you can apply the needed logic to process the incoming command and derive the needed result. In the below example, the Ardunio board will send the temperature data from the sensor in a string, the processing rule extracts the temperature value and determine when the "TOOHOT30" custom command triggers the event.
+  + **"<>":** A Javascript-based function where you can apply the needed logic to process the incoming command and derive the needed result. In the below example, the Ardunio board will send the temperature data from the sensor in a string, the processing rule extracts the temperature value and determine when the "TOOHOT30" custom command triggers the event. This is Disabled if "If Detected" is set to "Full command".
 
-* + **Play Content:** Determines what content plays (or stops) when trigger conditions are met. Options are "Asset," "Playlist," or "Stop Playing."
-  + **Commands:** Allows you to send out commands to sensors instead of just receiving them. If you're using a typical IoT sensor, **you most likely won't need to use this**. These are typically used for other types of devices, such as atmospheric lighting or speakers. These commands are created in the "Commands" section of the "External Communications (RS232)" section from before. We will be returning to this later in the article.
-  + **Action:** Allows you to move a Rule's place in the list, or delete them.
+* **Play Content:** Determines what content plays (or stops) when trigger conditions are met. Options are "Asset," "Playlist," or "Stop Playing."
+* **Commands:** Allows you to send out commands to sensors instead of just receiving them. If you're using a typical IoT sensor, **you most likely won't need to use this**. These are typically used for other types of devices, such as atmospheric lighting or speakers. These commands are created in the "Commands" section of the "External Communications (RS232)" section from before. We will be returning to this later in the article.
+* **Action:** Allows you to move a Rule's place in the list, or delete them.
 * **Add Rule:** Allows the creation of more rules, with no maximum. These can be deleted or organized via the Action setting.
 
 We ***strongly recommend*** obtaining a string command and inputting it into the **Play Rules**section. This will reduce or eliminate any potential issues.
 
 To do this, boot up your screen and navigate to the OptiSigns main menu. Scroll down until you see **Trigger Event Viewer**.
 
-When your sensor is properly configured, you will be able to see it mapped to a COM port. This information can be  By placing pressure on the sensor, a **string** will appear on the right side of your screen. By typing this **case-sensitive** string into your **If Detected** area, your issues will likely resolve.
+When your sensor is properly configured, you will be able to see it mapped to a COM port. By placing pressure on the sensor, a **string** will appear on the right side of your screen. By typing this **case-sensitive** string into your **If Detected** area, your issues will likely resolve.
 
 This is the easiest way to get these command strings for non-Nexmosphere brand sensors. You can also find these command strings by looking at your manufacturer's website.
 
@@ -163,7 +167,7 @@ Once IoT Sensor Addon is activated, you can assign the IoT sensor Add-on app tha
 | **Use Case** |
 | In special cases when you need to send commands back to external devices, such as a light source or speaker, these options are for you. These options are not needed for those using ordinary IoT sensor devices. |
 
-First, navigate to **External Communications (RS232) →****Add New**
+First, navigate to **External Communications (RS232) → Add New**
 
 This screen will come up:
 
@@ -172,7 +176,7 @@ Here you'll see four options:
 * **Name -** What you'll call this command. This comes out in the form of a Tag.
 * **Encoding** - The type of coding being sent to your device. Choose between "ascii" and "hex."
 * **Value** - The actual command string being input. These will vary depending on use case and device.
-* **Line Ending (EOL)** - The code for your line ending. Options are "None," "CR," "LF," and "CR + LF." We recommend leaving it at "None."
+* **Line Ending (EOL)** - The code for your line ending. Options are "None," "CR," "LF," and "CR + LF." We recommend leaving it at "CR+LF."
 
 Once you've configured your Command, press **Save**.
 

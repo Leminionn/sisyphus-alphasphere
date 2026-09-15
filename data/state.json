@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-09-14T08:04:03.315736+00:00",
+  "last_sync": "2026-09-15T07:58:46.190161+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -805,10 +805,10 @@
     "16364134190355": {
       "id": 16364134190355,
       "slug": "16364134190355-How-to-use-Streaming-App-with-OptiSigns",
-      "hash_val": "f1e8f003da59679f004308abe9bd413649e8af727db2c5ccd611288601becc9b",
-      "updated_at": "2026-09-10T09:49:25+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/16364134190355howtousestrea-w4gj5g4x5hzf",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/16364134190355howtousestrea-w4gj5g4x5hzf",
+      "hash_val": "3edd9241f07b38bd92cabc01a0befb07c3e250c7a9c37c47d0911a0be4d3cba8",
+      "updated_at": "2026-09-14T16:05:11+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/16364134190355howtousestrea-lpwglw0y4koe",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/16364134190355howtousestrea-lpwglw0y4koe",
       "locale": "en-us"
     },
     "15861880059283": {
@@ -849,20 +849,20 @@
     },
     "13320135306515": {
       "id": 13320135306515,
-      "slug": "13320135306515-Build-Integration-Using-OptiSigns-Enterprise-App",
-      "hash_val": "24b38386548342fdcd445e9b047e2ec39ccc882c7f7426f07960cb9ec5ebbfe2",
-      "updated_at": "2026-09-10T09:49:12+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/13320135306515buildintegrat-s3em9qg87du1",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/13320135306515buildintegrat-s3em9qg87du1",
+      "slug": "13320135306515-Build-Integrations-Using-the-OptiSigns-Enterprise-App",
+      "hash_val": "390eda8df920e88384d362bea5f7b8f832206bc4d3ad8a3d34387f67693dbac1",
+      "updated_at": "2026-09-14T15:53:06+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/13320135306515buildintegrat-h93qiwst5jd9",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/13320135306515buildintegrat-h93qiwst5jd9",
       "locale": "en-us"
     },
     "13097501958291": {
       "id": 13097501958291,
       "slug": "13097501958291-OptiSigns-IoT-Sensor-Add-on-Quick-Start",
-      "hash_val": "aeab88fe3ed805a5f2971055b7843a67053d9577a9c7692b143350fb2d28a36a",
-      "updated_at": "2025-09-02T18:16:29+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/13097501958291optisignsiots-jav95d2gu76a",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/13097501958291optisignsiots-jav95d2gu76a",
+      "hash_val": "5674aa5050610a1f53ee8423d1736bbeb2ea0cb3b58d96a49f478425749bcbb0",
+      "updated_at": "2026-09-14T18:49:07+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/13097501958291optisignsiots-0n6mebutl8fp",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/13097501958291optisignsiots-0n6mebutl8fp",
       "locale": "en-us"
     },
     "12947300131731": {
@@ -903,11 +903,11 @@
     },
     "9061950942995": {
       "id": 9061950942995,
-      "slug": "9061950942995-Using-RS-232-to-Schedule-TV-Power-On-Off-or-other-commands",
-      "hash_val": "2bf08dd68f977e0b3c2fe6b5bd4eca3c650db86a3092ac7731251339bb400a5c",
-      "updated_at": "2026-09-10T09:48:39+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/9061950942995usingrs232tosc-svgfl3syut35",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/9061950942995usingrs232tosc-svgfl3syut35",
+      "slug": "9061950942995-Using-RS232-to-Schedule-TV-Power-On-Off-or-other-commands",
+      "hash_val": "af7403af4174b3da143eb353781de003c554138b10ec5d246ffb782a862c8c74",
+      "updated_at": "2026-09-14T20:13:11+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/9061950942995usingrs232tosc-huvyydtgnni6",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/9061950942995usingrs232tosc-huvyydtgnni6",
       "locale": "en-us"
     },
     "8099928867475": {
@@ -1281,11 +1281,11 @@
     },
     "360059386254": {
       "id": 360059386254,
-      "slug": "360059386254-How-to-use-YouTube-Playlist-with-OptiSigns",
-      "hash_val": "73a798204575af87212e335dc561b368e11f391918571f331da90acb088b02ae",
-      "updated_at": "2026-09-10T09:44:51+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360059386254howtouseyoutube-qky8cvlhjyj0",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360059386254howtouseyoutube-qky8cvlhjyj0",
+      "slug": "360059386254-How-to-Use-the-YouTube-Playlist-App-with-OptiSigns",
+      "hash_val": "88969a49da6706bb65ff4bb96177e5b495a76de7689d6fb94c87b250f4240bb2",
+      "updated_at": "2026-09-14T18:47:59+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360059386254howtousetheyout-t7nq96wxkq7m",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360059386254howtousetheyout-t7nq96wxkq7m",
       "locale": "en-us"
     },
     "1500000493782": {
@@ -1849,10 +1849,10 @@
     "28295074995859": {
       "id": 28295074995859,
       "slug": "28295074995859-How-to-Manage-and-Edit-Your-Playlist-Settings",
-      "hash_val": "d15f7af47477f10a27978357724da9b02f0e0419a1743cca57e4d5d7788d8137",
-      "updated_at": "2026-06-04T22:14:32+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28295074995859howtomanagean-yotuwxyuvqci",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28295074995859howtomanagean-yotuwxyuvqci",
+      "hash_val": "98d747354ed327a4c885f338071a09020f13a032e6e0300130fae52f5da78324",
+      "updated_at": "2026-09-14T16:01:05+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28295074995859howtomanagean-nqv1iuh5zsgc",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28295074995859howtomanagean-nqv1iuh5zsgc",
       "locale": "en-us"
     },
     "28026588373139": {
@@ -2056,10 +2056,10 @@
     "360051014773": {
       "id": 360051014773,
       "slug": "360051014773-Show-YouTube-video-s-subtitle-closed-caption",
-      "hash_val": "afded10e255bee31576e046576532ca9ec169ba1aa87a86a8ba298a75853d3d9",
-      "updated_at": "2026-09-10T09:43:30+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360051014773showyoutubevide-uk0pd8h041bj",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360051014773showyoutubevide-uk0pd8h041bj",
+      "hash_val": "594b83358ba828ad84e82a41cd75213f0eeb33f0df98d18dee6ab33b7e05deae",
+      "updated_at": "2026-09-14T11:06:00+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360051014773showyoutubevide-cq8ilh44dg0s",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360051014773showyoutubevide-cq8ilh44dg0s",
       "locale": "en-us"
     },
     "360034379573": {
@@ -2200,10 +2200,10 @@
     "360021855653": {
       "id": 360021855653,
       "slug": "360021855653-What-hardware-and-devices-are-supported",
-      "hash_val": "9adff40dea12748efef33c391e105e21c072cc6a6d5f6ca399d3cb4ca6bd2a96",
-      "updated_at": "2026-09-10T09:40:28+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360021855653whathardwareand-avhoo6ex1cfm",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360021855653whathardwareand-avhoo6ex1cfm",
+      "hash_val": "764b74747a1478dfa33ff46ca78a1abbd9a4790abca133f5199480272e0cdc58",
+      "updated_at": "2026-09-14T15:11:31+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360021855653whathardwareand-p8khpmo47w4w",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360021855653whathardwareand-p8khpmo47w4w",
       "locale": "en-us"
     },
     "360019588654": {
@@ -2956,10 +2956,10 @@
     "4409673381011": {
       "id": 4409673381011,
       "slug": "4409673381011-How-to-Use-the-Emergency-Feed-App",
-      "hash_val": "4153c8f374c8e7d1fa2d20cc0190541f37372e3512c83a8cdd312cab38e1b87f",
-      "updated_at": "2026-09-10T09:47:27+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4409673381011howtousetheeme-bul873z4fytw",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4409673381011howtousetheeme-bul873z4fytw",
+      "hash_val": "70b42d89717b6981956eed34357dfc0c9c000645c7a5f9660bc6a0174e38e9fc",
+      "updated_at": "2026-09-14T21:00:39+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4409673381011howtousetheeme-40xrnz5ni2ah",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4409673381011howtousetheeme-40xrnz5ni2ah",
       "locale": "en-us"
     },
     "4409607912211": {
@@ -3045,11 +3045,11 @@
     },
     "1500009492202": {
       "id": 1500009492202,
-      "slug": "1500009492202-How-to-use-On-This-Day-app",
-      "hash_val": "9264a63f8f90f67e84e2da3a5848aab3f094b2b22b7828211d37ecfd12e58fa9",
-      "updated_at": "2026-09-10T09:46:01+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500009492202howtouseonthis-9qhlh9n6qu0e",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500009492202howtouseonthis-9qhlh9n6qu0e",
+      "slug": "1500009492202-How-to-Use-the-On-This-Day-App",
+      "hash_val": "1550167b9c7ed971f69dcea78922a09d0e807cec1cb4a61d87bb200c7cbffce8",
+      "updated_at": "2026-09-14T20:35:04+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500009492202howtousetheont-0gx6vpil7voc",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500009492202howtousetheont-0gx6vpil7voc",
       "locale": "en-us"
     },
     "1500009343862": {
