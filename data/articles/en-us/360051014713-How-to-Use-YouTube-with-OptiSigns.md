@@ -3,7 +3,7 @@
 **Article ID:** 360051014713
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-Use-YouTube-with-OptiSigns
-**Last Updated:** 2026-09-10T09:43:28+00:00
+**Last Updated:** 2026-09-15T09:51:14+00:00
 ---
 
 Putting YouTube videos on your digital signs screens is easy with OptiSigns.  

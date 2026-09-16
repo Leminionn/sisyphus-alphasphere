@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-09-15T07:58:46.190161+00:00",
+  "last_sync": "2026-09-16T07:51:39.751580+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -3154,10 +3154,10 @@
     "360056977214": {
       "id": 360056977214,
       "slug": "360056977214-How-to-use-Google-Sheets-with-OptiSigns",
-      "hash_val": "8e9432e65beb22ffd5e6f75063f0b78f2727ebe449a9b9b126ddf574222ab41c",
-      "updated_at": "2025-12-12T21:10:43+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360056977214howtousegoogles-tae7qeiig8lm",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360056977214howtousegoogles-tae7qeiig8lm",
+      "hash_val": "468d639d2940153b069598ad26ad96e273e2da926b1813e842475f48f36a9286",
+      "updated_at": "2026-09-15T14:05:54+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360056977214howtousegoogles-hmxamehfilf2",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360056977214howtousegoogles-hmxamehfilf2",
       "locale": "en-us"
     },
     "360056356414": {
@@ -3244,10 +3244,10 @@
     "360051014713": {
       "id": 360051014713,
       "slug": "360051014713-How-to-Use-YouTube-with-OptiSigns",
-      "hash_val": "790f8765f84343ef09a7fea4ac08403b45b22409fc0a03e3bf0f70eb2b34bdef",
-      "updated_at": "2026-09-10T09:43:28+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360051014713howtouseyoutube-xftmgc51195o",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360051014713howtouseyoutube-xftmgc51195o",
+      "hash_val": "133e6443b5228bdcd5985c225cef8e8db6028611697a672fb18530f227b1ea88",
+      "updated_at": "2026-09-15T09:51:14+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360051014713howtouseyoutube-qwgp6959ojgn",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360051014713howtouseyoutube-qwgp6959ojgn",
       "locale": "en-us"
     },
     "360049875794": {
@@ -3289,10 +3289,10 @@
     "360050664913": {
       "id": 360050664913,
       "slug": "360050664913-How-to-use-Google-Trends-App",
-      "hash_val": "c7f3edd41d31ae0adfdfd3a184aef50cd5ce4451ab6112ace25707bb5edde028",
-      "updated_at": "2026-09-10T09:43:12+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360050664913howtousegooglet-cx45ijqub64o",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360050664913howtousegooglet-cx45ijqub64o",
+      "hash_val": "694dece13692511962013c063c06b320e6d6702ab338005a22ec9f4111418097",
+      "updated_at": "2026-09-16T03:55:59+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360050664913howtousegooglet-w7jreittwshk",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360050664913howtousegooglet-w7jreittwshk",
       "locale": "en-us"
     },
     "360049159814": {
@@ -3370,10 +3370,10 @@
     "360047499893": {
       "id": 360047499893,
       "slug": "360047499893-How-to-use-Google-Traffic-App",
-      "hash_val": "db84f3170e88de693ed0a5cf4c10948b1247f3e02ae2b26fc4f5e7b9b282f6cc",
-      "updated_at": "2026-09-10T09:42:33+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360047499893howtousegooglet-bq9fv038m9xp",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360047499893howtousegooglet-bq9fv038m9xp",
+      "hash_val": "17ab4e5a808ce9cbc74f6143fd4f43ee9c4f00e37e463a16b7dd9bdf5b763f00",
+      "updated_at": "2026-09-15T11:32:26+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360047499893howtousegooglet-3go84jef5qj0",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360047499893howtousegooglet-3go84jef5qj0",
       "locale": "en-us"
     },
     "360046859534": {
@@ -3653,6 +3653,33 @@
       "updated_at": "2026-08-05T18:22:19+00:00",
       "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/54095075680275optidevaddonf-izs8lur30t7m",
       "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/54095075680275optidevaddonf-izs8lur30t7m",
+      "locale": "en-us"
+    },
+    "55450681344915": {
+      "id": 55450681344915,
+      "slug": "55450681344915-Connect-SharePoint-News-to-OptiSigns-Digital-Signage",
+      "hash_val": "9692890c82ad643c27b2a9c98637e8a1d7158b5ea66e7ce1849c7b920598b6d4",
+      "updated_at": "2026-09-15T23:09:01+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/55450681344915connectsharep-6ag8cvjrwn1k",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/55450681344915connectsharep-6ag8cvjrwn1k",
+      "locale": "en-us"
+    },
+    "55416186918163": {
+      "id": 55416186918163,
+      "slug": "55416186918163-How-to-Get-a-Microsoft-Teams-Webhook-URL-for-OptiSigns-Broadcast",
+      "hash_val": "6e7cbca1c0248e704d40d64f997aee9351078ac20e1895a47b23e28f96b99b16",
+      "updated_at": "2026-09-15T17:33:06+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/55416186918163howtogetamicr-uohm6ngow1vp",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/55416186918163howtogetamicr-uohm6ngow1vp",
+      "locale": "en-us"
+    },
+    "55416185869331": {
+      "id": 55416185869331,
+      "slug": "55416185869331-Broadcast-Send-Scheduled-Snapshots-of-Your-Dashboards",
+      "hash_val": "a9322d4b42a7165bd08347386ebe4447a318f71a7a345b852ee7747fcb02823b",
+      "updated_at": "2026-09-15T15:34:23+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/55416185869331broadcastsend-cyenrpg9zz39",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/55416185869331broadcastsend-cyenrpg9zz39",
       "locale": "en-us"
     }
   }

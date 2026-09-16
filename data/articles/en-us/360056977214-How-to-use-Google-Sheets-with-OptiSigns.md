@@ -3,7 +3,7 @@
 **Article ID:** 360056977214
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360056977214-How-to-use-Google-Sheets-with-OptiSigns
-**Last Updated:** 2025-12-12T21:10:43+00:00
+**Last Updated:** 2026-09-15T14:05:54+00:00
 ---
 
 ### Google Sheets is among one of the most popular spreadsheet applications available online. In OptiSigns, you can set up a Google Sheets app so that whenever changes are made on your Sheet it will automatically show up on your screen.
@@ -48,6 +48,7 @@ Once permission is granted, you can **customize** and **set up** your Google She
 * **Select Sheet:** Allows you to select a single sheet from within the Google Sheet to display
   + ***Reload Sheets:*** This will refresh the data to get an updated list Sheets available within that entire document for you to choose from.
 * **Customize Display Region:** Allows you to input the Start Cell and End Cell to select the region shown on your display.
+  + ***Currently, it is only supported for Private Sheet.***
   + *This **cannot** be unselected or selected once the asset is first saved. If selected upon creating the app, you can continuously adjust the display region whenever you'd like.*
 * **Scale:** Adjust how you'd like the Sheet to scale and display on the screen.
 * **Orientation:** Choose between Landscape or Portrait
