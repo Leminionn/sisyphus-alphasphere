@@ -3,10 +3,10 @@
 **Article ID:** 10159088954387
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/10159088954387-How-to-put-Live-TV-on-your-screens-with-OptiSigns
-**Last Updated:** 2026-09-10T09:48:47+00:00
+**Last Updated:** 2026-09-17T05:00:57+00:00
 ---
 
-With OptiSigns, you can show the Live TV from your cable TV services (such as Xfinity, DirectTV) on your screens. There are 2 ways you can do it with OptiSigns.
+With OptiSigns, you can show the Live TV from your cable TV services (such as Xfinity, DIRECTV) on your screens. There are 2 ways you can do it with OptiSigns.
 
 * If you are using a windows player and just need to show it on a single screen, you can follow the HDMI Video Input approach and use the Live TV app to achieve it. You can refer to [this article](https://support.optisigns.com/hc/en-us/articles/1500002042241) for more details.
 * If you would like to broadcast to more than one screen and use any media players, you can follow this document and use the video streaming app to achieve it.
@@ -31,7 +31,7 @@ Click Apply after the change, then you will be able to see the URL to use for th
 
 **2. Create the video streaming app**
 
-Go to asset->app section to create a video stream app. Simply put the HLS stream URL of the HDMI video encoder in the video streaming app, then it will be available for use. You can refer to [this article](https://support.optisigns.com/hc/en-us/articles/8369526604435) for more information about the video streaming app.
+Go to Files/Assets -> Apps to create a video stream app. Simply put the HLS stream URL of the HDMI video encoder in the video streaming app, then it will be available for use. You can refer to [this article](https://support.optisigns.com/hc/en-us/articles/8369526604435) for more information about the video streaming app.
 
 .
 

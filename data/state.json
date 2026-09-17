@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-09-16T07:51:39.751580+00:00",
+  "last_sync": "2026-09-17T07:56:26.525258+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -886,10 +886,10 @@
     "10159088954387": {
       "id": 10159088954387,
       "slug": "10159088954387-How-to-put-Live-TV-on-your-screens-with-OptiSigns",
-      "hash_val": "04ea47f3dc108a7ac6a131ee452f2f3593474c3e5e18cc357604613bc29ef075",
-      "updated_at": "2026-09-10T09:48:47+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/10159088954387howtoputlivet-4ypnn2l1axkv",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/10159088954387howtoputlivet-4ypnn2l1axkv",
+      "hash_val": "86794ca73b95d7760f5a8fdcae84d12f7039043b4a09679bd1bdfe239d7ee94d",
+      "updated_at": "2026-09-17T05:00:57+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/10159088954387howtoputlivet-7nuqe9jvmpjg",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/10159088954387howtoputlivet-7nuqe9jvmpjg",
       "locale": "en-us"
     },
     "9169378546195": {
@@ -1525,10 +1525,10 @@
     "360047275934": {
       "id": 360047275934,
       "slug": "360047275934-Whitelist-OptiSigns-IP-addresses-ports",
-      "hash_val": "965e1c0c3ee1835eecd36e7cde2082a59d4766bb2c9ce932ac154c922ae989e7",
-      "updated_at": "2026-09-10T09:42:30+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360047275934whitelistoptisi-s4rygkky99f5",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360047275934whitelistoptisi-s4rygkky99f5",
+      "hash_val": "0dcd33220fac36148f0744d52f319e7ac3b277bb665d7bdca8effa2b99838106",
+      "updated_at": "2026-09-17T05:36:01+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360047275934whitelistoptisi-hboxdyciwqzh",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360047275934whitelistoptisi-hboxdyciwqzh",
       "locale": "en-us"
     },
     "360047232054": {
@@ -2074,10 +2074,10 @@
     "360016833514": {
       "id": 360016833514,
       "slug": "360016833514-Changing-screen-s-orientation-portrait-landscape",
-      "hash_val": "e4eb18135b8e8e40bce41b11d5eb4805b3f8b489edcafb7a830dca7f5bee854f",
-      "updated_at": "2025-09-04T15:18:11+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016833514changingscreens-yqub6k1f9ftu",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016833514changingscreens-yqub6k1f9ftu",
+      "hash_val": "717b52b144384b2d560bffd51bb5b7de6586de268cb52da30896b97784287ad1",
+      "updated_at": "2026-09-17T04:18:56+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016833514changingscreens-weppaydi2unm",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016833514changingscreens-weppaydi2unm",
       "locale": "en-us"
     },
     "360016485633": {

@@ -3,14 +3,14 @@
 **Article ID:** 360047275934
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-addresses-ports
-**Last Updated:** 2026-09-10T09:42:30+00:00
+**Last Updated:** 2026-09-17T05:36:01+00:00
 ---
 
-If you need to configure the firewall, here is the list of OptiSigns IP addresses and Port to whitelist:
+If you need to configure your firewall, here is a list of OptiSigns IP addresses, Ports, and URLs to whitelist:
 
 Port: please whitelist HTTPS port 443
 
-IP Address for **OptiSigns**:
+IP Addresses and URLs for **OptiSigns**:
 
 * \*.optisigns.com
 * api.optisignsapp.com
@@ -38,6 +38,7 @@ IP Address for **OptiSigns**:
 * software-download.optisigns.com (Pro Player OTA update)
 * optisignsapp.com
 * \*.optisignsapp.com
+* identitytoolkit.googleapis.com
 
 OptiSigns utilizes Transloadit for **uploading files via the OptiSigns portal**. If you encounter any issues with uploading files, you can resolve this by whitelisting Transloadit's IP address.
 
@@ -79,6 +80,6 @@ IP Address for **AeriCast**:
 * present.aericast.com
 * apps-api-prd.aericast.com
 
-**IMPORTANT NOTE:** we use CDN to optimize file distribution to your devices. Some firewalls may block CDNs. If you experiencing issues where your device is online, but when you assign files, it's just a black screen because the device cannot download files. You can contact us at [support@optisigns.com](mailto:support@optisigns.com) to disable the CDN feature for your account. (Note: It requires the Engage plan or above)
+**IMPORTANT NOTE:** we use CDN to optimize file distribution to your devices. Some firewalls may block CDNs. If you are experiencing issues where your device is online, but when you assign files, it's just a black screen because the device cannot download files. Contact us at [support@optisigns.com](mailto:support@optisigns.com) to disable the CDN feature for your account. (Note: It requires the Engage plan or above)
 
 There's no set of IP addresses for Social Media and some other apps like Facebook, Instagram, YouTube, and Google Calendar, so if you restrict HTTPS access by IP, you may not be able to use those apps.
