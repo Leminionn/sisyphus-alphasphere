@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-09-17T07:56:26.525258+00:00",
+  "last_sync": "2026-09-18T07:34:22.319517+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -1525,10 +1525,10 @@
     "360047275934": {
       "id": 360047275934,
       "slug": "360047275934-Whitelist-OptiSigns-IP-addresses-ports",
-      "hash_val": "0dcd33220fac36148f0744d52f319e7ac3b277bb665d7bdca8effa2b99838106",
-      "updated_at": "2026-09-17T05:36:01+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360047275934whitelistoptisi-hboxdyciwqzh",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360047275934whitelistoptisi-hboxdyciwqzh",
+      "hash_val": "c9308d2896fb690d6633520bc9f5881465542ba90a5ec1df565ed975c2b7fbf4",
+      "updated_at": "2026-09-17T15:37:11+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360047275934whitelistoptisi-kwden8kskx9p",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360047275934whitelistoptisi-kwden8kskx9p",
       "locale": "en-us"
     },
     "360047232054": {
@@ -2227,10 +2227,10 @@
     "360016375153": {
       "id": 360016375153,
       "slug": "360016375153-Assign-content-to-your-screens",
-      "hash_val": "0f14b1c72f0678cc5fb47576a58fb6df931cb5bd78af8cb368de587188ed1d1b",
-      "updated_at": "2026-09-10T09:39:44+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016375153assigncontentto-5n8lymrh4ill",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016375153assigncontentto-5n8lymrh4ill",
+      "hash_val": "e2d9eeb75b3c4b9ab0de90c08501b901992d981cd73f20fd5ac485eef9d81453",
+      "updated_at": "2026-09-17T10:07:46+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016375153assigncontentto-qx27p8nhrn2y",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016375153assigncontentto-qx27p8nhrn2y",
       "locale": "en-us"
     },
     "44669013147923": {

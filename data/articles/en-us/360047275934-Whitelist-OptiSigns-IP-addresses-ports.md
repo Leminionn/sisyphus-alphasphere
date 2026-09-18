@@ -3,7 +3,7 @@
 **Article ID:** 360047275934
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-addresses-ports
-**Last Updated:** 2026-09-17T05:36:01+00:00
+**Last Updated:** 2026-09-17T15:37:11+00:00
 ---
 
 If you need to configure your firewall, here is a list of OptiSigns IP addresses, Ports, and URLs to whitelist:
@@ -60,6 +60,10 @@ OptiSigns utilizes RealVNC for **Remote Device Control**. If you use remote cont
 | --- |
 | **NOTE** |
 | If Remote Access still does not work, try adding this rule to your firewall without the asterisk (services.vnc.com) |
+
+OptiSigns utilizes **Cloudflare Pages** to host branding portals. If you encounter any issues accessing your OptiSigns branding portal, you can resolve this by whitelisting the following domain:
+
+* scio3-prod-branding.pages.dev
 
 OptiSigns utilizes Sport Pulse for **Sports Feeds**. If you have an issue displaying the sports feed, you can resolve this by whitelisting Sport Pulse's domain.
 
