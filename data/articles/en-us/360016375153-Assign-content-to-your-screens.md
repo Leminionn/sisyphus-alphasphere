@@ -3,7 +3,7 @@
 **Article ID:** 360016375153
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360016375153-Assign-content-to-your-screens
-**Last Updated:** 2026-09-17T10:07:46+00:00
+**Last Updated:** 2026-09-18T08:49:43+00:00
 ---
 
 Once you get screens added, you can start assigning, updating the content, or scheduling the content it plays.  

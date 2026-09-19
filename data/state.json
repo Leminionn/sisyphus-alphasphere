@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-09-18T07:34:22.319517+00:00",
+  "last_sync": "2026-09-19T07:29:50.214851+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -184,10 +184,10 @@
     "40671590645651": {
       "id": 40671590645651,
       "slug": "40671590645651-How-to-Play-Licensed-Background-Music-on-Digital-Signs-with-OptiSound",
-      "hash_val": "0f6eb2cd5f111b65847dc52fe659f9a3c3a77a101fdf68b41a0947355685085a",
-      "updated_at": "2026-09-10T10:46:35+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/40671590645651howtoplaylice-jy6kf692hbak",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/40671590645651howtoplaylice-jy6kf692hbak",
+      "hash_val": "193be058f98432bd2fa443f5bd47bca439f3bb9a31c57bf480eef61ba36c8492",
+      "updated_at": "2026-09-18T13:02:26+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/40671590645651howtoplaylice-43tiutafxih6",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/40671590645651howtoplaylice-43tiutafxih6",
       "locale": "en-us"
     },
     "40212027797523": {
@@ -1687,10 +1687,10 @@
     "360034883113": {
       "id": 360034883113,
       "slug": "360034883113-Working-with-Teams-and-Security-Levels",
-      "hash_val": "9f96d625822faa446ad8a77b52fe843a038a31c6744e7a0ae13ad39974d46963",
-      "updated_at": "2026-09-10T09:41:07+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360034883113workingwithteam-2v7uoowj3lgo",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360034883113workingwithteam-2v7uoowj3lgo",
+      "hash_val": "416571b8cbfc3be6a8c121ca9305c74a8a3b22fe76fdfcb9dc4203a50d2500b9",
+      "updated_at": "2026-09-18T10:36:31+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360034883113workingwithteam-jva53army3re",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360034883113workingwithteam-jva53army3re",
       "locale": "en-us"
     },
     "360034379293": {
@@ -2227,10 +2227,10 @@
     "360016375153": {
       "id": 360016375153,
       "slug": "360016375153-Assign-content-to-your-screens",
-      "hash_val": "e2d9eeb75b3c4b9ab0de90c08501b901992d981cd73f20fd5ac485eef9d81453",
-      "updated_at": "2026-09-17T10:07:46+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016375153assigncontentto-qx27p8nhrn2y",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016375153assigncontentto-qx27p8nhrn2y",
+      "hash_val": "194ceb72648e12c9c6fbfc4018c73788caef739137cc52cd848c4e40399ffa96",
+      "updated_at": "2026-09-18T08:49:43+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016375153assigncontentto-k91dxts1sf1k",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016375153assigncontentto-k91dxts1sf1k",
       "locale": "en-us"
     },
     "44669013147923": {
@@ -2488,10 +2488,10 @@
     "4404608957075": {
       "id": 4404608957075,
       "slug": "4404608957075-How-to-Delete-Your-Account-from-OptiSigns",
-      "hash_val": "5389b0843df4c07861c6455b4271f03b80b6d999ed5c49ef5f684b1e724fd5d0",
-      "updated_at": "2026-09-10T09:46:35+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4404608957075howtodeleteyou-emah8jmyqjbe",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4404608957075howtodeleteyou-emah8jmyqjbe",
+      "hash_val": "99abde1d1652a40617f70df7211b96ec0f1a33d148277c732f76328b984db054",
+      "updated_at": "2026-09-18T13:52:14+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4404608957075howtodeleteyou-ud3tig3xxff8",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4404608957075howtodeleteyou-ud3tig3xxff8",
       "locale": "en-us"
     },
     "360016174554": {
@@ -2857,10 +2857,10 @@
     "6604468198291": {
       "id": 6604468198291,
       "slug": "6604468198291-How-to-Use-the-CAP-Alert-App",
-      "hash_val": "7fa4da3ef6702fef19439a03b90a4cd49cb3c0d56a5237096ab3587eed88a688",
-      "updated_at": "2026-07-13T17:44:57+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/6604468198291howtousethecap-m58rmvew078b",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/6604468198291howtousethecap-m58rmvew078b",
+      "hash_val": "c06f7bac80d5069dc6d0fcd435624544775c58f5b6f558953fd7047762fceddb",
+      "updated_at": "2026-09-18T20:09:38+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/6604468198291howtousethecap-u667aescn2ae",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/6604468198291howtousethecap-u667aescn2ae",
       "locale": "en-us"
     },
     "6091289267475": {
@@ -3153,11 +3153,11 @@
     },
     "360056977214": {
       "id": 360056977214,
-      "slug": "360056977214-How-to-use-Google-Sheets-with-OptiSigns",
-      "hash_val": "468d639d2940153b069598ad26ad96e273e2da926b1813e842475f48f36a9286",
-      "updated_at": "2026-09-15T14:05:54+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360056977214howtousegoogles-hmxamehfilf2",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360056977214howtousegoogles-hmxamehfilf2",
+      "slug": "360056977214-How-to-Use-Google-Sheets-with-OptiSigns",
+      "hash_val": "08b8c074d9011a1fb412ebcb813ba0ad08967575026a60afeb90838b9036bdda",
+      "updated_at": "2026-09-18T19:56:41+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360056977214howtousegoogles-yt5lpeuti0ac",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360056977214howtousegoogles-yt5lpeuti0ac",
       "locale": "en-us"
     },
     "360056356414": {
@@ -3172,10 +3172,10 @@
     "360055900513": {
       "id": 360055900513,
       "slug": "360055900513-How-to-create-and-use-Virtual-Screen-App",
-      "hash_val": "1415c7651d863f81f2bbbd1c6ea6913ec6f60d683f22f63884eccf645c62b3dc",
-      "updated_at": "2025-09-04T17:02:05+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360055900513howtocreateandu-8e1h55wpz1ra",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360055900513howtocreateandu-8e1h55wpz1ra",
+      "hash_val": "83b8ec991c6690eacbdab067a6085d020df68aa66b4564d325f12924628c05dd",
+      "updated_at": "2026-09-18T11:46:30+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360055900513howtocreateandu-gkqs7vwfq85x",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360055900513howtocreateandu-gkqs7vwfq85x",
       "locale": "en-us"
     },
     "360053993934": {

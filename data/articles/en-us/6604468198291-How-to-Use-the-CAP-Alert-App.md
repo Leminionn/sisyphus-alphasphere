@@ -3,7 +3,7 @@
 **Article ID:** 6604468198291
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/6604468198291-How-to-Use-the-CAP-Alert-App
-**Last Updated:** 2026-07-13T17:44:57+00:00
+**Last Updated:** 2026-09-18T20:09:38+00:00
 ---
 
 Some Emergency Alert Systems or Emergency Mass Notification Systems (like Everbridge, RAVE. and Alertus) can push CAP (Common Alerting Protocol) and Integrated Public Alert and Warning System (IPAWS) messages to the targets including digital signage when there is an emergency. You can integrate with these systems using the CAP Alert app with OptiSigns.
@@ -23,11 +23,13 @@ Using OptiSigns' CAP Alert app, you can generate a webhook and integrate it with
 
 ## How to Set Up a CAP Alert App
 
-Go to the OptiSigns portal. Go to **Assets → Add Asset → Apps.**
+Go to the OptiSigns portal. Go to **Files/Assets → Apps.**
+
+**EDITOR’S NOTE — The route changed. The portal tab is now Files/Assets, and there is no Add Asset button — Apps is a button in the left sidebar. This step should read Files/Assets then Apps. Image 2 is re-shot to the new page. (delete before publishing)**
 
 Select **CAP Alert:**
 
-Now you can set up your Looker Studio app:
+Now you can set up your CAP Alert app:
 
 * **Name** - Name of your assets, this will not be displayed on the screens.
 * **Content Type** - Choose between **Post to Webhook** or **XML**.
@@ -37,24 +39,19 @@ Now you can set up your Looker Studio app:
 * **Screens/Tags** - Select which screens or group of screens (tags) you want to target for this emergency. (i.e. Fire in building/location 1)
 * **Status** - Swap between Active or Inactive for this alert.
 * **Emergency Duration** - How long the CAP Alert will take over the screen. Measured in seconds.
-* **Content-Type** - Select "Post to Webhook" if you would like to post the CAP/IPAWS message to your signage. The app also supports RSS feed.
-* **Webhook** - The app will generate a webhook URL after it is saved. This is what you should share with the emergency alert system.
-* **Display Type** - Currently the app will take over the full screen when there is an emergency
-* **State**- Set the app to active or inactive.
-* **Emergency Duration**- How long the emergency message will take over the screen. The value can be overwritten by the webhook call.
 
 ### Theme Settings
 
 Click **Theme Settings** to expand the field and provide a slate of additional options:
 
-* **Background Image:** Lets you choose a Background image for your RSS feed. When **Custom** is selected, it will give you the opportunity to **Choose Photo:**
+* **Background Image:** Lets you choose a Background image for your CAP Alert. When **Custom** is selected, it will give you the opportunity to **Choose Photo:**
 
   This photo must already exist as an asset within OptiSigns.
 * **Theme:** Choose between **Light** and **Dark** theme. This will disappear if Background Image is set to "Custom".
 * **Text Color:** Determines the text color. Can be chosen with Hex Code or via color picker.
 * **Text Font:** Choose the font for the text.
 * **Font Size:** Choose between Default Font Size, or Custom. When Custom is selected, will provide a new option: **Custom Font Size**.  
-  + **Custom Font Size:** Choose your font size.
+  + **Font Size:** Choose your font size.
 * **Text Alignment/Position:** Choose the alignment and position of the CAP Alert text.
 * **Max Number of Rows:** Choose the maximum number of rows to dedicate to the CAP Alert feed.
 
@@ -77,14 +74,15 @@ Click **Advanced** to expand the field and provide a slate of additional options
 * **Title Tag** - Message title from the CAP/IPAWS message/RSS feed. Default is <headline> - you can change if your feed is different
 * **Description Tag** - Message content from the CAP/IPAWS message/RSS feed, default is <description> - you can change if your feed is different
 * **Location (Screen Tags)** - If you can match the screen tags with your location passed from the CAP/IPAWS message/RSS feed - you can use it to control the selection of the target screens. By default, it maps to the "areaDesc" attribute from the CAP alert.
+* **Status** - Select your CAP Alert status.
 
 |  |
 | --- |
 | **IMPORTANT** |
-| A common issue we find is the screen displays a "No Content Available" message after users push out the CAP alert using "aeraDesc" an attribute. The solution: if you are not intending to use screen tags to map to location, try changing the Location value from "areaDesc" to any other value, like "areaDesc2". |
+| A common issue we find is the screen displays a "No Content Available" message after users push out the CAP alert using the "aeraDesc" attribute. The solution: if you are not intending to use screen tags to map to location, try changing the Location value from "areaDesc" to any other value, like <areaDesc1>. |
 
-* **Severity, Urgency, Certainty** - Standard attributes of CAP / IPAWS messages, these options allow you to control the filter of the messages. By default, the app will be triggered on all values. However, you can set these similar to tags - this will filter out anything that does not include these tags.
-* **Filter content containing** - Allows content to be filtered based on specific words in the title or description. I.E: "fire", so if any title or description contains the word "fire" (non-case insensitive), the app will trigger the screen takeover.
+* **Severity, Certainty, Urgency** - Standard attributes of CAP / IPAWS messages, these options allow you to control the filter of the messages. By default, the app will be triggered on all values. However, you can set these similar to tags - this will filter out anything that does not include these tags.
+* **Filter content containing** - Allows content to be filtered based on specific words in the title or description. I.E: "fire", so if any title or description contains the word "fire" (case insensitive), the app will trigger the screen takeover.
 * **Exclude title containing** - Filter only applying to the title. You can hide all the old feeds by filtering with specific words in the title. I.E: “All Clear”, so after the emergency is gone, all the feeds before this title will be hidden, then the screen will revert to the original content or just display the new content after that.
 * **Category, Code, Event Code** - Additional filters allowing you to include or exclude certain event categories, codes, or event codes.
 

@@ -3,7 +3,7 @@
 **Article ID:** 360055900513
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360055900513-How-to-create-and-use-Virtual-Screen-App
-**Last Updated:** 2025-09-04T17:02:05+00:00
+**Last Updated:** 2026-09-18T11:46:30+00:00
 ---
 
 This article will guide you through how to create and use a Virtual Screen app.

@@ -3,7 +3,7 @@
 **Article ID:** 40671590645651
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/40671590645651-How-to-Play-Licensed-Background-Music-on-Digital-Signs-with-OptiSound
-**Last Updated:** 2026-09-10T10:46:35+00:00
+**Last Updated:** 2026-09-18T13:02:26+00:00
 ---
 
 With OptiSound, you can stream curated background music legally in commercial environments, seamlessly alongside your digital signage content.
