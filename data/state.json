@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-09-21T08:09:14.586794+00:00",
+  "last_sync": "2026-09-22T07:54:32.853042+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -355,10 +355,10 @@
     "31695220475283": {
       "id": 31695220475283,
       "slug": "31695220475283-Configuring-Mass-Deployment-with-Jamf-Pro-MDM-on-Apple-Devices",
-      "hash_val": "2eeecb99340f58c1baa571702a6c613235cc4a973929b2a52223f6ed61142930",
-      "updated_at": "2025-08-29T17:04:07+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/31695220475283configuringma-6nwp3a0x70ek",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/31695220475283configuringma-6nwp3a0x70ek",
+      "hash_val": "9766df13d9a854ea0f8ea87a61e5d4f79ee08a6e224b546e6e40006fca0ec522",
+      "updated_at": "2026-09-21T19:42:14+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/31695220475283configuringma-gudom9zo19c7",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/31695220475283configuringma-gudom9zo19c7",
       "locale": "en-us"
     },
     "31449657955347": {
@@ -1137,11 +1137,11 @@
     },
     "4403332894867": {
       "id": 4403332894867,
-      "slug": "4403332894867-How-to-set-up-Audit-Log-for-your-account",
-      "hash_val": "d19040925b08e84db5c47bc2be1e3fe27f05f7820c3f9ceb6189f9fc674428de",
-      "updated_at": "2026-09-10T09:46:28+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4403332894867howtosetupaudi-erhkodh7o8xi",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4403332894867howtosetupaudi-erhkodh7o8xi",
+      "slug": "4403332894867-Setting-Up-Audit-Logging",
+      "hash_val": "e60152977a63f2125cf2adec7de27588445f4e5c98f0819bdc4f093963a10a56",
+      "updated_at": "2026-09-21T20:44:11+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4403332894867settingupaudit-csjfrt1lv0uh",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4403332894867settingupaudit-csjfrt1lv0uh",
       "locale": "en-us"
     },
     "4403306341523": {
@@ -2289,11 +2289,11 @@
     },
     "4411762539027": {
       "id": 4411762539027,
-      "slug": "4411762539027-Multilingual-and-multi-currency",
-      "hash_val": "6a75658949bc19234608111a561827d9f675d43d253cb762a6fff458fc9b14a4",
-      "updated_at": "2025-09-04T15:30:19+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4411762539027multilingualan-63wnequb12dy",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4411762539027multilingualan-63wnequb12dy",
+      "slug": "4411762539027-Multilingual-and-Multi-Currency-Options",
+      "hash_val": "af7218a83bd39719cd9530277bac3b220e371d7a1c3dea0de4fbf347006b5959",
+      "updated_at": "2026-09-21T17:51:53+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4411762539027multilingualan-uid4rykapz8s",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4411762539027multilingualan-uid4rykapz8s",
       "locale": "en-us"
     },
     "1500008112642": {
@@ -2461,10 +2461,10 @@
     "35577511423635": {
       "id": 35577511423635,
       "slug": "35577511423635-OptiSigns-Pro-Player-Advanced-Features",
-      "hash_val": "b4f411adcc051e59cf3234963c9619340f22fef16ffaa34adee2e9db3f5cc34c",
-      "updated_at": "2026-03-30T17:22:38+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/35577511423635optisignsprop-fdmnqw1woor6",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/35577511423635optisignsprop-fdmnqw1woor6",
+      "hash_val": "3d2f08e6238ea91c5c35f5f9c7f85c270693985147071d10e9937865f3976e3a",
+      "updated_at": "2026-09-21T15:11:34+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/35577511423635optisignsprop-p5xoz6utse6u",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/35577511423635optisignsprop-p5xoz6utse6u",
       "locale": "en-us"
     },
     "18500083191059": {
@@ -3680,6 +3680,15 @@
       "updated_at": "2026-09-15T15:34:23+00:00",
       "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/55416185869331broadcastsend-cyenrpg9zz39",
       "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/55416185869331broadcastsend-cyenrpg9zz39",
+      "locale": "en-us"
+    },
+    "55640830295187": {
+      "id": 55640830295187,
+      "slug": "55640830295187-Using-the-Japan-Transit-App",
+      "hash_val": "98d8bf4a7a6d8fc32346c1bedaa0c0afc57fbcf47428b489d7ace287afda9177",
+      "updated_at": "2026-09-21T20:41:52+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/55640830295187usingthejapan-t8kofpmanxbr",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/55640830295187usingthejapan-t8kofpmanxbr",
       "locale": "en-us"
     }
   }

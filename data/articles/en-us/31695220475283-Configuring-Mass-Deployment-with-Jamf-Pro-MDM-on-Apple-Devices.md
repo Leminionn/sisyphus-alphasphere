@@ -3,20 +3,17 @@
 **Article ID:** 31695220475283
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/31695220475283-Configuring-Mass-Deployment-with-Jamf-Pro-MDM-on-Apple-Devices
-**Last Updated:** 2025-08-29T17:04:07+00:00
+**Last Updated:** 2026-09-21T19:42:14+00:00
 ---
+
+* [Requirements](#0)
+* [Step 1: Load OptiSigns App Inside Jamf MDM](#1)
+* [Step 2: OptiSigns App Enrollment with Jamf Pro MDM](#2)
+* [Step 3: Deployment](#3)
 
 Efficiently managing digital signage across multiple devices is crucial for businesses to ensure smooth operations and consistent updates. OptiSigns, in conjunction with a Mobile Device Management (MDM) system, offers a streamlined process for mass enrolling your devices. This guide will walk you through the steps to distribute and manage OptiSigns digital signage software using a Jamf MDM system on Apple devices.
 
 ---
-
-[Requirements](#0)
-
-[Step 1: Load OptiSigns App Inside Jamf MDM](#1)
-
-[Step 2: OptiSigns App Enrollment with Jamf Pro MDM](#2)
-
-[Step 3: Deployment](#3)
 
 ## Requirements
 
@@ -30,6 +27,8 @@ To proceed with this guide, please ensure that you have:
 
 4. Access to Apple Business Manager or Apple School Manager.
 
+---
+
 ## Step 1: Load OptiSigns App Inside Jamf MDM
 
 Inside ABM (Apple Business Manager) volume purchase licenses of OptiSigns Digital Signage (It's free).
@@ -37,6 +36,8 @@ Inside ABM (Apple Business Manager) volume purchase licenses of OptiSigns Digita
 We assume that the ABM VPP account is linked to your Jamf Pro instance, otherwise, use this Jamf [Video Guide](https://trainingcatalog.jamf.com/volume-purchasing/637880) to do so.
 
 After populating ABM apps into Jamf MDM, you should see OptiSigns Digital Signage app inside MDM Mobile Device Apps section, as shown below:
+
+---
 
 ## Step 2: OptiSigns App Enrollment with Jamf Pro MDM
 
@@ -51,11 +52,13 @@ Let's go through each section of the configuration:
 1. **serialNo:** Serial number of the device, you can map this to a variable from your MDM.
 2. **accountId:** This is your OptiSigns Account ID, you need to enter it manually.
 
-Account ID can be found inside the OptiSigns portal, by visiting the **[Screens tab](https://app.optisigns.com/app/screenManagement)** → Finding the screen you'd like→ Clicking **Edit Screens** → Click **Advanced** → Click **More** → Click on the "**i**" button
+Account ID can be found inside the OptiSigns portal, by visiting the[**Screens tab**](https://app.optisigns.com/app/screenManagement)→ Finding the screen you'd like→ Clicking **Edit** → Click **Advanced** → Click **More** → Click on the "**i**" button
 
 This will open your **Device Info**:
 
 3. **screenName** - This is the screen name that will appear on the OptiSigns portal, as shown in the screenshot below. Normally this is mapped to a variable from your MDM.
+
+---
 
 ## Step 3: Deployment
 

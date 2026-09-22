@@ -3,7 +3,7 @@
 **Article ID:** 35577511423635
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/35577511423635-OptiSigns-Pro-Player-Advanced-Features
-**Last Updated:** 2026-03-30T17:22:38+00:00
+**Last Updated:** 2026-09-21T15:11:34+00:00
 ---
 
 |  |
@@ -41,18 +41,15 @@ By default, the Pro Player can be set to check for updates once per week at a ti
 
 To change the OTA Update time from the portal or across multiple devices, read on.
 
-|  |
-| --- |
-| **NOTE** |
-| This has to be done on the original 1.0 OptiSigns portal. |
-
 First, find your screen. Navigate to **Advanced** → **Down Arrow** → **OTA Update.**
+
+**EDITOR’S NOTE — Route confirmed, image re-shot. For a Pro / Pro Max the OTA Update item is deliberately HIDDEN from the Edit Screen footer menu and surfaced in the Advanced section's more-commands dropdown instead (MdmButtonRow.tsx, comment '#1094'), which is exactly the Advanced then down-arrow then OTA Update path described here. Two changes inside that menu: 'Get used storage/free storage' is now 'Storage Details', and an Enable/Disable Auto Update item has been added. (delete before publishing)**
 
 The below window will appear:
 
 Here, choose the day of the week and time of day for your OTA update. You can choose from various builds as well under the **Channel** option:
 
-You can also **Reset after OTA**, which will automatically restart the Pro or ProMax player after the OTA Update is complete.
+You can also **Restart after OTA**, which will automatically restart the Pro or ProMax player after the OTA Update is complete.
 
 Finally, you'll be able to check for an update and automatically apply it here, or receive instructions on how to manually reimage your Pro/ProMax Player.
 
@@ -62,7 +59,7 @@ If your device misses its update window, either due to being powered off, or lac
 
 In order to do this, you’ll need access to the OptiSigns Portal. From the **Screens tab**, click the **3 Dots** **→ Execute Remote Commands**.
 
-You’ll be taken to the below screen:
+This will open the following options:
 
 Target the screen you’ve paired with your OptiSigns Pro Player, then enter the **forceOTA** command in the highlighted field. After a few seconds, you should see the following:
 
@@ -76,7 +73,7 @@ This means the OptiSigns Pro Player has received the command and executed it. It
 
 ## The ‘About’ Option
 
-The **About** option provides data on your Pro Player, in addition to different options.
+The **About** option provides data on your Pro Player, in addition to different options. This option is accessed from the Side Menu.
 
 This lets you know everything from the name attached to your screen, to whether the Player is connected to the internet, to the storage used.
 
@@ -124,13 +121,13 @@ Remote Command Execution is disabled by default. To use it, it will need to be t
 
 |  |
 | --- |
-| For security reasons, **only the account owner** can enable or disable Remote Command Execution. |
+| For security reasons, **only the account owner or Super Admin** can enable or disable Remote Command Execution. |
 
 ### Executing Remote Commands
 
-Now we can actually send Remote Commands from the OptiSigns portal to your Pro or ProMax player. From the **Screens tab**, click the **3 Dots** **→ Execute Remote Commands**.
+Now we can actually send Remote Commands from the OptiSigns portal to your Pro or ProMax player. From the **Screens tab**, click the **3 Dots** **→ Execute Remote Commands.**
 
-You’ll be taken to the below screen:
+This will open the following options:
 
 Target the screen you’ve paired with your OptiSigns Pro Player, then enter the **showTerminal** command in the highlighted field. After a few seconds, you should see the following:
 
@@ -146,9 +143,9 @@ First, enable **SSH**in your Advanced Settings.
 
 This will provide you with the SSH IP and Port number. By default, the port is **3000**, but it can be changed to whatever you like.
 
-Now that SSH is enabled and you have the IP and Port, you can use a computer terminal to remote into the device.
+Now that SSH is enabled and you have the IP and Port, you can use another computer terminal to remote into the device.
 
-Type the following command:
+Type the following command in that computer terminal:
 
 ```
 SSH optisigns@<ip-address-here> -p <port-number-here>
