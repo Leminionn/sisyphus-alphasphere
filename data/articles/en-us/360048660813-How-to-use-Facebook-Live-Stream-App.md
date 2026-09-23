@@ -3,7 +3,7 @@
 **Article ID:** 360048660813
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360048660813-How-to-use-Facebook-Live-Stream-App
-**Last Updated:** 2026-09-10T09:42:38+00:00
+**Last Updated:** 2026-09-22T09:12:00+00:00
 ---
 
 This article will guide you through how to create and use Facebook Live Stream app.
@@ -18,7 +18,7 @@ First open the Facebook live stream you want to use and copy the URL link:
 
 Then log on to our portal: <http://app.optisigns.com/>
 
-Go to Files/Assets, Click on "App" and add Instagram on your Account.
+Go to Files/Assets, Click on "Apps" and add Facebook Live Stream on your Account.
 
 Click Facebook Live:
 
@@ -31,7 +31,7 @@ Enter your Facebook like URL:
 Click Save.  
 After Saving, you can Preview the wall.
 
-## **That's all! Congratulation!**
+## **That's all! Congratulations!**
 
 You have created your Facebook Live Stream app.
 

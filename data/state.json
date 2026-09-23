@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-09-22T07:54:32.853042+00:00",
+  "last_sync": "2026-09-23T07:55:34.213883+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -3109,10 +3109,10 @@
     "1500001985341": {
       "id": 1500001985341,
       "slug": "1500001985341-How-to-Use-the-Local-Folder-App-in-OptiSigns",
-      "hash_val": "65de6bcf441b4de654d0be2e9c86fc22b267bcfa0a4d7d08740b7cb1af637763",
-      "updated_at": "2026-09-11T11:30:23+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500001985341howtousetheloc-uofrxm4n811g",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500001985341howtousetheloc-uofrxm4n811g",
+      "hash_val": "936d6e1f016dc68b58d72a2b2451a3c54f55cfbf0b9d46c3997f6d7a30fd0ac9",
+      "updated_at": "2026-09-22T15:01:01+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500001985341howtousetheloc-0c5cgegzuoj1",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500001985341howtousetheloc-0c5cgegzuoj1",
       "locale": "en-us"
     },
     "360060284174": {
@@ -3352,10 +3352,10 @@
     "360048660813": {
       "id": 360048660813,
       "slug": "360048660813-How-to-use-Facebook-Live-Stream-App",
-      "hash_val": "0d9e4544db6828ec9b3522304bff8207f2867ee48b4c0fcddbc998302ffcbb2c",
-      "updated_at": "2026-09-10T09:42:38+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360048660813howtousefaceboo-526tfrgq44el",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360048660813howtousefaceboo-526tfrgq44el",
+      "hash_val": "38a8a10b2c37edb76cff7adce7e41b6cf588b6960e6eca1938c2db84bfce01e0",
+      "updated_at": "2026-09-22T09:12:00+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360048660813howtousefaceboo-53r1ugmj9wyc",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360048660813howtousefaceboo-53r1ugmj9wyc",
       "locale": "en-us"
     },
     "360047501233": {
@@ -3689,6 +3689,24 @@
       "updated_at": "2026-09-21T20:41:52+00:00",
       "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/55640830295187usingthejapan-t8kofpmanxbr",
       "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/55640830295187usingthejapan-t8kofpmanxbr",
+      "locale": "en-us"
+    },
+    "55669121864979": {
+      "id": 55669121864979,
+      "slug": "55669121864979-Using-the-Flight-Schedule-App",
+      "hash_val": "11105a4838f590427760fa1dafcc16a176e40dabbfdafa06bfbb08aeb29e7439",
+      "updated_at": "2026-09-22T18:59:24+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/55669121864979usingthefligh-ds64azleylvg",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/55669121864979usingthefligh-ds64azleylvg",
+      "locale": "en-us"
+    },
+    "55447693635731": {
+      "id": 55447693635731,
+      "slug": "55447693635731-How-to-Display-Grafana-Dashboards-on-OptiSigns",
+      "hash_val": "d53ffc8a2774f909fb20fe45ee81542048abc318175cd9704db21ffe8429c779",
+      "updated_at": "2026-09-22T14:14:49+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/55447693635731howtodisplayg-1n2qmg4e010w",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/55447693635731howtodisplayg-1n2qmg4e010w",
       "locale": "en-us"
     }
   }
