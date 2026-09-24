@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-09-23T07:55:34.213883+00:00",
+  "last_sync": "2026-09-24T07:46:00.364208+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -1687,10 +1687,10 @@
     "360034883113": {
       "id": 360034883113,
       "slug": "360034883113-Working-with-Teams-and-Security-Levels",
-      "hash_val": "416571b8cbfc3be6a8c121ca9305c74a8a3b22fe76fdfcb9dc4203a50d2500b9",
-      "updated_at": "2026-09-18T10:36:31+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360034883113workingwithteam-jva53army3re",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360034883113workingwithteam-jva53army3re",
+      "hash_val": "c10380b7c4e9adf1b282cef597b0ce039f9af0d99048ab57b5e1c1184fc1c8e1",
+      "updated_at": "2026-09-23T12:25:53+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360034883113workingwithteam-kwou61row7u3",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360034883113workingwithteam-kwou61row7u3",
       "locale": "en-us"
     },
     "360034379293": {
@@ -2596,10 +2596,10 @@
     "32129032857875": {
       "id": 32129032857875,
       "slug": "32129032857875-Where-to-Buy-OptiSigns-Devices",
-      "hash_val": "7d5edb3ddbc0531f6921a7ed4c770c4d67f7d0d7001a7d36ce097c1ec620118c",
-      "updated_at": "2026-09-10T09:51:39+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/32129032857875wheretobuyopt-g20gzoznpfcc",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/32129032857875wheretobuyopt-g20gzoznpfcc",
+      "hash_val": "64df41ce2d6ee1cdb8fd06514cf6b4a384b1c7e709eb4fb25be6cf150125bfae",
+      "updated_at": "2026-09-23T19:17:01+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/32129032857875wheretobuyopt-tpfu6u10mvb4",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/32129032857875wheretobuyopt-tpfu6u10mvb4",
       "locale": "en-us"
     },
     "11784310183571": {
@@ -3676,10 +3676,10 @@
     "55416185869331": {
       "id": 55416185869331,
       "slug": "55416185869331-Broadcast-Send-Scheduled-Snapshots-of-Your-Dashboards",
-      "hash_val": "a9322d4b42a7165bd08347386ebe4447a318f71a7a345b852ee7747fcb02823b",
-      "updated_at": "2026-09-15T15:34:23+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/55416185869331broadcastsend-cyenrpg9zz39",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/55416185869331broadcastsend-cyenrpg9zz39",
+      "hash_val": "533e0028e3203ba08e8c33a774b57ee56df9c5fc2d330d1977bf3a70d86d9f58",
+      "updated_at": "2026-09-23T16:24:51+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/55416185869331broadcastsend-nuxchtro1v5l",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/55416185869331broadcastsend-nuxchtro1v5l",
       "locale": "en-us"
     },
     "55640830295187": {
@@ -3707,6 +3707,15 @@
       "updated_at": "2026-09-22T14:14:49+00:00",
       "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/55447693635731howtodisplayg-1n2qmg4e010w",
       "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/55447693635731howtodisplayg-1n2qmg4e010w",
+      "locale": "en-us"
+    },
+    "55709616003219": {
+      "id": 55709616003219,
+      "slug": "55709616003219-Using-the-X-Social-App-Add-On",
+      "hash_val": "1435768e998c931cef36e855d28d474b963d95ee5f6a2004337671ab2a082311",
+      "updated_at": "2026-09-23T19:58:50+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/55709616003219usingthexsoci-isspztubrocj",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/55709616003219usingthexsoci-isspztubrocj",
       "locale": "en-us"
     }
   }

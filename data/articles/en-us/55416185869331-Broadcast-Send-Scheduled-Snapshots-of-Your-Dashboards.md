@@ -3,7 +3,7 @@
 **Article ID:** 55416185869331
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/55416185869331-Broadcast-Send-Scheduled-Snapshots-of-Your-Dashboards
-**Last Updated:** 2026-09-15T15:34:23+00:00
+**Last Updated:** 2026-09-23T16:24:51+00:00
 ---
 
 Broadcast takes a picture of a dashboard on a schedule you choose and delivers it to the people who need it. It can be sent by email, to a Microsoft Teams channel, to your own system through a webhook, or as a PDF saved in OptiSigns.
@@ -82,7 +82,7 @@ Select **Create**. The broadcast is saved and scheduled, but does not run until 
 The following are the destinations you can send a Broadcast to:
 
 * **Email -** Input several email addresses. These addresses will receive an email containing the snapshot(s) you've set the Broadcast up to take.
-* **Microsoft Teams -** Input a Teams webhook URL. This will create a card in your Teams channel with the snapshots. For more on this, see [How to Get a Microsoft Teams Webhook URL for OptiSigns Broadcast](https://support.optisigns.com/hc/en-us/articles/55416186918163).
+* **Microsoft Teams -** Input a Teams webhook URL. This will create a card in your Teams channel with the snapshots. For more on this, see [How to Get a Microsoft Teams Webhook URL for OptiSigns Broadcast](https://support.optisigns.com/hc/en-us/articles/55416186918163-How-to-Get-a-Microsoft-Teams-Webhook-URL-for-OptiSigns-Broadcast).
 * **Webhook** - A generic Webhook URL. This will send a JSON POST request to the webhook containing links to the snapshots.
 * **PDF** - For this, input nothing. A PDF will be filed under the Snapshots tab each run, and can be disseminated however you wish.
 
