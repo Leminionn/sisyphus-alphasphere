@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-09-24T07:46:00.364208+00:00",
+  "last_sync": "2026-09-25T08:06:52.431260+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -715,10 +715,10 @@
     "19171222981523": {
       "id": 19171222981523,
       "slug": "19171222981523-How-to-Use-the-Viva-Engage-app-formerly-Yammer-on-OptiSigns",
-      "hash_val": "58ea1969f34d14a70c2147bb0cf002ead488d923779d2f08d99285c6373ae76a",
-      "updated_at": "2026-08-21T18:40:48+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/19171222981523howtousethevi-uqocncx4gm0x",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/19171222981523howtousethevi-uqocncx4gm0x",
+      "hash_val": "2f036560b58d707ed1883803a741b7660a27e9a597aa6dc64ae9987e531c3ff8",
+      "updated_at": "2026-09-24T08:59:57+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/19171222981523howtousethevi-ciz9hszsywwp",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/19171222981523howtousethevi-ciz9hszsywwp",
       "locale": "en-us"
     },
     "18988049363859": {
@@ -2983,10 +2983,10 @@
     "4408052949139": {
       "id": 4408052949139,
       "slug": "4408052949139-How-to-Use-the-Calendar-Mix-app",
-      "hash_val": "03c9eca5fbd9b5bbfa0f11326093aec230a5c5482b5ec5515e092f7b97265a9e",
-      "updated_at": "2026-09-09T15:32:17+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4408052949139howtousethecal-f9z6x6khw7c4",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4408052949139howtousethecal-f9z6x6khw7c4",
+      "hash_val": "2cfff8b89e9bef4825d07b5ca06c5ad53e2d29985b26ffd02be8f7c66f45561b",
+      "updated_at": "2026-09-25T07:45:20+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4408052949139howtousethecal-oserlc6ryar5",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4408052949139howtousethecal-oserlc6ryar5",
       "locale": "en-us"
     },
     "4407335862931": {
@@ -3244,10 +3244,10 @@
     "360051014713": {
       "id": 360051014713,
       "slug": "360051014713-How-to-Use-YouTube-with-OptiSigns",
-      "hash_val": "133e6443b5228bdcd5985c225cef8e8db6028611697a672fb18530f227b1ea88",
-      "updated_at": "2026-09-15T09:51:14+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360051014713howtouseyoutube-qwgp6959ojgn",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360051014713howtouseyoutube-qwgp6959ojgn",
+      "hash_val": "30d41e4623383f03b849cb44f51aca81ce6b04b0e9a2b2f9391439c73a8b9396",
+      "updated_at": "2026-09-24T14:52:18+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360051014713howtouseyoutube-wr6at3wwwz26",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360051014713howtouseyoutube-wr6at3wwwz26",
       "locale": "en-us"
     },
     "360049875794": {
@@ -3716,6 +3716,15 @@
       "updated_at": "2026-09-23T19:58:50+00:00",
       "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/55709616003219usingthexsoci-isspztubrocj",
       "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/55709616003219usingthexsoci-isspztubrocj",
+      "locale": "en-us"
+    },
+    "55719322614803": {
+      "id": 55719322614803,
+      "slug": "55719322614803-Inbound-Webhook-DataSources-in-Designer",
+      "hash_val": "c9a29f5e11c2919a55c9470a861ed17193f7311ac82b628cc2eb9a3a58d4039d",
+      "updated_at": "2026-09-24T17:00:10+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/55719322614803inboundwebhoo-zwqtns0qpste",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/55719322614803inboundwebhoo-zwqtns0qpste",
       "locale": "en-us"
     }
   }

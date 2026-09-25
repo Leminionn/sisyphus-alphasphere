@@ -3,7 +3,7 @@
 **Article ID:** 19171222981523
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/19171222981523-How-to-Use-the-Viva-Engage-app-formerly-Yammer-on-OptiSigns
-**Last Updated:** 2026-08-21T18:40:48+00:00
+**Last Updated:** 2026-09-24T08:59:57+00:00
 ---
 
 You can display your Viva Engage Posts on your digital signs screen with OptiSigns.
@@ -14,7 +14,7 @@ First, you will need to have your screens set up and paired. For more informatio
 
 Then log on to our portal: <http://app.optisigns.com/>
 
-Go to Files/Assets, Click on "App", find and click on Viva Engage:
+Go to Files/Assets, Click on "Apps", find and click on Viva Engage:
 
 Click **Sign in with Viva Engage** and sign in with your Microsoft account.
 
@@ -30,7 +30,7 @@ Enter details for your Viva Engage:
 
 You can click Advanced and set:
 
-* Moderation: This is option for you to moderate your content (show, hide certain posts), default is "Always show new posts" meaning all new posts are automatically show up, no review, approval needed. You can read more about [content moderation feature here](https://support.optisigns.com/hc/en-us/articles/4403015887763).
+* Moderation: This is an option for you to moderate your content (show, hide certain posts), default is "Always show new posts" meaning all new posts are automatically shown, no review, approval needed. You can read more about [content moderation feature here](https://support.optisigns.com/hc/en-us/articles/4403015887763).
 * Filter Posts: By Time (i.e last 30 days) or by last XX number of posts
 * Scrolling Strip Font Size: If you put the Viva Engage app to a SplitScreen zone that is a scrolling strip, you can set how big you want the scrolling text to be
 * Continue Playing Content in Playlist: In the playlist, the Viva Engage app plays 10 items in the 1st round, and it will start with #11 item in the 2nd round.
