@@ -3,7 +3,7 @@
 **Article ID:** 360034883113
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360034883113-Working-with-Teams-and-Security-Levels
-**Last Updated:** 2026-09-23T12:25:53+00:00
+**Last Updated:** 2026-09-25T09:11:39+00:00
 ---
 
 With OptiSigns, you can set up Teams, invite other users / account members and set security levels.  
