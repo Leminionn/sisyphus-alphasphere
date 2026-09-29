@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-09-28T08:54:13.463719+00:00",
+  "last_sync": "2026-09-29T08:56:14.017885+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -319,10 +319,10 @@
     "32860569148819": {
       "id": 32860569148819,
       "slug": "32860569148819-How-to-Set-Up-a-Power-BI-Service-Principal-for-Use-in-OptiSigns",
-      "hash_val": "bcda0368a6866bc8c4961b9a5b43957e385b9b0bf43581595237434039ff02c2",
-      "updated_at": "2026-09-10T09:51:45+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/32860569148819howtosetupapo-hhu4rdh5b4cm",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/32860569148819howtosetupapo-hhu4rdh5b4cm",
+      "hash_val": "4139eab19909b0254bbb5f610025a6425e409cd80786c6fa4129c9a8b0f5fcfa",
+      "updated_at": "2026-09-28T20:24:07+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/32860569148819howtosetupapo-xfi0ugicc0g3",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/32860569148819howtosetupapo-xfi0ugicc0g3",
       "locale": "en-us"
     },
     "32839794222099": {
@@ -589,10 +589,10 @@
     "23566927217939": {
       "id": 23566927217939,
       "slug": "23566927217939-How-to-use-Check-in-app-with-SMS-follow-up",
-      "hash_val": "adf0c3da08fa9639464986fcc1ee2f05cd4472f38249398ed21c446c8eeb5dbd",
-      "updated_at": "2026-09-10T09:50:30+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/23566927217939howtousecheck-xsec3172c69e",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/23566927217939howtousecheck-xsec3172c69e",
+      "hash_val": "602c1b1599026e5f207c0e90cef6559189df5b080444b94a58b2f4a31ef3b3af",
+      "updated_at": "2026-09-28T22:24:04+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/23566927217939howtousecheck-gvc6tbqswzfv",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/23566927217939howtousecheck-gvc6tbqswzfv",
       "locale": "en-us"
     },
     "23565267463315": {
@@ -1165,10 +1165,10 @@
     "1500010436341": {
       "id": 1500010436341,
       "slug": "1500010436341-Adjust-the-GPU-memory-on-the-Raspberry-Pi",
-      "hash_val": "bf7515788ce2861898208484fa70566bf310e2dd0174c0acbbd53e174f68e61a",
-      "updated_at": "2026-09-10T09:46:14+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500010436341adjustthegpume-2xudxposxggc",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500010436341adjustthegpume-2xudxposxggc",
+      "hash_val": "b0240193872676fbbbce83db62013271081df13f6ea433335f6889002d27f275",
+      "updated_at": "2026-09-28T17:02:14+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500010436341adjustthegpume-w4ozsfzuq699",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500010436341adjustthegpume-w4ozsfzuq699",
       "locale": "en-us"
     },
     "1500009937122": {
@@ -1264,10 +1264,10 @@
     "360061576673": {
       "id": 360061576673,
       "slug": "360061576673-Advanced-Enforce-SSO-login-for-your-account",
-      "hash_val": "75c539577e5ce31e93c03e875d800f3c3613261fcd32fb2003c7352ebd4b2f36",
-      "updated_at": "2026-09-10T09:45:05+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360061576673advancedenforce-vvllqc22365n",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360061576673advancedenforce-vvllqc22365n",
+      "hash_val": "64024a3b9d91be169e836a9483fbcac56b0f7ae072267921b5558e6c9347dba9",
+      "updated_at": "2026-09-28T21:53:26+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360061576673advancedenforce-xqnxwkdq5vom",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360061576673advancedenforce-xqnxwkdq5vom",
       "locale": "en-us"
     },
     "1500000941981": {
@@ -1291,10 +1291,10 @@
     "1500000493782": {
       "id": 1500000493782,
       "slug": "1500000493782-Billing-How-Do-I-Change-my-Subscription-Plan",
-      "hash_val": "5c7566dd558ec41d33721e1faa338b919731e707fac5d40d13da452a215bd5b5",
-      "updated_at": "2026-09-10T09:45:13+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500000493782billinghowdoic-dmn2taniuu2j",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500000493782billinghowdoic-dmn2taniuu2j",
+      "hash_val": "2c3f27fb37336ffee9866d052e8375c397f6cd747a7155a0e2fd3e4d2b0a38c7",
+      "updated_at": "2026-09-28T19:34:27+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500000493782billinghowdoic-f5semghwxxw4",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500000493782billinghowdoic-f5semghwxxw4",
       "locale": "en-us"
     },
     "1500000485202": {
@@ -1993,10 +1993,10 @@
     "29838866920211": {
       "id": 29838866920211,
       "slug": "29838866920211-How-to-add-Google-Sheets-as-a-DataSource-for-OptiSync",
-      "hash_val": "1845b152a8cb89c75598b5ccf16f157b07381439c79d49411b69bd855ba7ac35",
-      "updated_at": "2026-09-10T09:51:21+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/29838866920211howtoaddgoogl-boiu59l63111",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/29838866920211howtoaddgoogl-boiu59l63111",
+      "hash_val": "9b60e14a707a5294312b7bf4f504a8712cc2da668611139848559d4950d00d7b",
+      "updated_at": "2026-09-28T19:13:38+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/29838866920211howtoaddgoogl-gzvc0igic1mk",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/29838866920211howtoaddgoogl-gzvc0igic1mk",
       "locale": "en-us"
     },
     "27676133574547": {
@@ -3559,10 +3559,10 @@
     "360024859713": {
       "id": 360024859713,
       "slug": "360024859713-How-to-Display-Microsoft-Power-BI-Dashboards-Reports-with-OptiSigns",
-      "hash_val": "f41755a6f003342702c0e4f1af4d62ecf0e3f4e484f77ed3be46d36fd9922375",
-      "updated_at": "2026-08-13T15:38:13+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360024859713howtodisplaymic-lyyb1v70g7di",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360024859713howtodisplaymic-lyyb1v70g7di",
+      "hash_val": "caf7d0b3a98f261dc799757a15fcf1af77e6f115a902f4841e3f5ae7880437b4",
+      "updated_at": "2026-09-28T20:24:16+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360024859713howtodisplaymic-5dzy8p9t2wg2",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360024859713howtodisplaymic-5dzy8p9t2wg2",
       "locale": "en-us"
     },
     "360023848334": {

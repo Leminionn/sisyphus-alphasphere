@@ -3,254 +3,256 @@
 **Article ID:** 360024859713
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360024859713-How-to-Display-Microsoft-Power-BI-Dashboards-Reports-with-OptiSigns
-**Last Updated:** 2026-08-13T15:38:13+00:00
+**Last Updated:** 2026-09-28T20:24:16+00:00
 ---
+
+Put live Power BI reports and dashboards on any screen. OptiSigns signs in to Power BI through Microsoft's official APIs, keeps the report up to date, and can rotate through the report pages you pick or turn a report into a touch-screen kiosk.
 
 |  |
 | --- |
 | **NOTE** |
-| The **Power BI app** is available to customers with a **Pro Plus plan or above**. |
-
-OptiSigns boasts integration with Microsoft Power BI, allowing secure sharing of PowerBI Dashboards and Reports to large TVs and screens. This improves communication and information sharing across office spaces.
+| The Power BI app requires the OptiSigns **Pro Plus** plan or above. See [pricing](https://www.optisigns.com/pricing). |
 
 ---
 
 ## What You'll Need
 
-* An OptiSigns [Pro Plus plan](https://www.optisigns.com/pricing) subscription or above
-* A screen, [set up and paired](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv) with OptiSigns
-* A valid Microsoft username and password
-* Appropriate Power BI Administrative permissions
-* A Power BI URL
+* An OptiSigns account on the [Pro Plus plan](https://www.optisigns.com/pricing) or above.
+* A screen [set up and paired](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv) with OptiSigns.
+* A published Power BI report or dashboard in the Power BI service (app.powerbi.com or Microsoft Fabric).
+* A way to connect:
+  + **Direct Login** - A Microsoft account that can open the report in Power BI.
+  + **Service Principal** - An Azure app registration set up for Power BI. This needs the Pro Plus, Engage or Enterprise plan. See [How to Set Up a Power BI Service Principal for Use with OptiSigns](https://support.optisigns.com/hc/en-us/articles/32860569148819-How-to-Set-Up-a-PowerBI-Service-Principal-for-Use-in-OptiSigns).
 
 ---
 
-## Prepare Dashboard or Report for Sharing
+## How It Works
 
-We'll assume you already have a Power BI dashboard or report built out and ready to showcase to your team members or audience on a large screen.
+You add a **Power BI** app to your assets, connect it to Microsoft, and choose a report or dashboard. OptiSigns shows it on your screens and checks for updated data on the interval you set. A report can play in one of three ways:
 
-### Dashboard Hosted on Microsoft 365
+* **One page** - The report opens on its default page.
+* **Rotating pages** - You pick which report pages to show and how long each one stays up. The screen cycles through them in order.
+* **Kiosk Mode** - The report becomes a touch dashboard. Viewers tap to filter and switch pages themselves.
 
-If your report or dashboard is hosted on **Microsoft 365**, simply copy the URL link in your Power BI dashboard.
+Dashboards have no pages, so they always show as a single view.
+
+---
+
+## Preparing Your Report in Power BI
+
+If you'll pick your report with **Browse** inside the OptiSigns portal, skip this step and [follow from here](#Step4ChooseYourReportOrDashboard). Otherwise, copy the report's URL.
+
+**Report in the Power BI service.** Open the report in your browser and copy the URL from the address bar. Use the address bar URL, not a **Share** link.
+
+**Report from Power BI Desktop.** Click **Publish** on the **Home** ribbon.
+
+Choose the workspace to publish to.
+
+When publishing finishes, click **Open in Power BI**.
+
+Copy the URL of the report that opens.
+
+---
+
+## Create a Power BI app
+
+In the [OptiSigns portal](https://app.optisigns.com/), go to **Files/Assets** and click **Apps**.
+
+Search for **Power BI** and click the tile.
+
+The Power BI app opens with four sections: **Connect**, **Dashboard**, **Filters** and **Display**.
+
+---
+
+## Connect to Microsoft
+
+Under **Choose Authentication Method**, pick **Direct Login** or **Service Principal**. In order to choose a Service Principal, you'll need to have set one up. See [How to Set Up a Power BI Service Principal for Use in OptiSigns](https://support.optisigns.com/hc/en-us/articles/32860569148819-How-to-Set-Up-a-Power-BI-Service-Principal-for-Use-in-OptiSigns).
+
+### Direct Login
+
+Click **Sign in with Microsoft** and sign in with an account that can open the report. When it works, the button reads **Authorized with Microsoft as** followed by your name.
 
 |  |
 | --- |
 | **NOTE** |
-| Make sure to use the URL from the browser address bar. The link from Report Share is a dynamic link, and is not a valid identifier for the dashboard. |
+| OptiSigns asks Microsoft only for read access to your reports, dashboards, workspaces and datasets. The first time anyone in your organization connects, a Microsoft admin may need to approve OptiSigns. |
 
-This URL is what you'll need to set up the Power BI app [in the next step.](#AddPowerBI)
+### Service Principal
 
-### Dashboard from Power BI Desktop App
+A service principal lets screens keep showing reports without depending on one person's Microsoft account. Select **Service Principal**, then choose a saved connection from **Select Service Principal Integration**.
 
-If your report or dashboard was created using the **Power BI Desktop app**, you need to click **Publish** from the top menu.
+To add a connection here, open the picker and choose **New Power BI connection**. Only an account Owner, Super Admin, or Teamspace admin can add one.
 
-Select the Workspace where you want to publish it.
+You can also manage connections from **Integrations** → **Power BI** → **Add Azure Service Principal**.
+
+Enter a **Name**, then the **Application (client) ID**, **Application (client) Secret** and **Directory (tenant) ID** from your Azure app registration, and click **Add**. For the Azure side of the setup, see [How to Set Up a Power BI Service Principal for Use with OptiSigns](https://support.optisigns.com/hc/en-us/articles/32860569148819-How-to-Set-Up-a-PowerBI-Service-Principal-for-Use-in-OptiSigns).
+
+---
+
+## Choose your Report or Dashboard
+
+In the **Dashboard** section, click **Browse** next to **Select report or Enter URL**. Pick a workspace.
+
+Then pick the report or dashboard, and click **Select**.
+
+The URL fills in, and **Name** is filled in from the report's name. The name is what you'll see in your assets list, and you can change it.
+
+You can paste the URL you copied in Step 1 into **Select report or Enter URL** instead. Links from app.powerbi.com and Microsoft Fabric both work.
+
+---
+
+## Choose How the Report Plays
+
+The Power BI app allows several options for how, exactly, the report plays. You can display single pages, or set rotation. You can also set your report to be displayed and optimized for Kiosks.
+
+### Rotate report pages
+
+Under **Select Pages**, tick each page you want to show, and set how many seconds it stays on screen. The default is 60 seconds and the minimum is 30. You can select up to 20 pages, and the header shows the total time for one full rotation.
+
+Leave every page unticked to show the report's default page only.
+
+### Kiosk Mode
+
+Turn on **Enable Kiosk Mode** to make the report a touch dashboard, where viewers tap to filter and switch pages. Then choose where Power BI shows its page tabs under **Page Tabs**: **Bottom** or **Left**.
 
 |  |
 | --- |
 | **IMPORTANT** |
-| Your report must be in a group different from "My workspace" |
-
-Once it has successfully published, click on Open in Power BI and will be redirected to your report or dashboard.
-
-Copy the URL in your Power BI dashboard.
-
-This URL is what you'll need to set up the Power BI app [in the next step.](#AddPowerBI)
+| Screens that play a Kiosk Mode report need the Engage add-on. Kiosk Mode works with reports only, not dashboards, and it can't be combined with rotating pages. Unselect all pages to turn it on. |
 
 ---
 
-## Add Power BI App on OptiSigns
+## Set the Update Interval and Save
 
-Now, it's time to add an instance of the Power BI app to your OptiSigns account.
+Open **Display** and set **Update Interval**, which is how often, in seconds, the app checks for updated data. 600 seconds (or 10 minutes) is the fastest interval possible.
 
-Navigate to the [**OptiSigns Portal**](https://app.optisigns.com/)**,**then click **Files/Assets** → **Apps**.
-
-Navigate to the **Power BI app**.
-
-Enter your Power BI app details.
-
-* **Name -** Name of your Power BI app instance. This is the name of the app in your asset list. It will **not** be displayed on your screens.
-* **URL -**  Paste in the Dashboard URL you copied in Step 1 here.
-* **Update Interval -** Select how often you want the app to check for an update to the Dashboard. The Default is 600 seconds (10 minutes).
-* **Use Service Principal -** When selected, uses a Microsoft Entra ID Service Principal to log in to Power BI. This requires additional setup. For more information, see [How to Set Up a Power BI Service Principal for Use with OptiSigns](https://support.optisigns.com/hc/en-us/articles/32860569148819-How-to-Set-Up-a-PowerBI-Service-Principal-for-Use-in-OptiSigns).
-  + **Select the "User Service Principal" Integration** - Where you choose the service principal integration for your Power BI reports.
-* **Direct Login -** In order to view your dashboard on any screen, OptiSigns requires you to authenticate via the pass-through to Microsoft's Power BI service. Simply input your Microsoft ID and password.
-
-Once you've integrated a Service Principal or directly logged in, you're ready to display. On the right is the **Preview** pane. If you've set up your report correctly, you should see it display here. You can change its orientation by switching between **Landscape** and **Portrait**.
+Click **Save**. Your Power BI app now appears in your assets. You can assign it to a screen directly, or add it to a [Playlist](https://support.optisigns.com/hc/en-us/articles/28295104605843-How-to-Create-Use-Playlists) or [Schedule](https://support.optisigns.com/hc/en-us/articles/360016981853-Create-and-Using-Schedules-with-OptiSigns). Kiosk Mode reports go on a screen directly; they can't be playlist items.
 
 |  |
 | --- |
 | **NOTE** |
-| A successful Preview will prove that your Power BI report has properly integrated with OptiSigns. However, it **DOES NOT** mean that it will display on your screen the same way. A variety of additional factors can affect how your Power BI displays, including (but not limited to):   * Type of device being used to display * Device memory * Reliability of network connection * Company firewalls and other network restrictions   If you're still having trouble getting your Power BI reports to display after all these have been accounted for, please contact us at [support@optisigns.com](mailto:support@optisigns.com). |
-
-If it appears to your satisfaction, you can choose to assign your Power BI app instance either directly to a screen or as part of a [Playlist](https://support.optisigns.com/hc/en-us/articles/28295104605843-How-to-Create-Use-Playlists) and/or [Schedule](https://support.optisigns.com/hc/en-us/articles/360016981853-Create-and-Using-Schedules-with-OptiSigns).
-
-This instance will display a single page of a report. You will need to create multiple instances to show multiple pages of a report. These can be placed into a Playlist to have a constantly rotating series of slides showing entire reports or dashboards, or sprinkled in with other Assets - however you like.
+| How well a report plays also depends on the device, its memory, and its network and firewall. If a report won't show on a screen, see the Troubleshooting questions at the end of the article. |
 
 ---
 
-## Filtering a Report
+## Filter a Report
 
-If you only wish to display certain pieces of data on your report, you can create Filters within the Power BI app.
+Filters let one report show only the data a screen needs. For example, a sales report can show only the Central region.
 
-### Creating a Basic Filter
+### Create a Filter
 
-For a basic filter, create a Power BI app or open an existing one and open the **Advanced Settings** at the bottom.
+Open the **Filters** section and click **Add Your First Filter**.
 
-To create a filter, we’ll need three key pieces of information from your report: a **Table**, a **Column**, and a **Value**.
+Each filter needs a **Table**, a **Column** and a **Value**. To find them, open the report in Power BI and click **Edit**.
 
-To find these, go to the report you wish to use. Click **Edit**.
+In the **Data** pane, each folder is a table and each field inside it is a column. Select a column to see its values in the **Filters** pane.
 
-A number of options will appear on the right side. Under the **Data** tab, you should see a number of folders and subfolders. The folders correspond to the **Table**, the subfolder the **Column**. When selected, there will be a number of names in a properly configured report in the **Filters** column. These are your **Values**. See the image below for a better visual reference.
+In this example, **Manufacturer** is the table, the **Manufacturer** field inside it is the column, and names like **Abbas** are values.
 
-In this example, we’ll use **Account** as our Table, **Region** as our Column, and **Central** as our filter Value. Simply fill that in to the Filter.
+Enter the table, column and value in the filter. Here, the report shows only rows where **Region** in the **Account** table is **Central**.
 
-There is one last step. We need to set our variable, which corresponds to the field between the Column and the Value. This is clickable, and there are many options:
+Change **Is** to a different operator to match values another way. The options include **Contains**, **Starts With**, **Greater Than** and **Is Blank**.
 
-This gives you a great degree of customizability on how you wish to set up your Filter. For our example, we’ll keep the value as **Is**. This means that it will only show data corresponding to that Table, Column, and Value.
+Click **+** to add another condition to the same filter, then choose **AND** or **OR** under **Condition Logic**.
 
-If this is all you need, great. You’re done! Simply hit **Save** and your filter will apply. However, it’s also possible to add additional conditions to a filter, or to create more than one per report.
+To filter on a different column, click **Add New Filter**.
 
-To add additional conditions to a basic filter, hit the **+** button next to it.
+Each filter gets its own row, numbered in order.
 
-You can change the condition logic between **AND** and **OR** to specify what type of filter to apply. Then, set the variable and value. You can continue adding additional conditions if you wish.
+### Target Individual Screens with One Filter (optional)
 
-To add a completely new filter, hit **Add New Filter**.
+To make one Power BI app show different data on different screens, give each screen an attribute and use it as the filter value.
 
-This will (shockingly) create a new filter. Fill this out as you did your first one, with the information you wish to show.
+Open the screen, go to **Edit Screen** → **Advanced** → **More**, and click the wrench icon (**Device Additional Attributes**).
 
-### Creating a Filter to Automatically Target Certain Screens (Optional)
+Click **New Attribute**.
 
-By pairing these filters with OptiSigns [**Device Additional Attributes**](https://support.optisigns.com/hc/en-us/articles/360048914673-Edit-Screen-What-does-each-option-do#attributes), it is possible to apply them only to certain screens. This is useful if you have multiple screen locations, for example, and only wish to show Power BI data which is relevant to them.
+Enter a key and a value, such as **Location** and **Central**, and click **Update**. Repeat for each screen with its own value.
 
-To set this up, navigate to the **Device Additional Attributes** by editing your screen. This can be found through the **Screens tab,** then finding the screen you wish to Edit. Click **Edit Screen → Advanced → More → Device Additional Attributes**.
+In the Power BI app's filter, enter the key in double curly braces as the **Value**: `{{Location}}`. Each screen then fills in its own value.
 
-Here’s where it gets fun. On the Device Additional Attributes screen, you’ll see two fields: **Key**, and **Value**.
+For more about attributes, see [Edit Screen — What does each option do](https://support.optisigns.com/hc/en-us/articles/360048914673-Edit-Screen-What-does-each-option-do#attributes).
 
-* **Key** - A parameter that will be used by the filter. This will replace either the Table, Column, or Value, as you’ll see in a moment. You’ll want to keep your Key consistent across ALL screens where you plan to display a filtered Power BI report.
-* **Value** - Dictates which part of the report to share with this screen. You’ll want this to vary depending on the screen.
+### Save and reuse filters (optional)
 
-For this example, we will fill in the Key as **Location** and the Value as **Central**:
+To reuse a set of filters in other Power BI apps, click **Save Filter**.
 
-For practical purposes, what we’re saying here is that this screen’s Location is in the Central region, which corresponds to the Values which exist on our Power BI report. You can add as many attributes to an individual screen as you wish.
+Give it a **Filter Name** and an optional **Description**, then click **Save My Filters**. Saved filters are available across your account.
 
-|  |
-| --- |
-| **IMPORTANT** |
-| The Value here MUST match up with an element of your report if you wish to apply the filter properly. In our example report, we have Central, East, and West, so one of these must be the value for the report to display properly. Your report will be different. |
+To apply a saved filter, click **Load Filter** and choose it from the list. Each saved filter has an edit (pencil) and a delete (trash) icon.
 
-Now that we’ve set this up, we can return to our Power BI report. Now, we’ll substitute the **Value** for **{{Location}}**:
-
-By inputting this and assigning this to a screen, it will find the Device Additional Attribute and substitute the Value here. In this case, that value is Central, so it will filter out all data that does not fall under the Account Table, Region Column, and Central Value.
-
-For a different screen, you might set the Device Additional Attribute value to East. By pairing this same report to that screen, it will filter out all data that does not fall under the Account Table, Region Column, and East value.
-
-Let’s see how this works with a practical example:
-
-* Say we have 3 screens in 3 locations:
-  + Screen A is in Location 1, Screen B is in Location 2, and Screen C is in Location 3
-* We only want these screens to show the appropriate data off this report
-  + On each screen, we go to Device Additional Attributes. We set Key as Location and the Value as Location 1 for Screen A; Location 2 for B; and Location 3 for C
-  + We set the Value in our Power BI report to {{Location}}
-* It will automatically filter the report based on the device’s set location, and this app can be used across all 3 screens and will show different data depending on where the screen is located
-
-Pretty cool, huh? This can also be used to replace the Table or Column values depending on your use case or need.
-
-### Saving and Loading Filters (Optional)
-
-It’s also possible to Save your filters for use when creating another Power BI app.
-
-To do this, simply create your filter, then hit the **Save Filter** button:
-
-This will bring up the **Save Your Filter Settings** menu.
-
-Give your filters a name and a description, then hit **Save My Filters**. This will save this filter on the Account Level. It can then be loaded by hitting the **Load Filter** button:
-
-These filters can be edited directly from this menu:
-
-Any edits made will apply everywhere this filter is applied.
+Editing opens **Edit Filter**, where you can change the name, description and conditions. Click **Update Filter** to save. The changes apply everywhere the filter is used.
 
 ---
 
 ## Frequently Asked Questions
 
-#### **How does security work with OptiSigns Power BI integration?**
+Here are some of the most commonly asked questions we find with customers using Power BI on OptiSigns.
 
-OptiSigns integrates with and displays Power BI dashboards via an official Microsoft API, securely integrated through your Power BI or MS Azure portal. No usernames or passwords are stored in OptiSigns.
+### How does security work with the Power BI integration?
 
-Your devices (screens) will display your Power BI report on the screens directly. Power BI data does not pass through our servers. There is no data-farming on our end of any kind.
+OptiSigns connects through Microsoft's official Power BI APIs and asks only for read access. With **Direct Login**, you sign in on Microsoft's own page, so OptiSigns never sees your password, and the access tokens it keeps are encrypted. A Microsoft admin may need to approve OptiSigns once for your organization. You can then [manage OptiSigns in your Enterprise App](https://support.optisigns.com/hc/en-us/articles/4403616315539) settings in Azure.
 
-OptiSigns uses Microsoft APIs for integration. In order for our integrations to work, the integration has to be approved by an administrator. This is the same across all integrations using Microsoft APIs.
+### Should I use Direct Login or a Service Principal?
 
-This administrator access is only needed for first time access. Once the OptiSigns app is approved for use, other users can use OptiSigns directly.
+**Direct Login** is the quickest to set up and works on any plan that includes the Power BI app. The report keeps playing only while that Microsoft account stays valid. A **Service Principal** isn't tied to a person, so it suits organizations that manage many screens. It needs the Pro Plus, Engage or Enterprise plan.
 
-Customers with MS Azure Enterprise Apps management can also [manage OptiSigns in your Enterprise App](https://support.optisigns.com/hc/en-us/articles/4403616315539) for even more control over security options.
+### How do I make the report fit my screen?
 
-#### **How do I set up a Power BI service principal with OptiSigns?**
+In Power BI, open the report in **Edit** mode, go to **View**, and choose **Fit to page**. Then save the report.
 
-We have an entire article dedicated to this process! Please see:
+For the best results, we recommend the [OptiSigns Android Player](https://www.optisigns.com/product/hardware/android-player).
 
-* [Set Up a Power BI Service Principal for Use in OptiSigns](https://support.optisigns.com/hc/en-us/articles/32860569148819-How-to-Set-Up-a-PowerBI-Service-Principal-for-Use-in-OptiSigns)
+### My report shows in the portal but not on my screen.
 
-Please note that the service principal option is only available to customers with an **Enterprise** plan.
+This is usually a network issue, so check that the screen can reach Microsoft's Power BI sites. Samsung (SSSP) and LG (webOS) displays need a browser engine of Chromium 95 or later to show Power BI, which is a Microsoft requirement. If your display is older, the [Android Player](https://www.optisigns.com/product/hardware/android-player) is a reliable alternative.
 
-#### **How can I edit the size of the screen on my display?**
+### My report lags or crashes.
 
-To make sure your Power BI app displays properly, go to **View** within the Power BI application you want to display. Then hit **Fit to Page**.
+Large reports need more memory and processing power than many built-in TV players have. We recommend the [OptiSigns Pro Player](https://www.optisigns.com/product/hardware/pro-digital-signage-player) or [ProMax Player](https://www.optisigns.com/product/hardware/promax-digital-signage-player) for large reports.
 
-Certain display devices may have additional requirements for displaying the report at the proper resolution. For example, mobile devices display at a different resolution than typical HD devices, and so some display issues may arise when setting reports to display on a mobile device.
+### Does this work with Power BI for US Government (GCC / GCC High)?
 
-In addition, certain hardware is not optimized for displaying Power BI. In these cases, we recommend our [OptiSigns Android Player](https://www.optisigns.com/product/hardware/android-player), which guarantees the best support for our software and Power BI in particular.
+Not directly. Government-cloud Power BI URLs aren't supported by the Power BI app. As a workaround, display the report with the [SharePoint app](https://support.optisigns.com/hc/en-us/articles/4414539282067-Displaying-SharePoint-Sites-on-OptiSigns).
 
-If issues persist, we recommend contacting our support team at [support@optisigns.com](mailto:support@optisigns.com).
+---
 
-#### **I'm having trouble displaying my Power BI report off MS Fabric.**
+## Troubleshooting
 
-If you have a Power BI report created off MS Fabric, you'll need to make a slight tweak to the URL to get it to display using OptiSigns.
+**"Please enter a valid Power BI or Fabric URL".**
 
-If created on Fabric, your Power BI URL should begin: **app.fabric.microsoft.com**
+The link must start with `https://app.powerbi.com/` or `https://app.fabric.microsoft.com/`. Copy it from the browser address bar, or use **Browse**.
 
-Simply change this to: **app.powerbi.com** while keeping all other parameters the same. This should fix any display issues.
+**"This link doesn't point to a report or dashboard".**
 
-#### **My Power BI report displays on my portal, but won't display on my screen. Help?**
+The URL is from Power BI but isn't a report or dashboard page, such as a workspace or app link. Open the report itself and copy that URL.
 
-This issue is usually caused by network connectivity issues at the device. We recommend checking and validating your device/screen's network connection.
+**Browse is greyed out.**
 
-If you have a Samsung SSSP or LG WebOS TV, there might be a different issue. Microsoft requires a minimum Chromium version of 95 for their apps to display. These TVs typically don't update very often. This is a Microsoft issue, and there is little we can do on our end.
+Connect first. Sign in with Microsoft, or select a service principal connection in **Connect**.
 
-If you have one of these TVs and wish to display SharePoint, we recommend our [Android Player](https://www.optisigns.com/product/hardware/android-player).
+**"Could not load workspaces".**
 
-If you're still having issues, feel free to contact our support team at [support@optisigns.com](mailto:support@optisigns.com).
+The connected account or service principal can't list your workspaces. Sign in again with **Direct Login**. For a service principal, check that it has access to the workspace in Power BI.
 
-#### **My Power BI report lags and crashes frequently. Why?**
+**"No pages found for this report".**
 
-Lagging and crashing Power BI reports usually have to do with two factors:
+The report didn't return any pages. Check that it opens in Power BI, then click **Reload** next to **Select Pages**.
 
-* The device being used to run the OptiSigns app and display the report
-* The size of the report
+**"These pages are no longer in this report".**
 
-Simply put, the larger the size of the report, the more powerful device you'll need to display it without issue. Small reports can use weaker hardware, while large and sprawling reports will need more powerful or dedicated hardware.
+A page you selected was renamed or removed in Power BI. Untick it, or pick its replacement, and save.
 
-This means, if you're having this issue, you'll need to either:
+**Enable Kiosk Mode is greyed out.**
 
-1. Reduce the size of the report you want to display
-2. Improve the hardware you're using
+Kiosk Mode works with reports only, and not while pages are selected. Untick every page under **Select Pages**.
 
-We recommend using an [**OptiSigns Pro Player**](https://www.optisigns.com/product/hardware/pro-digital-signage-player)or [**OptiSigns ProMax Player**](https://www.optisigns.com/product/hardware/promax-digital-signage-player)for displaying large, heavy Power BI reports.
+**"Ask a team admin to add a Power BI connection".**
 
-#### **Power BI Display for US Government Customers**
+Only team admins can create service principal connections. Ask an admin to add one under **Integrations** → **Power BI**.
 
-If you are a US government entity (federal, state, or local), you may be using Power BI for government. If so, your Power BI reports will use one of these URLs:
+For more about publishing in Power BI, see Microsoft's guide [Publish and share in Power BI](https://docs.microsoft.com/en-us/power-bi/guided-learning/publishingandsharing?tutorial-step=11).
 
-* **GCC**: `https://app.powerbigov.us`
-* **GCC High**: [`https://app.high.powerbigov.us`](https://app.high.powerbigov.us)
+### That’s all!
 
-If that is the case, your display won't work with the Power BI app. However, it is possible to create your Power BI as a Sharepoint application, then display it with our [**SharePoint app**](https://support.optisigns.com/hc/en-us/articles/4414539282067-Displaying-SharePoint-Sites-on-OptiSigns)**.**
-
-### That's all!
-
-OptiSigns is the leader in [digital signage software.](https://www.optisigns.com/) If you have any additional questions, concerns, or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
-
-**For additional assistance with Power BI usage**  
-Check out this guide here:  
-[Publish and share in Power BI](https://docs.microsoft.com/en-us/power-bi/guided-learning/publishingandsharing?tutorial-step=11)
+OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).

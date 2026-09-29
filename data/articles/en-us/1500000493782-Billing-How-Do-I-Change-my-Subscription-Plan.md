@@ -3,7 +3,7 @@
 **Article ID:** 1500000493782
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/1500000493782-Billing-How-Do-I-Change-my-Subscription-Plan
-**Last Updated:** 2026-09-10T09:45:13+00:00
+**Last Updated:** 2026-09-28T19:34:27+00:00
 ---
 
 It's extremely easy to change the details of your OptiSigns subscription. From the type of plan you're using, to the number of screens associated with the account, to the add-on licenses you've purchased, all of this can be managed on the Subscription Plan screen.

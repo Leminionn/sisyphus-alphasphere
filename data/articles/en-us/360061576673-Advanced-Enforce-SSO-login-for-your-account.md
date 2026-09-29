@@ -3,12 +3,17 @@
 **Article ID:** 360061576673
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360061576673-Advanced-Enforce-SSO-login-for-your-account
-**Last Updated:** 2026-09-10T09:45:05+00:00
+**Last Updated:** 2026-09-28T21:53:26+00:00
 ---
 
 By default, OptiSigns allows the use of Google, Facebook, or Microsoft accounts to access the OptiSigns portal:
 
-However, some organizations have requirements to enforce SSO login for two-factor authentication and password protection purposes. OptiSigns supports this through Microsoft Entra ID and Google GSuite, as well as various SAML options requiring custom branding.
+However, some organizations have requirements to enforce SSO login for two-factor authentication and password protection purposes. OptiSigns supports this through Microsoft AD and Google GSuite, as well as various SAML options requiring custom branding.
+
+|  |
+| --- |
+| **NOTE** |
+| The ability to enforce SSO on your account requires a [Pro Plus plan subscription or above.](https://www.optisigns.com/pricing) |
 
 ---
 
@@ -16,23 +21,19 @@ However, some organizations have requirements to enforce SSO login for two-facto
 
 To set up basic SSO enforcement, go to the **Preferences** page in your OptiSigns portal:
 
-You'll find the **Enforce Account SSO** option under the "General" section, right at the top of the page.
+You'll find the **Enforce Account SSO** option under the "General" section.
 
 Clicking on this will display several drop down options:
 
 Selecting either option will require any users logging on to OptiSigns to do so with their Google or Microsoft account. If a user tries to log in in any other way, they'll receive this error:
 
-For more information, see our guide on **[User Management](https://support.optisigns.com/hc/en-us/articles/360046356113-Advanced-Security-Managing-User-Roles#AddingorInviting)**.
+For more information, see our guide on [**User Management**](https://support.optisigns.com/hc/en-us/articles/360046356113-Advanced-Security-Managing-User-Roles#AddingorInviting).
 
 **Notes:** You will have to use the official <https://app.optisigns.com/> to log in to enforce SSO. You cannot use a custom domain with Enforce SSO, as the custom domain URL does not have an SSO login.
 
 ---
 
 ## Setting Up SAML SSO Enforcement (MS Entra ID, Okta, OneLogin, Google Workspace)
-
-|  |
-| --- |
-| **NOTE:**  This feature is available to **Pro Plus**, **Engage**, and **Enterprise** plan users. |
 
 Setting up SAML SSO enforcement requires setting up a subdomain, then configuring your settings on your client of choice.
 

@@ -3,7 +3,7 @@
 **Article ID:** 32860569148819
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/32860569148819-How-to-Set-Up-a-Power-BI-Service-Principal-for-Use-in-OptiSigns
-**Last Updated:** 2026-09-10T09:51:45+00:00
+**Last Updated:** 2026-09-28T20:24:07+00:00
 ---
 
 Using a Power BI service principal with app registration is a preferred option for companies with strict information security rules that don't want to use individual user accounts for Power BI integration.
@@ -17,7 +17,7 @@ Using a Power BI service principal, the authentication tokens are associated wit
 
 |  |
 | --- |
-| **NOTE:** This feature is only available to customers on an **Enterprise** plan. |
+| **NOTE:** This feature is available to customers on the **Pro Plus**, **Engage** or **Enterprise** plan. |
 
 ---
 
