@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-09-29T08:56:14.017885+00:00",
+  "last_sync": "2026-09-30T08:55:07.460596+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -1786,10 +1786,10 @@
     "360016252654": {
       "id": 360016252654,
       "slug": "360016252654-Does-OptiSigns-offer-Non-profit-Education-discount",
-      "hash_val": "a67bc5dee777fd4c860ee136872c864d0df0580e84f5a4de51ad9a4f8a9da8d6",
-      "updated_at": "2026-09-10T09:39:31+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016252654doesoptisignsof-y009lfliqdy8",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016252654doesoptisignsof-y009lfliqdy8",
+      "hash_val": "60603eb627486cc978a55f6b66df21876780c0c7e6fc9e978094eb3e56fab74f",
+      "updated_at": "2026-09-29T17:04:04+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016252654doesoptisignsof-2qnl1qtx1a5p",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016252654doesoptisignsof-2qnl1qtx1a5p",
       "locale": "en-us"
     },
     "360016247974": {
@@ -2218,10 +2218,10 @@
     "360017964153": {
       "id": 360017964153,
       "slug": "360017964153-How-to-Use-Weather-Apps-in-OptiSigns",
-      "hash_val": "59d9ccb3239cda54da2abc47b8c5b4cbda3c136b6894665a6fcfcdecb41b80cc",
-      "updated_at": "2026-09-10T09:40:16+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360017964153howtouseweather-7wm8snfx67pc",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360017964153howtouseweather-7wm8snfx67pc",
+      "hash_val": "bf23199a396fce20e39436297bb4482aa8a8748b6083987b563fec76c9ed50b0",
+      "updated_at": "2026-09-29T19:54:35+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360017964153howtouseweather-7znv52c2naeh",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360017964153howtouseweather-7znv52c2naeh",
       "locale": "en-us"
     },
     "360016375153": {
@@ -2506,10 +2506,10 @@
     "44650391786131": {
       "id": 44650391786131,
       "slug": "44650391786131-Kiosk-Setup-Hub",
-      "hash_val": "adb5a83843a67e8195d8e1b4f4f71a483d0ccdd528c0faf00e6cf123f7105a61",
-      "updated_at": "2026-03-30T17:22:38+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/44650391786131kiosksetuphub-6yco5jel7lvv",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/44650391786131kiosksetuphub-6yco5jel7lvv",
+      "hash_val": "62a26d7723b58ae0b3c3d1240feb1510cdb5ccf259093510b24af38f8d7e111b",
+      "updated_at": "2026-09-29T12:54:41+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/44650391786131kiosksetuphub-28blshgzeg1l",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/44650391786131kiosksetuphub-28blshgzeg1l",
       "locale": "en-us"
     },
     "42313875427859": {
@@ -3725,6 +3725,24 @@
       "updated_at": "2026-09-24T17:00:10+00:00",
       "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/55719322614803inboundwebhoo-zwqtns0qpste",
       "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/55719322614803inboundwebhoo-zwqtns0qpste",
+      "locale": "en-us"
+    },
+    "55906396437523": {
+      "id": 55906396437523,
+      "slug": "55906396437523-How-to-Use-the-Weather-Radar-App",
+      "hash_val": "7705deca909541ba6a73a3db9b273950575a238c3e9f81471f9e70fa51cc9b30",
+      "updated_at": "2026-09-29T19:04:57+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/55906396437523howtousethewe-chlmwmhn3ytr",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/55906396437523howtousethewe-chlmwmhn3ytr",
+      "locale": "en-us"
+    },
+    "55895814798739": {
+      "id": 55895814798739,
+      "slug": "55895814798739-How-to-Display-Salesforce-Dashboards-and-Reports-on-OptiSigns",
+      "hash_val": "448d12fb79acb834124265a01d6d61887bac422f5ff5d18a67db5783d45f0f10",
+      "updated_at": "2026-09-29T19:44:32+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/55895814798739howtodisplays-fk1h3pa6g6td",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/55895814798739howtodisplays-fk1h3pa6g6td",
       "locale": "en-us"
     }
   }
