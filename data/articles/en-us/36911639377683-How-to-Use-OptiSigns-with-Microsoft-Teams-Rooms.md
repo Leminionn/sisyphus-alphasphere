@@ -3,20 +3,20 @@
 **Article ID:** 36911639377683
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/36911639377683-How-to-Use-OptiSigns-with-Microsoft-Teams-Rooms
-**Last Updated:** 2026-09-10T10:46:24+00:00
+**Last Updated:** 2026-09-30T21:54:02+00:00
 ---
 
 Microsoft has released a new Digital Signage option for their [Microsoft Teams Rooms](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms) application, which allows digital signage to be displayed on a Microsoft Teams Rooms device. This will cause Teams Rooms screens and devices to display digital signage content when idle.
 
 ---
 
-## Prerequisites
+## What You'll Need
 
 Before getting started, you’ll need:
 
 * Microsoft Teams Rooms Pro on Windows 5.1 or later
 * A configured Microsoft Teams Rooms device
-* An active OptiSigns subscription
+* An active OptiSigns subscription - [Standard Plan or higher](https://www.optisigns.com/pricing) (Pro Plus or higher for the Alternate Method)
 
 Once this is accomplished, we can move on to the next step.
 
@@ -74,13 +74,18 @@ Now you’ll review all these changes. Simply hit **Submit**, and you’re done.
 
 Set up a [Virtual Screen app](https://support.optisigns.com/hc/en-us/articles/360055900513-How-to-create-and-use-Virtual-Screen-App) as an alternative to the OptiSigns Web Player. This app will provide an alternate URL to use as a Source in our Microsoft Teams Rooms Portal to set up digital signage.
 
+|  |
+| --- |
+| **IMPORTANT** |
+| The Virtual Screen app requires a [**Pro Plus plan or above**](https://www.optisigns.com/pricing)and is limited to one per account. |
+
 To get started, click **Files/Assets** within the OptiSigns app and navigate to **Apps**.
 
 Search for **Virtual Screen App**, then select it.
 
 You’ll see a screen similar to this:
 
-You’ll need to fill in the information on the side.
+You’ll need to fill in the information:
 
 For this, there are a couple things to note.
 
@@ -88,7 +93,7 @@ First, the **Screen** you select will be what displays on your Microsoft Teams R
 
 Second, the **Share Type** should be set to **URL Link**. It is this URL you will input into the Teams Rooms Professional Portal in the next step.
 
-Now, hit **Save**. Your asset/playlist will show on the right side of the screen, and you’ll receive the URL you need.
+Now, hit **Save**. Your Virtual Screen window URL will now appear and can be shared.
 
 This Virtual Room app will now be saved as an Asset on OptiSigns. By clicking on it, you will be able to access the URL anytime. You'll want to enter this into your Custom source within the Teams Rooms Pro Management portal.
 

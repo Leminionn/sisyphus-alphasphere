@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-09-30T08:55:07.460596+00:00",
+  "last_sync": "2026-10-01T09:19:18.771630+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -256,10 +256,10 @@
     "36911639377683": {
       "id": 36911639377683,
       "slug": "36911639377683-How-to-Use-OptiSigns-with-Microsoft-Teams-Rooms",
-      "hash_val": "59e677c9eb39c644cb0f2a046fd5fc205ad73b9128e5aa3602778ad39eb469eb",
-      "updated_at": "2026-09-10T10:46:24+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/36911639377683howtouseoptis-cjesada68sy8",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/36911639377683howtouseoptis-cjesada68sy8",
+      "hash_val": "c8564d77b4800e42721c62f41126522b0afe65767282bdc2d1fb6241089f90d3",
+      "updated_at": "2026-09-30T21:54:02+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/36911639377683howtouseoptis-c2pa20j90idi",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/36911639377683howtouseoptis-c2pa20j90idi",
       "locale": "en-us"
     },
     "36501302096915": {
@@ -2901,11 +2901,11 @@
     },
     "4529298306963": {
       "id": 4529298306963,
-      "slug": "4529298306963-How-to-use-Microsoft-Excel-Online-with-OptiSigns",
-      "hash_val": "658d485b1bd0fef8211097aac8544ecf93f57657b3a695f23039fa4c9e3bf6f0",
-      "updated_at": "2025-08-29T19:58:56+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4529298306963howtousemicros-tn1bwnx5orr6",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4529298306963howtousemicros-tn1bwnx5orr6",
+      "slug": "4529298306963-How-to-Use-Microsoft-Excel-Online-with-OptiSigns",
+      "hash_val": "8db63031d232c1bdae994e82764e23e6e236b6ca78b877f403c04111053375a2",
+      "updated_at": "2026-09-30T20:03:12+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4529298306963howtousemicros-xh6kg24hq9gd",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4529298306963howtousemicros-xh6kg24hq9gd",
       "locale": "en-us"
     },
     "4417940565139": {
@@ -2929,19 +2929,19 @@
     "4414355658899": {
       "id": 4414355658899,
       "slug": "4414355658899-How-to-Use-Microsoft-PowerPoint-with-OptiSigns",
-      "hash_val": "4200e9418e09d176bd5932ce8c0d886d6d103e634bedc1d8e0a4367dc9eea34a",
-      "updated_at": "2026-02-05T17:57:12+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4414355658899howtousemicros-g6hkz6vu2bwc",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4414355658899howtousemicros-g6hkz6vu2bwc",
+      "hash_val": "1f0c4c45628fd52a3aefd634051bb44abbdf6440575bc6ff0146f2c84cef3025",
+      "updated_at": "2026-09-30T15:53:27+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4414355658899howtousemicros-4gonizufyznm",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4414355658899howtousemicros-4gonizufyznm",
       "locale": "en-us"
     },
     "4411530012307": {
       "id": 4411530012307,
-      "slug": "4411530012307-How-to-use-Microsoft-Teams-Live-app-with-OptiSigns",
-      "hash_val": "5f1050c25a9318fd4af98d6ced4c14df15dbf4f68043efa7609ac33a9993d456",
-      "updated_at": "2026-09-10T09:47:32+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4411530012307howtousemicros-hjiws0mke3pe",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4411530012307howtousemicros-hjiws0mke3pe",
+      "slug": "4411530012307-How-to-Use-Microsoft-Teams-Live-app-with-OptiSigns",
+      "hash_val": "4327540238804ad9720dd23f0df2942ca192f24f8fb4e2465a1c6d62313b3bb1",
+      "updated_at": "2026-09-30T18:46:41+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4411530012307howtousemicros-ad0x4ff06tzq",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4411530012307howtousemicros-ad0x4ff06tzq",
       "locale": "en-us"
     },
     "4410655948563": {
@@ -3279,11 +3279,11 @@
     },
     "360050665253": {
       "id": 360050665253,
-      "slug": "360050665253-How-to-use-the-OneDrive-App",
-      "hash_val": "dda296185ced0df1cf34904d8ed1795003a4bb0341319fa250e195b9507ea34c",
-      "updated_at": "2026-09-10T09:43:15+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360050665253howtousetheoned-93cflxwa93rb",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360050665253howtousetheoned-93cflxwa93rb",
+      "slug": "360050665253-How-to-Use-the-OneDrive-App",
+      "hash_val": "182df3431090a6ca7b69125d09fba14d066e3e27fec828af3392d77c9adb33a8",
+      "updated_at": "2026-09-30T18:35:21+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360050665253howtousetheoned-uibtploxn5py",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360050665253howtousetheoned-uibtploxn5py",
       "locale": "en-us"
     },
     "360050664913": {
