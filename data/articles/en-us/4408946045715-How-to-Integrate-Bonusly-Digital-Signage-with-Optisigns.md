@@ -3,38 +3,43 @@
 **Article ID:** 4408946045715
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/4408946045715-How-to-Integrate-Bonusly-Digital-Signage-with-Optisigns
-**Last Updated:** 2026-09-10T09:47:16+00:00
+**Last Updated:** 2026-10-01T20:21:01+00:00
 ---
 
-Some companies use [Bonusly](bonus.ly) for internal communication channel and like to show the Messages sent between agents on a signage across their work space.
+Some companies use [Bonusly](bonus.ly) for internal communication channels and want to show the Messages sent between agents on signage across their work spaces.
 
-First step is to open a website app on your Optisigns account, Here is [how to use Website app](https://support.optisigns.com/hc/en-us/articles/360016382473-How-to-use-a-Website-link-with-OptiSigns).
+The first step is to open a website app on your Optisigns account. Here is [how to use Website app](https://support.optisigns.com/hc/en-us/articles/360016382473-How-to-use-a-Website-link-with-OptiSigns).
 
-Here are the steps:
+Within the OptiSigns portal, navigate to **Files/Assets >** **Apps**.
 
-Navigate to Files / Assets page, then click on Apps.
-
-Navigate to Website App and open the app:
+Navigate to Website App and open the app. Make sure it is the one called "Website".
 
 Copy this URL and paste in the URL section of your website app:  
-"https://bonus.ly/company/digital\_signage?access\_token=95ab0f0554b796b875216b25588936c"
+"https://bonus.ly/company/digital\_signage?access\_token=YOUR\_TOKEN"
 
-Next go to your [Bonusly](Bonus.ly) account page and navigate to INTEGRATIONS page
+Next go to your [Bonusly](https://bonus.ly) account page and navigate to the INTEGRATIONS page:
 
-Navigate to ATOM bonus feed
+Navigate to ATOM bonus feed:
 
-In this section Grab The API Access token Specific to your business page
+In this section Grab The API Access token Specific to your business page.
 
 Next go to the Optisigns app and replace the "?access\_token=xxxxx" code after the URL in the website app.
 
 The whole URL SHOuld look something like this:  
-"https://bonus.ly/company/digital\_signage?access\_token=95ab0f0554b796b875216b25588936c"
+"https://bonus.ly/company/digital\_signage?access\_token=xxxxx"
 
-Then click Save.
+Then click **Save**.
 
-That's it!
+|  |
+| --- |
+| **NOTE** |
+| The portal Preview will say **Preview not available** because Bonusly blocks iframes. This is normal and will not affect the page displaying on your screen. |
 
-Now you can use the website app and assign it to your screens to show the [Bonusly](Bonus.ly) signage updates.
+---
+
+### That's it!
+
+Now you can use the website app and assign it to your screens to show the [Bonusly](https://bonus.ly) signage updates.
 
 Thanks for your time.
 

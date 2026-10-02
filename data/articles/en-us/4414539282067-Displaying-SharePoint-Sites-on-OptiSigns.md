@@ -3,7 +3,7 @@
 **Article ID:** 4414539282067
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/4414539282067-Displaying-SharePoint-Sites-on-OptiSigns
-**Last Updated:** 2026-09-10T09:47:40+00:00
+**Last Updated:** 2026-10-01T16:01:20+00:00
 ---
 
 |  |
@@ -12,6 +12,8 @@
 | The **SharePoint app** is available to customers with a **Standard plan or above**. |
 
 With OptiSigns, it's possible to showcase your SharePoint site on any of your screens. Even gated sites requiring login can be shown. All you'll need is a URL to your SharePoint site and a valid Microsoft account.
+
+Note that if you want to display SharePoint News, you'll want to check out our article on [Connecting SharePoint News to OptiSigns](https://support.optisigns.com/hc/en-us/articles/55450681344915).
 
 ---
 
@@ -45,11 +47,11 @@ Enter details for your SharePoint site. The URL will be the one you copied earli
 * **Name -** Name of your app asset, this is the name of the wall in your asset list. It will **not** be displayed on your screens.
 * **URL -** The URL address to your SharePoint site. This is the URL we copied earlier.
 
-Click **Sign In** for a dropdown with more options. Most SharePoint sites require a Sign In before they can be viewed. Here, you'll input that information.
+Click **Sign In with Credential** to open a Sign In section. Most SharePoint sites require a Sign In. This is where you'll input that information.
 
 * **Master Password -** When checked, this will prompt you to enter a Master Password for use on OptiSigns.
   + While your password is encrypted with OptiSigns, this adds an extra layer of encryption. This way, even OptiSigns cannot decrypt your password. We will go into more detail on our encryption methods in our [FAQ section.](#FAQs)
-* **Username -** Your Microsoft account username.
+* **Username/Email -** Your Microsoft account username.
 * **Password -** Your Microsoft account password.
 
 Please note that the Username and Password input will need access to the SharePoint document URL.

@@ -3,7 +3,7 @@
 **Article ID:** 360036250853
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360036250853-How-to-Use-Microsoft-Outlook-Calendar-with-OptiSigns
-**Last Updated:** 2026-03-25T21:28:19+00:00
+**Last Updated:** 2026-10-01T15:00:40+00:00
 ---
 
 * [What You'll Need](#WhatYouNeed)
@@ -11,7 +11,7 @@
 * [Deploying a Microsoft Outlook Calendar App](#Deploying)
 * [Frequently Asked Questions](#FAQs)
 
-This article will show you how to display Microsoft's Calendar on your big screens TVs with OptiSigns.  
+This article will show you how to display Microsoft's Calendar on your screens with OptiSigns.  
 The app works with both Office 365 Calendar and Outlook.com Calendar.
 
 ---
@@ -32,7 +32,7 @@ Also, see our other article on [Setting Up an Outlook Calendar with Shared Permi
 
 To display Microsoft Outlook Calendar onscreen, you'll need to create an app within OptiSigns.
 
-First, go to the [OptiSigns Portal](http://app.optisigns.com/). Go to **Files/Assets → Add Asset → Apps.**
+First, go to the [OptiSigns Portal](http://app.optisigns.com/). Go to **Files/Assets → Apps.**
 
 Select **Outlook Calendar**.
 
@@ -40,7 +40,7 @@ The below screen should appear:
 
 Here, you have a few options.
 
-If you have used a Microsoft account on the OptiSigns platform, you can select it from the dropdown. If you have not, you'll need to hit **Login with Work Account**, enter in your Microsoft account information, and grant OptiSigns the necessary permissions. If you're using a Personal Account, click **Login with Personal Account**.
+If you have used a Microsoft account on the OptiSigns platform, you can select it from the dropdown. If you have not, you'll need to hit **Login with Work Account**, enter your Microsoft account information, and grant OptiSigns the necessary permissions. If you're using a Personal Account, click **Login with Personal Account**.
 
 Then, hit **Next** within OptiSigns.
 
@@ -54,7 +54,7 @@ The below screen will then appear (with nothing filled in), along with a Preview
   + **Day -** Listing the current day's event activity.
   + **Week -** Listing the current week's event activity
   + **Month -** Listing the current month's event activity
-* **Only Show Ongoing and Upcoming Events -**
+* **Only Show Ongoing and Upcoming Events -** Will ignore events in the past.
 
 You may also switch between **Landscape** and **Portrait** for your Preview, depending on the orientation of the display you wish to display the app on.
 
@@ -73,16 +73,16 @@ Toggle this open or closed. These settings will be reflected in the Preview on t
 * **Event Text Color -** Appears when "Use Your Calendar Event Color" is unchecked. This lets you change the color of how the text on the event appears.
 * **Font Size -** Change the size of the font on your Microsoft Outlook Calendar app.
 
-#### Advanced Options
+#### Advanced
 
 * **Time Range** **-** Choose the range of time you want to display. By default, it is set to **Full Day**, and you can choose **8AM - 5PM**, **9AM - 5PM**, or **Custom**. This will let you fine-tune the times you wish to actually show your calendar.
 * **Slot spacing -** Changes the spacing of the slots within the calendar.
 * **Show Location -** Show the location of your calendar's event.
 * **Auto Scroll -** By default, the calendar will focus the display of events on current local time or your set time zone time. This can be less helpful if you anticipate viewers to be able to see all event activities of your calendar.   
-  Toggle the auto scroll pans the schedule so that all times are viewable.
+  Set Auto Scroll to Enable to pan the schedule so all times are shown.
 * **Time Format -** Change between 12 hour and 24 hour clocks.
 * **Weather -** Entering location information allows weather information to be overlaid on your calendar.
-* **Timezone -** Change the timezone of the meeting. This defaults to the used device's timezone, but can be specified here if needed.
+* **Timezone -** Change the timezone of the calendar. This defaults to the used device's timezone, but can be specified here if needed.
 * **Language -** Choose between a variety of language options for the display.
 
 Once you've set up the app, it's ready to be deployed.
@@ -97,7 +97,7 @@ To get your new Microsoft Outlook Calendar asset to a screen, go to the **Screen
 
 This brings up the **Edit Screen** tab:
 
-Here, select **Asset** under Content type, then hit **Browse** next to Selected Asset (if needed).
+Here, select **Asset** under Content type, then hit **Change** next to Selected Asset (if needed).
 
 Then, select your created Microsoft Outlook Calendar asset:
 
@@ -129,6 +129,8 @@ To fix this, you can change the calendar directory from Rooms to a personal one.
 Next, hit **Add Calendar**. Find the calendar from the directory you wish to display, then add it to **My Calendars:**
 
 Now, the appropriate calendar should display once it's been recreated in OptiSigns.
+
+---
 
 ### That's all!
 

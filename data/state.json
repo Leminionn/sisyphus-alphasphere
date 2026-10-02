@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-10-01T09:19:18.771630+00:00",
+  "last_sync": "2026-10-02T08:52:17.415568+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -534,11 +534,11 @@
     },
     "27356288211859": {
       "id": 27356288211859,
-      "slug": "27356288211859-How-to-use-iCloud-Calendar-with-OptiSigns",
-      "hash_val": "9570fa5a84f0539254999a57d080219a070ddcd73ed18724ed65d7aa142ea84d",
-      "updated_at": "2026-03-26T16:45:12+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/27356288211859howtouseiclou-797s4fq645aq",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/27356288211859howtouseiclou-797s4fq645aq",
+      "slug": "27356288211859-How-to-Use-iCloud-Calendar-with-OptiSigns",
+      "hash_val": "42480cb08e2a65fcf0c115358812d8318650329e457f2bffc5db70db4f2feaa9",
+      "updated_at": "2026-10-01T19:37:52+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/27356288211859howtouseiclou-2jlqz0qgfv05",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/27356288211859howtouseiclou-2jlqz0qgfv05",
       "locale": "en-us"
     },
     "27267311796243": {
@@ -1012,10 +1012,10 @@
     "4408946045715": {
       "id": 4408946045715,
       "slug": "4408946045715-How-to-Integrate-Bonusly-Digital-Signage-with-Optisigns",
-      "hash_val": "e47155c00ad18d1956f4a62701f47ee87d14ff0a537c25a4033b8a203250e485",
-      "updated_at": "2026-09-10T09:47:16+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4408946045715howtointegrate-bq6br3a6mocb",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4408946045715howtointegrate-bq6br3a6mocb",
+      "hash_val": "11704293056713c300966e1506b672b2b8bea0d76de7d59d68f220f2dc1d8333",
+      "updated_at": "2026-10-01T20:21:01+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4408946045715howtointegrate-1a9it0kxgy77",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4408946045715howtointegrate-1a9it0kxgy77",
       "locale": "en-us"
     },
     "4408658251027": {
@@ -2910,20 +2910,20 @@
     },
     "4417940565139": {
       "id": 4417940565139,
-      "slug": "4417940565139-How-to-display-Microsoft-Teams-on-OptiSigns",
-      "hash_val": "faa6dd1ff2aeeceb9f2b04be4f91d44e6e5b2bdbc2648f35deab6e854c411d0b",
-      "updated_at": "2026-09-10T09:47:53+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4417940565139howtodisplaymi-q0htjaa8xhf7",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4417940565139howtodisplaymi-q0htjaa8xhf7",
+      "slug": "4417940565139-How-to-Display-Microsoft-Teams-Chat-on-OptiSigns",
+      "hash_val": "8539cef9412467e191c080313b8766f5382c2ed58eb6ebe55f54ef94b9a88ced",
+      "updated_at": "2026-10-01T20:13:18+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4417940565139howtodisplaymi-mb7x7eb6ikmq",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4417940565139howtodisplaymi-mb7x7eb6ikmq",
       "locale": "en-us"
     },
     "4414539282067": {
       "id": 4414539282067,
       "slug": "4414539282067-Displaying-SharePoint-Sites-on-OptiSigns",
-      "hash_val": "bb928acc83c420fc919db29e866ebd5823ea73743ee4a88d40f5438e9bdd4dc6",
-      "updated_at": "2026-09-10T09:47:40+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4414539282067displayingshar-w0dqdejtc02l",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4414539282067displayingshar-w0dqdejtc02l",
+      "hash_val": "2ede48f000d3d0cf1efdd08a30186775ff7a46cf37a04f5ce0a4d9483029d1b7",
+      "updated_at": "2026-10-01T16:01:20+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4414539282067displayingshar-gjnazi2usjv1",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4414539282067displayingshar-gjnazi2usjv1",
       "locale": "en-us"
     },
     "4414355658899": {
@@ -2991,11 +2991,11 @@
     },
     "4407335862931": {
       "id": 4407335862931,
-      "slug": "4407335862931-How-to-use-Slack-App",
-      "hash_val": "b99209d6c7535997077c94b4028bd0efdc6445e62bf3d07ee66657451c9886de",
-      "updated_at": "2026-09-10T09:47:03+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4407335862931howtouseslacka-iht92yzda6xv",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4407335862931howtouseslacka-iht92yzda6xv",
+      "slug": "4407335862931-How-to-Use-the-Slack-App",
+      "hash_val": "af358d2cb570016d7c630bf86f369bc4ab2e0c0ed1aa880ab100fb11940cdeec",
+      "updated_at": "2026-10-01T21:46:16+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4407335862931howtousethesla-sagx006waj9f",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4407335862931howtousethesla-sagx006waj9f",
       "locale": "en-us"
     },
     "4406214738707": {
@@ -3018,11 +3018,11 @@
     },
     "4404053129619": {
       "id": 4404053129619,
-      "slug": "4404053129619-How-to-use-Microsoft-Teams-Meeting-app-with-OptiSigns",
-      "hash_val": "68999a7bc0fd7363218ae5abc12336e70c1f0721f2256874bc96c3a58b109ea2",
-      "updated_at": "2026-09-10T09:46:32+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4404053129619howtousemicros-vvgl37l25kbd",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4404053129619howtousemicros-vvgl37l25kbd",
+      "slug": "4404053129619-How-to-Use-the-Microsoft-Teams-Meeting-App",
+      "hash_val": "bd259b74b89d1f0ba96b9174a0122e08a9c6fc4b3eccfb92e3f8ef34bc0b8e7b",
+      "updated_at": "2026-10-01T19:33:01+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4404053129619howtousethemic-0dc2zu1x8rpr",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4404053129619howtousethemic-0dc2zu1x8rpr",
       "locale": "en-us"
     },
     "4403267825171": {
@@ -3270,11 +3270,11 @@
     },
     "360050665413": {
       "id": 360050665413,
-      "slug": "360050665413-How-to-use-Dropbox-App",
-      "hash_val": "937019978cd677d58587b3d20e8ac4d2b1592f92d88e18d14719d2f5ef553f14",
-      "updated_at": "2026-09-10T09:43:16+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360050665413howtousedropbox-objwcrh8kgem",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360050665413howtousedropbox-objwcrh8kgem",
+      "slug": "360050665413-How-to-Use-the-Dropbox-App",
+      "hash_val": "437936ee559289a18b7257875a8e32864c094259070c05f8fe41400bf6b788ca",
+      "updated_at": "2026-10-01T21:20:35+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360050665413howtousethedrop-4kg9ob9gj6zu",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360050665413howtousethedrop-4kg9ob9gj6zu",
       "locale": "en-us"
     },
     "360050665253": {
@@ -3451,10 +3451,10 @@
     "360041222994": {
       "id": 360041222994,
       "slug": "360041222994-How-to-Use-the-CountUp-App",
-      "hash_val": "17bde0a6f7e60181596be35ca34f10f1c1a7a7392dd506b1119f0de169955897",
-      "updated_at": "2026-09-10T09:41:44+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360041222994howtousethecoun-otsjfysurzqj",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360041222994howtousethecoun-otsjfysurzqj",
+      "hash_val": "d25dbe1871fa126c322e87b304a5ecdb0b9d0b132be89075002b5ddf9ae80da4",
+      "updated_at": "2026-10-01T17:24:51+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360041222994howtousethecoun-690rbritnv1c",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360041222994howtousethecoun-690rbritnv1c",
       "locale": "en-us"
     },
     "360041638433": {
@@ -3532,10 +3532,10 @@
     "360036250853": {
       "id": 360036250853,
       "slug": "360036250853-How-to-Use-Microsoft-Outlook-Calendar-with-OptiSigns",
-      "hash_val": "24c49200c45593c68b874777226558a08e69c34124345b187ad9ced69ab6d4c6",
-      "updated_at": "2026-03-25T21:28:19+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360036250853howtousemicroso-km2mlmv31zb7",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360036250853howtousemicroso-km2mlmv31zb7",
+      "hash_val": "f9c274ce2024712b121554ad6eccaa14344f7aa0a409e0455008e01f12222a66",
+      "updated_at": "2026-10-01T15:00:40+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360036250853howtousemicroso-scmrpfujjqp0",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360036250853howtousemicroso-scmrpfujjqp0",
       "locale": "en-us"
     },
     "360037965133": {
