@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-10-02T08:52:17.415568+00:00",
+  "last_sync": "2026-10-03T08:28:59.346685+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -325,15 +325,6 @@
       "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/32860569148819howtosetupapo-xfi0ugicc0g3",
       "locale": "en-us"
     },
-    "32839794222099": {
-      "id": 32839794222099,
-      "slug": "32839794222099-Display-Salesforce-Dashboards-with-MFA-using-Web-Scripting",
-      "hash_val": "fb87a634ab2317682dad424bc465eb7f8bb23d94b9b2502811af3524e53a83eb",
-      "updated_at": "2026-09-10T09:51:44+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/32839794222099displaysalesf-pxws85tp11so",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/32839794222099displaysalesf-pxws85tp11so",
-      "locale": "en-us"
-    },
     "31960461758611": {
       "id": 31960461758611,
       "slug": "31960461758611-How-to-Order-a-Preconfigured-OptiSigns-Android-Stick",
@@ -517,10 +508,10 @@
     "27463953562899": {
       "id": 27463953562899,
       "slug": "27463953562899-Amazon-TV-FireStick-Troubleshooting-Guide",
-      "hash_val": "f9c7c652b2b292184781133f373a042625e29a12623df251354fec10c2982355",
-      "updated_at": "2026-09-10T09:50:48+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/27463953562899amazontvfires-r9qst3lbewxl",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/27463953562899amazontvfires-r9qst3lbewxl",
+      "hash_val": "3bc82c7392759eb5405a79780985c7b05cedf1abda30e3b085221371e3a246cf",
+      "updated_at": "2026-10-02T14:02:01+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/27463953562899amazontvfires-bawlwag1l2an",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/27463953562899amazontvfires-bawlwag1l2an",
       "locale": "en-us"
     },
     "27458261258387": {
@@ -2694,11 +2685,11 @@
     },
     "11032964830227": {
       "id": 11032964830227,
-      "slug": "11032964830227-How-to-use-Monday-com-App",
-      "hash_val": "6646cfde2a20799a3fef14088e4a2523a875c9fb88cbe5d9b5ed54ca05fa6998",
-      "updated_at": "2026-09-10T09:48:51+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/11032964830227howtousemonda-ow7o19gil6oa",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/11032964830227howtousemonda-ow7o19gil6oa",
+      "slug": "11032964830227-How-to-Use-the-Monday-com-App",
+      "hash_val": "27e4f70762461643022a2f023a44c6f1ef1ed9cc9955c24d5d48ce8c43582b5f",
+      "updated_at": "2026-10-02T15:17:32+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/11032964830227howtousethemo-piej7bhiuh4e",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/11032964830227howtousethemo-piej7bhiuh4e",
       "locale": "en-us"
     },
     "4414558392339": {
@@ -2767,10 +2758,10 @@
     "9392587446675": {
       "id": 9392587446675,
       "slug": "9392587446675-How-to-use-Airtable-with-OptiSigns",
-      "hash_val": "a180e4b0601fcccf2cad2a12ff80fe604e3a3d7aae3b47ceeacbd961ff2d6eac",
-      "updated_at": "2026-09-10T08:01:00+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/9392587446675howtouseairtab-4gdtuao9h9dl",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/9392587446675howtouseairtab-4gdtuao9h9dl",
+      "hash_val": "5d3a8640e4821f78f5522fb1e9841479691b7a53c2b4f130c37e37309104ac51",
+      "updated_at": "2026-10-02T15:09:00+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/9392587446675howtouseairtab-xag13gih7aez",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/9392587446675howtouseairtab-xag13gih7aez",
       "locale": "en-us"
     },
     "4404879296403": {
@@ -3063,20 +3054,20 @@
     },
     "1500005889381": {
       "id": 1500005889381,
-      "slug": "1500005889381-How-to-use-the-MindMeister-App",
-      "hash_val": "20cba9edd4e303978fce2fd36af4af7e77586de2214a74a7717a1d183280efbd",
-      "updated_at": "2026-09-10T09:45:44+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500005889381howtousethemin-d0kvab1bruhl",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500005889381howtousethemin-d0kvab1bruhl",
+      "slug": "1500005889381-How-to-Use-the-MindMeister-App",
+      "hash_val": "89af45ec52752b8a033be0598357f51d5ff57c4670f22815054d8a6288099e00",
+      "updated_at": "2026-10-02T18:17:46+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500005889381howtousethemin-wcsl3bnvu3zm",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500005889381howtousethemin-wcsl3bnvu3zm",
       "locale": "en-us"
     },
     "1500005888781": {
       "id": 1500005888781,
       "slug": "1500005888781-How-to-Best-Use-Canva-with-OptiSigns",
-      "hash_val": "098a2721d7fe8afbd5d76879a8e7c3140c72dc05f14e544bc99e26cb6efddd0a",
-      "updated_at": "2026-09-10T09:45:39+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500005888781howtobestuseca-eyph5w1przkz",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500005888781howtobestuseca-eyph5w1przkz",
+      "hash_val": "246f79bbcaa41d3e281735cb5deae0edf367446b634f9faf2fac32348fa2745d",
+      "updated_at": "2026-10-02T15:05:25+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500005888781howtobestuseca-wppav27gaq9g",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500005888781howtobestuseca-wppav27gaq9g",
       "locale": "en-us"
     },
     "1500002233221": {

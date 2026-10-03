@@ -3,15 +3,15 @@
 **Article ID:** 1500005888781
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/1500005888781-How-to-Best-Use-Canva-with-OptiSigns
-**Last Updated:** 2026-09-10T09:45:39+00:00
+**Last Updated:** 2026-10-02T15:05:25+00:00
 ---
 
-### Turn your ideas into striking designs effortlessly with Canva, a versatile graphic design tool. Follow this guide learn how to bring your screens to life with Canva.
+### Turn your ideas into striking designs effortlessly with Canva, a versatile graphic design tool. Follow this guide to learn how to bring your screens to life with Canva.
 
 |  |
 | --- |
 | **Use Case** |
-| A local café uses Canva to design and display its digital menu boards, occasionally updating the graphic and having it automatically update on their screens. This visual approach not only attracts more foot traffic with its vibrant display but also helps in effectively communicating the café's brand and seasonal offerings. |
+| A local café uses Canva to design and display its digital menu boards, updating the design in Canva, which updates their screens automatically. This visual approach not only attracts more foot traffic with its vibrant display but also helps in effectively communicating the café's brand and seasonal offerings. |
 
 **In this article:**
 
@@ -31,7 +31,7 @@ Additionally, Canva's accessibility and user-friendly interface make it a valuab
 
 ## Option 1: Export and Upload Canva Images and Videos (Recommended)
 
-This is the **most popular and versatile** method where you can export any design and video that is supported. Exporting and uploading files ensure compatibility across various platforms and devices, avoiding potential issues with code integration and ensuring your designs maintain their intended appearance.
+This is the **most popular and versatile** method where you can export any supported design or video. Exporting and uploading files ensures compatibility across various platforms and devices, avoiding potential issues with code integration and ensuring your designs maintain their intended appearance.
 
 First, make sure your Canva designs are finalized and prepared for upload.
 
@@ -45,17 +45,17 @@ A list of various file format options will appear in a drop-down menu.
 
 After downloading your chosen file type, you can upload it to OptiSigns.
 
-**2.** Go to your **[Files/Assets Page.](https://app.optisigns.com/app/assetManagement)**
+**2.** Go to your [**Files/Assets Page.**](https://app.optisigns.com/app/assetManagement)
 
 **3.** Click **Apps** → Search for **Canva.**
 
-**4. Drag and drop** or **Upload** your file into **Option 1 →**Click **Upload File.**
+**4.** Click **Option 1 → Export & Upload**, then **Drag and drop** or **Upload** your file.
 
 Now, you've successfully uploaded your Canva image to OptiSigns!
 
 ## Option 2: Use Embed from Canva (Live Updates)
 
-Using **live embeds** for Canva designs is beneficial if you're looking for real-time updates, ensuring your digital signage always displays the most current information without needing to re-upload files.
+Using **live embeds** for Canva designs is beneficial if you're looking for real-time updates, ensuring your digital signage always displays the most current information without needing to re-upload files. A video in a Canva design will not autoplay with the embed code, so this should be used primarily for static images.
 
 This method also simplifies collaboration, as multiple team members can edit the design simultaneously, and changes are instantly reflected on the signage.
 
@@ -67,21 +67,23 @@ To use the Canva Embedded link, start by navigating to your selected design on C
 
 **1.** Click the '**Share**' option → Select '**More**' at the bottom of the scroll page.
 
-**2.** Choose the '**Embed**' option → Copy the **HTML embed code →** Paste this link into the OptiSigns portal.
+**2.** Choose the '**Embed**' option → Copy the **HTML embed code →** Paste the code into the OptiSigns portal.
 
 **3.** In the OptiSigns portal, select the **Canva app**.
 
-**4.** Name your app to easily find it in your asset library later.
+**4.** Click **Option 2: Live Embed**
 
-**5.** Paste the **HTML** **embed code** inside the **Embed Code** text box to enable automatic updates.
+**5.** Name your app to easily find it in your asset library later.
 
-**6.** Click **Save,** then your asset will be successfully added to your asset library!
+**6.** Paste the **HTML embed code** inside the **Embed Code** text box to enable automatic updates.
+
+**7.** Click **Save,** then your asset will be successfully added to your asset library!
 
 Now, your Canva design will automatically update and is ready to push to your screens!
 
 |  |
 | --- |
-| **Why use Embedded Links From Canva?** |
+| **Why use embedded links from Canva?** |
 | Using embedded links from Canva for automatic updates streamlines content management by instantly reflecting any changes made in Canva on your displays. This process eliminates the need for manual updates, enhancing efficiency and reducing error potential. It also ensures consistency across multiple displays, maintaining uniformity in branding and information sharing. |
 
 ## Auto-Advancing Live Embed Canva Slides with OptiSigns' Playlist
@@ -100,12 +102,14 @@ When incorporating a Live Embed from Canva into OptiSigns, Canva does not automa
 
 This setup guarantees that any changes made in Canva will automatically update and advance in the live display through OptiSigns' Playlist functionality. This eliminates the need to manually replace entire slides, streamlining the content management process.
 
+---
+
 ## Common Issues
 
 Canva is an excellent resource for graphics, marketing, and designs. While using it, users should be aware of certain specific features:
 
 * While Canva is great for general design, our Kiosk Designer tool is specifically optimized for digital signage, ensuring perfect resolution, local content caching, and seamless navigation. This specialization makes our tool the superior choice for reliable and high-quality digital signage displays.
-* If you, as a user, lack the necessary access rights to a design, you may encounter an error message stating, "**You don't have permission to see this design**." Please verify that you are logged into the correct account or request access from the design's creator, and ensure the account is set to public.
+* If you, as a user, lack the necessary access rights to a design, you may encounter an error message stating, "**You don't have permission to see this design**." Please verify that you are logged into the correct account or request access from the design's creator. Also make sure the design is set to public.
 
 ## That's it!
 
