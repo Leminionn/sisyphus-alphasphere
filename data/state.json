@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-10-03T08:28:59.346685+00:00",
+  "last_sync": "2026-10-04T08:41:03.561008+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -1453,10 +1453,10 @@
     "360056086653": {
       "id": 360056086653,
       "slug": "360056086653-How-to-Change-Time-Zone-on-Your-Fire-Stick-device",
-      "hash_val": "31d8536dfc472de307815e0846bc8e5e2fe8d72d028470c7e8b39d5e997e5607",
-      "updated_at": "2026-09-10T09:44:18+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360056086653howtochangetime-d8aav2j042z8",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360056086653howtochangetime-d8aav2j042z8",
+      "hash_val": "dc7c28629fb44e9ebc0e048fff2ab69ccc66a0f21930300d1d83dda4609c5d5b",
+      "updated_at": "2026-10-03T10:02:59+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360056086653howtochangetime-vj7ne307nyci",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360056086653howtochangetime-vj7ne307nyci",
       "locale": "en-us"
     },
     "360053198573": {
