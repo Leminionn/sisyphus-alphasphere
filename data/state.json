@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-10-05T09:31:36.241140+00:00",
+  "last_sync": "2026-10-06T09:17:35.424466+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -1705,10 +1705,10 @@
     "360033693534": {
       "id": 360033693534,
       "slug": "360033693534-PowerPoint-Resolution-Size-for-use-with-Digital-Signage",
-      "hash_val": "d8f2c1db2344a95619e872f0f16b566ea71aed355276c67f696080ca2780c847",
-      "updated_at": "2026-09-10T09:40:52+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360033693534powerpointresol-0h79upkr11io",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360033693534powerpointresol-0h79upkr11io",
+      "hash_val": "7dd837ee58c81687f2231d66acb78e87c504e2559d876e52b0882e6e555d6aea",
+      "updated_at": "2026-10-06T06:37:46+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360033693534powerpointresol-io0bkemp66lc",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360033693534powerpointresol-io0bkemp66lc",
       "locale": "en-us"
     },
     "360026610194": {
@@ -1768,10 +1768,10 @@
     "360016313754": {
       "id": 360016313754,
       "slug": "360016313754-How-to-Install-an-APK-file-on-your-Fire-TV",
-      "hash_val": "d5623857606637daf735dc5a4a04a7e21beb56d522876f3c38a6d6d9d3ee0c50",
-      "updated_at": "2026-10-04T09:21:08+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016313754howtoinstallana-iggcw2fv9gbx",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016313754howtoinstallana-iggcw2fv9gbx",
+      "hash_val": "35f39613711a78be9c5fd8f69733932465ac15b3e9d9cb27956129732b97624d",
+      "updated_at": "2026-10-05T21:09:30+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016313754howtoinstallana-wwogga6i67pk",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016313754howtoinstallana-wwogga6i67pk",
       "locale": "en-us"
     },
     "360016252654": {
@@ -1930,10 +1930,10 @@
     "360035739414": {
       "id": 360035739414,
       "slug": "360035739414-How-to-Preview-a-Screen",
-      "hash_val": "e6e2edd1648286eb71f832326b97efe5c40da4a65d1f3946b1e9f075d25082b7",
-      "updated_at": "2026-09-07T08:20:47+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360035739414howtopreviewasc-psasfw6ydrcg",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360035739414howtopreviewasc-psasfw6ydrcg",
+      "hash_val": "0cad78a4f018debfe4430f44424a382f50e647446dbe7665adfef8ff136c1d27",
+      "updated_at": "2026-10-05T16:37:23+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360035739414howtopreviewasc-s7tltfxg9zuy",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360035739414howtopreviewasc-s7tltfxg9zuy",
       "locale": "en-us"
     },
     "360024310813": {
