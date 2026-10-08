@@ -3,7 +3,7 @@
 **Article ID:** 33940834613139
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan
-**Last Updated:** 2026-09-10T09:51:52+00:00
+**Last Updated:** 2026-10-07T22:30:11+00:00
 ---
 
 ### An OptiSigns Free Plan lets you get started with our digital signage software. Here’s what you get when you sign up!
@@ -47,6 +47,7 @@ The Free Plan is **ONLY** supported on these devices:
 
 * OptiSigns Android Player
 * OptiSigns Pro or ProMax Player
+* OptiKiosk (any version)
 * Windows Devices
 * Linux Devices
 * Raspberry Pi

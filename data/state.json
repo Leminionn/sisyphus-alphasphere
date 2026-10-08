@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-10-07T09:08:02.587019+00:00",
+  "last_sync": "2026-10-08T09:22:22.015226+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -301,10 +301,10 @@
     "33940834613139": {
       "id": 33940834613139,
       "slug": "33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan",
-      "hash_val": "f99f59df4cf9bd1b1b5ed226ca6641264b9958380070d9078aa4d29c63310589",
-      "updated_at": "2026-09-10T09:51:52+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/33940834613139whatdoigetwit-yejr3803ukl3",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/33940834613139whatdoigetwit-yejr3803ukl3",
+      "hash_val": "35e2872cd444d5e9694396af131af491e26e551c147a5d3f371af5373f1bc841",
+      "updated_at": "2026-10-07T22:30:11+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/33940834613139whatdoigetwit-ptlfyjxxmyir",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/33940834613139whatdoigetwit-ptlfyjxxmyir",
       "locale": "en-us"
     },
     "33382537925267": {
