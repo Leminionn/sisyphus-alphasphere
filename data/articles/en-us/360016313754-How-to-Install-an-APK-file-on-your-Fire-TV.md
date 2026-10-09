@@ -3,7 +3,7 @@
 **Article ID:** 360016313754
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360016313754-How-to-Install-an-APK-file-on-your-Fire-TV
-**Last Updated:** 2026-10-05T21:09:30+00:00
+**Last Updated:** 2026-10-09T06:17:18+00:00
 ---
 
 We strongly recommend to install the Fire TV app via Amazon App store, that way Amazon will automatically keep your app up to date with new releases.

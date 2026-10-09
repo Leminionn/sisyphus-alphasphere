@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-10-08T09:22:22.015226+00:00",
+  "last_sync": "2026-10-09T09:29:53.022563+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -301,10 +301,10 @@
     "33940834613139": {
       "id": 33940834613139,
       "slug": "33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan",
-      "hash_val": "35e2872cd444d5e9694396af131af491e26e551c147a5d3f371af5373f1bc841",
-      "updated_at": "2026-10-07T22:30:11+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/33940834613139whatdoigetwit-ptlfyjxxmyir",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/33940834613139whatdoigetwit-ptlfyjxxmyir",
+      "hash_val": "40c5403f0f30194bd6c67821a5013d7e588644bf422b45c695d8785b5b694660",
+      "updated_at": "2026-10-08T16:57:16+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/33940834613139whatdoigetwit-rhp4w01d1rw4",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/33940834613139whatdoigetwit-rhp4w01d1rw4",
       "locale": "en-us"
     },
     "33382537925267": {
@@ -1768,10 +1768,10 @@
     "360016313754": {
       "id": 360016313754,
       "slug": "360016313754-How-to-Install-an-APK-file-on-your-Fire-TV",
-      "hash_val": "35f39613711a78be9c5fd8f69733932465ac15b3e9d9cb27956129732b97624d",
-      "updated_at": "2026-10-05T21:09:30+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016313754howtoinstallana-wwogga6i67pk",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016313754howtoinstallana-wwogga6i67pk",
+      "hash_val": "de990e2c1a6dfe9c1df14c60dfcc412bf0ddbff2f56d038f5a6c131043cfa6a5",
+      "updated_at": "2026-10-09T06:17:18+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016313754howtoinstallana-41iph56grjns",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016313754howtoinstallana-41iph56grjns",
       "locale": "en-us"
     },
     "360016252654": {
@@ -3694,10 +3694,10 @@
     "55447693635731": {
       "id": 55447693635731,
       "slug": "55447693635731-How-to-Display-Grafana-Dashboards-on-OptiSigns",
-      "hash_val": "d53ffc8a2774f909fb20fe45ee81542048abc318175cd9704db21ffe8429c779",
-      "updated_at": "2026-09-22T14:14:49+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/55447693635731howtodisplayg-1n2qmg4e010w",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/55447693635731howtodisplayg-1n2qmg4e010w",
+      "hash_val": "86dca8487262d49937655662a9160dbf877052d5c24293e669b0f88c3dffe9f4",
+      "updated_at": "2026-10-08T16:32:47+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/55447693635731howtodisplayg-4fcoyveebs7s",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/55447693635731howtodisplayg-4fcoyveebs7s",
       "locale": "en-us"
     },
     "55709616003219": {
