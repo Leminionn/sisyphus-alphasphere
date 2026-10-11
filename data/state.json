@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-10-10T08:51:39.337381+00:00",
+  "last_sync": "2026-10-11T09:12:35.306852+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -400,10 +400,10 @@
     "29465595849235": {
       "id": 29465595849235,
       "slug": "29465595849235-List-of-Supported-Cities-for-Weather-Wall-City-Themes",
-      "hash_val": "38f001adeadb36a582e9becd98bccda17e3af1c64054dec0cc1a183ab4f5c95d",
-      "updated_at": "2026-09-10T09:51:18+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/29465595849235listofsupport-wfh7u3utkac3",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/29465595849235listofsupport-wfh7u3utkac3",
+      "hash_val": "36e5b3f5b40620cc80af45f0b0359a3fceafb1df28b5bea06ef15db99c1dcbae",
+      "updated_at": "2026-10-10T22:18:29+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/29465595849235listofsupport-6ohl3ct0eyqc",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/29465595849235listofsupport-6ohl3ct0eyqc",
       "locale": "en-us"
     },
     "29238381023123": {
