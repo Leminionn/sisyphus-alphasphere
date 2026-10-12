@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-10-11T09:12:35.306852+00:00",
+  "last_sync": "2026-10-12T09:38:03.012713+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -1840,10 +1840,10 @@
     "28295074995859": {
       "id": 28295074995859,
       "slug": "28295074995859-How-to-Manage-and-Edit-Your-Playlist-Settings",
-      "hash_val": "98d747354ed327a4c885f338071a09020f13a032e6e0300130fae52f5da78324",
-      "updated_at": "2026-09-14T16:01:05+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28295074995859howtomanagean-nqv1iuh5zsgc",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28295074995859howtomanagean-nqv1iuh5zsgc",
+      "hash_val": "d224f06106d6b86b5abbe89e24fad0f1acfd387824d92f444b363f5cbcf54a72",
+      "updated_at": "2026-10-12T07:27:37+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28295074995859howtomanagean-pgbzrr52qstz",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28295074995859howtomanagean-pgbzrr52qstz",
       "locale": "en-us"
     },
     "28026588373139": {
@@ -2191,10 +2191,10 @@
     "360021855653": {
       "id": 360021855653,
       "slug": "360021855653-What-hardware-and-devices-are-supported",
-      "hash_val": "764b74747a1478dfa33ff46ca78a1abbd9a4790abca133f5199480272e0cdc58",
-      "updated_at": "2026-09-14T15:11:31+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360021855653whathardwareand-p8khpmo47w4w",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360021855653whathardwareand-p8khpmo47w4w",
+      "hash_val": "699727a75fb13c7f2be968b7d5ea04a587388e047c032aa5040a45f1c09a97d6",
+      "updated_at": "2026-10-12T06:20:04+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360021855653whathardwareand-ceod46kutv9t",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360021855653whathardwareand-ceod46kutv9t",
       "locale": "en-us"
     },
     "360019588654": {
