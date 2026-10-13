@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-10-12T09:38:03.012713+00:00",
+  "last_sync": "2026-10-13T09:40:44.560729+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -310,10 +310,10 @@
     "33382537925267": {
       "id": 33382537925267,
       "slug": "33382537925267-Making-a-Video-Wall-with-OptiSigns-Video-Wall-App",
-      "hash_val": "7acbf63b5d223cb553aef8c02a9a85ec2dee159c2776ff4d72bc35a7827ac34c",
-      "updated_at": "2026-09-10T09:51:47+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/33382537925267makingavideow-attqj4d0d8ml",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/33382537925267makingavideow-attqj4d0d8ml",
+      "hash_val": "7c6df56bb332c30036133d8d2fb3d54f58ab0173d831eabf204b6d40ae915ae5",
+      "updated_at": "2026-10-13T04:44:01+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/33382537925267makingavideow-7l83tq6k50re",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/33382537925267makingavideow-7l83tq6k50re",
       "locale": "en-us"
     },
     "32860569148819": {
@@ -363,11 +363,11 @@
     },
     "31113088917907": {
       "id": 31113088917907,
-      "slug": "31113088917907-How-to-use-Toast-API-data-with-OptiSigns",
-      "hash_val": "c47e05a130ac54d522443b8e21c07996eb1682f6f954a23ca7e91576235205b7",
-      "updated_at": "2025-09-02T20:24:12+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/31113088917907howtousetoast-jvt54pdb16mq",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/31113088917907howtousetoast-jvt54pdb16mq",
+      "slug": "31113088917907-How-to-Use-Toast-API-Data-with-OptiSigns",
+      "hash_val": "85b83a843af4cdb0889b0603c5594dd5f52fbbd74f8834d207d84812d950f2d1",
+      "updated_at": "2026-10-12T18:49:12+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/31113088917907howtousetoast-rtlqxc3n5teh",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/31113088917907howtousetoast-rtlqxc3n5teh",
       "locale": "en-us"
     },
     "30310366838803": {
@@ -472,10 +472,10 @@
     "28295104605843": {
       "id": 28295104605843,
       "slug": "28295104605843-How-to-Create-Use-Playlists",
-      "hash_val": "e4f5e7e8c5c2cb238fef003987e99266378bd35d1fcd822f962ead312c89d977",
-      "updated_at": "2026-09-10T09:51:04+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28295104605843howtocreateus-m7ztv98xvvs1",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28295104605843howtocreateus-m7ztv98xvvs1",
+      "hash_val": "a614dfa1518f248db607f839f939e54e1c82d2ebd213b695ebdd94c5da12f94c",
+      "updated_at": "2026-10-12T21:22:16+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28295104605843howtocreateus-zx0dlor2bmv4",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28295104605843howtocreateus-zx0dlor2bmv4",
       "locale": "en-us"
     },
     "28140190892307": {
@@ -1570,10 +1570,10 @@
     "360043621953": {
       "id": 360043621953,
       "slug": "360043621953-How-to-Create-and-Use-Nested-Playlists",
-      "hash_val": "be0ad4103a1d528e659e2709081c229d69c64ec2c4075a7b243033dde88be121",
-      "updated_at": "2026-09-11T02:59:22+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360043621953howtocreateandu-k7njvvae4byy",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360043621953howtocreateandu-k7njvvae4byy",
+      "hash_val": "3102c845c36b5d5d31451c99b60d3f34367344766c27e64df8f95181990f1cb3",
+      "updated_at": "2026-10-12T21:22:12+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360043621953howtocreateandu-kl5ht1ydb0j6",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360043621953howtocreateandu-kl5ht1ydb0j6",
       "locale": "en-us"
     },
     "360042736794": {
@@ -1678,10 +1678,10 @@
     "360034883113": {
       "id": 360034883113,
       "slug": "360034883113-Working-with-Teams-and-Security-Levels",
-      "hash_val": "48a5b606ccf5bca8345e8e3133e14688367760ab00800a3cf789f90e0912acd4",
-      "updated_at": "2026-09-25T09:11:39+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360034883113workingwithteam-302eviekos14",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360034883113workingwithteam-302eviekos14",
+      "hash_val": "a455c1f27b17b0770192908b08e655eb5aee5749c1bafe211da543b9b263c5a0",
+      "updated_at": "2026-10-13T01:44:24+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360034883113workingwithteam-i6xhzfxyqp2r",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360034883113workingwithteam-i6xhzfxyqp2r",
       "locale": "en-us"
     },
     "360034379293": {
@@ -1795,10 +1795,10 @@
     "360016342373": {
       "id": 360016342373,
       "slug": "360016342373-What-types-of-files-are-supported",
-      "hash_val": "c2a893f7a49c8507f8adeab39d4ad7bcaa800aa2d59ba0ac5325a149cfb86298",
-      "updated_at": "2025-09-08T14:04:57+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016342373whattypesoffile-7prrxke4t2zf",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016342373whattypesoffile-7prrxke4t2zf",
+      "hash_val": "9ffbbb4cacd83816067b210b4e8b963b224932bfdf1002f5f9da587e18829c2c",
+      "updated_at": "2026-10-13T01:42:44+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016342373whattypesoffile-h9u52ffnns9s",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016342373whattypesoffile-h9u52ffnns9s",
       "locale": "en-us"
     },
     "42305104960147": {
@@ -1840,10 +1840,10 @@
     "28295074995859": {
       "id": 28295074995859,
       "slug": "28295074995859-How-to-Manage-and-Edit-Your-Playlist-Settings",
-      "hash_val": "d224f06106d6b86b5abbe89e24fad0f1acfd387824d92f444b363f5cbcf54a72",
-      "updated_at": "2026-10-12T07:27:37+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28295074995859howtomanagean-pgbzrr52qstz",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28295074995859howtomanagean-pgbzrr52qstz",
+      "hash_val": "cb1a0381ba5cc8d0a77d9731f17247153fb0c653921e2078d752b4e2df9ddf21",
+      "updated_at": "2026-10-12T21:22:30+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28295074995859howtomanagean-gn8gmwnne36v",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28295074995859howtomanagean-gn8gmwnne36v",
       "locale": "en-us"
     },
     "28026588373139": {
@@ -2802,11 +2802,11 @@
     },
     "8399990754195": {
       "id": 8399990754195,
-      "slug": "8399990754195-How-to-display-SmartSheet-report-on-OptiSigns",
-      "hash_val": "0b1bee8b6f121544403847b75d60c4608af80d7578a96212edfb678bb5c7071c",
-      "updated_at": "2025-09-04T18:50:22+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/8399990754195howtodisplaysm-n7mtf43282lm",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/8399990754195howtodisplaysm-n7mtf43282lm",
+      "slug": "8399990754195-How-to-Display-a-Smartsheet-Report-on-OptiSigns",
+      "hash_val": "bb0a453a418f8d37141b588721f9c14c5496bc862d286c027d4154eb3009be66",
+      "updated_at": "2026-10-12T18:33:37+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/8399990754195howtodisplayas-z8gl5fwu7koe",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/8399990754195howtodisplayas-z8gl5fwu7koe",
       "locale": "en-us"
     },
     "8369526604435": {
@@ -3594,11 +3594,11 @@
     },
     "360016254994": {
       "id": 360016254994,
-      "slug": "360016254994-How-to-add-use-Vimeo-video-with-OptiSigns",
-      "hash_val": "793c7e4781bf7dbd24953f4fee079f9e860cf9f08daea3b3e914e93fd75da096",
-      "updated_at": "2025-09-04T18:00:23+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016254994howtoaddusevime-x1jhsbg99f0j",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016254994howtoaddusevime-x1jhsbg99f0j",
+      "slug": "360016254994-How-to-Display-Vimeo-Videos-with-OptiSigns",
+      "hash_val": "3b20990ce93681a16df9dcf033cdcb63f87821f9e9d3c7ffb7ee9c56921d1431",
+      "updated_at": "2026-10-12T20:49:41+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016254994howtodisplayvim-driwjvf2uele",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016254994howtodisplayvim-driwjvf2uele",
       "locale": "en-us"
     },
     "360016382473": {
@@ -3730,10 +3730,10 @@
     "55895814798739": {
       "id": 55895814798739,
       "slug": "55895814798739-How-to-Display-Salesforce-Dashboards-and-Reports-on-OptiSigns",
-      "hash_val": "448d12fb79acb834124265a01d6d61887bac422f5ff5d18a67db5783d45f0f10",
-      "updated_at": "2026-09-29T19:44:32+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/55895814798739howtodisplays-fk1h3pa6g6td",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/55895814798739howtodisplays-fk1h3pa6g6td",
+      "hash_val": "70e5eb3cc8837f20dfa31a5674fc12f29496c7da95176d7584bb962693f48388",
+      "updated_at": "2026-10-12T20:31:04+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/55895814798739howtodisplays-67obysvkrtn7",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/55895814798739howtodisplays-67obysvkrtn7",
       "locale": "en-us"
     }
   }
