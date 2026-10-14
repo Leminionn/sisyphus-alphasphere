@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-10-13T09:40:44.560729+00:00",
+  "last_sync": "2026-10-14T07:56:31.516045+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -508,10 +508,10 @@
     "27463953562899": {
       "id": 27463953562899,
       "slug": "27463953562899-Amazon-TV-FireStick-Troubleshooting-Guide",
-      "hash_val": "3bc82c7392759eb5405a79780985c7b05cedf1abda30e3b085221371e3a246cf",
-      "updated_at": "2026-10-02T14:02:01+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/27463953562899amazontvfires-bawlwag1l2an",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/27463953562899amazontvfires-bawlwag1l2an",
+      "hash_val": "9ce64b99f98b798bfdcb6d32c87640a613929ed0fbe43a990dc6f3b8ab573efd",
+      "updated_at": "2026-10-13T13:00:37+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/27463953562899amazontvfires-m54t2scncpsl",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/27463953562899amazontvfires-m54t2scncpsl",
       "locale": "en-us"
     },
     "27458261258387": {
@@ -1650,11 +1650,11 @@
     },
     "360037416494": {
       "id": 360037416494,
-      "slug": "360037416494-How-to-use-the-Jira-formerly-Atlassian-JIRA-app",
-      "hash_val": "4b0cf94211c0467fff33362b85c0ed2590641c2c96d3e0955c975d51983cc463",
-      "updated_at": "2026-09-10T09:41:23+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360037416494howtousethejira-6xl7lg4vkypt",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360037416494howtousethejira-6xl7lg4vkypt",
+      "slug": "360037416494-How-to-Use-the-Jira-App",
+      "hash_val": "8872815bb69954dfdf56e0156e1c1104d9662ed30e62dac1e1f000c198ba5356",
+      "updated_at": "2026-10-13T21:50:54+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360037416494howtousethejira-8sdk0tqn7psx",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360037416494howtousethejira-8sdk0tqn7psx",
       "locale": "en-us"
     },
     "360037391854": {
@@ -2458,15 +2458,6 @@
       "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/35577511423635optisignsprop-p5xoz6utse6u",
       "locale": "en-us"
     },
-    "18500083191059": {
-      "id": 18500083191059,
-      "slug": "18500083191059-How-to-add-captions-to-Vimeo-videos",
-      "hash_val": "ffeda217906b2d3f033a85c28dd009a69aed0477ffed4cfd3e9a70da49608f69",
-      "updated_at": "2026-09-10T09:49:54+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/18500083191059howtoaddcapti-h4tiqxv2455e",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/18500083191059howtoaddcapti-h4tiqxv2455e",
-      "locale": "en-us"
-    },
     "14502378549907": {
       "id": 14502378549907,
       "slug": "14502378549907-Present-share-your-screen-with-OptiSigns-AeriCast-Add-on",
@@ -2523,11 +2514,11 @@
     },
     "12454101966355": {
       "id": 12454101966355,
-      "slug": "12454101966355-How-to-use-the-MustHaveMenus-app-with-OptiSigns",
-      "hash_val": "f1b26f8a4b9c5506dffb017140cfc86d106e85e5e484c8e8a7d7754b17d9e753",
-      "updated_at": "2026-09-10T09:49:08+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/12454101966355howtousethemu-k1il9k33cf6b",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/12454101966355howtousethemu-k1il9k33cf6b",
+      "slug": "12454101966355-How-to-Use-the-MustHaveMenus-App",
+      "hash_val": "8955d4dc0b3e0f152e3e59a709bfdf35ea68c393c95284c7b839c0ac099adf28",
+      "updated_at": "2026-10-13T20:53:34+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/12454101966355howtousethemu-x50gm18evox9",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/12454101966355howtousethemu-x50gm18evox9",
       "locale": "en-us"
     },
     "4414558369811": {
@@ -2856,11 +2847,11 @@
     },
     "6091289267475": {
       "id": 6091289267475,
-      "slug": "6091289267475-How-to-use-Matterport-App",
-      "hash_val": "7866d0a9351211f67563822eadb7cbc2cb738d7953c16517ee85d49cc699c09e",
-      "updated_at": "2026-09-10T09:48:13+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/6091289267475howtousematter-plh313ir22us",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/6091289267475howtousematter-plh313ir22us",
+      "slug": "6091289267475-How-to-Use-the-Matterport-App",
+      "hash_val": "7772b5985f2d9529c8f4b2c5fc2c26930b3fd9e6b07354fdc6a9b24001b096a4",
+      "updated_at": "2026-10-13T20:37:01+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/6091289267475howtousethemat-q9gm52ss5p1d",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/6091289267475howtousethemat-q9gm52ss5p1d",
       "locale": "en-us"
     },
     "6086986017299": {
@@ -2883,11 +2874,11 @@
     },
     "5119724468371": {
       "id": 5119724468371,
-      "slug": "5119724468371-How-to-use-Notion-App",
-      "hash_val": "6d771f2c0c7e60a3faf60a631f27ea146adba8c150f8351ed0921cafc51db190",
-      "updated_at": "2026-09-10T09:48:04+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/5119724468371howtousenotion-pzdzwaaengkw",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/5119724468371howtousenotion-pzdzwaaengkw",
+      "slug": "5119724468371-How-to-Use-the-Notion-App",
+      "hash_val": "1864a9608d80c19362bef3f120d6966fae4dd44790e863adf3338a025dfe0bc3",
+      "updated_at": "2026-10-13T17:37:02+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/5119724468371howtousethenot-n4ophgx532rx",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/5119724468371howtousethenot-n4ophgx532rx",
       "locale": "en-us"
     },
     "4529298306963": {
@@ -3072,11 +3063,11 @@
     },
     "1500002233221": {
       "id": 1500002233221,
-      "slug": "1500002233221-How-to-use-Asana-App",
-      "hash_val": "2b07767a95f8af720ae8f418272c08ea0a9da0a8913a2c0f31faa523bf5add97",
-      "updated_at": "2026-09-10T09:45:28+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500002233221howtouseasanaa-suxlo1bt1uhh",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500002233221howtouseasanaa-suxlo1bt1uhh",
+      "slug": "1500002233221-How-to-Use-the-Asana-App",
+      "hash_val": "b32fe663456dc7ff8cc56fa9b0550678cb21025b4eb109e163e57a67fc8eb38e",
+      "updated_at": "2026-10-13T16:34:14+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500002233221howtousetheasa-pzkn8pnbz1rn",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500002233221howtousetheasa-pzkn8pnbz1rn",
       "locale": "en-us"
     },
     "1500002131621": {
@@ -3225,11 +3216,11 @@
     },
     "360050244454": {
       "id": 360050244454,
-      "slug": "360050244454-How-to-use-Trello-App",
-      "hash_val": "904029a43766beb4ecf0aafefba39669154e3a1d89217f79c9959e279df98fa4",
-      "updated_at": "2026-09-10T09:43:03+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360050244454howtousetrelloa-oadyrjm47w6v",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360050244454howtousetrelloa-oadyrjm47w6v",
+      "slug": "360050244454-How-to-Use-the-Trello-App",
+      "hash_val": "05c7728d711c924df94d9c0913f216ec60d555d0b80ddd1466f970d2ac061db8",
+      "updated_at": "2026-10-13T21:49:36+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360050244454howtousethetrel-o2wwtn6owvsn",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360050244454howtousethetrel-o2wwtn6owvsn",
       "locale": "en-us"
     },
     "360051014713": {
@@ -3369,11 +3360,11 @@
     },
     "360046859534": {
       "id": 360046859534,
-      "slug": "360046859534-How-to-use-Twitch-App",
-      "hash_val": "5e9618b4800cccad4bb0d1b019ebb98b0c69ab05bf4852e591c760cdf0138145",
-      "updated_at": "2025-09-05T14:57:13+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360046859534howtousetwitcha-ufqhm9tf3sb3",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360046859534howtousetwitcha-ufqhm9tf3sb3",
+      "slug": "360046859534-How-to-Use-the-Twitch-App",
+      "hash_val": "1973802cc963e94cc19413e1f9d51e3c6743d3362e19a83c8048977eeee3e374",
+      "updated_at": "2026-10-13T17:00:14+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360046859534howtousethetwit-m52jh89o84w9",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360046859534howtousethetwit-m52jh89o84w9",
       "locale": "en-us"
     },
     "360044619014": {
@@ -3595,10 +3586,10 @@
     "360016254994": {
       "id": 360016254994,
       "slug": "360016254994-How-to-Display-Vimeo-Videos-with-OptiSigns",
-      "hash_val": "3b20990ce93681a16df9dcf033cdcb63f87821f9e9d3c7ffb7ee9c56921d1431",
-      "updated_at": "2026-10-12T20:49:41+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016254994howtodisplayvim-driwjvf2uele",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016254994howtodisplayvim-driwjvf2uele",
+      "hash_val": "7d3ad74655a32e049d13519b7fb9991ad209aab22b7b2ecd51bdba4b26a79ad6",
+      "updated_at": "2026-10-13T17:40:15+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016254994howtodisplayvim-hz4vbimxvugg",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016254994howtodisplayvim-hz4vbimxvugg",
       "locale": "en-us"
     },
     "360016382473": {

@@ -3,19 +3,88 @@
 **Article ID:** 360016254994
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360016254994-How-to-Display-Vimeo-Videos-with-OptiSigns
-**Last Updated:** 2026-10-12T20:49:41+00:00
+**Last Updated:** 2026-10-13T17:40:15+00:00
 ---
 
-We support Vimeo out of the box.
+With the Vimeo app, it's possible to play any Vimeo video on your digital signs. Paste the video's link into OptiSigns and it's ready to go on a screen, in a playlist or on a schedule. This article also covers how to play a video you've kept private on Vimeo, and how to show captions.
 
-Log on to OptiSigns and use the Vimeo App to create an asset.
+Let's get started.
 
-Then go to Vimeo and find the URL of the video you wish to display:
+---
 
-Then Paste the link to OptiSigns' Vimeo app:
+## What You'll Need
 
-You then can use this Vimeo video on your playlist or assign directly to screen if you'd like.
+* An OptiSigns account - [**Standard Plan** or higher](https://www.optisigns.com/pricing)
+* The link to the Vimeo video you want to display
+* An [OptiSigns-enabled device](https://support.optisigns.com/hc/en-us/articles/360021855653)
+* A screen, set up and paired with OptiSigns ([see our Getting Started guide](https://support.optisigns.com/hc/en-us/articles/18823504383891))
 
-**Note**: If you want to set your Vimeo as not public, you can set your Viemo as "**Hide from Vimeo".** Then you can add "[social-player.optisigns.com](http://social-player.optisigns.com/)" in the Specific domains of Embed.
+---
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+## Creating a Vimeo App
+
+First, open the video you want to display on **vimeo.com**. Copy its address from your browser's address bar. The number at the end is the video's ID.
+
+|  |
+| --- |
+| **NOTE** |
+| The Vimeo app accepts **vimeo.com** video links, such as **https://vimeo.com/449787858**. Links from **player.vimeo.com**, showcases or folders aren't accepted, and the app shows **Please enter a valid Vimeo video URL**. |
+
+Next, go to the OptiSigns portal. Go to **Files/Assets** and select **Apps**.
+
+Search for **Vimeo** and select the **Vimeo** app.
+
+The Vimeo app settings will open. Fill in the following:
+
+* **Name** - The name of your Vimeo asset. This is for organizational purposes within OptiSigns only and will not display on your screens.
+* **URL** - The Vimeo video link you copied in the first step.
+
+Now hit **Save**. You'll have created a Vimeo app, and it will appear in your **Files/Assets**.
+
+---
+
+## Displaying a Private Vimeo Video
+
+You don't have to make a video public on Vimeo to play it on your screens. In the video's privacy settings on Vimeo:
+
+1. Under **Link**, select **Hide from Vimeo**.
+2. Under **Embed**, set **Where can the video be embedded?** to **Specific domains** and add **social-player.optisigns.com**.
+
+The video stays hidden on Vimeo, but your OptiSigns screens can still play it. Then create and deploy the Vimeo app as normal.
+
+---
+
+## Displaying Vimeo Videos with Captions
+
+The Vimeo app doesn't have a captions setting. To show captions, use the **Streaming App** with a Vimeo player link that turns them on.
+
+First, build the link from your video's ID (the number at the end of its vimeo.com link):
+
+* **Captions you uploaded** - https://player.vimeo.com/video/VIDEO\_ID?autoplay=1&loop=1&texttrack=en
+* **Vimeo's auto-generated captions** - https://player.vimeo.com/video/VIDEO\_ID?autoplay=1&loop=1&texttrack=en-x-autogen
+
+Replace **VIDEO\_ID** with your video's ID. For another language, replace **en** with that language's code, as long as the video has captions in that language on Vimeo.
+
+Next, go to **Files/Assets**, select **Apps**, then search for and select the **Streaming App**.
+
+Give the app a **Name**, paste your link into the **URL** field, then hit **Save**.
+
+Deploy it to your screen the same way as a Vimeo app, described in **Deploying a Vimeo App** below.
+
+---
+
+## Deploying a Vimeo App
+
+To push your Vimeo app to a screen, go to the **Screens** tab, then click **Edit** next to the screen you want to display it on.
+
+The **Edit Screen** pop-up will appear. Select **Asset** under **Content Type**, then hit **Change** next to **Selected Asset**.
+
+The **Select Asset** window will open. Search for your Vimeo app, click it, then hit **Select**.
+
+Back in **Edit Screen**, hit **Save**. Your Vimeo video will now play on your screen. This same process can be applied to a Streaming app if you're wanting to display your Vimeo video with captions.
+
+Your Vimeo app can also be displayed in a Playlist or Schedule, or as one zone of a [Split Screen](https://support.optisigns.com/hc/en-us/articles/360026559573).
+
+### That’s all!
+
+OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
