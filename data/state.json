@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-10-14T07:56:31.516045+00:00",
+  "last_sync": "2026-10-15T07:40:30.462002+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -85,10 +85,10 @@
     "49039295567891": {
       "id": 49039295567891,
       "slug": "49039295567891-ChromeOS-PWA-Instructions",
-      "hash_val": "01a786df5538e449942a501fdc2f942d41f79cad000fdf400d6921af9251c37d",
-      "updated_at": "2026-05-05T15:48:27+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/49039295567891chromeospwain-urvqr9wm00hh",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/49039295567891chromeospwain-urvqr9wm00hh",
+      "hash_val": "e6b9f78dc3bd2f13ff64551e1de1393db1b7bce9b390b8953cd0e16d8cf34969",
+      "updated_at": "2026-10-14T19:21:13+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/49039295567891chromeospwain-tqsb68m8jodk",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/49039295567891chromeospwain-tqsb68m8jodk",
       "locale": "en-us"
     },
     "48751096814995": {
@@ -184,10 +184,10 @@
     "40671590645651": {
       "id": 40671590645651,
       "slug": "40671590645651-How-to-Play-Licensed-Background-Music-on-Digital-Signs-with-OptiSound",
-      "hash_val": "193be058f98432bd2fa443f5bd47bca439f3bb9a31c57bf480eef61ba36c8492",
-      "updated_at": "2026-09-18T13:02:26+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/40671590645651howtoplaylice-43tiutafxih6",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/40671590645651howtoplaylice-43tiutafxih6",
+      "hash_val": "e2b4a514a69e69bd3ba324c791c011dc3d488486e4e1ff3336e56fac2e711d37",
+      "updated_at": "2026-10-14T21:03:18+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/40671590645651howtoplaylice-z6pxd570c6ly",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/40671590645651howtoplaylice-z6pxd570c6ly",
       "locale": "en-us"
     },
     "40212027797523": {
@@ -1507,10 +1507,10 @@
     "360048914673": {
       "id": 360048914673,
       "slug": "360048914673-Edit-Screen-What-does-each-option-do",
-      "hash_val": "1aa93f29e95ebaeae727b6372ecd2d877dd9ef45300e4f6d027179d3f9a5db2b",
-      "updated_at": "2026-09-10T09:42:40+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360048914673editscreenwhatd-1nzd9uemr7iz",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360048914673editscreenwhatd-1nzd9uemr7iz",
+      "hash_val": "74f200db65d4d2b9f352fb6be855f8ac4659a6e5277afbdd5f5d4c8cce2f4c3e",
+      "updated_at": "2026-10-14T18:02:17+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360048914673editscreenwhatd-chjkpxqrg0gt",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360048914673editscreenwhatd-chjkpxqrg0gt",
       "locale": "en-us"
     },
     "360047275934": {
@@ -1840,10 +1840,10 @@
     "28295074995859": {
       "id": 28295074995859,
       "slug": "28295074995859-How-to-Manage-and-Edit-Your-Playlist-Settings",
-      "hash_val": "cb1a0381ba5cc8d0a77d9731f17247153fb0c653921e2078d752b4e2df9ddf21",
-      "updated_at": "2026-10-12T21:22:30+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28295074995859howtomanagean-gn8gmwnne36v",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28295074995859howtomanagean-gn8gmwnne36v",
+      "hash_val": "a64e0cf8c9a632fff77ce7d6800775dcbcc075dbae1522ad0e42856cf66d1ebc",
+      "updated_at": "2026-10-14T18:00:33+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28295074995859howtomanagean-3rla6w8afaho",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28295074995859howtomanagean-3rla6w8afaho",
       "locale": "en-us"
     },
     "28026588373139": {
@@ -3117,11 +3117,11 @@
     },
     "360060919453": {
       "id": 360060919453,
-      "slug": "360060919453-How-to-put-ZenDesk-Dashboard-on-your-signs",
-      "hash_val": "8107adc0abfa6f7a57cd181f513846743ee8c2f6fe79ecc73a1f14110a539ad8",
-      "updated_at": "2026-09-10T09:45:01+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360060919453howtoputzendesk-d5am48mgldij",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360060919453howtoputzendesk-d5am48mgldij",
+      "slug": "360060919453-How-to-Use-the-Zendesk-App",
+      "hash_val": "63c034418022615a7b37e50e3d046ff43cf475b04145f95289cf8699a1325a2e",
+      "updated_at": "2026-10-14T18:07:38+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360060919453howtousethezend-as804ejpoh8f",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360060919453howtousethezend-as804ejpoh8f",
       "locale": "en-us"
     },
     "360058855273": {
