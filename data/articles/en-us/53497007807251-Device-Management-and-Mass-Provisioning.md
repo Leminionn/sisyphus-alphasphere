@@ -3,7 +3,7 @@
 **Article ID:** 53497007807251
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/53497007807251-Device-Management-and-Mass-Provisioning
-**Last Updated:** 2026-07-16T16:39:52+00:00
+**Last Updated:** 2026-10-15T16:10:20+00:00
 ---
 
 * [What You'll Need](#WhatYouNeed)
@@ -20,14 +20,15 @@
 
 Managing large numbers of devices can seem overwhelming. That's why we've introduced the **Devices** tab, where you can easily organize and troubleshoot your devices from a single location.
 
-This tab and interface is largely designed for IT personnel and becomes available to OptiSigns Pro Plus plan subscribers once they've set up and registered 5 screens or more on OptiSigns.
+This tab and interface is largely designed for IT personnel and becomes available to OptiSigns Pro Plus plan subscribers once they've set up and registered 5 screens or more on OptiSigns. Only Owners and Super Admins can access the Devices tab.
 
 ---
 
 ## What You'll Need
 
 * An OptiSigns [**Pro Plus plan or higher**](https://www.optisigns.com/pricing)
-* 5 devices, set up and paired with OptiSigns
+* 5 or more screen licenses, set up and paired with OptiSigns
+* An Owner or Super Admin login account
 
 ---
 
@@ -78,6 +79,8 @@ Next to these is the **More** option, which will expand to encompass numerous ad
 * **View Device Info -** Lets you check device info:
 * **Remote Command History -** Displays the Remote Command history. This information can also be found on the **Activity** tab.
 * **Execute Remote Commands** - Lets you execute remote commands via a direct input command.
+* **Enable/Disable Auto Update** - Lets you enable or disable the ability of this device to receive automatic updates from OptiSigns.
+* **Install APK -** Allows you to install an APK remotely.
 
 #### Overview
 
@@ -101,7 +104,7 @@ The below area will provide Device Info for use primarily in OptiSigns:
 * **Browser -** The version number of the browser running on the device.
 * **OS Time Zone -** The time zone being used on the device clock. This is useful information for using OptiSigns, primarily its scheduling feature.
 * **Created -** The date this device was paired with OptiSigns.
-* **Last Seen -** The last time this device was paired with OptiSigns servers.
+* **Last Seen -** The last time this device checked in with OptiSigns servers.
 
 Any relevant Enterprise WiFi information will be put here.
 
@@ -124,7 +127,7 @@ This displays a recent screenshot of the content playing on your device. A new o
 **Player -** This is specifically information about the OptiSigns app running on the device.
 
 * **Player version -** Shows the current OptiSigns player / app version.
-* **OS -** The OS on which the OptiSigns
+* **OS -** The operating system the OptiSigns app is running on.
 * **WebView -** URL and browser version on which the OptiSigns webplayer will play.
 
 #### Activity
@@ -142,7 +145,7 @@ Here, you can see every change made to any individual device from within OptiSig
 
 The **Troubleshooting** tab will allow an AI agent to SSH into your device and troubleshoot any problems by hitting **Start Session**.
 
-This allows for greater, more in-depth Troubleshooting than would be capable by simply issuing commands. This can only be done by Super-Admins or the account Owner.
+This allows for greater, more in-depth Troubleshooting than would be capable by simply issuing commands. This can only be done by Super Admins or the account Owner.
 
 Records of any troubleshooting sessions will be recorded here.
 
@@ -160,7 +163,7 @@ Fill in the name, description, and any relevant tags you wish, then hit **Create
 
 Your new fleet will appear below. Once you click into it, you can add devices to it by hitting **Add Device:**
 
-You can also export a report on any Fleet devices by hitting the **Export** button, which will automatically download the report as a .csv file.
+You can also export a report on any Fleet devices by hitting the **Export** button, which will automatically download the Fleets report as a .csv file. To export devices, use the **Export** button on the main Devices page.
 
 ---
 
@@ -216,4 +219,4 @@ Here, put in your Wi-Fi information. These networks can then be pre-assigned to 
 
 ### That's all!
 
-OptiSigns is a leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns or getting the Earthquake app to work on it, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
+OptiSigns is a leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).

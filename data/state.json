@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-10-15T07:40:30.462002+00:00",
+  "last_sync": "2026-10-16T07:27:36.963086+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -1711,15 +1711,6 @@
       "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360033693534powerpointresol-io0bkemp66lc",
       "locale": "en-us"
     },
-    "360026610194": {
-      "id": 360026610194,
-      "slug": "360026610194-Stretch-your-images-document-Stretch-vs-Fit-vs-Zoom-your-content",
-      "hash_val": "056fd776b1a09f84e3fbeeee8c37796af6d06233614f8761e11b88ebe1264d6c",
-      "updated_at": "2026-09-10T09:40:48+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360026610194stretchyourimag-29jdmbtq95r1",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360026610194stretchyourimag-29jdmbtq95r1",
-      "locale": "en-us"
-    },
     "360026559613": {
       "id": 360026559613,
       "slug": "360026559613-How-to-Create-a-Scrolling-Strip-or-Bar",
@@ -2991,11 +2982,11 @@
     },
     "4406180781203": {
       "id": 4406180781203,
-      "slug": "4406180781203-How-to-use-LinkedIn-App",
-      "hash_val": "17e4228f6eb4473655d2cd83803c4a18897b1fc8f7d8de65d77bba3f159252ed",
-      "updated_at": "2025-09-04T18:05:53+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4406180781203howtouselinked-e5e5wqg1sxon",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4406180781203howtouselinked-e5e5wqg1sxon",
+      "slug": "4406180781203-How-to-Use-the-LinkedIn-App",
+      "hash_val": "7db5ca70b489d0e8b4950ae0f31d2f9118cb400102f49cc029795e3d61d58bd4",
+      "updated_at": "2026-10-15T21:52:35+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4406180781203howtousethelin-hbf93zunk0jj",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4406180781203howtousethelin-hbf93zunk0jj",
       "locale": "en-us"
     },
     "4404053129619": {
@@ -3009,11 +3000,11 @@
     },
     "4403267825171": {
       "id": 4403267825171,
-      "slug": "4403267825171-How-to-use-the-Social-Mix-App",
-      "hash_val": "c3cdfbd8165e1aefd5142107ac1c1a1814adbdeacb3acb6a6f9da46c82c56736",
-      "updated_at": "2026-09-10T09:46:24+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4403267825171howtousethesoc-5jxy2ljplpz2",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4403267825171howtousethesoc-5jxy2ljplpz2",
+      "slug": "4403267825171-How-to-Use-the-Social-Mix-App",
+      "hash_val": "0c597ee9246f9de53d8dbdb8f6d806d8df88a23eb23e1a97e3e33693437e3823",
+      "updated_at": "2026-10-15T21:07:28+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4403267825171howtousethesoc-vwo3rtgba4pa",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4403267825171howtousethesoc-vwo3rtgba4pa",
       "locale": "en-us"
     },
     "1500011611322": {
@@ -3036,11 +3027,11 @@
     },
     "1500009343862": {
       "id": 1500009343862,
-      "slug": "1500009343862-How-to-use-the-Taggbox-Display-app-with-OptiSigns",
-      "hash_val": "b48fcc3b84cd686e0d6f19e5457ba3461acc418eefb26cfb3b1bcb42e2c088ad",
-      "updated_at": "2025-09-04T15:16:41+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500009343862howtousethetag-3kadi5rnqq14",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500009343862howtousethetag-3kadi5rnqq14",
+      "slug": "1500009343862-How-to-Use-the-Taggbox-Display-App",
+      "hash_val": "069bb5c66cba280cdadae7f2a4e2509f72844c43caabba1eb78a1e6a20209353",
+      "updated_at": "2026-10-15T22:17:54+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500009343862howtousethetag-gfs2ugjvjesu",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500009343862howtousethetag-gfs2ugjvjesu",
       "locale": "en-us"
     },
     "1500005889381": {
@@ -3207,11 +3198,11 @@
     },
     "360051495193": {
       "id": 360051495193,
-      "slug": "360051495193-How-to-use-Instagram-Business-App",
-      "hash_val": "a8add72f18454579dce01b808a8c47915a20c23a6ff3b7f5fd6db7d4d2470216",
-      "updated_at": "2026-09-10T09:43:33+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360051495193howtouseinstagr-758c9lsbosvk",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360051495193howtouseinstagr-758c9lsbosvk",
+      "slug": "360051495193-How-to-Use-the-Instagram-Business-App",
+      "hash_val": "98863645a875d77b4dab3cd00e943487ac872fadeff3d2eb70c334c1f6fe005f",
+      "updated_at": "2026-10-15T19:29:03+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360051495193howtousetheinst-0690o28rw7bk",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360051495193howtousetheinst-0690o28rw7bk",
       "locale": "en-us"
     },
     "360050244454": {
@@ -3234,11 +3225,11 @@
     },
     "360049875794": {
       "id": 360049875794,
-      "slug": "360049875794-How-to-use-Follow-Us-App",
-      "hash_val": "8a946dda85e7912c71be1a7453c9cbf80ed35f0eca36239829017e6add68a7d1",
-      "updated_at": "2026-09-10T09:42:59+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360049875794howtousefollowu-l8fqo10pk8jd",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360049875794howtousefollowu-l8fqo10pk8jd",
+      "slug": "360049875794-How-to-Use-the-Follow-Us-App",
+      "hash_val": "ba5df99fe8e81e467eac6d86ba7d1bfa00163699dd3aa0c6a1e3ab6342599158",
+      "updated_at": "2026-10-15T21:48:40+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360049875794howtousethefoll-ndwop862adg8",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360049875794howtousethefoll-ndwop862adg8",
       "locale": "en-us"
     },
     "360049872414": {
@@ -3433,19 +3424,19 @@
     "360041222994": {
       "id": 360041222994,
       "slug": "360041222994-How-to-Use-the-CountUp-App",
-      "hash_val": "d25dbe1871fa126c322e87b304a5ecdb0b9d0b132be89075002b5ddf9ae80da4",
-      "updated_at": "2026-10-01T17:24:51+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360041222994howtousethecoun-690rbritnv1c",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360041222994howtousethecoun-690rbritnv1c",
+      "hash_val": "c539b143c2cbd9a8c5e0387eab37b0d1c996859451bc79fb429fa811cc54f87b",
+      "updated_at": "2026-10-15T16:20:51+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360041222994howtousethecoun-wlwuac74sn3s",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360041222994howtousethecoun-wlwuac74sn3s",
       "locale": "en-us"
     },
     "360041638433": {
       "id": 360041638433,
-      "slug": "360041638433-How-to-use-the-CountDown-App",
-      "hash_val": "a1df22a754760b0dc0ebf4038e78f7f1ec9dd210ca50a800017d3c55f525ca62",
-      "updated_at": "2026-09-11T04:37:51+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360041638433howtousethecoun-14w1dbothbq8",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360041638433howtousethecoun-14w1dbothbq8",
+      "slug": "360041638433-How-to-Use-the-CountDown-App",
+      "hash_val": "c17637ba27010f9ef154c9144b86a876f656c8d9490359f9ea4fe1a2ce0677d3",
+      "updated_at": "2026-10-15T18:24:17+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360041638433howtousethecoun-kb5wtgdzgqsi",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360041638433howtousethecoun-kb5wtgdzgqsi",
       "locale": "en-us"
     },
     "360041481553": {
@@ -3613,10 +3604,10 @@
     "53497007807251": {
       "id": 53497007807251,
       "slug": "53497007807251-Device-Management-and-Mass-Provisioning",
-      "hash_val": "c333563fb0affffddc8b9996913c35385ee64af50b3afa5b9d6022d8c5a66d5b",
-      "updated_at": "2026-07-16T16:39:52+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/53497007807251devicemanagem-e81wpqgay071",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/53497007807251devicemanagem-e81wpqgay071",
+      "hash_val": "620ecf23d3054dd7009449878d750a97a9de636c1146c3a2523c01a4136d6575",
+      "updated_at": "2026-10-15T16:10:20+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/53497007807251devicemanagem-kk71ygmfdo9b",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/53497007807251devicemanagem-kk71ygmfdo9b",
       "locale": "en-us"
     },
     "53952018650515": {
