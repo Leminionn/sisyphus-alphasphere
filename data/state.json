@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-10-16T07:27:36.963086+00:00",
+  "last_sync": "2026-10-17T07:08:30.272934+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -1486,15 +1486,6 @@
       "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360051745633howtosetupanins-hmr8rrrvducb",
       "locale": "en-us"
     },
-    "360050728934": {
-      "id": 360050728934,
-      "slug": "360050728934-Difference-between-Instagram-Instagram-Business-App",
-      "hash_val": "f68726c27fab72ac028ee6be4fe22ac34d909eb0e43ea0c293b2a8225d85d322",
-      "updated_at": "2026-09-10T09:43:18+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360050728934differencebetwe-x0sin5pkdpge",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360050728934differencebetwe-x0sin5pkdpge",
-      "locale": "en-us"
-    },
     "360050602413": {
       "id": 360050602413,
       "slug": "360050602413-How-to-Use-Overlay-layers-with-OptiSigns",
@@ -1659,11 +1650,11 @@
     },
     "360037391854": {
       "id": 360037391854,
-      "slug": "360037391854-How-to-display-content-inside-websites-that-require-login",
-      "hash_val": "85669ffce36e542e699c6813c364722a11ed1d88e91da8450cf9b20fb26ec6bc",
-      "updated_at": "2026-09-10T09:41:19+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360037391854howtodisplaycon-kyi3mh4qf2x1",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360037391854howtodisplaycon-kyi3mh4qf2x1",
+      "slug": "360037391854-How-to-Display-Content-From-Websites-That-Require-a-Login",
+      "hash_val": "7a72adc472dee2e9a74555c5be163ddb5460086fbf9fa8f3cdde02bc938895ab",
+      "updated_at": "2026-10-16T17:01:33+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360037391854howtodisplaycon-0ltno4czqvsz",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360037391854howtodisplaycon-0ltno4czqvsz",
       "locale": "en-us"
     },
     "360035538093": {
@@ -1813,10 +1804,10 @@
     "30003143806099": {
       "id": 30003143806099,
       "slug": "30003143806099-How-to-Use-the-OptiSigns-Mobile-Admin-App",
-      "hash_val": "e298fc1127f4535049a1a429f4ab11813e340d932cfedf03f2960b9bc7442d7b",
-      "updated_at": "2026-06-11T11:49:35+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/30003143806099howtousetheop-a6ic4ugk6o1d",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/30003143806099howtousetheop-a6ic4ugk6o1d",
+      "hash_val": "23cd28e3edf3ada35846d4c6877ec2ed9b9497a5c99c3d294a23127d93bab7c2",
+      "updated_at": "2026-10-16T14:31:48+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/30003143806099howtousetheop-qep928w9qsp7",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/30003143806099howtousetheop-qep928w9qsp7",
       "locale": "en-us"
     },
     "29863080711059": {
@@ -2073,11 +2064,11 @@
     },
     "360016388733": {
       "id": 360016388733,
-      "slug": "360016388733-How-to-create-and-use-Instagram-Wall",
-      "hash_val": "f798e7752e914cc61ca9db0ab7ad32b375ef824df86f420914faf65842118126",
-      "updated_at": "2026-09-10T09:39:58+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016388733howtocreateandu-u8ycjwt9ezds",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016388733howtocreateandu-u8ycjwt9ezds",
+      "slug": "360016388733-How-to-Use-the-Instagram-App",
+      "hash_val": "02a7fd53e6ce1c91598d9bb191253b86dfa6222a703e812386dddd0b92f69bb3",
+      "updated_at": "2026-10-16T21:51:44+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016388733howtousetheinst-khf0utb9yfb0",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016388733howtousetheinst-khf0utb9yfb0",
       "locale": "en-us"
     },
     "360016219114": {
@@ -2092,10 +2083,10 @@
     "44652521310099": {
       "id": 44652521310099,
       "slug": "44652521310099-Kiosk10",
-      "hash_val": "9ff3c9b9c9677c7fc5a6a4a2fb8f5520b9a2b5b26d7c37d7b88d7ad7af82a089",
-      "updated_at": "2026-09-10T08:01:20+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/44652521310099kiosk10-8dlb2cmivq07",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/44652521310099kiosk10-8dlb2cmivq07",
+      "hash_val": "6d8524246224ee9d84b9a1e3e4bdd0fddc8ffd0be34889b714fb4c5357971961",
+      "updated_at": "2026-10-16T21:29:53+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/44652521310099kiosk10-zmfwjr4dfzf0",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/44652521310099kiosk10-zmfwjr4dfzf0",
       "locale": "en-us"
     },
     "42436941395475": {
@@ -3199,10 +3190,10 @@
     "360051495193": {
       "id": 360051495193,
       "slug": "360051495193-How-to-Use-the-Instagram-Business-App",
-      "hash_val": "98863645a875d77b4dab3cd00e943487ac872fadeff3d2eb70c334c1f6fe005f",
-      "updated_at": "2026-10-15T19:29:03+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360051495193howtousetheinst-0690o28rw7bk",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360051495193howtousetheinst-0690o28rw7bk",
+      "hash_val": "e9fd6f24475e94009862b3c4a4ff05f5dab22c3f38b02656b6089aae6fb95cce",
+      "updated_at": "2026-10-16T21:53:33+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360051495193howtousetheinst-bzbhezpzw118",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360051495193howtousetheinst-bzbhezpzw118",
       "locale": "en-us"
     },
     "360050244454": {
@@ -3244,19 +3235,19 @@
     "360050665413": {
       "id": 360050665413,
       "slug": "360050665413-How-to-Use-the-Dropbox-App",
-      "hash_val": "437936ee559289a18b7257875a8e32864c094259070c05f8fe41400bf6b788ca",
-      "updated_at": "2026-10-01T21:20:35+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360050665413howtousethedrop-4kg9ob9gj6zu",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360050665413howtousethedrop-4kg9ob9gj6zu",
+      "hash_val": "78173888ce3b116a8b3552419eba9b4c13676fb8cd6f51f73c246ee013a399ac",
+      "updated_at": "2026-10-16T16:32:20+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360050665413howtousethedrop-hxb7aiow10xw",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360050665413howtousethedrop-hxb7aiow10xw",
       "locale": "en-us"
     },
     "360050665253": {
       "id": 360050665253,
       "slug": "360050665253-How-to-Use-the-OneDrive-App",
-      "hash_val": "182df3431090a6ca7b69125d09fba14d066e3e27fec828af3392d77c9adb33a8",
-      "updated_at": "2026-09-30T18:35:21+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360050665253howtousetheoned-uibtploxn5py",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360050665253howtousetheoned-uibtploxn5py",
+      "hash_val": "c199cdf542a2033bff4e965f0b8061fcc3fca2cd7de69895537bb10716559a4b",
+      "updated_at": "2026-10-16T16:30:48+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360050665253howtousetheoned-79ce4kk0jtgt",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360050665253howtousetheoned-79ce4kk0jtgt",
       "locale": "en-us"
     },
     "360050664913": {
@@ -3306,11 +3297,11 @@
     },
     "360049518313": {
       "id": 360049518313,
-      "slug": "360049518313-How-to-use-Google-Drive-App",
-      "hash_val": "66802ed61c898fed355d93052efd9bf8185221abe29c5b7c5637828ecf2dccb5",
-      "updated_at": "2026-09-10T09:42:57+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360049518313howtousegoogled-huxbpoe4jlmc",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360049518313howtousegoogled-huxbpoe4jlmc",
+      "slug": "360049518313-How-to-Use-the-Google-Drive-App",
+      "hash_val": "98bf7bec829b1be899b457a1bf1731698ebc0f2122a6f1f831b36e17715ec5a9",
+      "updated_at": "2026-10-16T16:33:18+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360049518313howtousethegoog-y25wdtwge3st",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360049518313howtousethegoog-y25wdtwge3st",
       "locale": "en-us"
     },
     "360049030453": {
@@ -3495,11 +3486,11 @@
     },
     "360037463934": {
       "id": 360037463934,
-      "slug": "360037463934-How-to-create-and-use-Google-Reviews-Wall",
-      "hash_val": "fca33b08c5ae318f1824942ea8672eb1f61078178c69a221ec91f10ec8a85adf",
-      "updated_at": "2026-07-27T15:39:23+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360037463934howtocreateandu-vlc93051qr4r",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360037463934howtocreateandu-vlc93051qr4r",
+      "slug": "360037463934-How-to-Use-the-Google-Reviews-App",
+      "hash_val": "b3c95b1c5046ee59f71711b45bb57c4de67182d0e9ec241b5c5199edc2e3c636",
+      "updated_at": "2026-10-16T21:27:23+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360037463934howtousethegoog-809zugkbb16d",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360037463934howtousethegoog-809zugkbb16d",
       "locale": "en-us"
     },
     "360036250853": {
@@ -3712,10 +3703,37 @@
     "55895814798739": {
       "id": 55895814798739,
       "slug": "55895814798739-How-to-Display-Salesforce-Dashboards-and-Reports-on-OptiSigns",
-      "hash_val": "70e5eb3cc8837f20dfa31a5674fc12f29496c7da95176d7584bb962693f48388",
-      "updated_at": "2026-10-12T20:31:04+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/55895814798739howtodisplays-67obysvkrtn7",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/55895814798739howtodisplays-67obysvkrtn7",
+      "hash_val": "e3d4bad31ac54369db3ba9061fc70638972fbc523442c8665321bce088018d47",
+      "updated_at": "2026-10-16T21:20:16+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/55895814798739howtodisplays-lwnwv5tv9uxb",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/55895814798739howtodisplays-lwnwv5tv9uxb",
+      "locale": "en-us"
+    },
+    "56498391179667": {
+      "id": 56498391179667,
+      "slug": "56498391179667-How-to-Use-the-Eventbrite-Events-App",
+      "hash_val": "353bf8de13b8b9a4212d3d038c7630eb197761337215e3b0811d984a0753dd7a",
+      "updated_at": "2026-10-16T21:22:00+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/56498391179667howtousetheev-zzo0b6327qad",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/56498391179667howtousetheev-zzo0b6327qad",
+      "locale": "en-us"
+    },
+    "56498363329683": {
+      "id": 56498363329683,
+      "slug": "56498363329683-How-to-Use-the-Air-Quality-Index-App",
+      "hash_val": "09c86e57b176553d3bbb9ee0c0bf17c6d72e5324ab8f481470a471003e1782dd",
+      "updated_at": "2026-10-16T21:10:49+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/56498363329683howtousetheai-xsyrfqbqie6t",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/56498363329683howtousetheai-xsyrfqbqie6t",
+      "locale": "en-us"
+    },
+    "56493703696659": {
+      "id": 56493703696659,
+      "slug": "56493703696659-How-to-Display-Datadog-Dashboards-on-OptiSigns",
+      "hash_val": "94631155c85154661e8baaa555cdfb9df7c5e0c0d8cb617b7f0d66d8f38514bd",
+      "updated_at": "2026-10-16T19:51:56+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/56493703696659howtodisplayd-goj6jaq5698n",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/56493703696659howtodisplayd-goj6jaq5698n",
       "locale": "en-us"
     }
   }

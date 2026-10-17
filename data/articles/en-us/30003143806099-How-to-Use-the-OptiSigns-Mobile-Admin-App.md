@@ -3,7 +3,7 @@
 **Article ID:** 30003143806099
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/30003143806099-How-to-Use-the-OptiSigns-Mobile-Admin-App
-**Last Updated:** 2026-06-11T11:49:35+00:00
+**Last Updated:** 2026-10-16T14:31:48+00:00
 ---
 
 #### The OptiSigns Mobile Admin App offers remote control over your digital signage assets. Whether you're without a laptop, misplaced your remote, or far from your screen, this app provides a streamlined, user-friendly solution. This guide will help you set up and use the app effectively.
@@ -28,7 +28,7 @@
 
 To use the Mobile Admin App, first you'll need to acquire it.
 
-You can find the **OptiSigns Admin**app on the **[Google Play](https://play.google.com/store/apps/details?id=com.optisigns.controller&hl=en_US)**store or [**Apple App Store**](https://apps.apple.com/us/app/optisigns-admin/id1574826252). Download and install it on your mobile device of choice, then proceed with the rest of this guide. You can also download it by scanning the QR code on the WiFi screen of your device.
+You can find the **OptiSigns Admin**app on the [**Google Play**](https://play.google.com/store/apps/details?id=com.optisigns.controller&hl=en_US)store or [**Apple App Store**](https://apps.apple.com/us/app/optisigns-admin/id1574826252). Download and install it on your mobile device of choice, then proceed with the rest of this guide. You can also download it by scanning the QR code on the WiFi screen of your device.
 
 ---
 
@@ -66,7 +66,7 @@ Once connected to the internet, your OptiSigns Android Player is ready for pairi
 * The screen will display a pairing code.
 * Enter this code in the Screen section of the app, or scan the QR code on the right side.
 
-For detailed instructions on each setting up and adding a screen, please visit **[this article.](https://support.optisigns.com/hc/en-us/articles/360016374813)**
+For detailed instructions on each setting up and adding a screen, please visit [**this article.**](https://support.optisigns.com/hc/en-us/articles/360016374813)
 
 |  |
 | --- |
@@ -106,14 +106,12 @@ You can access the Media Section by tapping the **icon directly to the left of t
 * **List/Box Square icon -** change asset view preferences to display as a list or small icons.
 * Tap directly on an asset to view its detailed information, such as type, tags, app type, created date, and last updated time.
 * **3 Dots icon -** This will allow you to manage assets.
-
   + Move
   + Rename
   + Add to a playlist
   + Delete asset
 * **Select option -** select and manage multiple assets at once.
 * **Green Plus Icon** to add new assets.
-
   + **Folder -** Create a new folder.
   + **Camera -** Take and upload images instantly.
   + **Upload -** Add files, images, and videos to your account.
@@ -122,7 +120,7 @@ You can access the Media Section by tapping the **icon directly to the left of t
 
 In the **Screen** **Section**, tap the **Edit** **Screen** option. From there, you can manage your content:
 
-* **Quick Assign -** to take swift actions on your screen.
+* **Quick Assign -** to take swift actions on your screen.  
   + **Stop Playing -** Immediately stop the current asset without replacement.
   + **Recently Played -** Preview and select previously displayed assets to replace the current one.
 * **Name -** Name of your screen
@@ -147,10 +145,6 @@ While you can upload and view all assets, creating various apps (Social Media, W
 
 Navigate to the **Screens**tab → **Edit**the desired screen → choose "**Type**" and assign your desired asset/playlist/schedule
 
-#### Limitation
-
-The Media section on the mobile app does not support the "Push to screen" feature or other options available in the File/Asset section on the web version.
-
 ---
 
 ## 6. Playlist Management
@@ -164,7 +158,6 @@ Please tap the **3 Dot icon**, located to the right of the home button.
 * Use the **search bar** and **sort** feature to filter through your Playlists.
 * **Select option**: select and manage multiple Playlists at once.
 * **Green Plus Icon** to add new assets or create a Nested Playlist
-
   + **Asset**: add new assets to the Playlist.
   + **Playlist**: add a new playlist to the Playlist. For more information about Nested Playlists, please follow [this link](https://support.optisigns.com/hc/en-us/articles/360043621953).
 * **Pencil icon:** change the duration of assets within the Playlist.
@@ -173,7 +166,6 @@ Please tap the **3 Dot icon**, located to the right of the home button.
 * **Hold and move assets:** to arrange the order in the Playlist.
 * **Playlist color:** change the playlist color for better organization.
 * **3 Dots icon**: This will allow you to manage the Playlist.
-
   + **Options:** for more Advanced settings. To understand the function of each setting option in the Playlist Settings, please follow [this article.](https://support.optisigns.com/hc/en-us/articles/28295074995859)
   + **Move**
   + **Duplicate**
@@ -183,21 +175,13 @@ Please tap the **3 Dot icon**, located to the right of the home button.
 
 Navigate to the **Screen** **Section** → **Edit** the desired screen → choose **Type**, and assign your desired Playlist.
 
-#### Limitation
-
-Like the Media section, the "Push to screen" feature is not available.
-
 ---
 
 ## 7. Schedule Management
 
 In this section, you can view and adjust any available Schedule on your account.
 
-* For more detailed instructions on how to create a schedule, please reference **[this article](https://support.optisigns.com/hc/en-us/articles/360016981853).**
-
-#### Limitation
-
-The "Push to screen" feature is not available.
+* For more detailed instructions on how to create a schedule, please reference [**this article**](https://support.optisigns.com/hc/en-us/articles/360016981853)**.**
 
 ---
 
