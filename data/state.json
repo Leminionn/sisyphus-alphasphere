@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-10-19T08:01:57.346336+00:00",
+  "last_sync": "2026-10-20T07:52:19.885475+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -1255,10 +1255,10 @@
     "360061576673": {
       "id": 360061576673,
       "slug": "360061576673-Advanced-Enforce-SSO-login-for-your-account",
-      "hash_val": "64024a3b9d91be169e836a9483fbcac56b0f7ae072267921b5558e6c9347dba9",
-      "updated_at": "2026-09-28T21:53:26+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360061576673advancedenforce-xqnxwkdq5vom",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360061576673advancedenforce-xqnxwkdq5vom",
+      "hash_val": "1d4149c80da3146e01f32b262b8ff98ed045f87db20e0c3a4fc9e5aff04ffde7",
+      "updated_at": "2026-10-19T18:53:23+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360061576673advancedenforce-2yp0697vhopo",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360061576673advancedenforce-2yp0697vhopo",
       "locale": "en-us"
     },
     "1500000941981": {
@@ -1633,10 +1633,10 @@
     "360038992973": {
       "id": 360038992973,
       "slug": "360038992973-Video-codec-or-video-playback-issues",
-      "hash_val": "6933fd592a3a89cc12eb071b3a0b542de7f66b0066b7d1c6f74e53337dd2ee2f",
-      "updated_at": "2026-09-10T09:41:25+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360038992973videocodecorvid-if3h2c6rivkh",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360038992973videocodecorvid-if3h2c6rivkh",
+      "hash_val": "07a12dc8f67eabb358dc3b82436d3f36921e20ad41f113f4a27e8d3ce07b8a43",
+      "updated_at": "2026-10-19T13:04:32+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360038992973videocodecorvid-hs4z8j3vqdm1",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360038992973videocodecorvid-hs4z8j3vqdm1",
       "locale": "en-us"
     },
     "360037416494": {
@@ -2145,11 +2145,11 @@
     },
     "4403015887763": {
       "id": 4403015887763,
-      "slug": "4403015887763-Moderate-your-social-media-feeds",
-      "hash_val": "391fa3122d9f78520f67e69fb55dbd976fd7d6bf0d6842ad93103fe3c328144d",
-      "updated_at": "2026-09-10T09:46:22+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4403015887763moderateyourso-rn5hc2cy6rjj",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4403015887763moderateyourso-rn5hc2cy6rjj",
+      "slug": "4403015887763-How-to-Moderate-Your-Social-Media-Feeds",
+      "hash_val": "582d6915fad468e9a7ad8b62d3eb16bb067afd02114e6f46f184424128315345",
+      "updated_at": "2026-10-19T20:31:54+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4403015887763howtomoderatey-2qtymouwcbbh",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4403015887763howtomoderatey-2qtymouwcbbh",
       "locale": "en-us"
     },
     "1500004699122": {
@@ -3261,11 +3261,11 @@
     },
     "360049159814": {
       "id": 360049159814,
-      "slug": "360049159814-How-to-use-Walls-io-App",
-      "hash_val": "461a10bff713a1bab83e5238b9c23ea9e5462d2767f85b55bebe23aeaed9dbf5",
-      "updated_at": "2026-09-10T09:42:53+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360049159814howtousewallsio-8jauf8nnxfdn",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360049159814howtousewallsio-8jauf8nnxfdn",
+      "slug": "360049159814-How-to-Use-the-Walls-io-App",
+      "hash_val": "c2f079f06220c6345cdf9c7d139557e212cae7a12bcad4924d2458ba847f072a",
+      "updated_at": "2026-10-19T20:14:32+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360049159814howtousethewall-s4c3nq8i0bw7",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360049159814howtousethewall-s4c3nq8i0bw7",
       "locale": "en-us"
     },
     "360049156234": {

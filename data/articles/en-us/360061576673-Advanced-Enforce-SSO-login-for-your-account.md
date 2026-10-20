@@ -3,7 +3,7 @@
 **Article ID:** 360061576673
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360061576673-Advanced-Enforce-SSO-login-for-your-account
-**Last Updated:** 2026-09-28T21:53:26+00:00
+**Last Updated:** 2026-10-19T18:53:23+00:00
 ---
 
 By default, OptiSigns allows the use of Google, Facebook, or Microsoft accounts to access the OptiSigns portal:
