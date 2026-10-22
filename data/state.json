@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-10-21T07:55:59.253859+00:00",
+  "last_sync": "2026-10-22T07:52:43.659012+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -832,10 +832,10 @@
     "15268811715347": {
       "id": 15268811715347,
       "slug": "15268811715347-Cannot-find-the-OptiSigns-app-on-Your-Samsung-Smart-TV",
-      "hash_val": "af750618f76f915f8cce451c9f0b149de048509dd04257e71c331c2269d65f1f",
-      "updated_at": "2026-09-10T09:49:21+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/15268811715347cannotfindthe-078hjelkcb9c",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/15268811715347cannotfindthe-078hjelkcb9c",
+      "hash_val": "170a04c9a6dcacbb234e242ee63a6c764dcd60e9a8d139ba2324fb16dd97f5e5",
+      "updated_at": "2026-10-21T09:26:59+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/15268811715347cannotfindthe-2iw2vam3yqfw",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/15268811715347cannotfindthe-2iw2vam3yqfw",
       "locale": "en-us"
     },
     "13320135306515": {
