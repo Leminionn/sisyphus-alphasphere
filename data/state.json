@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-10-22T07:52:43.659012+00:00",
+  "last_sync": "2026-10-23T07:51:46.517010+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -121,10 +121,10 @@
     "48241081473043": {
       "id": 48241081473043,
       "slug": "48241081473043-Operational-Schedule-Troubleshooting",
-      "hash_val": "06e47b781a7e367ab8fe2047d6efeec11ae8a9c9be1ab75c92129e8d30ff2a52",
-      "updated_at": "2026-04-20T21:26:17+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/48241081473043operationalsc-2wuwmxz23ijh",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/48241081473043operationalsc-2wuwmxz23ijh",
+      "hash_val": "08e8acb9def32764d01200f9c8c73a67ce47a98029839d453dc57e369522eeb8",
+      "updated_at": "2026-10-22T23:47:31+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/48241081473043operationalsc-kuh2bxoxkx2t",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/48241081473043operationalsc-kuh2bxoxkx2t",
       "locale": "en-us"
     },
     "45619214182803": {
@@ -2587,10 +2587,10 @@
     "4414564078995": {
       "id": 4414564078995,
       "slug": "4414564078995-Error-Handling",
-      "hash_val": "916977e95a9820406ecdf12e50528b74fce992433e3c8e8ed3aabd899e368e28",
-      "updated_at": "2025-09-11T14:10:24+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4414564078995errorhandling-h7cb0zx5nmx9",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4414564078995errorhandling-h7cb0zx5nmx9",
+      "hash_val": "58e7e565f3e7cda475a52456aa13a244823f1a1aab6bc7900c75a008a6c37aa2",
+      "updated_at": "2026-10-22T10:22:18+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4414564078995errorhandling-ymbmfo612082",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4414564078995errorhandling-ymbmfo612082",
       "locale": "en-us"
     },
     "360016484393": {

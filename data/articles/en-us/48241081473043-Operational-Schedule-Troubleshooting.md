@@ -3,7 +3,7 @@
 **Article ID:** 48241081473043
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/48241081473043-Operational-Schedule-Troubleshooting
-**Last Updated:** 2026-04-20T21:26:17+00:00
+**Last Updated:** 2026-10-22T23:47:31+00:00
 ---
 
 Operational Scheduling is a feature which allows you to turn off and on your digital signs on a set schedule, further automating your setup. If you’re looking to set up an Operational Schedule of your own, see our guide on [Creating and Using Operational Schedules](https://support.optisigns.com/hc/en-us/articles/28598173096723-How-To-Create-and-Use-Operational-Schedules-HDMI-CEC-RS-232).
