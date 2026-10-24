@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-10-23T07:51:46.517010+00:00",
+  "last_sync": "2026-10-24T07:32:41.063878+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -544,10 +544,10 @@
     "25273043501587": {
       "id": 25273043501587,
       "slug": "25273043501587-How-to-Lockdown-iPad-Single-App-with-Guided-Accessibility",
-      "hash_val": "79df864fffa2703d9b615b5ec3f9162d1cb6a8f1917c1a2e5510b82f687d154a",
-      "updated_at": "2026-09-10T09:50:40+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/25273043501587howtolockdown-1p0022tp7kby",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/25273043501587howtolockdown-1p0022tp7kby",
+      "hash_val": "fa326ce17b515dc2fb22bf3eabf4a8f78c85b8995fe91a4f986573925100db11",
+      "updated_at": "2026-10-23T15:32:18+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/25273043501587howtolockdown-56kqzfem6u7y",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/25273043501587howtolockdown-56kqzfem6u7y",
       "locale": "en-us"
     },
     "25127398699667": {
