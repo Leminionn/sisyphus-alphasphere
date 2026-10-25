@@ -3,7 +3,7 @@
 **Article ID:** 34087061669523
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/34087061669523-Amazon-Signage-Stick
-**Last Updated:** 2026-09-09T07:45:55+00:00
+**Last Updated:** 2026-10-25T02:01:21+00:00
 ---
 
 The new [Amazon Signage Stick](https://www.amazon.com/dp/B0D4FCG9MX/ref=pmkt_cms105_web) is out, and it supports OptiSigns. We’ll help you get our app up and running on it in no time.

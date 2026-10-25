@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-10-24T07:32:41.063878+00:00",
+  "last_sync": "2026-10-25T07:46:00.327482+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -2344,10 +2344,10 @@
     "34087061669523": {
       "id": 34087061669523,
       "slug": "34087061669523-Amazon-Signage-Stick",
-      "hash_val": "678d026a71b7dcd4f83b26aee29b2858c170e49a19cf09e0ce8075e733ade3a7",
-      "updated_at": "2026-09-09T07:45:55+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/34087061669523amazonsignage-ar2wx8a6fyea",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/34087061669523amazonsignage-ar2wx8a6fyea",
+      "hash_val": "8e8cb2c06c1ee045b11abe739038718b4899025e7dcebe6953a156b9b4e725a8",
+      "updated_at": "2026-10-25T02:01:21+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/34087061669523amazonsignage-1ba7hrhdgtot",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/34087061669523amazonsignage-1ba7hrhdgtot",
       "locale": "en-us"
     },
     "14502723487379": {
