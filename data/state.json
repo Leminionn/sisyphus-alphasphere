@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-10-25T07:46:00.327482+00:00",
+  "last_sync": "2026-10-26T08:02:30.784082+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -2533,10 +2533,10 @@
     "1500003244381": {
       "id": 1500003244381,
       "slug": "1500003244381-About-the-OnHold-Devices-Folder",
-      "hash_val": "ee137a1c2a055311028981b85f42939062b75d8c4315b489d9dee6d2e67be05c",
-      "updated_at": "2026-09-07T11:26:40+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500003244381abouttheonhold-32u10aar3egd",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500003244381abouttheonhold-32u10aar3egd",
+      "hash_val": "de686f15d19bfa51611fb1c69d27dc2310af77bdc3d653908787ffbfedae2f30",
+      "updated_at": "2026-10-25T15:48:03+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500003244381abouttheonhold-f7ea7nq4hsip",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500003244381abouttheonhold-f7ea7nq4hsip",
       "locale": "en-us"
     },
     "360016981853": {
