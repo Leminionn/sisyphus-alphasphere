@@ -3,7 +3,7 @@
 **Article ID:** 28115946505107
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/28115946505107-How-to-Change-Engage-Kiosk-Style-Preferences
-**Last Updated:** 2026-09-10T21:01:31+00:00
+**Last Updated:** 2026-10-26T20:29:11+00:00
 ---
 
 When you change your Engage/Kiosk Styles Preferences, it will adjust the default options set for your Kiosk Lite and Kiosk Designer Pro.

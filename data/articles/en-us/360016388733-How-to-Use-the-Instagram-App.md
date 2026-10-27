@@ -3,7 +3,7 @@
 **Article ID:** 360016388733
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360016388733-How-to-Use-the-Instagram-App
-**Last Updated:** 2026-10-16T21:51:44+00:00
+**Last Updated:** 2026-10-26T09:15:39+00:00
 ---
 
 With the Instagram app, it's possible to display the posts from your own Instagram profile on your digital signs. Sign in with Instagram once, and your screens will keep up as you post.

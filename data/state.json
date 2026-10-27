@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-10-26T08:02:30.784082+00:00",
+  "last_sync": "2026-10-27T08:16:48.547440+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -472,10 +472,10 @@
     "28295104605843": {
       "id": 28295104605843,
       "slug": "28295104605843-How-to-Create-Use-Playlists",
-      "hash_val": "a614dfa1518f248db607f839f939e54e1c82d2ebd213b695ebdd94c5da12f94c",
-      "updated_at": "2026-10-12T21:22:16+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28295104605843howtocreateus-zx0dlor2bmv4",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28295104605843howtocreateus-zx0dlor2bmv4",
+      "hash_val": "c6ae0d2c8f598c616fc97f5c4ea3de37e84d419f73d7ffa9222f903b2d35df21",
+      "updated_at": "2026-10-26T08:57:11+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28295104605843howtocreateus-4ik8betafqep",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28295104605843howtocreateus-4ik8betafqep",
       "locale": "en-us"
     },
     "28140190892307": {
@@ -490,10 +490,10 @@
     "28115946505107": {
       "id": 28115946505107,
       "slug": "28115946505107-How-to-Change-Engage-Kiosk-Style-Preferences",
-      "hash_val": "a6b667c1d20091cda4d2bd13702a8d9663c905ff3a4a6e34525c35c9b8774799",
-      "updated_at": "2026-09-10T21:01:31+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28115946505107howtochangeen-ngj42ysyg6lb",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28115946505107howtochangeen-ngj42ysyg6lb",
+      "hash_val": "1265881b47b2cd1a13b3a035ac066466dfd9e940959e3e36f69f3de620ca2b1e",
+      "updated_at": "2026-10-26T20:29:11+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28115946505107howtochangeen-irfob70acxpx",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28115946505107howtochangeen-irfob70acxpx",
       "locale": "en-us"
     },
     "27690296225555": {
@@ -841,10 +841,10 @@
     "13320135306515": {
       "id": 13320135306515,
       "slug": "13320135306515-Build-Integrations-Using-the-OptiSigns-Enterprise-App",
-      "hash_val": "390eda8df920e88384d362bea5f7b8f832206bc4d3ad8a3d34387f67693dbac1",
-      "updated_at": "2026-09-14T15:53:06+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/13320135306515buildintegrat-h93qiwst5jd9",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/13320135306515buildintegrat-h93qiwst5jd9",
+      "hash_val": "c0684b5970a9ea6677fb9aec91e691e11a3451aa4474c6c2c0a7ab5df3a2280a",
+      "updated_at": "2026-10-26T08:22:44+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/13320135306515buildintegrat-515hez8qi6wm",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/13320135306515buildintegrat-515hez8qi6wm",
       "locale": "en-us"
     },
     "13097501958291": {
@@ -1714,10 +1714,10 @@
     "360026559573": {
       "id": 360026559573,
       "slug": "360026559573-How-to-Create-and-Use-the-Split-Screen-App",
-      "hash_val": "d3a8ee642706a74420490f02f7f5abdffbe5be0b9fd30b3a1711dac7b8063888",
-      "updated_at": "2026-08-19T14:57:06+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360026559573howtocreateandu-012lvq2uz6wu",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360026559573howtocreateandu-012lvq2uz6wu",
+      "hash_val": "99f5877d8d94aa42be8f325134f3292fb3233ddadcd4817a6fe2d5369a7b790b",
+      "updated_at": "2026-10-26T09:02:54+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360026559573howtocreateandu-hb4ygm7hnzzm",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360026559573howtocreateandu-hb4ygm7hnzzm",
       "locale": "en-us"
     },
     "360025661053": {
@@ -2065,10 +2065,10 @@
     "360016388733": {
       "id": 360016388733,
       "slug": "360016388733-How-to-Use-the-Instagram-App",
-      "hash_val": "02a7fd53e6ce1c91598d9bb191253b86dfa6222a703e812386dddd0b92f69bb3",
-      "updated_at": "2026-10-16T21:51:44+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016388733howtousetheinst-khf0utb9yfb0",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016388733howtousetheinst-khf0utb9yfb0",
+      "hash_val": "29207943304493631634e5ed983c1f88f5a299eb9b7f9420cc86d86825163fe6",
+      "updated_at": "2026-10-26T09:15:39+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016388733howtousetheinst-28vfxuwpynpw",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016388733howtousetheinst-28vfxuwpynpw",
       "locale": "en-us"
     },
     "360016219114": {
@@ -2191,10 +2191,10 @@
     "360017964153": {
       "id": 360017964153,
       "slug": "360017964153-How-to-Use-Weather-Apps-in-OptiSigns",
-      "hash_val": "bf23199a396fce20e39436297bb4482aa8a8748b6083987b563fec76c9ed50b0",
-      "updated_at": "2026-09-29T19:54:35+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360017964153howtouseweather-7znv52c2naeh",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360017964153howtouseweather-7znv52c2naeh",
+      "hash_val": "4230679a737ee03e65fb9fed8c7f1c1bbc2fee9902800c10e5b8164283bf97e3",
+      "updated_at": "2026-10-26T09:07:46+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360017964153howtouseweather-3r2awnazrdtf",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360017964153howtouseweather-3r2awnazrdtf",
       "locale": "en-us"
     },
     "360016375153": {
@@ -2605,10 +2605,10 @@
     "360016375793": {
       "id": 360016375793,
       "slug": "360016375793-Can-I-have-my-invoices-receipts-sent-to-a-different-email-address",
-      "hash_val": "7f1cf6b2860058872beeac3b06582369f8905526d5fd4eb64b97d0e5ba06c619",
-      "updated_at": "2026-09-10T09:39:51+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016375793canihavemyinvoi-bqspiybf2q0s",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016375793canihavemyinvoi-bqspiybf2q0s",
+      "hash_val": "1830064180ed578b6ec58a5df96c84d6d487f331ddce4d676939d0d5013d3d72",
+      "updated_at": "2026-10-26T15:43:28+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016375793canihavemyinvoi-a1n1h9aei1dq",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016375793canihavemyinvoi-a1n1h9aei1dq",
       "locale": "en-us"
     },
     "36558469962643": {
@@ -3208,10 +3208,10 @@
     "360051014713": {
       "id": 360051014713,
       "slug": "360051014713-How-to-Use-YouTube-with-OptiSigns",
-      "hash_val": "30d41e4623383f03b849cb44f51aca81ce6b04b0e9a2b2f9391439c73a8b9396",
-      "updated_at": "2026-09-24T14:52:18+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360051014713howtouseyoutube-wr6at3wwwz26",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360051014713howtouseyoutube-wr6at3wwwz26",
+      "hash_val": "fee9648637f503c65726355c57af7c4f8c0c0270e43a0ab287a2c5b2aba84896",
+      "updated_at": "2026-10-26T13:22:13+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360051014713howtouseyoutube-d5irdmiie7h0",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360051014713howtouseyoutube-d5irdmiie7h0",
       "locale": "en-us"
     },
     "360049875794": {
@@ -3298,10 +3298,10 @@
     "360049518313": {
       "id": 360049518313,
       "slug": "360049518313-How-to-Use-the-Google-Drive-App",
-      "hash_val": "98bf7bec829b1be899b457a1bf1731698ebc0f2122a6f1f831b36e17715ec5a9",
-      "updated_at": "2026-10-16T16:33:18+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360049518313howtousethegoog-y25wdtwge3st",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360049518313howtousethegoog-y25wdtwge3st",
+      "hash_val": "b37a5720545008d8c44a481d216c74ac76cfaaa1e28ca5ad736b2134b0988669",
+      "updated_at": "2026-10-26T09:22:47+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360049518313howtousethegoog-lw8cf3ex0sqo",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360049518313howtousethegoog-lw8cf3ex0sqo",
       "locale": "en-us"
     },
     "360049030453": {

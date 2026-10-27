@@ -3,7 +3,7 @@
 **Article ID:** 13320135306515
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/13320135306515-Build-Integrations-Using-the-OptiSigns-Enterprise-App
-**Last Updated:** 2026-09-14T15:53:06+00:00
+**Last Updated:** 2026-10-26T08:22:44+00:00
 ---
 
 The digital signage use case for enterprise users are often complex. There may be needs to integrate with various systems and have those systems to initiate a process to send data and control the screen. Or in some cases, there may be a need even to build a custom single purpose app used to operate the screens. OptiSigns Enterprise App is specifically designed for these types of real-time enterprise data integrations. With OptiSigns Enterprise app, you can easily achieve:
@@ -27,8 +27,6 @@ OptiSigns Enterprise App is more than a framework, it also contains templates to
 Go to [app.optisigns.com](https://app.optisigns.com/).
 
 Click Files/Assets, then click Apps, and select "Enterprise App".
-
-**EDITOR’S NOTE — Enterprise App now requires the Enterprise entitlement (company feature enterpriseAPP). Without it the card shows a padlock and clicking it opens an 'Enterprise Feature - contact support@optisigns.com' dialog. Consider stating this prerequisite here. The picker is also now titled 'Add App', not 'Select App'. (delete before publishing)**
 
 In the next page, click the template picture to create new project, this will be launching a WebIDE with sample code, where you can make adjustment to customize the page layout and how you want to interact with the data points from other systems. If you have an existing URL available, you can use it as well.
 
