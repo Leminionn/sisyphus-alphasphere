@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-10-27T08:16:48.547440+00:00",
+  "last_sync": "2026-10-28T08:53:57.207675+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -1147,10 +1147,10 @@
     "1500012522362": {
       "id": 1500012522362,
       "slug": "1500012522362-How-to-use-the-Web-Scripting-App",
-      "hash_val": "a34c19f10efa2ffa2317357e2f8833afb7d1686ddee8687f9dff197c8f5e7316",
-      "updated_at": "2026-07-31T13:02:35+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500012522362howtousetheweb-nr2qdilhl9po",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500012522362howtousetheweb-nr2qdilhl9po",
+      "hash_val": "f735b304aed1c2260f7aa925211acf9becd783818cbfa38f99f49cd28264ffc3",
+      "updated_at": "2026-10-27T17:25:27+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500012522362howtousetheweb-bqvkfgg9v2d4",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500012522362howtousetheweb-bqvkfgg9v2d4",
       "locale": "en-us"
     },
     "1500010436341": {
