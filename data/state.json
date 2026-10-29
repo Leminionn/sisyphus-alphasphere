@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-10-28T08:53:57.207675+00:00",
+  "last_sync": "2026-10-29T08:48:27.326149+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -301,10 +301,10 @@
     "33940834613139": {
       "id": 33940834613139,
       "slug": "33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan",
-      "hash_val": "40c5403f0f30194bd6c67821a5013d7e588644bf422b45c695d8785b5b694660",
-      "updated_at": "2026-10-08T16:57:16+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/33940834613139whatdoigetwit-rhp4w01d1rw4",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/33940834613139whatdoigetwit-rhp4w01d1rw4",
+      "hash_val": "4fef0ed0ae866c875d8115a2d0cb085427d6d62c117d789494a01d2f3bb8a388",
+      "updated_at": "2026-10-28T15:43:14+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/33940834613139whatdoigetwit-xt5tsieussdg",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/33940834613139whatdoigetwit-xt5tsieussdg",
       "locale": "en-us"
     },
     "33382537925267": {
@@ -535,10 +535,10 @@
     "27267311796243": {
       "id": 27267311796243,
       "slug": "27267311796243-OptiStick",
-      "hash_val": "3f96cd27721431842847d25e7ba4331d496feb10828acde81a44b356ad217503",
-      "updated_at": "2026-09-13T02:35:58+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/27267311796243optistick-glcx68atpbax",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/27267311796243optistick-glcx68atpbax",
+      "hash_val": "e58ad4bcc8f98b7b84928f31ed1279a73324bd58418233ee96cc43beaca54698",
+      "updated_at": "2026-10-28T19:34:03+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/27267311796243optistick-ktvym5lqu3i7",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/27267311796243optistick-ktvym5lqu3i7",
       "locale": "en-us"
     },
     "25273043501587": {
@@ -813,11 +813,11 @@
     },
     "15808407287315": {
       "id": 15808407287315,
-      "slug": "15808407287315-The-OptiSigns-app-keeps-turning-on-the-TV-screen",
-      "hash_val": "0151243a1d61f0457b88ec9cd37e3d08612b73acc0d7618d695771c298f5ec11",
-      "updated_at": "2026-09-10T09:49:23+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/15808407287315theoptisignsa-qxm4rt3jyu0m",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/15808407287315theoptisignsa-qxm4rt3jyu0m",
+      "slug": "15808407287315-Preventing-the-OptiSigns-App-from-Turning-On-your-Screen",
+      "hash_val": "7a7679ffa195be2411407c87904db1344f54636e514626993d017b456b9646d7",
+      "updated_at": "2026-10-28T18:52:26+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/15808407287315preventingthe-vutbfkd3pn70",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/15808407287315preventingthe-vutbfkd3pn70",
       "locale": "en-us"
     },
     "15313086319763": {
@@ -1290,20 +1290,20 @@
     },
     "1500000485202": {
       "id": 1500000485202,
-      "slug": "1500000485202-Custom-Branding-Settings",
-      "hash_val": "c46be4078acbb57979501681f9feb17a74ca20e82d9bf3ce55d868a8d582cc8c",
-      "updated_at": "2026-09-10T09:45:11+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500000485202custombranding-b81tb5w6vn7a",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500000485202custombranding-b81tb5w6vn7a",
+      "slug": "1500000485202-Custom-Branding-Settings-and-Branded-Portals",
+      "hash_val": "d29b08460536b310a20207251ca978e15bcb2ea9a3da56e7f5377c6850a4fa00",
+      "updated_at": "2026-10-28T16:37:29+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500000485202custombranding-ls956cl3qpw3",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500000485202custombranding-ls956cl3qpw3",
       "locale": "en-us"
     },
     "1500000480302": {
       "id": 1500000480302,
       "slug": "1500000480302-Advanced-Custom-Domain-Mapping",
-      "hash_val": "3ace9230a3c726f42ebd62117cf63d96e79451a317fb9fbc018b80361e2ae4fe",
-      "updated_at": "2026-09-10T09:45:10+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500000480302advancedcustom-6o7phec1pvib",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500000480302advancedcustom-6o7phec1pvib",
+      "hash_val": "14ad3b2be43d2e818b4db62c602436d5b085b982bec8847a017e368a897899fd",
+      "updated_at": "2026-10-28T20:58:49+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500000480302advancedcustom-iexkivp2a5n3",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500000480302advancedcustom-iexkivp2a5n3",
       "locale": "en-us"
     },
     "360060676993": {
@@ -1678,10 +1678,10 @@
     "360034379293": {
       "id": 360034379293,
       "slug": "360034379293-Windows",
-      "hash_val": "c132656af82d77645d81c6646f9d39850e44c7a999cdb7d0c6e854b290f76f49",
-      "updated_at": "2026-09-10T09:40:58+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360034379293windows-oz1a2h5cbpyn",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360034379293windows-oz1a2h5cbpyn",
+      "hash_val": "1feb6be619a316ea3ba8e34679c8eb46ddcbde0c489ab8c1ecda4a6a16b9b9de",
+      "updated_at": "2026-10-28T21:29:33+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360034379293windows-wnyx6ij0an2q",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360034379293windows-wnyx6ij0an2q",
       "locale": "en-us"
     },
     "360034219593": {
@@ -1903,10 +1903,10 @@
     "360041501494": {
       "id": 360041501494,
       "slug": "360041501494-MacOS",
-      "hash_val": "2dace7cb4cafbf70c0f1c90a76acdd0986a1075c1b5e48fee71d6ec1ff26128b",
-      "updated_at": "2026-09-10T09:41:51+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360041501494macos-5rc1jq94f9ek",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360041501494macos-5rc1jq94f9ek",
+      "hash_val": "66a16b528358d66971c63a9a03a1c24a6fec3a0b4309eb33a97fb9488e4467a0",
+      "updated_at": "2026-10-28T22:17:31+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360041501494macos-gjd3pfo4iuat",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360041501494macos-gjd3pfo4iuat",
       "locale": "en-us"
     },
     "360035739414": {
@@ -2038,10 +2038,10 @@
     "360034379573": {
       "id": 360034379573,
       "slug": "360034379573-Linux",
-      "hash_val": "d1ac56c4dff429ecb1d29181f76f9dab2fb04f88327208f947261640d3b75123",
-      "updated_at": "2026-09-10T09:41:00+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360034379573linux-e6xyg5boyinm",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360034379573linux-e6xyg5boyinm",
+      "hash_val": "32e3256a7927aaa2e628486c32e59342c1c1554ebc6534d3e9f1d79a99db3c6f",
+      "updated_at": "2026-10-28T20:03:55+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360034379573linux-f1stsq0on9lw",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360034379573linux-f1stsq0on9lw",
       "locale": "en-us"
     },
     "360016833514": {
@@ -2155,10 +2155,10 @@
     "1500004699122": {
       "id": 1500004699122,
       "slug": "1500004699122-Android-TV-ChromeCast",
-      "hash_val": "6a2d5a353a62c1d838131d3d11e896398a8c7a57cc77c02f25d5b9893ab73b1e",
-      "updated_at": "2025-09-02T19:55:41+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500004699122androidtvchrom-6k8lqnk45zd9",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500004699122androidtvchrom-6k8lqnk45zd9",
+      "hash_val": "d1894f2cc35d5c68928fbf9f527132636c99e35a260b3b2b2dc60863addb8440",
+      "updated_at": "2026-10-28T21:05:51+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500004699122androidtvchrom-ebdqlhi8fy6x",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500004699122androidtvchrom-ebdqlhi8fy6x",
       "locale": "en-us"
     },
     "360063693093": {
@@ -2524,10 +2524,10 @@
     "1500009042742": {
       "id": 1500009042742,
       "slug": "1500009042742-FireOS-TVs-Amazon-Insigna-Toshiba-TCL",
-      "hash_val": "d32266fd7e72c2c91f53595ce00920a23e962298f13550db68e1b641af893454",
-      "updated_at": "2026-09-10T09:45:55+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500009042742fireostvsamazo-s33kuyekh9x7",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500009042742fireostvsamazo-s33kuyekh9x7",
+      "hash_val": "35fa46286461f5a67d8f4f5b885a36a5108c91b3a6f8f3281778eeba575948e1",
+      "updated_at": "2026-10-28T21:12:21+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500009042742fireostvsamazo-zqdby14ozd0c",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500009042742fireostvsamazo-zqdby14ozd0c",
       "locale": "en-us"
     },
     "1500003244381": {
@@ -3082,10 +3082,10 @@
     "360060284174": {
       "id": 360060284174,
       "slug": "360060284174-How-to-use-YouTube-Live-Schedule-with-OptiSigns",
-      "hash_val": "7b6f149a68adb7d41a1fefc0199d7c89fb8212d0007df6e416ddb51c7526bf72",
-      "updated_at": "2026-01-22T15:44:40+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360060284174howtouseyoutube-ae2tb4w7ipr8",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360060284174howtouseyoutube-ae2tb4w7ipr8",
+      "hash_val": "829b0f8a5d8618e9357048a4b92909c211ce45190f52a0def6ec28b638824bcc",
+      "updated_at": "2026-10-29T06:24:09+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360060284174howtouseyoutube-pkmwdlq3t7q2",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360060284174howtouseyoutube-pkmwdlq3t7q2",
       "locale": "en-us"
     },
     "360060202914": {

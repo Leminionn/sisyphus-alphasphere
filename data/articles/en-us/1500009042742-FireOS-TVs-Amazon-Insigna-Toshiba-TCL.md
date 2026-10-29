@@ -3,62 +3,65 @@
 **Article ID:** 1500009042742
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/1500009042742-FireOS-TVs-Amazon-Insigna-Toshiba-TCL
-**Last Updated:** 2026-09-10T09:45:55+00:00
+**Last Updated:** 2026-10-28T21:12:21+00:00
 ---
+
+TVs with Amazon's FireOS built in, such as Amazon Fire TV, Insignia, Toshiba and TCL models, can run the OptiSigns Digital Signage app from the Amazon Appstore.
 
 |  |
 | --- |
-| As of Feb 2024, FireStick and Fire TV are **no longer recommended** as digital signage player. This is due to **[Amazon eliminating the ability to auto start app](https://www.aftvnews.com/amazon-blocks-long-running-fire-tv-capability-breaking-popular-apps-with-no-warning-and-giving-developers-the-runaround/)** with FireStick & Fire TVs starting FireOS 8. |
+| **IMPORTANT** |
+| We no longer recommend FireOS TVs or Fire TV Sticks as digital signage players. Starting with FireOS 8 (February 2024), [Amazon removed the ability for apps to start automatically](https://www.aftvnews.com/amazon-blocks-long-running-fire-tv-capability-breaking-popular-apps-with-no-warning-and-giving-developers-the-runaround/), so OptiSigns can't open by itself when the TV turns on. There are [workarounds using ADB commands](https://support.optisigns.com/hc/en-us/articles/23274673797139), but they're inconvenient. If your TV runs FireOS 7 or earlier, you can continue with this guide. |
 
-There are workarounds with [ADB commands](https://support.optisigns.com/hc/en-us/articles/23274673797139) or manually to start the app.
+---
 
-However, those workarounds are inconvenient, and we believe without an easy way to AutoStart apps, it is not a good solution for a Digital Signage player.
+## Install the OptiSigns App
 
-If you have older model of TVs with Amazon FireOS 7 or lower, you can continue with this article to get it set up.
+On the TV's home screen, go to **Find** and select **Search**.
 
-## **Here are the high level steps:**
+Type **OptiSigns**. Search results don't always update as you type, so press down on the remote until **OptiSigns** is highlighted, then select it.
 
-1) Download OptiSigns Digital Signage from Amazon App Store
+Select **Download** on the OptiSigns Digital Signage app page.
 
-2) Using OptiSigns' web portal to assign content and remotely manage your screens
+When the download finishes, open the app.
 
-So let's dive in!
+The app shows a pairing code. Keep it on screen; you'll need it in the next section.
 
-### **1) Download & Set up OptiSigns Digital Signage from Amazon App Store**
+---
 
-Press the **Search** icon on the **Find** section of the Fire TV,
+## Pair the TV with Your Account
 
-Type in "OptiSigns".  
-Fire TV Search can be tricky to use, and search as you type sometimes does not work properly.  
-After you typed "optisigns", be sure to press the menu down button until the "Optisigns" text is highlighted and then click on it.
+1. On a computer or phone, go to [app.optisigns.com](https://app.optisigns.com/) and log in. If you don't have an account yet, select **Create Account**. You can also log in with Google, Microsoft or Facebook.
 
-Click **Download** on the OptiSigns app icon
+2. On the **Screens** page, select **Add Screen**.
 
-Once the app is installed, **launch** it.
+3. Enter the pairing code shown on your TV in **Pair code**, then select **Pair**.
 
-The app will ask if you want to automatically start when device start up. It recommended to select **yes**, unless you want to launch the app yourself every time manually.
+**Note:** Codes are case-sensitive. The portal enters them in capitals. If the code on your TV has lowercase letters, select **Use lowercase pairing code** first.
 
-You then will see this pairing screen:
+The TV changes to show that it's paired.
 
-Go to our website: [https://app.optisigns.com](https://app.optisigns.com/app/screenManagement)
+---
 
-If you don't have an account already, create one, or you can also log in with Google or Facebook account.
+## Start OptiSigns Automatically
 
-Once you logged in, click "**Add screen"** button
+The app's **Autostart** setting is on by default, so on FireOS 7 and earlier, OptiSigns opens by itself when the TV turns on.
 
-In this pop up, type in the Pair Code showing up on your Fire TV screen. Then, click **Pair**:
+On FireOS 8 and later, the app shows a message that your device doesn't support autostart. You can still use OptiSigns, but you'll need to open it with the remote each time the TV restarts, or set up the [ADB workaround](https://support.optisigns.com/hc/en-us/articles/23274673797139).
 
-The Fire TV screen will change to:
+---
 
-Now you are ready to upload and assign content.
+## Next Steps
 
-### **2) Using OptiSigns's web portal to assign content and remotely manage your screens**
+Your TV is ready to show content. To get started:
 
-Once you go to our portal at: <https://app.optisigns.com/>to pair the screen and start assigning content to it, you can follow these guides for more detailed steps:
-
-* [Set up & add a screen](https://support.optisigns.com/hc/en-us/articles/360016374813)
 * [How to Upload & Manage Your Files/ Assets](https://support.optisigns.com/hc/en-us/articles/360016247974)
 * [How to Create & Use Playlists](https://support.optisigns.com/hc/en-us/articles/28295104605843)
-* [Create and Using Schedules with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360016981853)
+* [Creating and Using Schedules with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360016981853)
+* [Set up & add a screen](https://support.optisigns.com/hc/en-us/articles/360016374813)
 
-If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
+If you have questions or feedback, contact our support team at support@optisigns.com.
+
+### That’s all!
+
+OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).

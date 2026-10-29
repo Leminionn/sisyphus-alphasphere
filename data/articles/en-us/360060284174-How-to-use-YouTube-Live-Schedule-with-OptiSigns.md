@@ -3,7 +3,7 @@
 **Article ID:** 360060284174
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360060284174-How-to-use-YouTube-Live-Schedule-with-OptiSigns
-**Last Updated:** 2026-01-22T15:44:40+00:00
+**Last Updated:** 2026-10-29T06:24:09+00:00
 ---
 
 A real world scenario would be:
