@@ -3,110 +3,180 @@
 **Article ID:** 11116333259283
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/11116333259283-Setting-Up-Your-Samsung-Smart-Signage-Platform-SSSP-Commercial-Grade
-**Last Updated:** 2026-09-10T09:48:53+00:00
+**Last Updated:** 2026-10-29T20:48:30+00:00
 ---
 
-### Samsung Smart Signage Platform —SSSP— powered displays are one of the most popular commercial grade TVs. OptiSigns supports Samsung SSP devices natively. Nearly all features are supported, including offline playback and auto update of the OptiSigns app. Getting your SSSP with OptiSigns is an easy process!
+Samsung Smart Signage Platform (SSSP) displays are some of the most popular commercial-grade screens. OptiSigns runs natively on them: the app saves your content on the display so it keeps playing offline, and it updates itself when a new version is released.
+
+This article is for Samsung SSSP displays only. Your display should be marked as "SSSP" or "Samsung Smart Signage Platform". Samsung also sells consumer Smart TVs that run Tizen OS but aren't SSSP displays. To check your model, see the [Samsung Smart Signage Platform (SSSP) Supported Model List](https://support.optisigns.com/hc/en-us/articles/17882306279315).
+
+**Note:** If you have a consumer Samsung Smart TV running Tizen OS, follow [How to Install OptiSigns on Samsung Tizen Smart TVs](https://support.optisigns.com/hc/en-us/articles/14726570281875) instead.
+
+---
+
+## Choose Your Installation Option
+
+You install OptiSigns through the display's **URL Launcher**, using the app address **https://t.optisigns.com**. There are two ways to get there:
+
+* **Option 1: Install on an SSSP display that's already in use.** Use this if your display is already set up.
+* **Option 2: Install on a brand new SSSP display.** Use this if your display is new or was just factory reset. You set up OptiSigns during Samsung's first-time setup.
+
+For a visual walkthrough of both options, watch our [SSSP installation video](https://www.youtube.com/watch?v=uraaVW53dAQ).
+
+The menus look different on current and older SSSP models. Each option below shows both.
+
+---
+
+## Option 1: Install on an SSSP Display That's Already in Use
+
+Make sure the display is connected to the internet before you start.
+
+### Current and New Models
+
+Press the **Home** button on the remote.
+
+Select **App Management**.
+
+If an app is already installed, select **Uninstall** first. Continue once no app is installed.
+
+Select **Install Custom App**.
+
+Enter **https://t.optisigns.com**, then select **Go**.
+
+### Older Models
+
+Press the **Home** button on the remote.
+
+Select **URL Launcher Settings**.
+
+If an app is already installed, select **Uninstall** first. Continue once no app is installed.
+
+Select **Install Web App**.
+
+Enter **https://t.optisigns.com**, then select **Done**.
+
+### Open OptiSigns
+
+The OptiSigns app downloads automatically. When it's installed, it opens and shows a pairing code. Keep it on screen; you'll need it to pair.
+
+Next, follow the steps in **Pair the Display with Your Account** below.
+
+---
+
+## Option 2: Install on a Brand New SSSP Display
+
+Use this option if your display is new or was just factory reset. Samsung's first-time setup walks you through each screen.
+
+**Note:** If a screen doesn't move on by itself, press the right arrow on the remote and select **Next** at the top right of the screen.
 
 |  |
 | --- |
-| **This article is for installing OptiSigns on Samsung SSP devices only!** |
-| Your screen should be marked as "SSSP/Samsung Smart Signage Platform". Samsung has other product lines that run on Tizen OS, and aren't SSSPs. Not sure if your Samsung Smart TV is an SSP or uses Tizen OS? Check out our [**Full List of Samsung SSP Models.**](https://support.optisigns.com/hc/en-us/articles/17882306279315-Samsung-Smart-Signage-Platform-SSSP-Supported-Model-List) |
+| **IMPORTANT** |
+| Set the **Display Orientation** correctly during setup and ***don't skip it***. You can't change it remotely from OptiSigns, only on-site with the remote.  Set the correct date and time during setup and ***don't skip it***. If the date or time is wrong, the display can't connect to OptiSigns. |
 
-*\*For TVs utilizing Samsung Tizen OS, please use this guide:* [*How to use OptiSigns with Browser*](https://www.optisigns.com/post/how-to-use-optisigns-with-browser)*.*
+### Current and New Models
+
+Select your language.
+
+Connect to your network.
+
+On **Smart Signage Privacy Notice**, select **OK**.
+
+On **Installation Type**, select **Basic Setup**.
+
+On **Display Orientation**, select the orientation the display is mounted in.
+
+On **Player Selection**, select **Custom App**.
+
+Enter **https://t.optisigns.com**, then select **Go**.
+
+On **Connect to RM Server**, select **Skip**.
+
+On **Set Current Time**, enter the correct date and time, then select **Next**.
+
+On **Set PIN**, enter a new PIN or leave it blank, then select **Next**. A PIN is optional.
+
+Setup is complete.
+
+A menu appears at the bottom of the screen. If it doesn't, press **Home** on the remote. Select **Custom App** to open OptiSigns.
+
+### Older Models
+
+Older models go through the same steps in a different order.
+
+Select your language.
+
+On **Installation Type**, select **Basic Setup**.
+
+On **Display Orientation**, select the orientation the display is mounted in.
+
+Connect to your network.
+
+On **Smart Signage Privacy Notice**, select **Agree**.
+
+On **Play via**, select **URL Launcher**.
+
+Enter **https://t.optisigns.com**, then select **Done**.
+
+On **Connect to RM Server**, select **Skip**.
+
+On **Clock Set**, enter the correct date and time. This is critical, as OptiSigns will set to your timezone, and relies on this information for scheduling.
+
+Depending on the software version, you may be asked to set a PIN. Create one or skip that step.
+
+On **Complete**, select **Done**.
+
+A menu appears at the bottom of the screen. If it doesn't, press **Home** on the remote. Select **URL Launcher** to open OptiSigns.
+
+### Open OptiSigns
+
+OptiSigns opens and shows a pairing code. Keep it on screen; you'll need it to pair.
 
 ---
 
----
+## Pair the Display with Your Account
 
-## OptiSigns Installation Process
+1. Go to [app.optisigns.com](https://app.optisigns.com/) and log in. If you don't have an account yet, select **Create Account**. You can also log in with Google, Microsoft or Facebook.
 
-The installation process to get OptiSigns on your SSSP is easy! There are two different scenarios for you:
+2. On the **Screens** page, select **Add Screen**.
 
-* **Install on a SSSP display that is already in use:** You already have SSSP display in use and would like to have OptiSigns player for SSSP deployed.
-* **Install on a brand new SSSP display through out of box experience setup:** You have a brand new SSSP display or you just performed a factory reset. You can connect to OptiSigns through the out of box experience/initial set-up process.
+3. Enter the pairing code shown on the display in **Pair code**, then select **Pair**.
 
-*For a detailed visual guide for these options, please watch and follow along with our SSSP installation instructional video:*
+**Note:** Codes are case-sensitive, and the portal enters them in capitals. If the code on your display has lowercase letters, select **Use lowercase pairing code** and type it exactly as shown. If pairing fails with a case error, the portal switches this on for you, so check the code and select **Pair** again.
 
----
-
-## Option 1: Install on an SSSP Display That is Already in Use:
-
-*First, ensure your screen is connected to the internet before proceeding.*
-
-Press the **"Home"** button on the remote to begin.
-
-|  |  |
-| --- | --- |
-| **Current/New Models** | **Older Models** |
-| Select: **App Management** | Select: **URL Launcher Settings** |
-|  |  |
-| Your App Management/URL Launcher Settings will open. If you already have an app installed, select: **Uninstall**. Proceed once there are no apps installed. | |
-| Select: **Install Custom App** | Select: **Install Web App** |
-| Enter in the URL of the OptiSigns app for SSSP: **https://t.optisigns.com** | |
-| Select: **Go** | Select: **Done** |
-
-The OptiSigns app will automatically begin to download.
-
-The OptiSigns app for SSSP is now installed and will automatically launch, showing a pairing code on your device:
-
-Now, you are ready to pair the screen and begin assigning content to it. After you pair your screen, the OptiSigns app will automatically launch each time the SSSP screen is turned on.
-
-*For detailed steps on pairing your screen and publishing content, see our simple* [*set up & add screen guide*](https://support.optisigns.com/hc/en-us/articles/360016374813-Set-up-add-a-screen)*.*
-
----
-
-## Option 2: Install on a Brand New SSSP Display Through Out-of-Box Experience Setup:
-
-This option is if your SSSP display is new, or just went through a factory reset. It will start with the out-of-box experience to guide you through the initial setup.
-
-Please note:
-
-* Older models go through the same steps, but in a different order.
-* If you are not automatically moved to the next prompt, simply click the right arrow button on your remote, and select "Next", found in the top right of the screen.
-
-|  |  |
-| --- | --- |
-| **Current/New Models** | **Older Models** |
-| Select your **Language**. | Select your **Language**. |
-| Connect to your desired internet network. | Installation Type, select: **Basic Setup** |
-| Smart Signage Privacy Notice, select: **OK** | Select the proper Display Orientation. **Do not skip this step.** You will not be able to change this setting remotely through OptiSigns. You can only change it through your screen settings on-site with the TV remote. |
-| Installation Type, select: **Basic Setup** | Connect to your desired internet network. |
-| Select the proper Display Orientation. **Do not skip this step.** You will not be able to change this setting remotely through OptiSigns. You can only change it through your screen settings on-site with the TV remote. | Smart Signage Privacy Notice, select: **OK** |
-| Player Selection, select: **Custom App** | Play via select: **URL Launcher** |
-| Enter the OptiSigns app URL: **https://t.optisigns.com** and select: **Go** | Enter the OptiSigns app URL: **https://t.optisigns.com** and select: **Done** |
-| Connect to RM Server, select: **Skip** | Connect to RM Server, select: **Skip** |
-| **Do not skip this**, and be sure to enter the correct Date & Time. If you skip, or enter incorrectly, your SSSP screen will not connect to the OptiSigns app. | |
-| Set Current Time | Clock Set |
-| **Set PIN**. *Creating a PIN is optional.* Enter a new PIN, or leave blank, and select: **Next** | Depending on the software version of your older model, you may be prompted to set a PIN. Our testing screen does not prompt us to set a PIN. If you are prompted too, then simply create a PIN or skip that step. |
-| Set-up Process is complete. | Select "**Done**" to complete the set-up process. |
-| A menu will automatically appear at the bottom of your screen. If it does not, simply press the "**Home**" button your remote. | |
-| Select "**Custom** App" to launch OptiSigns. | Select **"URL Launcher**" to launch OptiSigns. |
-
-The OptiSigns app will open and a pairing code will appear:
-
-Now you are ready to pair the screen and begin assigning content to it. After you pair your screen, the OptiSigns app will automatically launch each time the SSSP screen is turned on.
-
-For detailed steps on pairing your screen and publishing content, see our simple [set up & add screen guide](https://support.optisigns.com/hc/en-us/articles/360016374813-Set-up-add-a-screen).
+Once the display is paired, URL Launcher opens OptiSigns each time the display turns on.
 
 ---
 
 ## Limitations
 
-Samsung SSP graphics resolution output is 1080P only. Take precaution when using 4k videos. Samsung SSP can only process a single video at any point of time. Preloading of the next video is not allowed. The transition from video to video is not as smooth as other players that allow video preloading.
-
-#### SSSP 10 (Tizen 6.5)
-
-The "Seamless Video Playback" feature released for these models can cause screen glitches. Seamless playback is meant to play videos back-to-back without the screen ever going black in between.
-
-Here are a few known workarounds:
-
-* Keep all videos encoded in h264, but ensure the resolution for all videos are the same.
-  + In other words, don't switch between HD (1980x1080) and 4K (3840x2160) videos.
-* Re-encode all videos to h265 (we recommend [**Handbrake**](https://handbrake.fr/)for this). This way, all the videos can keep their resolution.
+* Samsung SSSP displays output graphics at 1080p only. Take care when you use 4K videos.
+* SSSP displays can process only one video at a time, so the next video can't be preloaded. Video-to-video transitions aren't as smooth as on players that preload videos.
 
 ---
 
-### That's it! Now you are ready to use OptiSigns on your Samsung SSSP displays.
+## SSSP 10 (Tizen 6.5)
 
-OptiSigns is a leader in [digital signage software](https://www.optisigns.com/). If you have questions or need additional help, please contact us at [support@optisigns.com.](mailto:support@optisigns.com)
+On SSSP 10 models, Samsung's **Seamless Video Playback** feature can cause screen glitches. Seamless playback is meant to play videos back to back without the screen going black in between.
+
+Known workarounds:
+
+* Keep all videos encoded in H.264, but use the same resolution for all of them. Don't mix HD (1920x1080) and 4K (3840x2160) videos.
+* Re-encode all videos to H.265, for example with [HandBrake](https://handbrake.fr/). This lets your videos keep their own resolutions.
+
+---
+
+## Next Steps
+
+Your display is ready to show content. To get started:
+
+* [How to Upload & Manage Your Files/ Assets](https://support.optisigns.com/hc/en-us/articles/360016247974)
+* [How to Create & Use Playlists](https://support.optisigns.com/hc/en-us/articles/28295104605843)
+* [Creating and Using Schedules with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360016981853)
+* [Set up & add a screen](https://support.optisigns.com/hc/en-us/articles/360016374813)
+
+If you have questions or feedback, contact our support team at support@optisigns.com.
+
+### That’s all!
+
+OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).

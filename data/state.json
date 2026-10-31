@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-10-29T08:48:27.326149+00:00",
+  "last_sync": "2026-10-31T08:44:28.220044+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -841,10 +841,10 @@
     "13320135306515": {
       "id": 13320135306515,
       "slug": "13320135306515-Build-Integrations-Using-the-OptiSigns-Enterprise-App",
-      "hash_val": "c0684b5970a9ea6677fb9aec91e691e11a3451aa4474c6c2c0a7ab5df3a2280a",
-      "updated_at": "2026-10-26T08:22:44+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/13320135306515buildintegrat-515hez8qi6wm",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/13320135306515buildintegrat-515hez8qi6wm",
+      "hash_val": "47178e1973cad90ec5affaa56b1abf9df37c3f8ba336393b9add1e520d5d081a",
+      "updated_at": "2026-10-30T17:06:59+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/13320135306515buildintegrat-x4guzeqx0l5j",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/13320135306515buildintegrat-x4guzeqx0l5j",
       "locale": "en-us"
     },
     "13097501958291": {
@@ -1480,10 +1480,10 @@
     "360051745633": {
       "id": 360051745633,
       "slug": "360051745633-How-to-Set-up-an-Instagram-Business-Creator-account",
-      "hash_val": "c2a9f475a1ee837d75933ccb9f8250c6b460811aa0b0d4c885ced59d474cb10c",
-      "updated_at": "2026-09-10T09:43:35+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360051745633howtosetupanins-hmr8rrrvducb",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360051745633howtosetupanins-hmr8rrrvducb",
+      "hash_val": "422b9471d5eb24994fecfc768cbe7b5263fefc11dfd8f7a8c6f1a3a4def9d17a",
+      "updated_at": "2026-10-30T17:23:15+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360051745633howtosetupanins-nw5f7g9o3lr7",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360051745633howtosetupanins-nw5f7g9o3lr7",
       "locale": "en-us"
     },
     "360050602413": {
@@ -1506,11 +1506,11 @@
     },
     "360047275934": {
       "id": 360047275934,
-      "slug": "360047275934-Whitelist-OptiSigns-IP-addresses-ports",
-      "hash_val": "c9308d2896fb690d6633520bc9f5881465542ba90a5ec1df565ed975c2b7fbf4",
-      "updated_at": "2026-09-17T15:37:11+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360047275934whitelistoptisi-kwden8kskx9p",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360047275934whitelistoptisi-kwden8kskx9p",
+      "slug": "360047275934-Whitelist-OptiSigns-IP-Addresses-Ports",
+      "hash_val": "a5b5e93ffb97a5f7ed0e61b7e847585f7b1fa4e0bdb40c488d019703e066cc9b",
+      "updated_at": "2026-10-30T16:09:57+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360047275934whitelistoptisi-2clvn2wfqzje",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360047275934whitelistoptisi-2clvn2wfqzje",
       "locale": "en-us"
     },
     "360047232054": {
@@ -1623,11 +1623,11 @@
     },
     "360039566974": {
       "id": 360039566974,
-      "slug": "360039566974-How-to-install-OptiSigns-as-channel-app-on-Roku",
-      "hash_val": "ba7cfb9fbf30233f5f27a1053fa6b96671b90a941af8c072d3b70039479eaf0a",
-      "updated_at": "2026-09-10T09:41:32+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360039566974howtoinstallopt-h8qr9ftx5ywc",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360039566974howtoinstallopt-h8qr9ftx5ywc",
+      "slug": "360039566974-Install-OptiSigns-as-Channel-or-App-on-Roku",
+      "hash_val": "23af16a08c1c6b0c32f8d5dc0c1bc0b0f2ad1380f3fec861cb6c5b1224945cd6",
+      "updated_at": "2026-10-29T16:45:01+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360039566974installoptisign-ov6r8o80o7wx",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360039566974installoptisign-ov6r8o80o7wx",
       "locale": "en-us"
     },
     "360038992973": {
@@ -2065,10 +2065,10 @@
     "360016388733": {
       "id": 360016388733,
       "slug": "360016388733-How-to-Use-the-Instagram-App",
-      "hash_val": "29207943304493631634e5ed983c1f88f5a299eb9b7f9420cc86d86825163fe6",
-      "updated_at": "2026-10-26T09:15:39+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016388733howtousetheinst-28vfxuwpynpw",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016388733howtousetheinst-28vfxuwpynpw",
+      "hash_val": "98a6b63478a2ed509c5cd13a5047a15f470f4affa4da52554e4c479bb262b5c6",
+      "updated_at": "2026-10-30T20:24:26+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016388733howtousetheinst-nvptleyqdvsd",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016388733howtousetheinst-nvptleyqdvsd",
       "locale": "en-us"
     },
     "360016219114": {
@@ -2127,11 +2127,11 @@
     },
     "14726570281875": {
       "id": 14726570281875,
-      "slug": "14726570281875-How-to-install-OptiSigns-on-Samsung-Tizen-Smart-TVs",
-      "hash_val": "04f99929b20bfa62a16c3da034f6434f8f0a747f8c9ee75e179f2d01b7d49c95",
-      "updated_at": "2026-09-10T09:49:19+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/14726570281875howtoinstallo-6fppk4t2z6sc",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/14726570281875howtoinstallo-6fppk4t2z6sc",
+      "slug": "14726570281875-Installing-OptiSigns-on-Samsung-Tizen-Smart-TVs",
+      "hash_val": "2fa082a3f92c7f56b94f8f8625c96eedba03ef560a1065921418f28d123dc49b",
+      "updated_at": "2026-10-29T20:45:27+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/14726570281875installingopt-e7vosz4rb8ae",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/14726570281875installingopt-e7vosz4rb8ae",
       "locale": "en-us"
     },
     "4414553099667": {
@@ -2281,10 +2281,10 @@
     "360034379693": {
       "id": 360034379693,
       "slug": "360034379693-Raspberry-Pi",
-      "hash_val": "362794242509a26be9b22d88351f4fc102db1c99055d123d3eacb5f418a5bd51",
-      "updated_at": "2025-10-07T15:03:02+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360034379693raspberrypi-nmaox2x3ev61",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360034379693raspberrypi-nmaox2x3ev61",
+      "hash_val": "bcb860e0a3322a659d942b7ae76896332d5f2cab8e363942363b51e09367f05f",
+      "updated_at": "2026-10-29T17:18:19+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360034379693raspberrypi-xp32omgt8i3b",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360034379693raspberrypi-xp32omgt8i3b",
       "locale": "en-us"
     },
     "360016990233": {
@@ -2344,10 +2344,10 @@
     "34087061669523": {
       "id": 34087061669523,
       "slug": "34087061669523-Amazon-Signage-Stick",
-      "hash_val": "8e8cb2c06c1ee045b11abe739038718b4899025e7dcebe6953a156b9b4e725a8",
-      "updated_at": "2026-10-25T02:01:21+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/34087061669523amazonsignage-1ba7hrhdgtot",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/34087061669523amazonsignage-1ba7hrhdgtot",
+      "hash_val": "43b0af1f69c7286eec39d931d726af7e5ee8f17b5c0a85ebbad94ea7fd809694",
+      "updated_at": "2026-10-29T20:18:17+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/34087061669523amazonsignage-2xnppa9f1kac",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/34087061669523amazonsignage-2xnppa9f1kac",
       "locale": "en-us"
     },
     "14502723487379": {
@@ -2560,10 +2560,10 @@
     "32129032857875": {
       "id": 32129032857875,
       "slug": "32129032857875-Where-to-Buy-OptiSigns-Devices",
-      "hash_val": "64df41ce2d6ee1cdb8fd06514cf6b4a384b1c7e709eb4fb25be6cf150125bfae",
-      "updated_at": "2026-09-23T19:17:01+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/32129032857875wheretobuyopt-tpfu6u10mvb4",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/32129032857875wheretobuyopt-tpfu6u10mvb4",
+      "hash_val": "8ef1d86f1fa1de32a8534ebc3516072adb9e52ecf69e02826012f32a353dbe87",
+      "updated_at": "2026-10-29T15:32:35+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/32129032857875wheretobuyopt-z7zwj4h2ta00",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/32129032857875wheretobuyopt-z7zwj4h2ta00",
       "locale": "en-us"
     },
     "11784310183571": {
@@ -2578,10 +2578,10 @@
     "5090125683219": {
       "id": 5090125683219,
       "slug": "5090125683219-BrightSign-Players",
-      "hash_val": "0baf86e31a216ef9b686e32f7f28aa7236ffdfd70fe6d01c8c2c2abf4daa8c73",
-      "updated_at": "2026-05-05T15:50:07+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/5090125683219brightsignplay-i899q0rktd7a",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/5090125683219brightsignplay-i899q0rktd7a",
+      "hash_val": "fc43b46610362819f5417cb1211c6f7137e554307662471efb2f7d91a01ebd93",
+      "updated_at": "2026-10-29T17:44:28+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/5090125683219brightsignplay-zphpl8kq3jwe",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/5090125683219brightsignplay-zphpl8kq3jwe",
       "locale": "en-us"
     },
     "4414564078995": {
@@ -2650,10 +2650,10 @@
     "11116333259283": {
       "id": 11116333259283,
       "slug": "11116333259283-Setting-Up-Your-Samsung-Smart-Signage-Platform-SSSP-Commercial-Grade",
-      "hash_val": "a2529f530ab08ac7089fc683a71500302f5bae5ef077b57196acc68aafd4542d",
-      "updated_at": "2026-09-10T09:48:53+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/11116333259283settingupyour-5m2k3ifxu60w",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/11116333259283settingupyour-5m2k3ifxu60w",
+      "hash_val": "ae7c9914f1238faacc6b5f39dd364e61cff77a58db7999eccb14b8f8487bf8c2",
+      "updated_at": "2026-10-29T20:48:30+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/11116333259283settingupyour-lzacjwm7niv3",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/11116333259283settingupyour-lzacjwm7niv3",
       "locale": "en-us"
     },
     "11032964830227": {
@@ -2704,10 +2704,10 @@
     "4414496579475": {
       "id": 4414496579475,
       "slug": "4414496579475-LG-WebOS-Signage-Commercial-Grade",
-      "hash_val": "f9c75018c2a3dc2da7e79a22b5c6fd3db957bb579b5adb0c3e214ff5257115ed",
-      "updated_at": "2026-09-10T09:47:39+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4414496579475lgwebossignage-hkw5hmssh4fg",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4414496579475lgwebossignage-hkw5hmssh4fg",
+      "hash_val": "440eb0ce62c8606fbabf683e6f7898d36d4af6c41fdf15e764addf8ddf9456f7",
+      "updated_at": "2026-10-29T16:49:32+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4414496579475lgwebossignage-q5vt1ucajdk3",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4414496579475lgwebossignage-q5vt1ucajdk3",
       "locale": "en-us"
     },
     "360016253694": {
@@ -3208,10 +3208,10 @@
     "360051014713": {
       "id": 360051014713,
       "slug": "360051014713-How-to-Use-YouTube-with-OptiSigns",
-      "hash_val": "fee9648637f503c65726355c57af7c4f8c0c0270e43a0ab287a2c5b2aba84896",
-      "updated_at": "2026-10-26T13:22:13+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360051014713howtouseyoutube-d5irdmiie7h0",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360051014713howtouseyoutube-d5irdmiie7h0",
+      "hash_val": "17af26ec32bd63a69097a138f4894d211fa28b76a9a8c31e73736303e0a169ec",
+      "updated_at": "2026-10-30T20:44:00+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360051014713howtouseyoutube-7gt2dcwa7v85",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360051014713howtouseyoutube-7gt2dcwa7v85",
       "locale": "en-us"
     },
     "360049875794": {
@@ -3734,6 +3734,24 @@
       "updated_at": "2026-10-16T19:51:56+00:00",
       "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/56493703696659howtodisplayd-goj6jaq5698n",
       "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/56493703696659howtodisplayd-goj6jaq5698n",
+      "locale": "en-us"
+    },
+    "56987330525587": {
+      "id": 56987330525587,
+      "slug": "56987330525587-Connect-ChatGPT-Claude-and-Grok-to-OptiSigns-Digital-Signage-with-AI-Connector",
+      "hash_val": "1ed3a1e6703cf0593416f57efe0436c4f70867d614b33f0456da99991dee6e3e",
+      "updated_at": "2026-10-30T19:28:50+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/56987330525587connectchatgp-x3b9oywn8lrf",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/56987330525587connectchatgp-x3b9oywn8lrf",
+      "locale": "en-us"
+    },
+    "56946344474003": {
+      "id": 56946344474003,
+      "slug": "56946344474003-LG-webOS-Smart-TVs-Consumer-Grade",
+      "hash_val": "e362bf9036425a061fdbf80bc8f7883eb7401be0b4d062ec60fffd213ff7f760",
+      "updated_at": "2026-10-29T16:54:08+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/56946344474003lgwebossmartt-bik5vaubhf1h",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/56946344474003lgwebossmartt-bik5vaubhf1h",
       "locale": "en-us"
     }
   }

@@ -3,38 +3,90 @@
 **Article ID:** 360051745633
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360051745633-How-to-Set-up-an-Instagram-Business-Creator-account
-**Last Updated:** 2026-09-10T09:43:35+00:00
+**Last Updated:** 2026-10-30T17:23:15+00:00
 ---
+
+To show Instagram content on your screens, your Instagram account must be a professional account: either **Business** or **Creator**. Personal accounts can't connect to OptiSigns. Since December 2024, Meta only lets apps like OptiSigns read Instagram content from professional accounts.
+
+Switching is free and takes a few minutes in the Instagram app.
 
 |  |
 | --- |
 | **NOTE** |
-| In order to use Instagram on OptiSigns, you cannot use any Personal Accounts. They must be Business Accounts. This is a policy of Meta. |
+| If your account is private, switching to a professional account makes it public. Therefore, it is not possible to display a private Instagram account using OptiSigns. |
 
-### With Instagram Business/Creator account you can:
+---
 
-* Display post from your profiles
-* You can display posts from any public profiles (i.e. <https://www.instagram.com/arsenal>)
-* You can also follow, monitor up to 30 hashtags
-* Get follower counts (for [Instagram Counter App](https://support.optisigns.com/hc/en-us/articles/360047501233))
+## Which OptiSigns App to Use
 
-### **To set up an Instagram Business/Creator account:**
+OptiSigns has three Instagram apps. They need slightly different setups:
 
-Open Instagram app on you phone, you can convert your personal profile to a business account to access features that can help you grow your business.
+* **Instagram:** shows posts from your own account. You sign in with Instagram, and you don't need a Facebook Page.
+* **Instagram Business:** shows posts from your own account, posts from other Business and Creator accounts, and posts with the hashtags you choose. You sign in with Facebook, and your Instagram account must be connected to a Facebook Page.
+* **Instagram Counter - Wall:** shows your follower count. It also signs in with Facebook and needs your Instagram account connected to a Facebook Page.
 
-To switch your profile to a business account:
+---
 
-1. Go to your profile and tap  in the upper right corner.
-2. Tap **Settings.**
-3. Tap **Account**.
-4. Tap **Switch to Professional Account**.
-5. Tap **Business**. or **Creator**
-6. Follow the steps to connect your business account to a Facebook Page associated with your business. **This step is required** for your Instagram Business/Account to work with 3rd party app like OptiSigns. At this time, only one Facebook Page can be connected to your business account.
-7. Add details, like your business category and contact information.
-8. Tap **Done**.
+## Switch to a Business or Creator Account
 
-You can now use your Instagram with OptiSigns, when log in, authenticate, please use the Facebook account that you linked in Step 6 above.
+On your phone, open the Instagram app:
 
-With a business account, you'll be able to access business features and Instagram Insights. These tools can help you understand who is engaging with your business on Instagram.
+1. Go to your profile, then tap the menu icon in the upper right.
+2. Tap **Settings and activity**.
+3. Tap **Account type and tools**.
+4. Tap **Switch to professional account**.
+5. Choose **Business** or **Creator**, then follow the steps to pick a category and add your contact details.
+6. Tap **Done**.
 
-You also have the option to display or hide your business category and contact information on your profile. After setting up, go to your profile and tap **Edit Profile**. Go to **Profile Display** under Public Business Information to choose whether you want to hide or display your category label and contact info. Then, tap **Done**.
+You can choose whether your category and contact details show on your profile. Go to your profile, tap **Edit profile**, and change the options there.
+
+---
+
+## Connect Your Account to a Facebook Page
+
+Do this only if you're using **Instagram Business** or **Instagram Counter - Wall**.
+
+While you switch to a professional account, Instagram offers to connect it to a Facebook Page. If you skipped that step, connect a Page that you manage now. OptiSigns finds your Instagram account through that Page, so it has to be connected before you sign in.
+
+---
+
+## Connect Instagram to OptiSigns
+
+Go to [app.optisigns.com](https://app.optisigns.com/) and log in.
+
+Select **Files/Assets**, then select **Apps**.
+
+Search for the app you want, then select it.
+
+### Instagram
+
+Select **Instagram**:
+
+Select **Sign in with Instagram**, then log in with your Business or Creator Instagram account:
+
+### Instagram Business and Instagram Counter - Wall
+
+Select **Instagram Business** (or **Instagram Counter - Wall**):
+
+Select **Continue with Facebook**, then log in with the Facebook account that manages the Page connected to your Instagram account:
+
+If the sign-in fails, check that the Facebook account manages at least one Page, and that the Page is connected to your Business or Creator Instagram account.
+
+---
+
+## Limits Set by Instagram
+
+* **Other accounts:** Instagram Business can show posts from other accounts only if they're public Business or Creator accounts. Personal and private accounts can't be shown.
+* **Hashtags:** Instagram lets each account search up to 30 different hashtags in any 7-day period.
+
+---
+
+## Next Steps
+
+* [Instagram Counter App](https://support.optisigns.com/hc/en-us/articles/360047501233)
+
+If you have questions or feedback, contact our support team at support@optisigns.com.
+
+### That’s all!
+
+OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
