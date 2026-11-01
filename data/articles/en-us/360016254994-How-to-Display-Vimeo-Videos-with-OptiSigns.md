@@ -3,7 +3,7 @@
 **Article ID:** 360016254994
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360016254994-How-to-Display-Vimeo-Videos-with-OptiSigns
-**Last Updated:** 2026-10-13T17:40:15+00:00
+**Last Updated:** 2026-11-01T03:35:10+00:00
 ---
 
 With the Vimeo app, it's possible to play any Vimeo video on your digital signs. Paste the video's link into OptiSigns and it's ready to go on a screen, in a playlist or on a schedule. This article also covers how to play a video you've kept private on Vimeo, and how to show captions.

@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-10-31T08:44:28.220044+00:00",
+  "last_sync": "2026-11-01T09:35:06.951163+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -454,10 +454,10 @@
     "28424138317971": {
       "id": 28424138317971,
       "slug": "28424138317971-Samsung-Tizen-TVs-Troubleshooting-Guide",
-      "hash_val": "e5e2f71e0bba500731d1149e0d4b11232331d2237b91e84df37dec1dfd155440",
-      "updated_at": "2026-09-10T09:51:08+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28424138317971samsungtizent-0it12r3wrv9d",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28424138317971samsungtizent-0it12r3wrv9d",
+      "hash_val": "08e2b209eb063d5f7826a33e70bcbc4587fffcd899adc973e9f17fdbdae457fc",
+      "updated_at": "2026-10-31T18:30:08+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28424138317971samsungtizent-61v7i19q2ioc",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28424138317971samsungtizent-61v7i19q2ioc",
       "locale": "en-us"
     },
     "28421615261971": {
@@ -3568,10 +3568,10 @@
     "360016254994": {
       "id": 360016254994,
       "slug": "360016254994-How-to-Display-Vimeo-Videos-with-OptiSigns",
-      "hash_val": "7d3ad74655a32e049d13519b7fb9991ad209aab22b7b2ecd51bdba4b26a79ad6",
-      "updated_at": "2026-10-13T17:40:15+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016254994howtodisplayvim-hz4vbimxvugg",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016254994howtodisplayvim-hz4vbimxvugg",
+      "hash_val": "f3023f74d615193e1c82fd026286222997c74111f4bef1dc8ebaa781de804244",
+      "updated_at": "2026-11-01T03:35:10+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016254994howtodisplayvim-cgbqwevd2nm0",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016254994howtodisplayvim-cgbqwevd2nm0",
       "locale": "en-us"
     },
     "360016382473": {
