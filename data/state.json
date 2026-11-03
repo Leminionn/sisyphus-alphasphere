@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-11-02T09:51:19.895533+00:00",
+  "last_sync": "2026-11-03T09:55:19.023025+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -886,10 +886,10 @@
     "9169378546195": {
       "id": 9169378546195,
       "slug": "9169378546195-Data-Residency-and-OptiSigns",
-      "hash_val": "37085acc5624633272317de267aa09e7c78e974b49e0b1915b8907f3e4ecfef4",
-      "updated_at": "2026-09-10T09:48:42+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/9169378546195dataresidencya-lkbfc4d0305z",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/9169378546195dataresidencya-lkbfc4d0305z",
+      "hash_val": "e6227817423d9e1077296eb9c1c72b181aaab125a47c01f557845cd5fd0c5fb1",
+      "updated_at": "2026-11-02T17:03:51+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/9169378546195dataresidencya-u0wi6ncp4una",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/9169378546195dataresidencya-u0wi6ncp4una",
       "locale": "en-us"
     },
     "9061950942995": {
@@ -1957,10 +1957,10 @@
     "35626165056787": {
       "id": 35626165056787,
       "slug": "35626165056787-How-to-Contact-OptiSigns-Support",
-      "hash_val": "5a932f79a5037fa20303bf380ea22f35d87cbe546e87a88b2e63698fb988dcab",
-      "updated_at": "2026-09-10T10:46:17+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/35626165056787howtocontacto-0zszkqa9gwin",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/35626165056787howtocontacto-0zszkqa9gwin",
+      "hash_val": "a853d00a666edfb6ff30031ab05f387b15f4821db2d52e43b5fb2fbdc04baeb8",
+      "updated_at": "2026-11-02T19:05:18+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/35626165056787howtocontacto-1e215bqkfj3l",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/35626165056787howtocontacto-1e215bqkfj3l",
       "locale": "en-us"
     },
     "29838866920211": {

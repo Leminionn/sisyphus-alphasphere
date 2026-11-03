@@ -3,7 +3,7 @@
 **Article ID:** 35626165056787
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/35626165056787-How-to-Contact-OptiSigns-Support
-**Last Updated:** 2026-09-10T10:46:17+00:00
+**Last Updated:** 2026-11-02T19:05:18+00:00
 ---
 
 **Email Support:** [support@optisigns.com](mailto:support@optisigns.com)
