@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-11-03T09:55:19.023025+00:00",
+  "last_sync": "2026-11-04T09:43:14.876608+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -1669,10 +1669,10 @@
     "360034883113": {
       "id": 360034883113,
       "slug": "360034883113-Working-with-Teams-and-Security-Levels",
-      "hash_val": "a455c1f27b17b0770192908b08e655eb5aee5749c1bafe211da543b9b263c5a0",
-      "updated_at": "2026-10-13T01:44:24+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360034883113workingwithteam-i6xhzfxyqp2r",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360034883113workingwithteam-i6xhzfxyqp2r",
+      "hash_val": "b2cf5bde31d5ce783fcde7f6fe58fc329b0e492352c73a08d6bd24bd330dfabe",
+      "updated_at": "2026-11-03T15:01:24+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360034883113workingwithteam-277j6ixb8bp4",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360034883113workingwithteam-277j6ixb8bp4",
       "locale": "en-us"
     },
     "360034379293": {
