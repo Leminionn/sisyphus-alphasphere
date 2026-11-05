@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-11-04T09:43:14.876608+00:00",
+  "last_sync": "2026-11-05T09:46:08.101231+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -730,15 +730,6 @@
       "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/18823504383891optisignsgett-innyi7r3ifdo",
       "locale": "en-us"
     },
-    "18470994953363": {
-      "id": 18470994953363,
-      "slug": "18470994953363-How-to-keep-OptiSigns-running-on-Fire-Stick",
-      "hash_val": "ed7b468d7039bcb87445cf40e6f594e3a1c26030e524be7f7c1ce9a124fc5bc9",
-      "updated_at": "2026-09-10T09:49:53+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/18470994953363howtokeepopti-yh2vq6hiqcgk",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/18470994953363howtokeepopti-yh2vq6hiqcgk",
-      "locale": "en-us"
-    },
     "18399492388371": {
       "id": 18399492388371,
       "slug": "18399492388371-How-to-Customize-the-Thumbnail-of-Files-Assets-and-Folders",
@@ -1261,15 +1252,6 @@
       "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360061576673advancedenforce-2yp0697vhopo",
       "locale": "en-us"
     },
-    "1500000941981": {
-      "id": 1500000941981,
-      "slug": "1500000941981-How-to-allow-the-OptiSigns-app-to-access-local-storage-on-a-Fire-Stick",
-      "hash_val": "5583f71c3dda2583d7474850f16519eb4f25f889e5fde34a3cef11e03477495d",
-      "updated_at": "2026-09-10T09:45:19+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500000941981howtoallowtheo-pdixgm7pfm7j",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500000941981howtoallowtheo-pdixgm7pfm7j",
-      "locale": "en-us"
-    },
     "360059386254": {
       "id": 360059386254,
       "slug": "360059386254-How-to-Use-the-YouTube-Playlist-App-with-OptiSigns",
@@ -1378,15 +1360,6 @@
       "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360055486554remotelycontrol-l3nsphn4won3",
       "locale": "en-us"
     },
-    "360055328454": {
-      "id": 360055328454,
-      "slug": "360055328454-How-to-Enable-Disable-Auto-Update-for-OptiSigns-app-on-Fire-TV",
-      "hash_val": "a4e9e6be7783abcb843ecd59c764e694f96bfbbf4ac6e6b8d87f075afdbd5ab6",
-      "updated_at": "2026-09-10T09:44:02+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360055328454howtoenabledisa-yl9p4atidrxq",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360055328454howtoenabledisa-yl9p4atidrxq",
-      "locale": "en-us"
-    },
     "360057146573": {
       "id": 360057146573,
       "slug": "360057146573-Advanced-How-to-Manually-Install-Activate-OptiSigns-Remote-Agent-on-Linux-or-Raspberry-Pi",
@@ -1394,15 +1367,6 @@
       "updated_at": "2025-09-02T20:02:58+00:00",
       "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360057146573advancedhowtoma-cetlae8ndk9z",
       "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360057146573advancedhowtoma-cetlae8ndk9z",
-      "locale": "en-us"
-    },
-    "360055080914": {
-      "id": 360055080914,
-      "slug": "360055080914-How-to-Use-USB-HUB-Adaptor-Connect-to-Your-Fire-Stick",
-      "hash_val": "e71ac5c70c03275da46361117557b577a9a331f133b7743fd1bfd753c97e1063",
-      "updated_at": "2026-09-10T09:44:01+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360055080914howtouseusbhuba-nt0kgdfvcr9h",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360055080914howtouseusbhuba-nt0kgdfvcr9h",
       "locale": "en-us"
     },
     "360056655633": {
@@ -1430,51 +1394,6 @@
       "updated_at": "2026-09-10T09:44:24+00:00",
       "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360056090593optisignssideme-4vkxtex6w5gn",
       "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360056090593optisignssideme-4vkxtex6w5gn",
-      "locale": "en-us"
-    },
-    "360054298754": {
-      "id": 360054298754,
-      "slug": "360054298754-How-to-Factory-Reset-Your-Fire-Stick-device",
-      "hash_val": "379cb501f1a65860783b068f0e2863ee9a88b499bc15c33a85baa89adaefdab3",
-      "updated_at": "2026-09-10T09:43:55+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360054298754howtofactoryres-2kjpj7301y5p",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360054298754howtofactoryres-2kjpj7301y5p",
-      "locale": "en-us"
-    },
-    "360056087613": {
-      "id": 360056087613,
-      "slug": "360056087613-How-to-Clear-Cache-on-Your-Fire-Stick-device",
-      "hash_val": "d8ac10e1bd5f17207a86012ca5df5772455d96cc3b3b786f67ab35cdfa467352",
-      "updated_at": "2026-09-10T09:44:22+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360056087613howtoclearcache-iz7cls4md3wf",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360056087613howtoclearcache-iz7cls4md3wf",
-      "locale": "en-us"
-    },
-    "360056086653": {
-      "id": 360056086653,
-      "slug": "360056086653-How-to-Change-Time-Zone-on-Your-Fire-Stick-device",
-      "hash_val": "09ddc99eccdb646011ca9f75c3845b9caebffff4c7ab756ab8791a7a566c9068",
-      "updated_at": "2026-11-01T14:18:06+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360056086653howtochangetime-vyga2c80pwrr",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360056086653howtochangetime-vyga2c80pwrr",
-      "locale": "en-us"
-    },
-    "360053198573": {
-      "id": 360053198573,
-      "slug": "360053198573-How-to-uninstall-reinstall-OptiSigns-app-from-your-Fire-Stick-device",
-      "hash_val": "f0ef19ed5ef7bb2e0c987be7d718eed0d35c6a29dcaaa2cc8c39a53d229a44d7",
-      "updated_at": "2026-09-10T09:43:43+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360053198573howtouninstallr-755s50whsag6",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360053198573howtouninstallr-755s50whsag6",
-      "locale": "en-us"
-    },
-    "360052361293": {
-      "id": 360052361293,
-      "slug": "360052361293-How-to-Update-Fire-TV-OS-to-latest-version",
-      "hash_val": "2ca55c1aacebb6fb4cfb7e2795848f4d19f70d9fdefa8f0f82386b95a76f3940",
-      "updated_at": "2026-09-10T09:43:37+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360052361293howtoupdatefire-lvwlfd9duq2x",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360052361293howtoupdatefire-lvwlfd9duq2x",
       "locale": "en-us"
     },
     "360051745633": {
@@ -1745,15 +1664,6 @@
       "updated_at": "2026-09-10T08:16:16+00:00",
       "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360020931734canidisablethed-22hai6k7w4v6",
       "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360020931734canidisablethed-22hai6k7w4v6",
-      "locale": "en-us"
-    },
-    "360016313754": {
-      "id": 360016313754,
-      "slug": "360016313754-How-to-Install-an-APK-file-on-your-Fire-TV",
-      "hash_val": "de990e2c1a6dfe9c1df14c60dfcc412bf0ddbff2f56d038f5a6c131043cfa6a5",
-      "updated_at": "2026-10-09T06:17:18+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016313754howtoinstallana-41iph56grjns",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016313754howtoinstallana-41iph56grjns",
       "locale": "en-us"
     },
     "360016252654": {
@@ -2044,24 +1954,6 @@
       "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360034379573linux-f1stsq0on9lw",
       "locale": "en-us"
     },
-    "360016833514": {
-      "id": 360016833514,
-      "slug": "360016833514-Changing-screen-s-orientation-portrait-landscape",
-      "hash_val": "717b52b144384b2d560bffd51bb5b7de6586de268cb52da30896b97784287ad1",
-      "updated_at": "2026-09-17T04:18:56+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016833514changingscreens-weppaydi2unm",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016833514changingscreens-weppaydi2unm",
-      "locale": "en-us"
-    },
-    "360016485633": {
-      "id": 360016485633,
-      "slug": "360016485633-How-can-I-remotely-start-restart-OptiSigns-app-on-Fire-TV",
-      "hash_val": "945203b13406984f2cf5af19135ed88c7859e434fafa1d952d409ca0fc7f7139",
-      "updated_at": "2026-09-10T09:40:05+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016485633howcaniremotely-wbu5bs1tkdhg",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016485633howcaniremotely-wbu5bs1tkdhg",
-      "locale": "en-us"
-    },
     "360016388733": {
       "id": 360016388733,
       "slug": "360016388733-How-to-Use-the-Instagram-App",
@@ -2298,11 +2190,11 @@
     },
     "360016374813": {
       "id": 360016374813,
-      "slug": "360016374813-Set-up-add-a-screen",
-      "hash_val": "7639f510b86c7c56c3c205487fc40d582e47c3923fc192ec5ad588141281c1b6",
-      "updated_at": "2025-09-04T16:14:45+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016374813setupaddascreen-p2thf8symhrr",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016374813setupaddascreen-p2thf8symhrr",
+      "slug": "360016374813-Set-Up-Add-or-Unpair-a-Screen",
+      "hash_val": "4e2085e7ef777df37d809eebc9bf67e5daba563b9d311186f7ff1da31018428d",
+      "updated_at": "2026-11-04T18:12:14+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016374813setupaddorunpai-p0mpei4nuf6o",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016374813setupaddorunpai-p0mpei4nuf6o",
       "locale": "en-us"
     },
     "46299245284243": {
@@ -2375,15 +2267,6 @@
       "updated_at": "2025-09-04T14:06:18+00:00",
       "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500011891542howtoinstallop-qxeh1v4lj6yb",
       "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500011891542howtoinstallop-qxeh1v4lj6yb",
-      "locale": "en-us"
-    },
-    "360058700673": {
-      "id": 360058700673,
-      "slug": "360058700673-How-to-unpair-a-device-screen",
-      "hash_val": "d43fb66d1db59134d68c0f6d62d2ac0eca721288b62a2296300935a09bd58d86",
-      "updated_at": "2026-09-10T09:44:43+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360058700673howtounpairadev-j8mitlo5dkst",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360058700673howtounpairadev-j8mitlo5dkst",
       "locale": "en-us"
     },
     "360042424294": {
@@ -2460,11 +2343,11 @@
     },
     "360016174554": {
       "id": 360016174554,
-      "slug": "360016174554-Amazon-Firestick",
-      "hash_val": "0e4c9fdfd8680e0ad150bd86a02b99be60a908b9e5300ccf641314a39aaa3d6f",
-      "updated_at": "2026-09-10T09:39:18+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016174554amazonfirestick-syk51scfuvrv",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016174554amazonfirestick-syk51scfuvrv",
+      "slug": "360016174554-How-to-Set-Up-and-Manage-OptiSigns-on-Amazon-FireTV-and-Firesticks",
+      "hash_val": "d03631e0bae26f26fe1652d274444db9bd2093ee5d4e155dfcc656ef016646f7",
+      "updated_at": "2026-11-04T17:44:59+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016174554howtosetupandma-q0owc78266yi",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016174554howtosetupandma-q0owc78266yi",
       "locale": "en-us"
     },
     "44650391786131": {
@@ -2704,10 +2587,10 @@
     "4414496579475": {
       "id": 4414496579475,
       "slug": "4414496579475-LG-WebOS-Signage-Commercial-Grade",
-      "hash_val": "440eb0ce62c8606fbabf683e6f7898d36d4af6c41fdf15e764addf8ddf9456f7",
-      "updated_at": "2026-10-29T16:49:32+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4414496579475lgwebossignage-q5vt1ucajdk3",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4414496579475lgwebossignage-q5vt1ucajdk3",
+      "hash_val": "c666236f330c7af95b559e3b6485fdeee133d72e3c1bb21d9c2e0f3d3ebf3f94",
+      "updated_at": "2026-11-04T17:16:40+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4414496579475lgwebossignage-xu58wqr6hgkf",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4414496579475lgwebossignage-xu58wqr6hgkf",
       "locale": "en-us"
     },
     "360016253694": {
@@ -3743,15 +3626,6 @@
       "updated_at": "2026-10-30T19:28:50+00:00",
       "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/56987330525587connectchatgp-x3b9oywn8lrf",
       "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/56987330525587connectchatgp-x3b9oywn8lrf",
-      "locale": "en-us"
-    },
-    "56946344474003": {
-      "id": 56946344474003,
-      "slug": "56946344474003-LG-webOS-Smart-TVs-Consumer-Grade",
-      "hash_val": "e362bf9036425a061fdbf80bc8f7883eb7401be0b4d062ec60fffd213ff7f760",
-      "updated_at": "2026-10-29T16:54:08+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/56946344474003lgwebossmartt-bik5vaubhf1h",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/56946344474003lgwebossmartt-bik5vaubhf1h",
       "locale": "en-us"
     }
   }

@@ -3,7 +3,7 @@
 **Article ID:** 4414496579475
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/4414496579475-LG-WebOS-Signage-Commercial-Grade
-**Last Updated:** 2026-10-29T16:49:32+00:00
+**Last Updated:** 2026-11-04T17:16:40+00:00
 ---
 
 LG commercial displays running webOS Signage are common in hotels, restaurants, retail and other businesses. The OptiSigns app runs directly on these displays, so you don't need a separate player.
