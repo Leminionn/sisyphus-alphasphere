@@ -3,174 +3,180 @@
 **Article ID:** 360055486554
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360055486554-Remotely-Control-and-Command-OptiSigns-Devices
-**Last Updated:** 2025-09-24T18:58:23+00:00
+**Last Updated:** 2026-11-05T22:33:29+00:00
 ---
 
-OptiSigns Players ([**OptiStick**](https://shop.optisigns.com/products/optisigns-android-stick-player-2), [**Pro**](https://shop.optisigns.com/products/optisigns-promax-signage-player), or [**ProMax**](https://shop.optisigns.com/products/optisigns-promax-signage-player)) have an MDM software pre-provisioned on them to provide remote management capability. This can be used for troubleshooting, changing settings from the OptiSigns portal, remote monitoring, and more.
+Reboot a screen, take a screenshot of what it's showing, change its Wi-Fi or time zone, or see it live, all from the OptiSigns portal. You can also send the same command to many screens at once.
+
+These remote management tools come preinstalled on OptiSigns players such as the [OptiSigns Android Stick](https://shop.optisigns.com/products/optisigns-android-stick-player-2), Pro and [ProMax](https://shop.optisigns.com/products/optisigns-promax-signage-player), and are available on many other devices too.
 
 ---
 
-## What You’ll Need
+## What You'll Need
 
-* OptiSigns Player (OptiStick, Pro, or ProMax)
-* OptiSigns [**Pro Plus**](https://www.optisigns.com/pricing) subscription or greater
+* An OptiSigns [Pro Plus](https://www.optisigns.com/pricing) plan or higher
+* A screen that is paired and online - commands can't reach a screen that is offline or powered off
+* To send commands to many screens at once: the account owner must turn on **Enable Remote Command**, and the devices must run a supported player version (see [Send Commands to Many Screens at Once](#SendCommandsToManyScreensAtOnce))
+
+---
+
+## Control a Single Screen
+
+### Open the Remote Commands for a Screen
+
+Go to **Screens**.
+
+Find the screen you want to manage and click **Edit**.
+
+In the **Edit Screen** dialog, click **Advanced**.
+
+At the bottom of the **Advanced** section is a row of green command buttons.
 
 |  |
 | --- |
 | **NOTE** |
-| The OptiSigns Android Stick is capable of receiving **individual commands**. However, in order to send commands to **multiple devices simultaneously**, you will need an OptiSigns Pro or ProMax player. |
+| The buttons you see depend on the device, your plan and the device's current state, so a device may show fewer buttons than in these pictures. If the screen is offline, no buttons appear at all. |
 
----
+### Reboot the Device
 
-## For Individual Devices
+Click **Reboot**.
 
-The following applies to individual Optisticks and OptiSigns Pro and ProMax players. In order to get started, the player must be paired and online. Commands cannot be sent to offline or powered off players.
+Click **Reboot** again to confirm. The device restarts and is unavailable for a short while.
 
-### Getting Started
+### Take a Screenshot
 
-To begin, navigate to your **Screens** tab within OptiSigns.
+Click the camera button.
 
-Here, find the device/screen you want to send remote commands to. Then, hit **Edit**.
+Click **Take screenshot** to confirm.
 
-This will bring up the **Edit Screen** menu. Here, click **Advanced**.
+The screenshot appears in a gallery below the buttons, stamped with the date and time. The gallery keeps several screenshots: use the arrows or the thumbnails to move between them, and click one to enlarge it.
 
-Under the **Advanced** tab, you’ll find a set of green buttons like the ones below. This row of buttons are called the **MDM buttons** and are used for sending Remote Commands.
+### Add or Remove Wi-Fi
 
-|  |
-| --- |
-| **NOTE** |
-| The MDM buttons ***will not appear***on non-OptiSigns devices or screens. |
+Click the Wi-Fi button.
 
-### Reboot Player
+The **Wi-Fi access points** dialog lists the networks saved on the device. Click the trash icon next to a network to remove it.
 
-The first option is to Reboot the player. Hit the button to do this.
+To add a network, fill in **Wi-Fi SSID**, **Wi-Fi Security Type** and **Wi-Fi Password** below the list, turn on **Hidden** if the network doesn't broadcast its name, and click **Add**.
 
-You’ll be asked whether or not you want to reboot the player. Hit **Reboot** again to do so.
+### Set the Time Zone
 
-This will reboot the player, remotely.
+Click the globe button.
 
-### Take Screenshot
-
-The second option is to take a screenshot. Hit the button to do this.
-
-You’ll be asked if you want to take a screenshot. Hit **Take screenshot** to do so.
-
-A screenshot of your display will appear in the area below:
-
-This image can be saved and used for any purpose you wish.
-
-### Add/Remove WiFi
-
-The third option is to Add/Remove WiFi. Hit the button to get started.
-
-This will open the **WiFi access points** menu. Here, you’ll see the WiFi access points saved on the device. In order to add more to it, hit **Add new WiFi access point**.
-
-This will open the **Add WiFi access point details** window:
-
-Enter your WiFi information in, and click **Add**. The new access point will be saved to the device.
-
-### Update Time Zone
-
-The fourth option is to update the Time Zone. Hit the button to get started.
-
-This will open the **Update Time Zone** popup. Simply choose the Time Zone you’d like to update the device to here.
+In **Set Timezone**, choose the time zone and click **Apply**.
 
 ### View Device Info
 
-To check the device info, click the **“i” button**. It will pull up the hardware and network info of the device.
+Click the **i** button to see the device's hardware and network details.
 
-You may find the info of interest to you. One common example is if you are using some network monitoring tool, you can use the MAC address to lookup the device in the other systems.
+**Device Info** shows the Wi-Fi network and MAC address, display resolution and refresh rate, memory and storage use, temperature, uptime and time zone. The MAC address is handy when you need to find the device in a network monitoring tool.
 
-### Remote Command History
+### See the Remote Command History
 
-The last button shows the Remote Command history.
+Click the history button.
 
-This allows you to go through a history of the remote commands, what device it was on, and the execution result of the command.
+**Remote Commands History** lists the commands sent to this screen, with their **Status**, **Result** and **Date**.
 
-### Additional Commands
+### Use More Commands
 
-Hitting the arrow near the buttons brings up a list of additional commands.
+Click the arrow at the end of the button row to see more commands.
 
-* **Refresh & Relaunch:** Refresh and relaunch your screen. This is useful if your screen is frozen or is not functioning as intended, but you don't want to reboot the device.
-* **Send HDMI CEC** - Use HDMI CEC commands to remotely turn on/off TV. Please make sure HDMI CEC support is enabled on the TV.
-* **Send RS232:**This is used to utilize RS232 Commands to remotely turn your TV On/Off.
-* **Get used storage/free storage:** Gives information on your used and free device storage.
-* **Install OptiSigns Versions:** Lets you remotely install different versions of OptiSigns. If you downgrade from the current version, please make sure to turn off Auto Updates, otherwise it will automatically update to the current version (Android Stick Player only).
-* **Disable Auto Update:** This will allow you to remotely disable automatic updates on your OptiSigns player. This is useful when you downgrade from the current version (Android Stick Player only).
-* **Install APK:** Remotely install APK with a direct link/URL to the APK file (Android Stick Player only).
+Which commands appear depends on the device:
 
-### Remotely View Player Output
+* **Refresh & Relaunch** - Restart the OptiSigns app without rebooting the device. Useful when the screen is frozen or misbehaving.
+* **Send HDMI CEC** - Turn the TV on or off with HDMI CEC commands. HDMI CEC must be turned on in the TV's settings.
+* **Send RS232** - Turn the TV on or off with RS232 commands.
+* **Storage Details** - Show how much of the device's storage is used and free.
+* **Install OptiSigns Versions** - Install a different version of the OptiSigns app. If you install an older version, disable auto update first, or the device updates itself back to the latest version.
+* **Disable Auto Update** or **Enable Auto Update** - Stop or restart automatic updates of the OptiSigns app.
+* **Install APK** - Install an Android app from a direct link to its APK file.
+* **OTA Update** - Update the device's software over the air.
 
-Using the Remote Control feature, it’s possible to view what’s actually playing on your device, and make changes via the device menu with a mouse.
+### Remotely View and Control the Screen
 
-This is different from the Preview feature, which shows an approximation of what an Asset or Playlist will look like on your screen. The Remote Control feature allows you to actually remote into the device and see what’s playing, and interact with the device software directly.
+Remote Control lets you see what's actually playing on the device and use its menus with your mouse. This is different from **Preview**, which only shows an approximation of how an asset or Playlist will look.
 
-To do this, hit **More** from within the **Advanced** section of the **Edit Screen**menu:
+In the **Advanced** section of **Edit Screen**, click **More**.
 
-Then, next to **Remote Control**, hit **Activate**.
+Next to **Remote Control**, click **Activate**.
 
-A pop up will appear asking if you’re sure you want to activate Remote Control. Hit **Activate**.
+Click **Activate** to confirm.
 
-Another box will appear informing you that it may take several seconds to fully remote into the device. Close this box, then scroll up to the main Remote Command area. Another option will have appeared: hit **Remote** to access the device.
+Activating Remote Control for the first time can take several seconds. A **Remote** button then appears at the start of the button row. Click it to open the remote view of the device.
 
-This will bring up a new browser window for you to view and control the device.
+### Use the Mobile Admin App
 
-### Via Mobile Admin App
-
-The OptiSigns [Mobile Admin App](https://www.optisigns.com/mobile-app) lets you remotely control your devices in the same way as above. Simply download the app, and access your digital signage hardware through your mobile device.
-
-See our [Mobile Admin App article](https://support.optisigns.com/hc/en-us/articles/30003143806099-How-to-Use-the-OptiSigns-Mobile-Admin-App) for more information.
+The OptiSigns [Mobile Admin App](https://www.optisigns.com/mobile-app) lets you control your devices in the same way from your phone. See [How to Use the OptiSigns Mobile Admin App](https://support.optisigns.com/hc/en-us/articles/30003143806099) for details.
 
 ---
 
-## For Multiple OptiSigns Players
+## Send Commands to Many Screens at Once
 
-It’s possible to send basic remote commands to individual players, segments of OptiSigns players (defined via [tagging](https://support.optisigns.com/hc/en-us/articles/38062664690195-Tagging-in-OptiSigns)), or all your OptiSigns players simultaneously. These commands allow for mass provisioning, updating, and troubleshooting. This section applies to Pro and ProMax players only, not the OptiStick.
+**Execute Remote Commands** sends a command or script to one screen, several screens, or every screen with a tag, all at once. Use it for mass provisioning, updates and troubleshooting.
 
-The ability to do this needs to be activated. Simply contact us at [support@optisigns.com](mailto:support@optisigns.com) to be given the ability to send remote commands.
+It works on Windows, Linux, Raspberry Pi and macOS players, and on Android devices such as the OptiSigns Android Stick. The devices must run a recent player. The dialog lists the versions it needs: "Applicable to Win, Linux, Raspberry Pi version 4.3.1, OptiSigns Player 5.17.3 or newer".
 
-### Enabling Remote Commands Feature on Account
+### Turn On Remote Commands for Your Account
 
-Remote Command Execution is disabled by default. To use it, it will need to be turned on. To do this, navigate to [the Preferences section](https://app.optisigns.com/app/s/preference-settings) in the OptiSigns portal.
+Remote command execution is off by default. For security reasons, only the account owner can turn it on or off.
 
-|  |
-| --- |
-| For security reasons, **only the account owner** can enable or disable Remote Command Execution. |
+Go to [Preferences](https://app.optisigns.com/app/s/preference-settings) and check **Enable Remote Command**.
 
-### How to Execute Remote Commands
+### Execute Remote Commands
 
-To submit the command to manage the devices remotely, you will need to go to the remote command execution console. Click **Screens**, then the **More Options (Three Dots)**
-
-Screens -> More Options Icon -> Execute Remote Commands
-
-The Execute Remote Commands console can be broken down into three sections:
-
-* **Section 1** - Where you specify the target of the commands.
-* **Section 2** - The command you want to execute.
-* **Section 3** - The execution result and history.
-
-For section 1, there are 2 types of targets you can choose from:
-
-* **Screens** - You can select the screen name here, it can be one screen or multiple screens.
-* **Tags** - Utilizing tags, you can execute the command on a group of devices. In the below example, the command will be submitted to all devices tagged as Windows or Raspberry Pi.
-
-For section 2, you can enter the command you want to execute in the text box. The command needs to be OS-specific, depending on the OS your device is running on (Android for Android Stick, Linux for OptiSigns Pro / ProMax players), you will need to build the scripts accordingly. Once you have your commands ready, just click the submit button. The command will be pushed to the devices for execution.
-
-Other than the free-form scripts, there are some common commands built into the platform, to achieve these functions, you will just need to select it from the drop-down menu. Depending on the type of device OS, the command will be submitted accordingly.
-
-After a command is executed, it will appear in section 3: the command history.
+Go to **Screens**, click the **More Options** (three dots) button and click **Execute Remote Commands**.
 
 |  |
 | --- |
 | **NOTE** |
-| The **Refresh & Relaunch**command can be used on any device. The **Reboot Device**command cannot be used on certain Android devices. |
+| **Execute Remote Commands** only appears in this menu once **Enable Remote Command** is on, and only for account owners and admins. |
 
-### Controlling Remote Commands Received by Players
+The **Execute Remote Commands** dialog has three parts:
 
-In some cases, you may not want some of your devices to be controlled remotely for any reason. The ability to receive remote commands can be toggled on the device.
+1. **Target** - Which devices get the command.
+2. **Command** - The command to run.
+3. **History / Execution status** - The commands you sent and their results.
 
-Go to the side menu on the OptiSigns player, click **Advanced Options**, and you'll find the toggle for **Execute Remote Commands**. Toggling this off will cause the device to reject remote commands.
+For **Target**, choose one of these:
+
+* **Screens** - Pick one or more screens by name.
+* **Tags** - Send the command to every device with the tags you choose, for example all screens tagged "Windows" or "Raspberry Pi".
+
+In **Command**, type the command and click **Submit**. Write it for the operating system the devices run: for example a Linux shell command for OptiSigns Pro and ProMax players, a Windows command for Windows players, or an Android command for the OptiSigns Android Stick.
+
+You can also pick a built-in command from the dropdown next to the command box. These work whatever the device's operating system is:
+
+* **Refresh & Relaunch** - Works on any device.
+* **Reboot Device** - Works on most devices, but not on some Android devices.
+
+Each command you send appears under **History / Execution status** with its status and result.
+
+### Stop a Device From Accepting Remote Commands
+
+You can stop a single device from accepting remote commands. On the device, open the OptiSigns side menu, click **Advanced Options** and turn off **Execute Remote Commands**. The device then rejects any remote command.
+
+---
+
+## Troubleshooting
+
+Here are a few common issues our customers can encounter, and their solutions.
+
+#### The Command Buttons Don't Appear in Edit Screen
+
+Check that the screen is online. An offline screen shows no command buttons. If it is online, check that your account is on Pro Plus or higher.
+
+#### Execute Remote Commands Is Missing From the Screens Menu
+
+The account owner needs to check **Enable Remote Command** in [Preferences](https://app.optisigns.com/app/s/preference-settings). The menu item is also only shown to account owners and admins.
+
+#### "Execute Remote Command Is Disabled"
+
+The device has remote commands turned off. On the device, open **Advanced Options** in the side menu and turn on **Execute Remote Commands**.
+
+#### "Command Rate Limit Exceeded"
+
+You sent too many commands in a short time. Wait a moment, then submit the command again.
 
 ### That’s all!
 
-OptiSigns is a leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns, or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
+OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).

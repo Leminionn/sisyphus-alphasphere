@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-11-05T09:46:08.101231+00:00",
+  "last_sync": "2026-11-06T09:43:43.907364+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -1000,15 +1000,6 @@
       "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4408946045715howtointegrate-1a9it0kxgy77",
       "locale": "en-us"
     },
-    "4408658251027": {
-      "id": 4408658251027,
-      "slug": "4408658251027-How-to-use-Remote-Command-Execution-Windows-Linux",
-      "hash_val": "677ed1ca47705445dcc2a08d16e270521d0c5391ee878452924ae90681135c81",
-      "updated_at": "2026-08-18T09:38:04+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4408658251027howtouseremote-ghw8cz87v74s",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4408658251027howtouseremote-ghw8cz87v74s",
-      "locale": "en-us"
-    },
     "4408052029587": {
       "id": 4408052029587,
       "slug": "4408052029587-How-to-Use-Weather-Apps-Based-on-Device-Location",
@@ -1038,11 +1029,11 @@
     },
     "4407386819731": {
       "id": 4407386819731,
-      "slug": "4407386819731-How-to-set-up-SAML-2-0-with-OptiSigns-and-OneLogin",
-      "hash_val": "ae72d0bd3f2f6c8c439d3eeecf8245429aa823583b31b82bdc3f5243086d1aee",
-      "updated_at": "2025-09-04T13:48:07+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4407386819731howtosetupsaml-mcym3m8jnjnm",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4407386819731howtosetupsaml-mcym3m8jnjnm",
+      "slug": "4407386819731-How-to-Set-Up-SAML-2-0-with-OptiSigns-and-OneLogin",
+      "hash_val": "db59497f67a1858a666f4fa007a36a8c43ef50c9e442a5f24e7074dde843e4a1",
+      "updated_at": "2026-11-05T16:05:04+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4407386819731howtosetupsaml-etxy3h4k7qf2",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4407386819731howtosetupsaml-etxy3h4k7qf2",
       "locale": "en-us"
     },
     "4407252213395": {
@@ -1354,10 +1345,10 @@
     "360055486554": {
       "id": 360055486554,
       "slug": "360055486554-Remotely-Control-and-Command-OptiSigns-Devices",
-      "hash_val": "dd41f31a0ca666a5bfe006eca42206d5d0eaefbc913337773c53c9b15aff2a20",
-      "updated_at": "2025-09-24T18:58:23+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360055486554remotelycontrol-l3nsphn4won3",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360055486554remotelycontrol-l3nsphn4won3",
+      "hash_val": "e0794817605c8a7a4534a8d14eb7e4720b328c1db3411fe607bb2d13956f6ca1",
+      "updated_at": "2026-11-05T22:33:29+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360055486554remotelycontrol-ywujqc5bo3ne",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360055486554remotelycontrol-ywujqc5bo3ne",
       "locale": "en-us"
     },
     "360057146573": {
@@ -1515,11 +1506,11 @@
     },
     "360041587014": {
       "id": 360041587014,
-      "slug": "360041587014-How-to-change-Billing-information",
-      "hash_val": "49af77c8cb5e396451fa332a8991623e5a3699d7f495462799249befc6f6956f",
-      "updated_at": "2026-09-10T09:41:53+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360041587014howtochangebill-ryzmv1b9x0up",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360041587014howtochangebill-ryzmv1b9x0up",
+      "slug": "360041587014-How-to-Change-Your-Billing-Information-View-Billing-History-and-Download-Receipts",
+      "hash_val": "72beefe7befafab5f9c95593564f703604e9ed7cc5e1a3a9eb5803774ee1e6a3",
+      "updated_at": "2026-11-05T16:12:55+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360041587014howtochangeyour-ozor3r4fuds7",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360041587014howtochangeyour-ozor3r4fuds7",
       "locale": "en-us"
     },
     "360041570153": {
@@ -1551,11 +1542,11 @@
     },
     "360038992973": {
       "id": 360038992973,
-      "slug": "360038992973-Video-codec-or-video-playback-issues",
-      "hash_val": "07a12dc8f67eabb358dc3b82436d3f36921e20ad41f113f4a27e8d3ce07b8a43",
-      "updated_at": "2026-10-19T13:04:32+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360038992973videocodecorvid-hs4z8j3vqdm1",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360038992973videocodecorvid-hs4z8j3vqdm1",
+      "slug": "360038992973-Video-Codec-or-Video-Playback-Issues-and-How-to-Re-encode-Videos",
+      "hash_val": "5219d7ba7874f81cc131a6f1c97080253c28ccf2a89d8cc36cc814611be8b00f",
+      "updated_at": "2026-11-05T22:37:38+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360038992973videocodecorvid-u0frebhfrprd",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360038992973videocodecorvid-u0frebhfrprd",
       "locale": "en-us"
     },
     "360037416494": {
@@ -1781,15 +1772,6 @@
       "updated_at": "2026-09-10T09:47:50+00:00",
       "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4414563797139generatemanage-pc2ewye83rh4",
       "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4414563797139generatemanage-pc2ewye83rh4",
-      "locale": "en-us"
-    },
-    "360054557434": {
-      "id": 360054557434,
-      "slug": "360054557434-View-Billing-History-and-Download-Receipts",
-      "hash_val": "cd66d8b74f6fff16a810ef200e0f869aef3a464574329932dde19cfa5fcd0418",
-      "updated_at": "2026-09-10T09:43:59+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360054557434viewbillinghist-ct49w2bqe3ly",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360054557434viewbillinghist-ct49w2bqe3ly",
       "locale": "en-us"
     },
     "360050855313": {
@@ -2134,15 +2116,6 @@
       "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/27070013297427displaydevice-ifrnfrhnyvli",
       "locale": "en-us"
     },
-    "14557706459283": {
-      "id": 14557706459283,
-      "slug": "14557706459283-Present-share-iOS-Android-phone-tablet-to-your-screen-with-OptiSigns-AeriCast-Add-on",
-      "hash_val": "f6128faa68114233d8264d5d153c4e9c5c5682f8d9129663b5fad951d5acc50c",
-      "updated_at": "2026-09-10T09:49:15+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/14557706459283presentsharei-g3redi6why1s",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/14557706459283presentsharei-g3redi6why1s",
-      "locale": "en-us"
-    },
     "4414558295955": {
       "id": 4414558295955,
       "slug": "4414558295955-Tutorial-Create-Update-Add-Remove-items-from-Playlists",
@@ -2325,11 +2298,11 @@
     },
     "14502378549907": {
       "id": 14502378549907,
-      "slug": "14502378549907-Present-share-your-screen-with-OptiSigns-AeriCast-Add-on",
-      "hash_val": "6e78213c3668db87a1e7e962e8ed0aff72587c4762f4e818fb1d8ad2af01f5b2",
-      "updated_at": "2026-09-10T09:49:14+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/14502378549907presentsharey-68unkrd9g96x",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/14502378549907presentsharey-68unkrd9g96x",
+      "slug": "14502378549907-Present-or-Share-Your-Screen-with-OptiSigns-and-the-AeriCast-Add-on",
+      "hash_val": "db8f319c1b487f2fc9b9a2f0009d13a07a0df41b1191fb0a9bf357daa2a561d2",
+      "updated_at": "2026-11-05T17:28:46+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/14502378549907presentorshar-7o0qlxlnr0x9",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/14502378549907presentorshar-7o0qlxlnr0x9",
       "locale": "en-us"
     },
     "4404608957075": {
@@ -2568,11 +2541,11 @@
     },
     "12498801963027": {
       "id": 12498801963027,
-      "slug": "12498801963027-Show-Offline-Indicator-feature",
-      "hash_val": "baaaec01b79fcb2d62dae05226033e1bbfd75bdfe8868ca97bf183218168ef80",
-      "updated_at": "2026-09-07T11:26:19+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/12498801963027showofflinein-ra6rxf4g5r8h",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/12498801963027showofflinein-ra6rxf4g5r8h",
+      "slug": "12498801963027-Show-Offline-Indicator-Feature",
+      "hash_val": "ea218022120b5c9a30b2c0c68510f9bd3df40b976ecfbe1d781572772c7c7381",
+      "updated_at": "2026-11-05T22:21:11+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/12498801963027showofflinein-jsjv7d2s29oc",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/12498801963027showofflinein-jsjv7d2s29oc",
       "locale": "en-us"
     },
     "10259143299219": {
@@ -2600,15 +2573,6 @@
       "updated_at": "2025-07-30T06:36:27+00:00",
       "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016253694istherestoragel-zkftl6thgwto",
       "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016253694istherestoragel-zkftl6thgwto",
-      "locale": "en-us"
-    },
-    "12947820509971": {
-      "id": 12947820509971,
-      "slug": "12947820509971-Show-Hide-Offline-Indicator-on-your-Player",
-      "hash_val": "5246b9aab4414cf6bf53a0ed54342aa2fe6b833a86543d4d2ef2b0116cd6e2c7",
-      "updated_at": "2026-09-10T08:01:07+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/12947820509971showhideoffli-5hoh4ajzb48n",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/12947820509971showhideoffli-5hoh4ajzb48n",
       "locale": "en-us"
     },
     "9392587446675": {
@@ -2676,20 +2640,11 @@
     },
     "8098889840531": {
       "id": 8098889840531,
-      "slug": "8098889840531-How-to-use-RTSP-Streams-on-OptiSigns-Devices",
-      "hash_val": "1e233e7f2e40f033b5ea523f56e57bc911cd5cece9277500eac0c12ae776c64f",
-      "updated_at": "2026-09-10T09:48:33+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/8098889840531howtousertspst-kxwm3znnaong",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/8098889840531howtousertspst-kxwm3znnaong",
-      "locale": "en-us"
-    },
-    "8066591235603": {
-      "id": 8066591235603,
-      "slug": "8066591235603-How-to-use-RTSP-Stream-on-Windows-or-Raspberry-Pi-via-OptiSigns",
-      "hash_val": "515f0510bd8db714fa46022b60d8f46c2101ef0c8098be25ffb3d80ca216a4f1",
-      "updated_at": "2026-09-10T09:48:28+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/8066591235603howtousertspst-lr29erz2xe8f",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/8066591235603howtousertspst-lr29erz2xe8f",
+      "slug": "8098889840531-How-to-Use-RTSP-Streams-on-OptiSigns-Devices",
+      "hash_val": "a298559ad3bd180ecbffe0bc23cf821984b47496270a999ffa4fcd920fda49e7",
+      "updated_at": "2026-11-05T22:28:24+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/8098889840531howtousertspst-1pw8ku7vo8fa",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/8098889840531howtousertspst-1pw8ku7vo8fa",
       "locale": "en-us"
     },
     "6757989639827": {
@@ -3045,11 +3000,11 @@
     },
     "360052513253": {
       "id": 360052513253,
-      "slug": "360052513253-How-to-use-Emergency-Message-Alert-App",
-      "hash_val": "7097ca39e24ef0d7928c3a9b197a871d4b7301db1b7b175c7a8a95b810e62bfc",
-      "updated_at": "2025-09-04T20:02:00+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360052513253howtouseemergen-6pcufhahc0y0",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360052513253howtouseemergen-6pcufhahc0y0",
+      "slug": "360052513253-How-to-Use-the-Emergency-Message-Alert-App",
+      "hash_val": "5a3d7932eb0ed78a58bb5caca313bebbadf4e432ce1ecc59e86ad11dd9bf000b",
+      "updated_at": "2026-11-05T21:58:11+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360052513253howtousetheemer-zctpmzfb3mgq",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360052513253howtousetheemer-zctpmzfb3mgq",
       "locale": "en-us"
     },
     "360052088413": {
