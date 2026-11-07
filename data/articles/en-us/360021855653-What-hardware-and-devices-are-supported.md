@@ -3,7 +3,7 @@
 **Article ID:** 360021855653
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360021855653-What-hardware-and-devices-are-supported
-**Last Updated:** 2026-10-12T06:20:04+00:00
+**Last Updated:** 2026-11-06T21:19:25+00:00
 ---
 
 ### You can run OptiSigns on any:

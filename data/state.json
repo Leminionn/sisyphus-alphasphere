@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-11-06T09:43:43.907364+00:00",
+  "last_sync": "2026-11-07T09:06:01.765364+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -436,10 +436,10 @@
     "28598173096723": {
       "id": 28598173096723,
       "slug": "28598173096723-How-To-Create-and-Use-Operational-Schedules-HDMI-CEC-RS-232",
-      "hash_val": "083332c7edeae6e93da64cfe98c2e18e79a5d18f672c7dcf90e6f47aaa4777df",
-      "updated_at": "2026-09-11T20:59:10+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28598173096723howtocreatean-bhbobsyjqa6h",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28598173096723howtocreatean-bhbobsyjqa6h",
+      "hash_val": "d456725c4b19eb42baf2dcad516219a6262c136b1fbf4357e2625183d442537e",
+      "updated_at": "2026-11-06T15:07:59+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28598173096723howtocreatean-okpj5wc3jbj0",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28598173096723howtocreatean-okpj5wc3jbj0",
       "locale": "en-us"
     },
     "28427819992979": {
@@ -1486,15 +1486,6 @@
       "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360042736794howtosetanasset-7cxbcy4d2ma6",
       "locale": "en-us"
     },
-    "360042143753": {
-      "id": 360042143753,
-      "slug": "360042143753-How-to-re-encode-video-files-for-better-compatibility-on-your-devices",
-      "hash_val": "de73069520ff175604b683a8c901206bf4abbc168345c921bc92168f7b8e2525",
-      "updated_at": "2026-09-10T09:41:59+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360042143753howtoreencodevi-xtle1ifi680o",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360042143753howtoreencodevi-xtle1ifi680o",
-      "locale": "en-us"
-    },
     "360042143333": {
       "id": 360042143333,
       "slug": "360042143333-Roku-Release-Notes-Limitation",
@@ -1515,11 +1506,11 @@
     },
     "360041570153": {
       "id": 360041570153,
-      "slug": "360041570153-My-image-content-are-bleeding-off-the-screens-with-Windows-Linux-Mac-Raspberry-Pi-app-need-screen-calibration",
-      "hash_val": "7ed09ec380d76d34a6a9e11312835905994c6ceacc5e1bb152a86bcf7bfcb6c9",
-      "updated_at": "2026-09-10T08:00:40+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360041570153myimagecontenta-tfp7cf0d6nna",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360041570153myimagecontenta-tfp7cf0d6nna",
+      "slug": "360041570153-Screen-Calibration-Fix-Content-Bleeding-off-the-Screen",
+      "hash_val": "deb9281801bfc8f3f7aae25e6b88ba9ab809956d430f7bc965ee191a812e6ab9",
+      "updated_at": "2026-11-06T20:25:31+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360041570153screencalibrati-016xwufzioq2",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360041570153screencalibrati-016xwufzioq2",
       "locale": "en-us"
     },
     "360040943374": {
@@ -1731,11 +1722,11 @@
     },
     "28026588373139": {
       "id": 28026588373139,
-      "slug": "28026588373139-How-to-Fix-The-Scaling-Issue-on-OptiSigns-Android-Device-Gen-3",
-      "hash_val": "7cabbfe53f26dcd7488075754c56f16e2fb7aa6bf28b10371b6a019996a977e6",
-      "updated_at": "2026-09-10T09:50:58+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28026588373139howtofixthesc-f3uujhscd73y",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28026588373139howtofixthesc-f3uujhscd73y",
+      "slug": "28026588373139-How-to-Fix-the-Scaling-Issue-on-OptiSigns-Android-Devices",
+      "hash_val": "c052bce004ff03f7738760b22dd09e818bf1b083eb64c9a0658575f6e2d6bd16",
+      "updated_at": "2026-11-06T21:29:15+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28026588373139howtofixthesc-hno1i0bq4gf6",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28026588373139howtofixthesc-hno1i0bq4gf6",
       "locale": "en-us"
     },
     "25607930101907": {
@@ -1981,15 +1972,6 @@
       "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/33468569218067howtodisplayd-sxynsufefrpr",
       "locale": "en-us"
     },
-    "27607906766483": {
-      "id": 27607906766483,
-      "slug": "27607906766483-How-to-Fix-The-Scaling-Issue-on-OptiSigns-Android-Device",
-      "hash_val": "b209a84fc41292af319ba1d99ee5f8fda7aa615963d682cc5eecfb829a221ceb",
-      "updated_at": "2026-09-10T09:50:53+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/27607906766483howtofixthesc-6med5dq47e9s",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/27607906766483howtofixthesc-6med5dq47e9s",
-      "locale": "en-us"
-    },
     "17129313173395": {
       "id": 17129313173395,
       "slug": "17129313173395-How-to-manage-Sub-Account-billing-with-OptiSigns",
@@ -2047,10 +2029,10 @@
     "360021855653": {
       "id": 360021855653,
       "slug": "360021855653-What-hardware-and-devices-are-supported",
-      "hash_val": "699727a75fb13c7f2be968b7d5ea04a587388e047c032aa5040a45f1c09a97d6",
-      "updated_at": "2026-10-12T06:20:04+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360021855653whathardwareand-ceod46kutv9t",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360021855653whathardwareand-ceod46kutv9t",
+      "hash_val": "cf939c9fbc54cc5d5bb5b8255e9c93ce00b8d561150df6cda748aec90b45602f",
+      "updated_at": "2026-11-06T21:19:25+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360021855653whathardwareand-lgqceqrycd2g",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360021855653whathardwareand-lgqceqrycd2g",
       "locale": "en-us"
     },
     "360019588654": {
