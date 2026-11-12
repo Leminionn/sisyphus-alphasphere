@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-11-11T09:45:45.227532+00:00",
+  "last_sync": "2026-11-12T10:07:47.595992+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -1660,10 +1660,10 @@
     "360016247974": {
       "id": 360016247974,
       "slug": "360016247974-How-to-Upload-Manage-Your-Files-Assets",
-      "hash_val": "d6c3c0bb348783fc0c29e98de4bb32e6fc1ebb25fbf198b590a5fcf20426f941",
-      "updated_at": "2026-09-10T09:39:25+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016247974howtouploadmana-t03lsp7kz0wp",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016247974howtouploadmana-t03lsp7kz0wp",
+      "hash_val": "54d99b5955f4b5146c1cf60f35ad77dd1e9361908500f5fb94bed6856cb241bc",
+      "updated_at": "2026-11-12T09:09:16+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016247974howtouploadmana-6ib69sfq7gsy",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016247974howtouploadmana-6ib69sfq7gsy",
       "locale": "en-us"
     },
     "360016342373": {
@@ -3343,10 +3343,10 @@
     "360024859713": {
       "id": 360024859713,
       "slug": "360024859713-How-to-Display-Microsoft-Power-BI-Dashboards-Reports-with-OptiSigns",
-      "hash_val": "caf7d0b3a98f261dc799757a15fcf1af77e6f115a902f4841e3f5ae7880437b4",
-      "updated_at": "2026-09-28T20:24:16+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360024859713howtodisplaymic-5dzy8p9t2wg2",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360024859713howtodisplaymic-5dzy8p9t2wg2",
+      "hash_val": "d11513fb091be4a66b49b723f5da790d79ed2fa9ad31577e699a0374ddc00155",
+      "updated_at": "2026-11-11T20:29:28+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360024859713howtodisplaymic-4tiynv6s0inc",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360024859713howtodisplaymic-4tiynv6s0inc",
       "locale": "en-us"
     },
     "360023848334": {
