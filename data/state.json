@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-11-12T10:07:47.595992+00:00",
+  "last_sync": "2026-11-13T09:57:18.513055+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -724,10 +724,10 @@
     "18823504383891": {
       "id": 18823504383891,
       "slug": "18823504383891-OptiSigns-Getting-Started-Guide",
-      "hash_val": "7a8db60c2c36052cc6036077c479d8c8085499fbf8ab0d415bd7d11f7398b7e1",
-      "updated_at": "2026-08-21T05:37:19+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/18823504383891optisignsgett-innyi7r3ifdo",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/18823504383891optisignsgett-innyi7r3ifdo",
+      "hash_val": "0f288362f3e9baf0603c611fdb90d461d4d2b3f240e83e35f5f0254d30deab01",
+      "updated_at": "2026-11-12T17:59:51+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/18823504383891optisignsgett-11252965q9xb",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/18823504383891optisignsgett-11252965q9xb",
       "locale": "en-us"
     },
     "18399492388371": {
@@ -3532,10 +3532,10 @@
     "56498391179667": {
       "id": 56498391179667,
       "slug": "56498391179667-How-to-Use-the-Eventbrite-Events-App",
-      "hash_val": "353bf8de13b8b9a4212d3d038c7630eb197761337215e3b0811d984a0753dd7a",
-      "updated_at": "2026-10-16T21:22:00+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/56498391179667howtousetheev-zzo0b6327qad",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/56498391179667howtousetheev-zzo0b6327qad",
+      "hash_val": "ed9f73ad81cd9fd941d27df72d8f73aad0f53bc3f00650f2b4b23db9d0fe56c1",
+      "updated_at": "2026-11-12T23:15:33+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/56498391179667howtousetheev-y06zowxs0r8t",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/56498391179667howtousetheev-y06zowxs0r8t",
       "locale": "en-us"
     },
     "56498363329683": {
