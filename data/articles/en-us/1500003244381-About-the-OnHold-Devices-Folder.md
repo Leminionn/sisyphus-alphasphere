@@ -3,7 +3,7 @@
 **Article ID:** 1500003244381
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/1500003244381-About-the-OnHold-Devices-Folder
-**Last Updated:** 2026-10-25T15:48:03+00:00
+**Last Updated:** 2026-11-16T19:20:06+00:00
 ---
 
 When poking around the Screens tab in OptiSigns, you may have noticed the **OnHold Devices** folder.

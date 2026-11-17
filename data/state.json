@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-11-16T10:04:50.483250+00:00",
+  "last_sync": "2026-11-17T11:00:08.290006+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -490,10 +490,10 @@
     "28115946505107": {
       "id": 28115946505107,
       "slug": "28115946505107-How-to-Change-Engage-Kiosk-Style-Preferences",
-      "hash_val": "1265881b47b2cd1a13b3a035ac066466dfd9e940959e3e36f69f3de620ca2b1e",
-      "updated_at": "2026-10-26T20:29:11+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28115946505107howtochangeen-irfob70acxpx",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28115946505107howtochangeen-irfob70acxpx",
+      "hash_val": "e5fe5ab3ffa8c17f42a7676a05cb53eeff935bf3c604f2e8d21d9347cac61610",
+      "updated_at": "2026-11-16T19:20:08+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28115946505107howtochangeen-0bxjf8gss8a0",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28115946505107howtochangeen-0bxjf8gss8a0",
       "locale": "en-us"
     },
     "27690296225555": {
@@ -589,10 +589,10 @@
     "23565267463315": {
       "id": 23565267463315,
       "slug": "23565267463315-Engage-Plan-FAQs",
-      "hash_val": "0cbc3653ac2a4cb56cdf7502d3eab82cb85636cbee0b480bce3e90b78237a8ae",
-      "updated_at": "2026-09-08T04:06:22+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/23565267463315engageplanfaq-5x6hdi9zjs0e",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/23565267463315engageplanfaq-5x6hdi9zjs0e",
+      "hash_val": "1ca5d77f9bc9e4fb88167860593641f9ee14ab5e3924d305eee5c64c24caa168",
+      "updated_at": "2026-11-16T19:24:34+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/23565267463315engageplanfaq-n2eoik3wegf5",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/23565267463315engageplanfaq-n2eoik3wegf5",
       "locale": "en-us"
     },
     "23274673797139": {
@@ -1254,11 +1254,11 @@
     },
     "1500000493782": {
       "id": 1500000493782,
-      "slug": "1500000493782-Billing-How-Do-I-Change-my-Subscription-Plan",
-      "hash_val": "2c3f27fb37336ffee9866d052e8375c397f6cd747a7155a0e2fd3e4d2b0a38c7",
-      "updated_at": "2026-09-28T19:34:27+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500000493782billinghowdoic-f5semghwxxw4",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500000493782billinghowdoic-f5semghwxxw4",
+      "slug": "1500000493782-Billing-Changing-Plans-or-Screen-Counts",
+      "hash_val": "600f749e6505d6c878d802bb990257749bd7293d88046955f3ede407029ebd9e",
+      "updated_at": "2026-11-16T20:25:41+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500000493782billingchangin-kx2z9cjgondc",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500000493782billingchangin-kx2z9cjgondc",
       "locale": "en-us"
     },
     "1500000485202": {
@@ -1497,11 +1497,11 @@
     },
     "360041587014": {
       "id": 360041587014,
-      "slug": "360041587014-How-to-Change-Your-Billing-Information-View-Billing-History-and-Download-Receipts",
-      "hash_val": "72beefe7befafab5f9c95593564f703604e9ed7cc5e1a3a9eb5803774ee1e6a3",
-      "updated_at": "2026-11-05T16:12:55+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360041587014howtochangeyour-ozor3r4fuds7",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360041587014howtochangeyour-ozor3r4fuds7",
+      "slug": "360041587014-Billing-Details-Failed-Payments-Receipts",
+      "hash_val": "fb624e45c54a620cc2568b573e7455e6f7de6b33f98a3fafa2c37ba8c255afef",
+      "updated_at": "2026-11-16T21:36:09+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360041587014billingdetailsf-zeocwc1fnpgk",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360041587014billingdetailsf-zeocwc1fnpgk",
       "locale": "en-us"
     },
     "360041570153": {
@@ -1866,11 +1866,11 @@
     },
     "17639078588691": {
       "id": 17639078588691,
-      "slug": "17639078588691-How-to-cancel-subscription-or-pause-subscription-for-Seasonal-Use-Case",
-      "hash_val": "5fd4c69472bca76c7be9e33b970ea32cc1bb3d8891aaff168e2081af5f65faa4",
-      "updated_at": "2026-09-10T09:49:44+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/17639078588691howtocancelsu-j9iiucrofexj",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/17639078588691howtocancelsu-j9iiucrofexj",
+      "slug": "17639078588691-Cancel-Pause-or-Downgrade-Your-Subscription",
+      "hash_val": "7dfbfda5a9e1542e7a7b1247fb826a493f4a294382da1edb1cec393a84b15d52",
+      "updated_at": "2026-11-16T22:41:11+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/17639078588691cancelpauseor-enf9dofjgop8",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/17639078588691cancelpauseor-enf9dofjgop8",
       "locale": "en-us"
     },
     "6636047009427": {
@@ -1934,15 +1934,6 @@
       "updated_at": "2026-10-30T20:24:26+00:00",
       "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016388733howtousetheinst-nvptleyqdvsd",
       "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016388733howtousetheinst-nvptleyqdvsd",
-      "locale": "en-us"
-    },
-    "360016219114": {
-      "id": 360016219114,
-      "slug": "360016219114-What-if-I-want-to-increase-decrease-number-of-screens-during-the-month",
-      "hash_val": "acc52ae4569aebc35edce7fbd51380b262b8c1295c4d3863cbb82ccd4696eb36",
-      "updated_at": "2026-09-10T09:39:22+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016219114whatifiwanttoin-e0uykkjsxh1p",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016219114whatifiwanttoin-e0uykkjsxh1p",
       "locale": "en-us"
     },
     "44652521310099": {
@@ -2209,10 +2200,10 @@
     "4404616314515": {
       "id": 4404616314515,
       "slug": "4404616314515-How-to-Change-Account-Owners",
-      "hash_val": "0cc1432d22c5d74a91ff06bb5811fdac785c15245d99f21876755ed707606f77",
-      "updated_at": "2026-09-10T09:46:37+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4404616314515howtochangeacc-0maxz13vywog",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4404616314515howtochangeacc-0maxz13vywog",
+      "hash_val": "e7245042f8bd4da5637a6b5acef01a7017c7a1c1229e95cc6e94c53da107c6d3",
+      "updated_at": "2026-11-16T19:20:05+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4404616314515howtochangeacc-pezsl30po9vx",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4404616314515howtochangeacc-pezsl30po9vx",
       "locale": "en-us"
     },
     "1500011891542": {
@@ -2290,10 +2281,10 @@
     "4404608957075": {
       "id": 4404608957075,
       "slug": "4404608957075-How-to-Delete-Your-Account-from-OptiSigns",
-      "hash_val": "99abde1d1652a40617f70df7211b96ec0f1a33d148277c732f76328b984db054",
-      "updated_at": "2026-09-18T13:52:14+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4404608957075howtodeleteyou-ud3tig3xxff8",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4404608957075howtodeleteyou-ud3tig3xxff8",
+      "hash_val": "7dcb93ff888cbf4a2654bc2543bf4f24760eb3849b34f0e506b052157a805c0e",
+      "updated_at": "2026-11-16T19:20:04+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4404608957075howtodeleteyou-wuw3qxmg1cob",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4404608957075howtodeleteyou-wuw3qxmg1cob",
       "locale": "en-us"
     },
     "360016174554": {
@@ -2371,10 +2362,10 @@
     "1500003244381": {
       "id": 1500003244381,
       "slug": "1500003244381-About-the-OnHold-Devices-Folder",
-      "hash_val": "de686f15d19bfa51611fb1c69d27dc2310af77bdc3d653908787ffbfedae2f30",
-      "updated_at": "2026-10-25T15:48:03+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500003244381abouttheonhold-f7ea7nq4hsip",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500003244381abouttheonhold-f7ea7nq4hsip",
+      "hash_val": "f3ef86b6875193dc50171c37843b3d37192524c97dce153cdb559c4e44d1ea40",
+      "updated_at": "2026-11-16T19:20:06+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500003244381abouttheonhold-gexeuj9dn38x",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500003244381abouttheonhold-gexeuj9dn38x",
       "locale": "en-us"
     },
     "360016981853": {
@@ -2438,15 +2429,6 @@
       "updated_at": "2025-09-04T15:33:49+00:00",
       "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016484393howcaniimproves-uzngpni7ryze",
       "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016484393howcaniimproves-uzngpni7ryze",
-      "locale": "en-us"
-    },
-    "360016375793": {
-      "id": 360016375793,
-      "slug": "360016375793-Can-I-have-my-invoices-receipts-sent-to-a-different-email-address",
-      "hash_val": "1830064180ed578b6ec58a5df96c84d6d487f331ddce4d676939d0d5013d3d72",
-      "updated_at": "2026-10-26T15:43:28+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016375793canihavemyinvoi-a1n1h9aei1dq",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360016375793canihavemyinvoi-a1n1h9aei1dq",
       "locale": "en-us"
     },
     "36558469962643": {
