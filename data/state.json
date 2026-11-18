@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-11-17T11:00:08.290006+00:00",
+  "last_sync": "2026-11-18T10:33:44.142432+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -877,10 +877,10 @@
     "9169378546195": {
       "id": 9169378546195,
       "slug": "9169378546195-Data-Residency-and-OptiSigns",
-      "hash_val": "e6227817423d9e1077296eb9c1c72b181aaab125a47c01f557845cd5fd0c5fb1",
-      "updated_at": "2026-11-02T17:03:51+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/9169378546195dataresidencya-u0wi6ncp4una",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/9169378546195dataresidencya-u0wi6ncp4una",
+      "hash_val": "43690d4070ed8b206e1ace715e00fb59975c6e52de15de50de623c816fdab280",
+      "updated_at": "2026-11-17T16:37:00+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/9169378546195dataresidencya-1dd65vniw8js",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/9169378546195dataresidencya-1dd65vniw8js",
       "locale": "en-us"
     },
     "9061950942995": {
@@ -3545,6 +3545,15 @@
       "updated_at": "2026-10-30T19:28:50+00:00",
       "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/56987330525587connectchatgp-x3b9oywn8lrf",
       "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/56987330525587connectchatgp-x3b9oywn8lrf",
+      "locale": "en-us"
+    },
+    "57645638683411": {
+      "id": 57645638683411,
+      "slug": "57645638683411-The-New-Designer-Complete-Feature-Guide",
+      "hash_val": "c8d42376a3f9e7588184926857c2ea1f742801e055cff8270049372fa4f23fad",
+      "updated_at": "2026-11-17T17:52:09+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/57645638683411thenewdesigne-roidjixjim2o",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/57645638683411thenewdesigne-roidjixjim2o",
       "locale": "en-us"
     }
   }
