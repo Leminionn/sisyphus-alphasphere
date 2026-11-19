@@ -3,7 +3,7 @@
 **Article ID:** 54095075680275
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/54095075680275-OptiDev-Add-on-Free-Trial-and-Pricing
-**Last Updated:** 2026-08-05T18:22:19+00:00
+**Last Updated:** 2026-11-18T17:12:24+00:00
 ---
 
 The OptiDev add-on lets you build custom, AI-powered apps and put them straight on your screens. This includes, but is not limited to, dashboards, directories, menus, and kiosks.
@@ -17,7 +17,7 @@ This article covers what it costs, what’s included each month, how the 14-day 
 To get started with an OptiDev add-on, you’ll need:
 
 * An OptiSigns account - [**Standard Plan or higher**](https://www.optisigns.com/pricing).
-* Owner or Super Admin permissions.
+* Owner, Admin or Super Admin permissions.
 * An [OptiSigns-enabled device](https://support.optisigns.com/hc/en-us/articles/360021855653-What-hardware-and-devices-are-supported)
 * A screen, [set up and paired with OptiSigns](https://support.optisigns.com/hc/en-us/articles/18823504383891-OptiSigns-Getting-Started-Guide)
 

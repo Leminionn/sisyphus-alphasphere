@@ -3,7 +3,7 @@
 **Article ID:** 1500000493782
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/1500000493782-Billing-Changing-Plans-or-Screen-Counts
-**Last Updated:** 2026-11-16T20:25:41+00:00
+**Last Updated:** 2026-11-18T20:23:17+00:00
 ---
 
 You can change your plan, add or remove screens, and switch between Monthly and Yearly billing at any time from **Subscription Plan** in your account settings. Click **Update subscription**, make your changes, and confirm on the payment step. Adding screens or moving to a higher plan is charged right away for the rest of your current billing period; removing screens or moving to a lower plan turns the unused time into account credit.

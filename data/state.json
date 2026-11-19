@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-11-18T10:33:44.142432+00:00",
+  "last_sync": "2026-11-19T10:40:15.807757+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -291,11 +291,11 @@
     },
     "34379983350163": {
       "id": 34379983350163,
-      "slug": "34379983350163-Accepted-Payment-Methods",
-      "hash_val": "605309131c625bac6d5ae842eb305b958a0963d673711b9f6612bb05bb565f2b",
-      "updated_at": "2025-09-04T15:39:32+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/34379983350163acceptedpayme-mdgzu07ydrn9",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/34379983350163acceptedpayme-mdgzu07ydrn9",
+      "slug": "34379983350163-Accepted-Payment-Methods-and-Currencies",
+      "hash_val": "cce61179171a4f6ac3ad59e1f852e4dddd8e05ef01074362fc0d9a08e97a6f30",
+      "updated_at": "2026-11-18T22:42:56+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/34379983350163acceptedpayme-lwwycfu09w4e",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/34379983350163acceptedpayme-lwwycfu09w4e",
       "locale": "en-us"
     },
     "33940834613139": {
@@ -1255,10 +1255,10 @@
     "1500000493782": {
       "id": 1500000493782,
       "slug": "1500000493782-Billing-Changing-Plans-or-Screen-Counts",
-      "hash_val": "600f749e6505d6c878d802bb990257749bd7293d88046955f3ede407029ebd9e",
-      "updated_at": "2026-11-16T20:25:41+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500000493782billingchangin-kx2z9cjgondc",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500000493782billingchangin-kx2z9cjgondc",
+      "hash_val": "b78e629e9d3318911c8815f2f01699cebe63f01fa35454e053317eb76da2bec4",
+      "updated_at": "2026-11-18T20:23:17+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500000493782billingchangin-yu8jzlwk8lwu",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500000493782billingchangin-yu8jzlwk8lwu",
       "locale": "en-us"
     },
     "1500000485202": {
@@ -1498,10 +1498,10 @@
     "360041587014": {
       "id": 360041587014,
       "slug": "360041587014-Billing-Details-Failed-Payments-Receipts",
-      "hash_val": "fb624e45c54a620cc2568b573e7455e6f7de6b33f98a3fafa2c37ba8c255afef",
-      "updated_at": "2026-11-16T21:36:09+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360041587014billingdetailsf-zeocwc1fnpgk",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360041587014billingdetailsf-zeocwc1fnpgk",
+      "hash_val": "a9827b169e1233bbc8a02b10b764220d80e30cbfed978ef67aaf37db185aac6a",
+      "updated_at": "2026-11-18T22:06:47+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360041587014billingdetailsf-b5eynxx79x6g",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360041587014billingdetailsf-b5eynxx79x6g",
       "locale": "en-us"
     },
     "360041570153": {
@@ -1543,10 +1543,10 @@
     "360037416494": {
       "id": 360037416494,
       "slug": "360037416494-How-to-Use-the-Jira-App",
-      "hash_val": "8872815bb69954dfdf56e0156e1c1104d9662ed30e62dac1e1f000c198ba5356",
-      "updated_at": "2026-10-13T21:50:54+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360037416494howtousethejira-8sdk0tqn7psx",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360037416494howtousethejira-8sdk0tqn7psx",
+      "hash_val": "5a3f118aa1ede1258ebbb74ef49ff44e25471ee98f9fbe4e7fd45ff3a184353b",
+      "updated_at": "2026-11-18T16:23:19+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360037416494howtousethejira-elqzc4n492bx",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360037416494howtousethejira-elqzc4n492bx",
       "locale": "en-us"
     },
     "360037391854": {
@@ -2649,11 +2649,11 @@
     },
     "5149077938835": {
       "id": 5149077938835,
-      "slug": "5149077938835-How-to-use-Advanced-Website-App",
-      "hash_val": "c57f9b9d04d19a2327c2a0f5a6b8ff3a113dbcb1fe964a2cda64e6351a67bbed",
-      "updated_at": "2026-09-10T09:48:08+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/5149077938835howtouseadvanc-dg3tf1x2h5ap",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/5149077938835howtouseadvanc-dg3tf1x2h5ap",
+      "slug": "5149077938835-How-to-Use-the-Advanced-Website-App",
+      "hash_val": "879699da0cd9f55a8251343a69cb49299d484967973b830989da3eb1b92ab989",
+      "updated_at": "2026-11-18T16:21:38+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/5149077938835howtousetheadv-6lkxq5o8bxg1",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/5149077938835howtousetheadv-6lkxq5o8bxg1",
       "locale": "en-us"
     },
     "5119724468371": {
@@ -2686,10 +2686,10 @@
     "4414539282067": {
       "id": 4414539282067,
       "slug": "4414539282067-Displaying-SharePoint-Sites-on-OptiSigns",
-      "hash_val": "2ede48f000d3d0cf1efdd08a30186775ff7a46cf37a04f5ce0a4d9483029d1b7",
-      "updated_at": "2026-10-01T16:01:20+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4414539282067displayingshar-gjnazi2usjv1",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4414539282067displayingshar-gjnazi2usjv1",
+      "hash_val": "97947ebee16509a5f1b50181071de5c5ac910300e7c434c37e3f4c27c6e5b298",
+      "updated_at": "2026-11-18T16:25:43+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4414539282067displayingshar-bb7ifsvwuqzy",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4414539282067displayingshar-bb7ifsvwuqzy",
       "locale": "en-us"
     },
     "4414355658899": {
@@ -3415,10 +3415,10 @@
     "54095075680275": {
       "id": 54095075680275,
       "slug": "54095075680275-OptiDev-Add-on-Free-Trial-and-Pricing",
-      "hash_val": "bd89325736ccf796bcd85c8e233611beff331f158cea819072117e3d56ac620c",
-      "updated_at": "2026-08-05T18:22:19+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/54095075680275optidevaddonf-izs8lur30t7m",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/54095075680275optidevaddonf-izs8lur30t7m",
+      "hash_val": "94884286ea09524af8be0cb48a4ce30d30293edd411810aa0aef91c062dae851",
+      "updated_at": "2026-11-18T17:12:24+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/54095075680275optidevaddonf-csmqzoqdqmzr",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/54095075680275optidevaddonf-csmqzoqdqmzr",
       "locale": "en-us"
     },
     "55450681344915": {
@@ -3541,10 +3541,10 @@
     "56987330525587": {
       "id": 56987330525587,
       "slug": "56987330525587-Connect-ChatGPT-Claude-and-Grok-to-OptiSigns-Digital-Signage-with-AI-Connector",
-      "hash_val": "1ed3a1e6703cf0593416f57efe0436c4f70867d614b33f0456da99991dee6e3e",
-      "updated_at": "2026-10-30T19:28:50+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/56987330525587connectchatgp-x3b9oywn8lrf",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/56987330525587connectchatgp-x3b9oywn8lrf",
+      "hash_val": "148d39ae95abacd211fe3dad6c9c6e9d6736d9ba9f6771c442eb8d71dae31955",
+      "updated_at": "2026-11-18T16:34:19+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/56987330525587connectchatgp-8cwkoorx4rq1",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/56987330525587connectchatgp-8cwkoorx4rq1",
       "locale": "en-us"
     },
     "57645638683411": {
@@ -3554,6 +3554,15 @@
       "updated_at": "2026-11-17T17:52:09+00:00",
       "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/57645638683411thenewdesigne-roidjixjim2o",
       "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/57645638683411thenewdesigne-roidjixjim2o",
+      "locale": "en-us"
+    },
+    "57688527779219": {
+      "id": 57688527779219,
+      "slug": "57688527779219-AI-Tools-in-OptiSigns-OptiBot-AI-Designer-OptiDev-and-the-AI-Connector",
+      "hash_val": "4f0f81f07798e0cf043085ae570b527f6fc5c3ea1ab2c693e65e9c3df0b12cae",
+      "updated_at": "2026-11-18T18:22:31+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/57688527779219aitoolsinopti-p86226a7tmfx",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/57688527779219aitoolsinopti-p86226a7tmfx",
       "locale": "en-us"
     }
   }
