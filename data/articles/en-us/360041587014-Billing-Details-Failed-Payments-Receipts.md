@@ -3,7 +3,7 @@
 **Article ID:** 360041587014
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360041587014-Billing-Details-Failed-Payments-Receipts
-**Last Updated:** 2026-11-18T22:06:47+00:00
+**Last Updated:** 2026-11-19T20:34:07+00:00
 ---
 
 Your billing details live under **Billing & Orders** in your account settings. **Payment Settings** holds your billing email, payment method, billing address and tax ID. **Billing History** lists your invoices and receipts. If a payment fails, update your payment method in **Payment Settings**: saving a new card pays your outstanding invoice right away.

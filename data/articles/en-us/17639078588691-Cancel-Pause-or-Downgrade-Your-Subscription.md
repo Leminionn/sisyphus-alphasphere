@@ -3,7 +3,7 @@
 **Article ID:** 17639078588691
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/17639078588691-Cancel-Pause-or-Downgrade-Your-Subscription
-**Last Updated:** 2026-11-16T22:41:11+00:00
+**Last Updated:** 2026-11-19T20:34:02+00:00
 ---
 
 You can change your subscription at any time from **Subscription Plan** in your account settings. To **pause** for the off season, move the screens you won't use to **OnHold Devices** and lower your number of screens, so you pay only for the screens you keep. To **downgrade**, switch to the Free plan and keep your account with up to 3 screens. To **cancel**, click **Cancel Subscription**: your plan stays active until the end of your billing period, and you can undo it until then.
@@ -29,7 +29,7 @@ Go to **Subscription Plan** and click **Update subscription**. Under **Number of
 
 You can't go below the number of screens you have paired. When you reach that number, clicking **−** opens **Screen Management**: "Move screens to OnHold or remove them to match your subscription."
 
-Click the pause button next to a screen to move it to **OnHold Devices**, or the bin to unpair it. A screen in OnHold keeps its settings but doesn't use a license, and it shows blank content until you move it back.
+Click the pause button next to a screen to move it to **OnHold Devices**, or the bin to unpair it. A screen in OnHold keeps its settings but doesn't use a license, and it shows a "Your Device is On Hold" message until you move it back.
 
 Then lower the number of screens and click **Continue to payment** to confirm the change. You get a credit for the unused time on the screens you removed, and it's applied to your next invoice.
 

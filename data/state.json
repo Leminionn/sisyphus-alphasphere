@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-11-19T10:40:15.807757+00:00",
+  "last_sync": "2026-11-20T10:20:45.156227+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -247,10 +247,10 @@
     "37966066335891": {
       "id": 37966066335891,
       "slug": "37966066335891-Getting-Started-with-an-OptiSigns-Free-Trial",
-      "hash_val": "dd3dc625109ebaf6970207199074a70137a6066ce9a1cb3cf973a72850963b4a",
-      "updated_at": "2026-09-10T10:46:25+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/37966066335891gettingstarte-0q3li38uqm6t",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/37966066335891gettingstarte-0q3li38uqm6t",
+      "hash_val": "090c3aa014023a39aa594a7e965b2df3745928b492922bdd74db4479903bea97",
+      "updated_at": "2026-11-19T20:21:58+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/37966066335891gettingstarte-huolekqyuqbn",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/37966066335891gettingstarte-huolekqyuqbn",
       "locale": "en-us"
     },
     "36911639377683": {
@@ -271,15 +271,6 @@
       "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/36501302096915howtoaccessth-6u2fzrf7w9m7",
       "locale": "en-us"
     },
-    "35749502945555": {
-      "id": 35749502945555,
-      "slug": "35749502945555-How-to-Using-SEPA-and-iDEAL-for-EUR-Currency-Subscription-Payments",
-      "hash_val": "4a2b94fef7d1828c71cddb3329a08e5cc561442a665c588e41cf8c31e3bd1808",
-      "updated_at": "2026-09-10T10:46:19+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/35749502945555howtousingsep-12gjq3kllrui",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/35749502945555howtousingsep-12gjq3kllrui",
-      "locale": "en-us"
-    },
     "35184720136595": {
       "id": 35184720136595,
       "slug": "35184720136595-How-to-Install-a-Root-Certificate-and-Display-an-Internal-Website-on-Screens",
@@ -292,19 +283,19 @@
     "34379983350163": {
       "id": 34379983350163,
       "slug": "34379983350163-Accepted-Payment-Methods-and-Currencies",
-      "hash_val": "cce61179171a4f6ac3ad59e1f852e4dddd8e05ef01074362fc0d9a08e97a6f30",
-      "updated_at": "2026-11-18T22:42:56+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/34379983350163acceptedpayme-lwwycfu09w4e",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/34379983350163acceptedpayme-lwwycfu09w4e",
+      "hash_val": "cd882292c7013580bf30a9c5715e0ef8d2b36ac4fa29027a23852ed029eba742",
+      "updated_at": "2026-11-19T20:30:22+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/34379983350163acceptedpayme-mjp9gjherqgx",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/34379983350163acceptedpayme-mjp9gjherqgx",
       "locale": "en-us"
     },
     "33940834613139": {
       "id": 33940834613139,
       "slug": "33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan",
-      "hash_val": "4fef0ed0ae866c875d8115a2d0cb085427d6d62c117d789494a01d2f3bb8a388",
-      "updated_at": "2026-10-28T15:43:14+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/33940834613139whatdoigetwit-xt5tsieussdg",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/33940834613139whatdoigetwit-xt5tsieussdg",
+      "hash_val": "961b0c050bb0b84b962bc22e9f7133de7430c4e3b4f2adebab12b0d3f84664a5",
+      "updated_at": "2026-11-19T20:21:36+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/33940834613139whatdoigetwit-qe9mnul3extl",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/33940834613139whatdoigetwit-qe9mnul3extl",
       "locale": "en-us"
     },
     "33382537925267": {
@@ -400,10 +391,10 @@
     "29465595849235": {
       "id": 29465595849235,
       "slug": "29465595849235-List-of-Supported-Cities-for-Weather-Wall-City-Themes",
-      "hash_val": "36e5b3f5b40620cc80af45f0b0359a3fceafb1df28b5bea06ef15db99c1dcbae",
-      "updated_at": "2026-10-10T22:18:29+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/29465595849235listofsupport-6ohl3ct0eyqc",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/29465595849235listofsupport-6ohl3ct0eyqc",
+      "hash_val": "cf7f52eafaebc7e632a9ebf643f5021b3f937ffde8a9147bf2cff73c06ce06ac",
+      "updated_at": "2026-11-19T14:47:10+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/29465595849235listofsupport-kvcsw8jx93r1",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/29465595849235listofsupport-kvcsw8jx93r1",
       "locale": "en-us"
     },
     "29238381023123": {
@@ -1498,10 +1489,10 @@
     "360041587014": {
       "id": 360041587014,
       "slug": "360041587014-Billing-Details-Failed-Payments-Receipts",
-      "hash_val": "a9827b169e1233bbc8a02b10b764220d80e30cbfed978ef67aaf37db185aac6a",
-      "updated_at": "2026-11-18T22:06:47+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360041587014billingdetailsf-b5eynxx79x6g",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360041587014billingdetailsf-b5eynxx79x6g",
+      "hash_val": "a424502f37fc016ad155857ef47e379d9b03256c126bd8d428ddfa67db18c59e",
+      "updated_at": "2026-11-19T20:34:07+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360041587014billingdetailsf-evdgpve5gvbw",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360041587014billingdetailsf-evdgpve5gvbw",
       "locale": "en-us"
     },
     "360041570153": {
@@ -1867,10 +1858,10 @@
     "17639078588691": {
       "id": 17639078588691,
       "slug": "17639078588691-Cancel-Pause-or-Downgrade-Your-Subscription",
-      "hash_val": "7dfbfda5a9e1542e7a7b1247fb826a493f4a294382da1edb1cec393a84b15d52",
-      "updated_at": "2026-11-16T22:41:11+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/17639078588691cancelpauseor-enf9dofjgop8",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/17639078588691cancelpauseor-enf9dofjgop8",
+      "hash_val": "73afb19f02702938d3097d6d336e0774cd89971841f6dd741e42a35f8fc80a2f",
+      "updated_at": "2026-11-19T20:34:02+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/17639078588691cancelpauseor-jxjl7w2cquaa",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/17639078588691cancelpauseor-jxjl7w2cquaa",
       "locale": "en-us"
     },
     "6636047009427": {
@@ -1965,11 +1956,11 @@
     },
     "17129313173395": {
       "id": 17129313173395,
-      "slug": "17129313173395-How-to-manage-Sub-Account-billing-with-OptiSigns",
-      "hash_val": "b6145fab0b82e081614e59f2e82ec250be133e7c63317e0e5d595733ef3e8afd",
-      "updated_at": "2026-09-10T09:49:34+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/17129313173395howtomanagesu-4v2m7j4ed428",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/17129313173395howtomanagesu-4v2m7j4ed428",
+      "slug": "17129313173395-Billing-for-Multiple-Locations-Sub-Accounts-and-Team-Billing",
+      "hash_val": "a600e76e7b39381a42aba10beb4bbcaf0603131e51f02d35a4ff53f903240e27",
+      "updated_at": "2026-11-19T20:30:08+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/17129313173395billingformul-7u4huhuq8ow6",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/17129313173395billingformul-7u4huhuq8ow6",
       "locale": "en-us"
     },
     "14726570281875": {
@@ -2181,11 +2172,11 @@
     },
     "34087061669523": {
       "id": 34087061669523,
-      "slug": "34087061669523-Amazon-Signage-Stick",
-      "hash_val": "43b0af1f69c7286eec39d931d726af7e5ee8f17b5c0a85ebbad94ea7fd809694",
-      "updated_at": "2026-10-29T20:18:17+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/34087061669523amazonsignage-2xnppa9f1kac",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/34087061669523amazonsignage-2xnppa9f1kac",
+      "slug": "34087061669523-Amazon-Signage-Devices-Signage-Sticks-and-Signage-Displays",
+      "hash_val": "7634cadef0244e98a6f84d13725088a7c566c6f7ec3aedf5980ad8a21fb71fa2",
+      "updated_at": "2026-11-19T22:08:35+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/34087061669523amazonsignage-dg2yyfswnhyw",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/34087061669523amazonsignage-dg2yyfswnhyw",
       "locale": "en-us"
     },
     "14502723487379": {
@@ -2281,10 +2272,10 @@
     "4404608957075": {
       "id": 4404608957075,
       "slug": "4404608957075-How-to-Delete-Your-Account-from-OptiSigns",
-      "hash_val": "7dcb93ff888cbf4a2654bc2543bf4f24760eb3849b34f0e506b052157a805c0e",
-      "updated_at": "2026-11-16T19:20:04+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4404608957075howtodeleteyou-wuw3qxmg1cob",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4404608957075howtodeleteyou-wuw3qxmg1cob",
+      "hash_val": "d1b6809b18a9c5c0a0a310f5a77e743b1f178ad1749d0a8c415cc68ad2578fa3",
+      "updated_at": "2026-11-19T20:11:27+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4404608957075howtodeleteyou-jfeh56u0fw2g",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/4404608957075howtodeleteyou-jfeh56u0fw2g",
       "locale": "en-us"
     },
     "360016174554": {
@@ -3487,10 +3478,10 @@
     "55719322614803": {
       "id": 55719322614803,
       "slug": "55719322614803-Inbound-Webhook-DataSources-in-Designer",
-      "hash_val": "c9a29f5e11c2919a55c9470a861ed17193f7311ac82b628cc2eb9a3a58d4039d",
-      "updated_at": "2026-09-24T17:00:10+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/55719322614803inboundwebhoo-zwqtns0qpste",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/55719322614803inboundwebhoo-zwqtns0qpste",
+      "hash_val": "09b81b8487ee151558621c0bdce139fb2bb5f767e5cca26f6ad04b4fc6a97b68",
+      "updated_at": "2026-11-19T22:38:32+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/55719322614803inboundwebhoo-p9q4c9ntp0rd",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/55719322614803inboundwebhoo-p9q4c9ntp0rd",
       "locale": "en-us"
     },
     "55906396437523": {
@@ -3563,6 +3554,15 @@
       "updated_at": "2026-11-18T18:22:31+00:00",
       "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/57688527779219aitoolsinopti-p86226a7tmfx",
       "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/57688527779219aitoolsinopti-p86226a7tmfx",
+      "locale": "en-us"
+    },
+    "57730354923923": {
+      "id": 57730354923923,
+      "slug": "57730354923923-Billing-Purchase-Orders-Invoices-and-Tax-Exemption",
+      "hash_val": "9cb3a382d1fcd34348398d39f88dff47235aa04e5dc29144f3107a8092ec53ca",
+      "updated_at": "2026-11-19T20:27:28+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/57730354923923billingpurcha-7iu90mdxpk9s",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/57730354923923billingpurcha-7iu90mdxpk9s",
       "locale": "en-us"
     }
   }

@@ -3,7 +3,7 @@
 **Article ID:** 34379983350163
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/34379983350163-Accepted-Payment-Methods-and-Currencies
-**Last Updated:** 2026-11-18T22:42:56+00:00
+**Last Updated:** 2026-11-19T20:30:22+00:00
 ---
 
 OptiSigns bills in five currencies: US dollars, euros, British pounds, Canadian dollars and Australian dollars. Every currency accepts credit and debit cards. US-dollar accounts can also pay from a US bank account, and euro accounts can pay by SEPA Direct Debit, iDEAL | Wero or Bancontact. You choose your currency when you first subscribe. To change it later, contact support.
