@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-11-22T10:08:36.298728+00:00",
+  "last_sync": "2026-11-23T11:05:37.828458+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -499,10 +499,10 @@
     "27463953562899": {
       "id": 27463953562899,
       "slug": "27463953562899-Amazon-TV-FireStick-Troubleshooting-Guide",
-      "hash_val": "9ce64b99f98b798bfdcb6d32c87640a613929ed0fbe43a990dc6f3b8ab573efd",
-      "updated_at": "2026-10-13T13:00:37+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/27463953562899amazontvfires-m54t2scncpsl",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/27463953562899amazontvfires-m54t2scncpsl",
+      "hash_val": "bd34803579b8eb8012e73f0e8a74427150f851c68892accb61b3381660583b55",
+      "updated_at": "2026-11-22T17:46:38+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/27463953562899amazontvfires-iqofb1kmmukl",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/27463953562899amazontvfires-iqofb1kmmukl",
       "locale": "en-us"
     },
     "27458261258387": {
