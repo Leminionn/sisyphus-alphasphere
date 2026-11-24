@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-11-23T11:05:37.828458+00:00",
+  "last_sync": "2026-11-24T12:50:26.664741+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -1246,10 +1246,10 @@
     "1500000493782": {
       "id": 1500000493782,
       "slug": "1500000493782-Billing-Changing-Plans-or-Screen-Counts",
-      "hash_val": "b78e629e9d3318911c8815f2f01699cebe63f01fa35454e053317eb76da2bec4",
-      "updated_at": "2026-11-18T20:23:17+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500000493782billingchangin-yu8jzlwk8lwu",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500000493782billingchangin-yu8jzlwk8lwu",
+      "hash_val": "ee7b69f99d2fedaf950cb28c20e15b8ff2a985f5a8ba9ef7b25c2b9b4965df37",
+      "updated_at": "2026-11-23T18:19:02+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500000493782billingchangin-6guziukywbuj",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/1500000493782billingchangin-6guziukywbuj",
       "locale": "en-us"
     },
     "1500000485202": {
@@ -1489,10 +1489,10 @@
     "360041587014": {
       "id": 360041587014,
       "slug": "360041587014-Billing-Details-Failed-Payments-Receipts",
-      "hash_val": "a424502f37fc016ad155857ef47e379d9b03256c126bd8d428ddfa67db18c59e",
-      "updated_at": "2026-11-19T20:34:07+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360041587014billingdetailsf-evdgpve5gvbw",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360041587014billingdetailsf-evdgpve5gvbw",
+      "hash_val": "d8094bdfaa97a1fd38b3c38af47079cfd3a95ac723baf4e503fa77e928e8c544",
+      "updated_at": "2026-11-23T18:20:03+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360041587014billingdetailsf-839z5plcwo1y",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360041587014billingdetailsf-839z5plcwo1y",
       "locale": "en-us"
     },
     "360041570153": {
@@ -2911,10 +2911,10 @@
     "360056977214": {
       "id": 360056977214,
       "slug": "360056977214-How-to-Use-Google-Sheets-with-OptiSigns",
-      "hash_val": "08b8c074d9011a1fb412ebcb813ba0ad08967575026a60afeb90838b9036bdda",
-      "updated_at": "2026-09-18T19:56:41+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360056977214howtousegoogles-yt5lpeuti0ac",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360056977214howtousegoogles-yt5lpeuti0ac",
+      "hash_val": "23850231222924188f78b5f2401baf8a5bdb4ee9ac5ea502f75e68cc96aa0363",
+      "updated_at": "2026-11-23T22:35:01+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360056977214howtousegoogles-5axwcgbn7bxp",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360056977214howtousegoogles-5axwcgbn7bxp",
       "locale": "en-us"
     },
     "360056356414": {
@@ -3091,10 +3091,10 @@
     "360049518313": {
       "id": 360049518313,
       "slug": "360049518313-How-to-Use-the-Google-Drive-App",
-      "hash_val": "b37a5720545008d8c44a481d216c74ac76cfaaa1e28ca5ad736b2134b0988669",
-      "updated_at": "2026-10-26T09:22:47+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360049518313howtousethegoog-lw8cf3ex0sqo",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360049518313howtousethegoog-lw8cf3ex0sqo",
+      "hash_val": "a190fee4fbcbc6516b095307fa5b8ba8963caa738cfc8b782a431b3c20089209",
+      "updated_at": "2026-11-23T23:38:33+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360049518313howtousethegoog-f9gzpnijdon5",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360049518313howtousethegoog-f9gzpnijdon5",
       "locale": "en-us"
     },
     "360049030453": {
@@ -3478,10 +3478,10 @@
     "55719322614803": {
       "id": 55719322614803,
       "slug": "55719322614803-Inbound-Webhook-DataSources-in-Designer",
-      "hash_val": "09b81b8487ee151558621c0bdce139fb2bb5f767e5cca26f6ad04b4fc6a97b68",
-      "updated_at": "2026-11-19T22:38:32+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/55719322614803inboundwebhoo-p9q4c9ntp0rd",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/55719322614803inboundwebhoo-p9q4c9ntp0rd",
+      "hash_val": "a62dcda2cc72c02ef3e2c0447e539dd0be991b7a93b1f2fbd9fa60bf97d55698",
+      "updated_at": "2026-11-23T16:23:26+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/55719322614803inboundwebhoo-v7g1xextwzxb",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/55719322614803inboundwebhoo-v7g1xextwzxb",
       "locale": "en-us"
     },
     "55906396437523": {

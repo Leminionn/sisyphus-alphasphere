@@ -3,7 +3,7 @@
 **Article ID:** 1500000493782
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/1500000493782-Billing-Changing-Plans-or-Screen-Counts
-**Last Updated:** 2026-11-18T20:23:17+00:00
+**Last Updated:** 2026-11-23T18:19:02+00:00
 ---
 
 You can change your plan, add or remove screens, and switch between Monthly and Yearly billing at any time from **Subscription Plan** in your account settings. Click **Update subscription**, make your changes, and confirm on the payment step. Adding screens or moving to a higher plan is charged right away for the rest of your current billing period; removing screens or moving to a lower plan turns the unused time into account credit.
@@ -97,11 +97,11 @@ Here are a few of the more common issues our customers may face when changing th
 
 #### I Don't See Subscription Plan or the Update Subscription Button
 
-Only the account Owner, or a Super Admin or Admin of the main account, can change billing. Ask one of them to make the change. If you see "Your subscription is managed by our billing team. Please contact support to change it.", your account has special pricing, so contact [support@optisigns.com](mailto:support@optisigns.com) and we'll update it for you.
+Only the account Owner, or a Super Admin or Admin of the main account, can change billing. Ask one of them to make the change. If you see "Your subscription is managed by our billing team. Please contact support to change it.", your account has special pricing, so contact [billing@optisigns.com](mailto:billing@optisigns.com) and we'll update it for you.
 
 #### I Can't Change My Currency
 
-Your currency is set when you first subscribe and can't be changed in the portal. Contact [support@optisigns.com](mailto:support@optisigns.com) if you need to pay in a different currency.
+Your currency is set when you first subscribe and can't be changed in the portal. Contact [billing@optisigns.com](mailto:billing@optisigns.com) if you need to pay in a different currency.
 
 #### I Can't Reduce My Number of Screens
 
@@ -109,7 +109,7 @@ You can't go below the number of screens in use. Move the screens you no longer 
 
 #### Can I Pay by Invoice or Purchase Order?
 
-Contact [support@optisigns.com](mailto:support@optisigns.com) to ask about paying by invoice or purchase order. To see which payment methods you can use online, see [Accepted Payment Methods](https://support.optisigns.com/hc/en-us/articles/34379983350163-Accepted-Payment-Methods).
+Contact [billing@optisigns.com](mailto:billing@optisigns.com) to ask about paying by invoice or purchase order. To see which payment methods you can use online, see [Accepted Payment Methods](https://support.optisigns.com/hc/en-us/articles/34379983350163-Accepted-Payment-Methods).
 
 #### Do You Offer a Non-Profit or Education Discount?
 

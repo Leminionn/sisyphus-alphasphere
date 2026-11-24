@@ -3,7 +3,7 @@
 **Article ID:** 360041587014
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360041587014-Billing-Details-Failed-Payments-Receipts
-**Last Updated:** 2026-11-19T20:34:07+00:00
+**Last Updated:** 2026-11-23T18:20:03+00:00
 ---
 
 Your billing details live under **Billing & Orders** in your account settings. **Payment Settings** holds your billing email, payment method, billing address and tax ID. **Billing History** lists your invoices and receipts. If a payment fails, update your payment method in **Payment Settings**: saving a new card pays your outstanding invoice right away.
@@ -150,7 +150,7 @@ Some banks ask you to approve a payment, for example with a code or in your bank
 
 #### I Updated My Card but Still See the Past-Due Banner
 
-Refresh the page. If the banner is still there, check **Billing History**: if the invoice still shows **Failed Charge**, the new card was declined too, so try another card or contact your bank. If you've already paid and the banner stays, contact [support@optisigns.com](mailto:support@optisigns.com).
+Refresh the page. If the banner is still there, check **Billing History**: if the invoice still shows **Failed Charge**, the new card was declined too, so try another card or contact your bank. If you've already paid and the banner stays, contact [billing@optisigns.com](mailto:billing@optisigns.com).
 
 #### Can I Have My Invoices and Receipts Sent to a Different Email Address?
 
@@ -166,7 +166,7 @@ Billing pages are only available to the account Owner, a Super Admin or an Admin
 
 #### "Invalid coupon code"
 
-Check the code for typos and make sure it hasn't expired. If it still doesn't work, contact [support@optisigns.com](mailto:support@optisigns.com).
+Check the code for typos and make sure it hasn't expired. If it still doesn't work, contact [billing@optisigns.com](mailto:billing@optisigns.com).
 
 #### Can I Pay by Invoice or Purchase Order?
 
