@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-11-24T12:50:26.664741+00:00",
+  "last_sync": "2026-11-25T11:37:28.397053+00:00",
   "articles": {
     "53216900345875": {
       "id": 53216900345875,
@@ -463,10 +463,10 @@
     "28295104605843": {
       "id": 28295104605843,
       "slug": "28295104605843-How-to-Create-Use-Playlists",
-      "hash_val": "c6ae0d2c8f598c616fc97f5c4ea3de37e84d419f73d7ffa9222f903b2d35df21",
-      "updated_at": "2026-10-26T08:57:11+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28295104605843howtocreateus-4ik8betafqep",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28295104605843howtocreateus-4ik8betafqep",
+      "hash_val": "d96b87e213c1dc4dad884868076cb15d06a9eae788c8a9a24a031e6cde16a301",
+      "updated_at": "2026-11-24T23:00:00+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28295104605843howtocreateus-jv8fihqdtasf",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/28295104605843howtocreateus-jv8fihqdtasf",
       "locale": "en-us"
     },
     "28140190892307": {
@@ -1471,10 +1471,10 @@
     "360042736794": {
       "id": 360042736794,
       "slug": "360042736794-How-to-set-an-asset-to-Live-or-Expire-at-specific-time",
-      "hash_val": "fd7164bf09ea8e2e326370cbb0fb2d418d8ed2536471959daab41dd1b3afdc92",
-      "updated_at": "2026-09-11T20:37:05+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360042736794howtosetanasset-7cxbcy4d2ma6",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360042736794howtosetanasset-7cxbcy4d2ma6",
+      "hash_val": "19ea475d7acb47ee135448d7c9f76e64ded0694afd69381b4fcc5e48fb50e373",
+      "updated_at": "2026-11-24T22:08:04+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360042736794howtosetanasset-4tt9ylxo2xeh",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360042736794howtosetanasset-4tt9ylxo2xeh",
       "locale": "en-us"
     },
     "360042143333": {
@@ -3091,10 +3091,10 @@
     "360049518313": {
       "id": 360049518313,
       "slug": "360049518313-How-to-Use-the-Google-Drive-App",
-      "hash_val": "a190fee4fbcbc6516b095307fa5b8ba8963caa738cfc8b782a431b3c20089209",
-      "updated_at": "2026-11-23T23:38:33+00:00",
-      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360049518313howtousethegoog-f9gzpnijdon5",
-      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360049518313howtousethegoog-f9gzpnijdon5",
+      "hash_val": "739bbbdb631c0391af0a5a79c7d7243086b252fe6aad440601c09941374120f4",
+      "updated_at": "2026-11-24T16:12:58+00:00",
+      "gemini_file_name": "fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360049518313howtousethegoog-g0vns1ain6iq",
+      "gemini_uri": "gemini://fileSearchStores/optibotknowledgebase-5jt5rs9svj09/documents/360049518313howtousethegoog-g0vns1ain6iq",
       "locale": "en-us"
     },
     "360049030453": {

@@ -3,7 +3,7 @@
 **Article ID:** 360049518313
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360049518313-How-to-Use-the-Google-Drive-App
-**Last Updated:** 2026-11-23T23:38:33+00:00
+**Last Updated:** 2026-11-24T16:12:58+00:00
 ---
 
 With the Google Drive app, you can play the files in a Google Drive folder on your screens: images, videos, and documents such as PDFs, PowerPoint, Word and Excel files. The app keeps the folder in sync, so when you add, change or remove a file in Google Drive, your screens update too. Your team can change what's on screen without ever signing in to OptiSigns.
