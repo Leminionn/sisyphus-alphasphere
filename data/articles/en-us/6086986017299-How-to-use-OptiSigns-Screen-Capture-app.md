@@ -3,7 +3,7 @@
 **Article ID:** 6086986017299
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/6086986017299-How-to-use-OptiSigns-Screen-Capture-app
-**Last Updated:** 2025-09-05T14:51:05+00:00
+**Last Updated:** 2026-11-25T18:04:54+00:00
 ---
 
 With OptiSigns Screen Capture App, you can capture a screenshot on your Windows PC or Mac and send it to the Digital Signs screen.
@@ -59,6 +59,15 @@ You can assign the Screen Capture app anywhere like any other asset, image, or v
 * In your playlist
 * In your schedule
 * In a SplitScreen ScreenZone
+
+---
+
+## Related Articles
+
+* [How to Display Content From Websites That Require a Login](https://support.optisigns.com/hc/en-us/articles/360037391854?ref=related)
+* [How to use Secured Dashboard App](https://support.optisigns.com/hc/en-us/articles/19589190970771?ref=related)
+* [How to use the Web Scripting App](https://support.optisigns.com/hc/en-us/articles/1500012522362?ref=related)
+* [Enabling Lock Down Mode on Touch Screen Devices](https://support.optisigns.com/hc/en-us/articles/30310366838803?ref=related)
 
 ## **That's all! Congratulation!**
 

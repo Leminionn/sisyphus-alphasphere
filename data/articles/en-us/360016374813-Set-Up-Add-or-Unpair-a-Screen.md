@@ -3,7 +3,7 @@
 **Article ID:** 360016374813
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360016374813-Set-Up-Add-or-Unpair-a-Screen
-**Last Updated:** 2026-11-04T18:12:14+00:00
+**Last Updated:** 2026-11-25T18:01:47+00:00
 ---
 
 Turn any TV or display into a digital sign. Install the OptiSigns app on your player, pair it with your account, and choose what it shows.
@@ -139,6 +139,16 @@ The OptiSigns Free Plan **IS NOT SUPPORTED ON:**
 * ChromeOS
 * AppleTV / iOS / iPad
 * BrightSign players
+
+---
+
+## Related Articles
+
+* [Edit Screen: What does each option do?](https://support.optisigns.com/hc/en-us/articles/360048914673?ref=related)
+* [How to Upload & Manage Your Files/ Assets](https://support.optisigns.com/hc/en-us/articles/360016247974?ref=related)
+* [Assign content to your screens](https://support.optisigns.com/hc/en-us/articles/360016375153?ref=related)
+* [OptiStick](https://support.optisigns.com/hc/en-us/articles/27267311796243?ref=related)
+* [OptiSigns - Getting Started Guide](https://support.optisigns.com/hc/en-us/articles/18823504383891?ref=related)
 
 ### That’s all!
 

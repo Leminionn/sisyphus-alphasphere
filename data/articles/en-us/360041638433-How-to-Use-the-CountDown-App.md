@@ -3,7 +3,7 @@
 **Article ID:** 360041638433
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360041638433-How-to-Use-the-CountDown-App
-**Last Updated:** 2026-10-15T18:24:17+00:00
+**Last Updated:** 2026-11-25T18:08:59+00:00
 ---
 
 With the CountDown app, it's possible to display a timer that counts down to any date and time you choose, then show a message of your choice when it reaches zero. Count down to a product launch, a holiday sale, or the start of an event, and let your screens build the anticipation.
@@ -86,6 +86,15 @@ The **Select Asset** window will open. Search for your CountDown app, click it, 
 Back in **Edit Screen**, hit **Save**. Your CountDown timer will now display on your screen.
 
 Your CountDown app can also be displayed in a Playlist or Schedule, or as one zone of a [Split Screen](https://support.optisigns.com/hc/en-us/articles/360026559573).
+
+---
+
+## Related Articles
+
+* [How to Use the CountUp App](https://support.optisigns.com/hc/en-us/articles/360041222994?ref=related)
+* [How to create and use Virtual Screen App](https://support.optisigns.com/hc/en-us/articles/360055900513?ref=related)
+* [Widgets in Designer](https://support.optisigns.com/hc/en-us/articles/42436941395475?ref=related)
+* [How to Use the Simple Clock App](https://support.optisigns.com/hc/en-us/articles/360042950593?ref=related)
 
 ### That’s all!
 

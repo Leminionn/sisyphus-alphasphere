@@ -3,7 +3,7 @@
 **Article ID:** 360041570153
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360041570153-Screen-Calibration-Fix-Content-Bleeding-off-the-Screen
-**Last Updated:** 2026-11-06T20:25:31+00:00
+**Last Updated:** 2026-11-25T17:57:05+00:00
 ---
 
 If the edges of your images or content are cut off, your TV is zooming the picture slightly. This is called overscan. You can fix it by calibrating the screen, either in the OptiSigns app or in your device's settings.

@@ -3,7 +3,7 @@
 **Article ID:** 31695220475283
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/31695220475283-Configuring-Mass-Deployment-with-Jamf-Pro-MDM-on-Apple-Devices
-**Last Updated:** 2026-09-21T19:42:14+00:00
+**Last Updated:** 2026-11-25T17:31:52+00:00
 ---
 
 * [Requirements](#0)
@@ -65,6 +65,15 @@ This will open your **Device Info**:
 After completing the app configuration, you need to define the scope in Jamf MDM. Follow the Jamf [video guide](https://trainingcatalog.jamf.com/device-scope/552567), and assign VPP within Managed Distribution:
 
 Finally, you can check installation status in MDM:
+
+---
+
+## Related Articles
+
+* [How to Perform Mass Provisioning with OptiSigns](https://support.optisigns.com/hc/en-us/articles/4416542923667?ref=related)
+* [Device Management and Mass Provisioning](https://support.optisigns.com/hc/en-us/articles/53497007807251?ref=related)
+* [Remotely Control and Command OptiSigns Devices](https://support.optisigns.com/hc/en-us/articles/360055486554?ref=related)
+* [How to mass deploy OptiSigns on Raspberry Pi devices](https://support.optisigns.com/hc/en-us/articles/360063098753?ref=related)
 
 ### That's all! Congratulations!
 

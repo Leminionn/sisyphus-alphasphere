@@ -3,7 +3,7 @@
 **Article ID:** 360047275934
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-Addresses-Ports
-**Last Updated:** 2026-10-30T16:09:57+00:00
+**Last Updated:** 2026-11-25T17:56:36+00:00
 ---
 
 If your network restricts outgoing traffic, allow the addresses below so your screens can download content and your team can use the OptiSigns portal. Each list is one address per line, so you can copy it and paste it straight into your firewall.

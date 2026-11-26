@@ -3,7 +3,7 @@
 **Article ID:** 360045121233
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360045121233-How-to-Use-the-New-York-Times-app
-**Last Updated:** 2026-09-10T21:43:23+00:00
+**Last Updated:** 2026-11-25T18:08:33+00:00
 ---
 
 * [What You'll Need](https://support.optisigns.com/hc/en-us/articles/360040991534#WhatYouNeed)
@@ -56,6 +56,15 @@ Clicking **Advanced**opens up additional options:
 After you've configured the New York Times News app to your liking, hit **Save**.
 
 Your New York Times app will appear as an Asset in OptiSigns, and it can now be directly assigned to a screen or used in a Playlist. This asset can then be edited at any time from the Files/Assets tab.
+
+---
+
+## Related Articles
+
+* [How to use the CBC News App](https://support.optisigns.com/hc/en-us/articles/1500011611322?ref=related)
+* [How to Use the Guardian News App](https://support.optisigns.com/hc/en-us/articles/360044613874?ref=related)
+* [How to Use the Wall Street Journal App](https://support.optisigns.com/hc/en-us/articles/360045120133?ref=related)
+* [How to Use the News App](https://support.optisigns.com/hc/en-us/articles/360022393473?ref=related)
 
 ---
 

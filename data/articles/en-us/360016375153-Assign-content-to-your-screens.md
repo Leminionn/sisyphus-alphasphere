@@ -3,7 +3,7 @@
 **Article ID:** 360016375153
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360016375153-Assign-content-to-your-screens
-**Last Updated:** 2026-09-18T08:49:43+00:00
+**Last Updated:** 2026-11-25T16:56:43+00:00
 ---
 
 Once you get screens added, you can start assigning, updating the content, or scheduling the content it plays.  
@@ -32,6 +32,16 @@ Then you can set up the schedule to go-live
 * **Go-Live Date & Time**:
   + Set a time when you want the screens to start playing this content. The screen(s) will play this content from this time onward.
   + An Expiration feature will also be provided to stop the content that is temporarily assigned.
+
+---
+
+## Related Articles
+
+* [Set Up, Add, or Unpair a Screen](https://support.optisigns.com/hc/en-us/articles/360016374813?ref=related)
+* [Creating and Using Schedules with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360016981853?ref=related)
+* [Assign Default Content for Schedules](https://support.optisigns.com/hc/en-us/articles/360040943374?ref=related)
+* [How to Create & Use Playlists](https://support.optisigns.com/hc/en-us/articles/28295104605843?ref=related)
+* [How to get the list of playlists where the asset is used](https://support.optisigns.com/hc/en-us/articles/4472060158355?ref=related)
 
 That's all, the Screen will be scheduled.
 

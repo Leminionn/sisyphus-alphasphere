@@ -3,7 +3,7 @@
 **Article ID:** 48241081473043
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/48241081473043-Operational-Schedule-Troubleshooting
-**Last Updated:** 2026-10-22T23:47:31+00:00
+**Last Updated:** 2026-11-25T17:47:41+00:00
 ---
 
 Operational Scheduling is a feature which allows you to turn off and on your digital signs on a set schedule, further automating your setup. If you’re looking to set up an Operational Schedule of your own, see our guide on [Creating and Using Operational Schedules](https://support.optisigns.com/hc/en-us/articles/28598173096723-How-To-Create-and-Use-Operational-Schedules-HDMI-CEC-RS-232).
@@ -99,6 +99,16 @@ Assuming the OptiStick is plugged into a wall socket and this issue persists, he
 * Replace the HDMI-CEC connection with RS232. This issue usually occurs because, for whatever reason, your TV is not able to make use of this feature. Plugging in a [USB-to-RS232 cable](https://www.amazon.com/Adapter-Chipset%EF%BC%8CDB9-Serial-Converter-Windows/dp/B0759HSLP1?crid=DJRK1PMU1XP8&dib=eyJ2IjoiMSJ9.xWQsG3VO7IqOId9P7LqGZq38EEH2QvMypF3SndBiNDHIJy8eXhJM5OWgnvi9cefD87NcVoHJfzIkkhm2fj93LMSdKLrVOwYtWWretyo9_0FcYXKCIxmNeWMwVU9X3Z3vrYr-W6kVTPsxwJfIz75S02drmPkfed8r3lXBbfeClyFQGjAnhrk1T1vW6iTvz8ihzawazD_PKzN4x49gEZM9oRjwOCH8_JAn-_n9xyI2p5RzYrPYxL_7EFAlBzAt4zlFuchQub82kkAddhtogG2jdNx92nxsfT-ocOsD2PEZq7U.uLskW3KPqzSxswulRF9kaQzYhjBL8nVFvpU3GjB1wMQ&dib_tag=se&keywords=USB%2Bto%2BRS232&qid=1768418871&s=electronics&sprefix=usb%2Bto%2Brs232%2Celectronics%2C180&sr=1-3&th=1) usually fixes these issues. For Pro/ProMax users, this [3.5mm-to-RS232 cable](https://www.amazon.com/Wpeng-Female-3-5mm-Serial-Conversion/dp/B06WLP4LTP?crid=2TJVY9W17FGXA&dib=eyJ2IjoiMSJ9.Y6_VGAouYwBNLtnwPYqjn-7cydyPVjGKK0bAEUGUF8eIUkzSYL1ZP9NZRBcu05_r1XxGY3Z1QvyptSulXNnCQH125i4Jjfgx2Qt0uSAmgg2Wgdm3XwCtixWVVfdMD_n8r0nKRjLWXHtwauI8uI6MUHKhfuv7g4U1CM6IpPvwo4wo5eG0AUrFo4h52R25zD1XtpLffAo54EJDoy2rHtJuiQwlKBtci_9Wl5_6seGMHLk.EMlyYI-DF9Ak6MFx4QxzmJVovu79dk4VaYEdXmMZXs8&dib_tag=se&keywords=rs232+cable+jack&qid=1768421592&sprefix=rs232+cable+jac%2Caps%2C169&sr=8-3) will also work.
 
 If you've tried the above, feel free to [reach out to our support team](https://support.optisigns.com/hc/en-us/articles/35626165056787-How-to-Contact-OptiSigns-Support).
+
+---
+
+## Related Articles
+
+* [How To Create and Use Operational Schedules (HDMI-CEC, RS-232)](https://support.optisigns.com/hc/en-us/articles/28598173096723?ref=related)
+* [Using RS232 to Schedule TV Power On/Off or other commands](https://support.optisigns.com/hc/en-us/articles/9061950942995?ref=related)
+* [Preventing the OptiSigns App from Turning On your Screen](https://support.optisigns.com/hc/en-us/articles/15808407287315?ref=related)
+* [OptiSigns Pro/ProMax Player Troubleshooting Guide](https://support.optisigns.com/hc/en-us/articles/40736654972563?ref=related)
+* [OptiStick Troubleshooting Guide](https://support.optisigns.com/hc/en-us/articles/40147900639891?ref=related)
 
 ### That’s all!
 

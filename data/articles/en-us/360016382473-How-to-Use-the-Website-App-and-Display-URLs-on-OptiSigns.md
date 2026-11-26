@@ -3,7 +3,7 @@
 **Article ID:** 360016382473
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360016382473-How-to-Use-the-Website-App-and-Display-URLs-on-OptiSigns
-**Last Updated:** 2026-09-10T09:39:57+00:00
+**Last Updated:** 2026-11-25T18:10:05+00:00
 ---
 
 To display Websites on your digital signs, you can use the **Website app**. Here is how to set one up.
@@ -58,6 +58,16 @@ Now hit **Save**. Your Website asset will now display on screen.
 You can also deploy it as part of a split screen, allowing you to show other assets at the same time. See how in our [Split Screen app article.](https://support.optisigns.com/hc/en-us/articles/360026559573-How-to-Create-and-Use-the-Split-Screen-App)
 
 In order to display multiple web pages, you can create individual Website assets, then place them in a [Playlist](https://support.optisigns.com/hc/en-us/articles/28295104605843-How-to-Create-Use-Playlists). The asset or playlist can also be placed in a [Schedule](https://support.optisigns.com/hc/en-us/articles/360016981853-Creating-and-Using-Schedules-with-OptiSigns).
+
+---
+
+## Related Articles
+
+* [How to Use the Advanced Website App](https://support.optisigns.com/hc/en-us/articles/5149077938835?ref=related)
+* [How to use the Web Scripting App](https://support.optisigns.com/hc/en-us/articles/1500012522362?ref=related)
+* [How to use Embed App](https://support.optisigns.com/hc/en-us/articles/360035815114?ref=related)
+* [How to Display Content From Websites That Require a Login](https://support.optisigns.com/hc/en-us/articles/360037391854?ref=related)
+* [How to Use the Website Screenshot app](https://support.optisigns.com/hc/en-us/articles/10259143299219?ref=related)
 
 ### That's all!
 

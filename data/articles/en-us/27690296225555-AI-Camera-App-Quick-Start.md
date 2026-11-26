@@ -3,7 +3,7 @@
 **Article ID:** 27690296225555
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/27690296225555-AI-Camera-App-Quick-Start
-**Last Updated:** 2026-09-10T09:50:56+00:00
+**Last Updated:** 2026-11-25T17:32:58+00:00
 ---
 
 OptiSigns AI Camera app that allows you to use any camera, plug into the device playing OptiSigns Digital Signage player to:
@@ -98,6 +98,15 @@ For Android, you'll need to go to the app permission settings and grant camera 
 If you are using Windows just download & run [optisigns-ai-detection.exe.](https://links.optisigns.com/ai-add-on-win) If you want OptiSigns AI Detection to run on system start up just follow these [steps here](https://support.optisigns.com/hc/en-us/articles/360058345334-How-to-run-OptiSigns-AI-Add-on-on-start-up-in-Windows).
 
 The app will log events it detected like below.
+
+---
+
+## Related Articles
+
+* [Audience Intelligence (AI Camera) FAQs](https://support.optisigns.com/hc/en-us/articles/360058259834?ref=related)
+* [OptiSigns IoT Sensor Add-on - Quick Start](https://support.optisigns.com/hc/en-us/articles/13097501958291?ref=related)
+* [How to run OptiSigns AI Add-on on start up in Windows](https://support.optisigns.com/hc/en-us/articles/360058345334?ref=related)
+* [How to manually install & activate OptiSigns AI Add-on on Linux or Raspberry Pi](https://support.optisigns.com/hc/en-us/articles/360060676993?ref=related)
 
 **That's all!**
 

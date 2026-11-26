@@ -3,7 +3,7 @@
 **Article ID:** 360043621953
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360043621953-How-to-Create-and-Use-Nested-Playlists
-**Last Updated:** 2026-10-12T21:22:12+00:00
+**Last Updated:** 2026-11-25T17:56:53+00:00
 ---
 
 ## Introduction
@@ -44,6 +44,16 @@ If the child playlist duration is longer than this duration, it will get cut off
 | --- |
 | **NOTE** |
 | If you set specific transitions for playlist items in Global, this setting will remain. |
+
+---
+
+## Related Articles
+
+* [How to Create & Use Playlists](https://support.optisigns.com/hc/en-us/articles/28295104605843?ref=related)
+* [Advanced Playlist Item Playback Control & Campaign Management](https://support.optisigns.com/hc/en-us/articles/22474034993043?ref=related)
+* [How to Manage and Edit Your Playlist Settings](https://support.optisigns.com/hc/en-us/articles/28295074995859?ref=related)
+* [How to Use Content Tags in The Playlist](https://support.optisigns.com/hc/en-us/articles/20879903340947?ref=related)
+* [How to mix playlists and maintain screen time share with OptiSigns Content Rotation App](https://support.optisigns.com/hc/en-us/articles/1500001561861?ref=related)
 
 ### That’s all!
 

@@ -3,7 +3,7 @@
 **Article ID:** 5090125683219
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/5090125683219-BrightSign-Players
-**Last Updated:** 2026-10-29T17:44:28+00:00
+**Last Updated:** 2026-11-25T18:03:30+00:00
 ---
 
 BrightSign makes commercial-grade digital signage players known for their reliability. OptiSigns runs on BrightSign players, and we recommend the HD, XD and XT product lines for the best performance.

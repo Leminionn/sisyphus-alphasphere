@@ -3,7 +3,7 @@
 **Article ID:** 49039295567891
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/49039295567891-ChromeOS-PWA-Instructions
-**Last Updated:** 2026-10-14T19:21:13+00:00
+**Last Updated:** 2026-11-25T17:47:44+00:00
 ---
 
 Chrome boxes are common for large-scale digital signage deployment as there are industrial-grade chrome boxes such as [AOpen Chromebox Commercial 3](https://www.aopen.com/us_en/products_info/Chromebox_Commercial_3/).
@@ -128,6 +128,16 @@ Click **Add to Chrome** and wait for it to install.
 You can go to **Chrome menu (More)** → **Extensions** → **Manage Extensions** → **My Extensions** to see if it successfully downloaded:
 
 Now you can launch OptiSigns from the ChromeOS Launcher on any ChromeOS device (TV, etc.):
+
+---
+
+## Related Articles
+
+* [Set Up, Add, or Unpair a Screen](https://support.optisigns.com/hc/en-us/articles/360016374813?ref=related)
+* [Android TV / ChromeCast](https://support.optisigns.com/hc/en-us/articles/1500004699122?ref=related)
+* [Windows](https://support.optisigns.com/hc/en-us/articles/360034379293?ref=related)
+* [Kiosk Setup Hub](https://support.optisigns.com/hc/en-us/articles/44650391786131?ref=related)
+* [Enabling Lock Down Mode on Touch Screen Devices](https://support.optisigns.com/hc/en-us/articles/30310366838803?ref=related)
 
 ### That's all!
 

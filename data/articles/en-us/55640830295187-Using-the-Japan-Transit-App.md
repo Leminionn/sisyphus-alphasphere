@@ -3,7 +3,7 @@
 **Article ID:** 55640830295187
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/55640830295187-Using-the-Japan-Transit-App
-**Last Updated:** 2026-09-21T20:41:52+00:00
+**Last Updated:** 2026-11-25T17:12:36+00:00
 ---
 
 If your venue is in Tokyo, a departure board in the lobby answers the question every visitor is already asking: when is the next one? The Japan Transit app pulls live Toei subway and Toei bus departures from the Public Transportation Open Data Center (ODPT) and puts them on your screens in Japanese, English, or both.
@@ -153,6 +153,15 @@ Adjust **Speed** under **Display Options** in the asset's settings.
 ## Data Source and Attribution
 
 Departure information comes from the Public Transportation Open Data Center (ODPT). The board shows the required source and licence attribution on screen. The data is provided by the transport operators and ODPT, and is not guaranteed to be accurate or complete.
+
+---
+
+## Related Articles
+
+* [Using the Japan Earthquake App](https://support.optisigns.com/hc/en-us/articles/53095698149011?ref=related)
+* [Using the Flight Schedule App](https://support.optisigns.com/hc/en-us/articles/55669121864979?ref=related)
+* [How to use Google Traffic App](https://support.optisigns.com/hc/en-us/articles/360047499893?ref=related)
+* [How to Use Weather Apps in OptiSigns](https://support.optisigns.com/hc/en-us/articles/360017964153?ref=related)
 
 ### That’s all!
 

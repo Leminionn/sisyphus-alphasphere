@@ -3,7 +3,7 @@
 **Article ID:** 1500011611322
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/1500011611322-How-to-use-the-CBC-News-App
-**Last Updated:** 2026-09-10T09:46:17+00:00
+**Last Updated:** 2026-11-25T18:06:05+00:00
 ---
 
 The OptiSigns CBC app allows you to display CBC News on your digital signs. It covers the most up-to-date Top Stories, Breaking News, World News, Canada News, EU News, Business, Technology, and more.
@@ -48,6 +48,15 @@ Clicking **Advanced**opens up additional options:
 * Scrolling Strip Font Size: If you put the CBC News Wall app to a SplitScreen zone that is a scrolling strip, you can set how big you want the scrolling text to be.
 
 After you've configured the CBC News app to your liking, hit **Save**. Your CBC app will appear as an Asset in OptiSigns, and it can now be directly assigned to a screen or used in a Playlist. This asset can then be edited at any time from the Files/Assets tab.
+
+---
+
+## Related Articles
+
+* [How to Use the News App](https://support.optisigns.com/hc/en-us/articles/360022393473?ref=related)
+* [How to Use the New York Times app](https://support.optisigns.com/hc/en-us/articles/360045121233?ref=related)
+* [How to Use the Guardian News App](https://support.optisigns.com/hc/en-us/articles/360044613874?ref=related)
+* [How to Use RSS feeds with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360037965133?ref=related)
 
 ---
 

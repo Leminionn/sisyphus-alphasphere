@@ -3,7 +3,7 @@
 **Article ID:** 4416704273811
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/4416704273811-Manually-control-playlist-playback-with-OptiSigns
-**Last Updated:** 2026-09-08T16:46:49+00:00
+**Last Updated:** 2026-11-25T16:54:39+00:00
 ---
 
 In some cases, you may want to give the users the capability to control the playlist playback, so that the users can advance to the next asset in the playlist or move back to the previous one.
@@ -30,3 +30,13 @@ With the playback control, you can pause/play the playlist, advance to the next 
 **That's it!** Now you know how to control playlist playback with OptiSigns.
 
 If you have any additional questions or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+
+---
+
+## Related Articles
+
+* [Advanced Playlist Item Playback Control & Campaign Management](https://support.optisigns.com/hc/en-us/articles/22474034993043?ref=related)
+* [Synchronized playback (Sync Play) feature](https://support.optisigns.com/hc/en-us/articles/4412065189267?ref=related)
+* [How to Control and Schedule Playlist Items](https://support.optisigns.com/hc/en-us/articles/20062273670163?ref=related)
+* [Advanced: Proof of Play (or Playback report)](https://support.optisigns.com/hc/en-us/articles/360058936513?ref=related)
+* [Remotely Control and Command OptiSigns Devices](https://support.optisigns.com/hc/en-us/articles/360055486554?ref=related)

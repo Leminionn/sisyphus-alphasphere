@@ -3,7 +3,7 @@
 **Article ID:** 360019517953
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360019517953-How-to-use-Google-Calendar-with-OptiSigns
-**Last Updated:** 2026-09-10T09:40:19+00:00
+**Last Updated:** 2026-11-25T18:09:57+00:00
 ---
 
 Displaying a Google Calendar on a digital sign is a common use case for many. OptiSigns allows you to display a fully-customizable Google Calendar, tuned to your exact specifications. Here are a few examples:
@@ -88,3 +88,13 @@ The app will also auto-adjust the format to a screen in portrait orientation (ro
 You then can assign this newly created asset to your screens to display, or you can also use it in playlists, schedules, etc. like any other assets. If you need more information on how to set up & assign content to your screens, check out our article on [**Assigning Content to Your Screens**](https://support.optisigns.com/hc/en-us/articles/360016375153-Assign-content-to-your-screens).
 
 If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
+
+---
+
+## Related Articles
+
+* [How to Use the Calendar Mix app](https://support.optisigns.com/hc/en-us/articles/4408052949139?ref=related)
+* [How to Use Microsoft Outlook Calendar with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360036250853?ref=related)
+* [How to Use iCloud Calendar with OptiSigns](https://support.optisigns.com/hc/en-us/articles/27356288211859?ref=related)
+* [How to Use the Simple Calendar App](https://support.optisigns.com/hc/en-us/articles/360041481553?ref=related)
+* [Widgets in Designer](https://support.optisigns.com/hc/en-us/articles/42436941395475?ref=related)

@@ -3,7 +3,7 @@
 **Article ID:** 48751096814995
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/48751096814995-How-to-Use-the-Google-Ads-Dashboard-App
-**Last Updated:** 2026-02-02T17:54:16+00:00
+**Last Updated:** 2026-11-25T17:03:41+00:00
 ---
 
 With the Google Ads Dashboard app, it's possible to display near real-time dashboards of information pulled straight from Google Ads. These dashboards are created in Google Looker Studio and can be customized, then communicated throughout the company via digital signage.
@@ -104,6 +104,15 @@ Now hit **Save**. Your Google Ads Dashboard asset will now display on screen.
 | You may need to alter the Width and Height on the Embed Code to get it to display exactly the way you want it. Be sure to push it to the intended screen first to test it - the Preview sometimes looks odd. |
 
 You can also deploy it as part of a split screen, allowing you to show other assets at the same time. See how in our [Split Screen app article.](https://support.optisigns.com/hc/en-us/articles/360026559573-How-to-Create-and-Use-the-Split-Screen-App) It can also be displayed in a [Playlist](https://support.optisigns.com/hc/en-us/articles/28295104605843-How-to-Create-Use-Playlists) or [Schedule](https://support.optisigns.com/hc/en-us/articles/360016981853-Creating-and-Using-Schedules-with-OptiSigns).
+
+---
+
+## Related Articles
+
+* [How to Use the Google Search Console App](https://support.optisigns.com/hc/en-us/articles/48656950622227?ref=related)
+* [How to Use the YouTube Dashboard App](https://support.optisigns.com/hc/en-us/articles/48626115821459?ref=related)
+* [How to Use the Data Studio App](https://support.optisigns.com/hc/en-us/articles/360052088413?ref=related)
+* [How to Display Microsoft Power BI Dashboards & Reports with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360024859713?ref=related)
 
 ### That's all!
 

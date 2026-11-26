@@ -3,7 +3,7 @@
 **Article ID:** 20153471319187
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/20153471319187-External-Storage-on-OptiSigns-Devices
-**Last Updated:** 2026-09-10T09:50:04+00:00
+**Last Updated:** 2026-11-25T17:34:09+00:00
 ---
 
 |  |
@@ -24,3 +24,12 @@ With this checked, a Storage Path field will be enabled. Leave this empty in ord
 After that, the OptiSigns app will use the external storage on this device.
 
 If you have any additional questions, concerns, or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+
+---
+
+## Related Articles
+
+* [How to Upload & Manage Your Files/ Assets](https://support.optisigns.com/hc/en-us/articles/360016247974?ref=related)
+* [Pre-configure Wi-Fi with OptiSigns devices](https://support.optisigns.com/hc/en-us/articles/360055549854?ref=related)
+* [What hardware and devices are supported?](https://support.optisigns.com/hc/en-us/articles/360021855653?ref=related)
+* [Remotely Control and Command OptiSigns Devices](https://support.optisigns.com/hc/en-us/articles/360055486554?ref=related)

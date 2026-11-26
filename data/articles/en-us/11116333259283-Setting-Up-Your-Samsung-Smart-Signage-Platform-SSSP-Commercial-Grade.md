@@ -3,7 +3,7 @@
 **Article ID:** 11116333259283
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/11116333259283-Setting-Up-Your-Samsung-Smart-Signage-Platform-SSSP-Commercial-Grade
-**Last Updated:** 2026-10-29T20:48:30+00:00
+**Last Updated:** 2026-11-25T18:03:51+00:00
 ---
 
 Samsung Smart Signage Platform (SSSP) displays are some of the most popular commercial-grade screens. OptiSigns runs natively on them: the app saves your content on the display so it keeps playing offline, and it updates itself when a new version is released.

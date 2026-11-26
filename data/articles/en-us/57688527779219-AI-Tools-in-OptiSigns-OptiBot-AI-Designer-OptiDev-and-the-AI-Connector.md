@@ -3,7 +3,7 @@
 **Article ID:** 57688527779219
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/57688527779219-AI-Tools-in-OptiSigns-OptiBot-AI-Designer-OptiDev-and-the-AI-Connector
-**Last Updated:** 2026-11-18T18:22:31+00:00
+**Last Updated:** 2026-11-25T17:12:40+00:00
 ---
 
 OptiSigns has four AI tools. Each one does a different job: getting help, designing content, building apps, or managing your screens from the AI assistant you already use. You choose which ones to use, and you can turn them off.
@@ -116,6 +116,15 @@ There isn't a single switch that turns off every AI tool. Each tool is controlle
 ### Is AI Analytics an AI Tool?
 
 No. In **AI Analytics**, the **AI Add-on** and the **AI Camera** app, "AI" stands for **Audience Intelligence**. It counts viewers anonymously on the device itself and isn't one of the AI tools in this article. To learn more, see [AI Camera FAQs](https://support.optisigns.com/hc/en-us/articles/360058259834).
+
+---
+
+## Related Articles
+
+* [Connect ChatGPT, Claude and Grok to OptiSigns Digital Signage with AI Connector](https://support.optisigns.com/hc/en-us/articles/56987330525587?ref=related)
+* [OptiDev Add-on - Free Trial and Pricing](https://support.optisigns.com/hc/en-us/articles/54095075680275?ref=related)
+* [The New Designer: Complete Feature Guide](https://support.optisigns.com/hc/en-us/articles/57645638683411?ref=related)
+* [Inbound Webhook DataSources in Designer](https://support.optisigns.com/hc/en-us/articles/55719322614803?ref=related)
 
 ### That’s all!
 

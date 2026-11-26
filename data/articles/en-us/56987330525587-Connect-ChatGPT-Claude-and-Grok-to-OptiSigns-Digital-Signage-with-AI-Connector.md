@@ -3,7 +3,7 @@
 **Article ID:** 56987330525587
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/56987330525587-Connect-ChatGPT-Claude-and-Grok-to-OptiSigns-Digital-Signage-with-AI-Connector
-**Last Updated:** 2026-11-18T16:34:19+00:00
+**Last Updated:** 2026-11-25T17:02:43+00:00
 ---
 
 With the OptiSigns AI Connector, you can update your screens by asking the AI assistant you already use. Tell ChatGPT, Claude or Grok what you want, and it uploads files, builds playlists, sets schedules and pushes content to your screens for you.
@@ -142,6 +142,15 @@ Add transforge-api.optisigns.com to Claude's allowed domains, as described above
 #### Errors After Signing In, or the Assistant Can't Find Something
 
 Use the exact names shown in the portal. If errors continue, remove the connector from your assistant, add it again and sign in again.
+
+---
+
+## Related Articles
+
+* [AI Tools in OptiSigns: OptiBot, AI Designer, OptiDev and the AI Connector](https://support.optisigns.com/hc/en-us/articles/57688527779219?ref=related)
+* [Build Integrations Using the OptiSigns Enterprise App](https://support.optisigns.com/hc/en-us/articles/13320135306515?ref=related)
+* [How to Integrate API and Publish API Data via OptiSync](https://support.optisigns.com/hc/en-us/articles/22875592994195?ref=related)
+* [OptiDev Add-on - Free Trial and Pricing](https://support.optisigns.com/hc/en-us/articles/54095075680275?ref=related)
 
 ### That’s all!
 

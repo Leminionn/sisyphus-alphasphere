@@ -3,7 +3,7 @@
 **Article ID:** 360016247974
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360016247974-How-to-Upload-Manage-Your-Files-Assets
-**Last Updated:** 2026-11-12T09:09:16+00:00
+**Last Updated:** 2026-11-25T17:57:49+00:00
 ---
 
 ## **Introduction:**
@@ -64,3 +64,13 @@ You can hover on the file and click the three dots of the file. Then select **Re
 You can drag files from your File Explorers or Finders here. Or connect with your Google Drive, Dropbox, OneDrive, etc. and select the files you want to replace it.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+
+---
+
+## Related Articles
+
+* [How to Preview a Screen](https://support.optisigns.com/hc/en-us/articles/360035739414?ref=related)
+* [How to Create & Use Playlists](https://support.optisigns.com/hc/en-us/articles/28295104605843?ref=related)
+* [What types of files are supported?](https://support.optisigns.com/hc/en-us/articles/360016342373?ref=related)
+* [Guide for Creating Content with OptiSigns](https://support.optisigns.com/hc/en-us/articles/29792081890323?ref=related)
+* [Organizing your files, assets, playlists and schedules by using Folders](https://support.optisigns.com/hc/en-us/articles/360043670633?ref=related)

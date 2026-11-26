@@ -3,7 +3,7 @@
 **Article ID:** 6604468198291
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/6604468198291-How-to-Use-the-CAP-Alert-App
-**Last Updated:** 2026-09-18T20:09:38+00:00
+**Last Updated:** 2026-11-25T18:12:16+00:00
 ---
 
 Some Emergency Alert Systems or Emergency Mass Notification Systems (like Everbridge, RAVE. and Alertus) can push CAP (Common Alerting Protocol) and Integrated Public Alert and Warning System (IPAWS) messages to the targets including digital signage when there is an emergency. You can integrate with these systems using the CAP Alert app with OptiSigns.
@@ -165,6 +165,15 @@ And this message (assuming all the defaults were kept in the CAP Alert app) will
 Using urlEncoded format, the duration can be passed as URL parameter together with data.
 
 The rest of the test can be performed identically.
+
+---
+
+## Related Articles
+
+* [How to Use the Emergency Feed App](https://support.optisigns.com/hc/en-us/articles/4409673381011?ref=related)
+* [How to Use the Emergency Message/Alert App](https://support.optisigns.com/hc/en-us/articles/360052513253?ref=related)
+* [How to Use the Flash Message App](https://support.optisigns.com/hc/en-us/articles/360052827713?ref=related)
+* [How to Use the Weather Alert App](https://support.optisigns.com/hc/en-us/articles/6757989639827?ref=related)
 
 ### That's all!
 

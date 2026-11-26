@@ -3,7 +3,7 @@
 **Article ID:** 34087061669523
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/34087061669523-Amazon-Signage-Devices-Signage-Sticks-and-Signage-Displays
-**Last Updated:** 2026-11-19T22:08:35+00:00
+**Last Updated:** 2026-11-25T18:02:06+00:00
 ---
 
 The [Amazon Signage Stick](https://www.amazon.com/dp/B0D4FCG9MX/ref=pmkt_cms105_web) and [Amazon Signage Display](https://link.amazon/B07txRhCC) both support OptiSigns. You don't install OptiSigns from an app store on this device. Instead, you choose OptiSigns as the content management system in Amazon Signage Manager, and Amazon installs the app for you.

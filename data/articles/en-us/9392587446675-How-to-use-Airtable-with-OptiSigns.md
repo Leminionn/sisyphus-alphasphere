@@ -3,7 +3,7 @@
 **Article ID:** 9392587446675
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/9392587446675-How-to-use-Airtable-with-OptiSigns
-**Last Updated:** 2026-10-02T15:09:00+00:00
+**Last Updated:** 2026-11-25T18:04:18+00:00
 ---
 
 *Airtable* is a platform for building collaborative applications. You can display it on your Digital Signage screen with the OptiSigns.
@@ -28,6 +28,15 @@ Click "**Share view**" button and click "**<>Embed this viewon your site**" 
 Then you can edit the width or height in the Embed code. Then Copy and Paste it the OptiSigns' Airtable app.
 
 Click **Save**.
+
+---
+
+## Related Articles
+
+* [How to Set Up Dynamic Data Mapping with OptiSync](https://support.optisigns.com/hc/en-us/articles/29217646663187?ref=related)
+* [How to Display a Smartsheet Report on OptiSigns](https://support.optisigns.com/hc/en-us/articles/8399990754195?ref=related)
+* [How to Use Google Sheets with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360056977214?ref=related)
+* [How to Integrate API and Publish API Data via OptiSync](https://support.optisigns.com/hc/en-us/articles/22875592994195?ref=related)
 
 ## **That's all! Congratulations!**
 

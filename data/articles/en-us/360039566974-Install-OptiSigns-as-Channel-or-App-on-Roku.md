@@ -3,7 +3,7 @@
 **Article ID:** 360039566974
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360039566974-Install-OptiSigns-as-Channel-or-App-on-Roku
-**Last Updated:** 2026-10-29T16:45:01+00:00
+**Last Updated:** 2026-11-25T17:57:09+00:00
 ---
 
 The OptiSigns channel turns a Roku device or Roku TV into a digital signage player. It works best for static menus and simple slideshows.

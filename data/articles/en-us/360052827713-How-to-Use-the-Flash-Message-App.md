@@ -3,7 +3,7 @@
 **Article ID:** 360052827713
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360052827713-How-to-Use-the-Flash-Message-App
-**Last Updated:** 2026-09-10T16:43:35+00:00
+**Last Updated:** 2026-11-25T18:07:09+00:00
 ---
 
 Flash Message App lets you quickly override your screens with a message. This is useful for for quick alerts and announcements.The Flash Message app lets you:
@@ -86,6 +86,15 @@ It will also be showed on your asset list as Activated, and when it will expire.
 You can Expire it immediately by clicking **...** button and hitting **Expire Now.**
 
 You have created your Flash Message App, and know how to activate it.
+
+---
+
+## Related Articles
+
+* [How to Use the Emergency Feed App](https://support.optisigns.com/hc/en-us/articles/4409673381011?ref=related)
+* [How to Use the Emergency Message/Alert App](https://support.optisigns.com/hc/en-us/articles/360052513253?ref=related)
+* [How to Use the CAP Alert App](https://support.optisigns.com/hc/en-us/articles/6604468198291?ref=related)
+* [Feeds and How to Use Them](https://support.optisigns.com/hc/en-us/articles/24338756617747?ref=related)
 
 ## **That's all!**
 

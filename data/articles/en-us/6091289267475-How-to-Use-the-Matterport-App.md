@@ -3,7 +3,7 @@
 **Article ID:** 6091289267475
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/6091289267475-How-to-Use-the-Matterport-App
-**Last Updated:** 2026-10-13T20:37:01+00:00
+**Last Updated:** 2026-11-25T18:04:50+00:00
 ---
 
 Matterport turns real spaces into interactive 3D tours. With the Matterport app, it's possible to show those tours on your digital signs, so you can showcase a property, venue, store or facility in your lobby, showroom or sales office.
@@ -61,6 +61,15 @@ The **Select Asset** window will open. Search for your Matterport app, click it,
 Back in **Edit Screen**, hit **Save**. Your Matterport tour will now display on your screen.
 
 Your Matterport app can also be displayed in a Playlist or Schedule, or as one zone of a [Split Screen](https://support.optisigns.com/hc/en-us/articles/360026559573).
+
+---
+
+## Related Articles
+
+* [How to Use the Website App and Display URLs on OptiSigns](https://support.optisigns.com/hc/en-us/articles/360016382473?ref=related)
+* [How to use Embed App](https://support.optisigns.com/hc/en-us/articles/360035815114?ref=related)
+* [How to Use the Advanced Website App](https://support.optisigns.com/hc/en-us/articles/5149077938835?ref=related)
+* [Assign content to your screens](https://support.optisigns.com/hc/en-us/articles/360016375153?ref=related)
 
 ### That’s all!
 

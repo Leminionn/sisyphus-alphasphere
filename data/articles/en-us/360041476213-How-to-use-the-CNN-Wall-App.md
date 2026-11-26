@@ -3,7 +3,7 @@
 **Article ID:** 360041476213
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360041476213-How-to-use-the-CNN-Wall-App
-**Last Updated:** 2026-09-10T09:41:46+00:00
+**Last Updated:** 2026-11-25T18:09:14+00:00
 ---
 
 The OptiSigns CNN app allows you to display CNN News on your digital signs. It covers the most up-to-date US, Politics, Business, Sport, Entertainment, Football, Health, World, Technology, Europe, Travel, and Most Recent news.
@@ -50,6 +50,15 @@ Clicking **Advanced**opens up additional options:
 * Scrolling Strip Font Size: If you put the CNN News Wall app to a Split Screen zone that is a scrolling strip, you can set how big you want the scrolling text to be.
 
 After you've configured the CNN News app to your liking, hit **Save**. Your CNN app will appear as an Asset in OptiSigns, and it can now be directly assigned to a screen or used in a Playlist. This asset can then be edited at any time from the Files/Assets tab.
+
+---
+
+## Related Articles
+
+* [How to Use the ESPN News App](https://support.optisigns.com/hc/en-us/articles/360040991474?ref=related)
+* [How to use the TechCrunch News App](https://support.optisigns.com/hc/en-us/articles/360040991534?ref=related)
+* [How to Use the News App](https://support.optisigns.com/hc/en-us/articles/360022393473?ref=related)
+* [How to Use RSS feeds with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360037965133?ref=related)
 
 ## **That's all!**
 

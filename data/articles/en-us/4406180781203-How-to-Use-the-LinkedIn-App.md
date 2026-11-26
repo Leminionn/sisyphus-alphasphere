@@ -3,7 +3,7 @@
 **Article ID:** 4406180781203
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/4406180781203-How-to-Use-the-LinkedIn-App
-**Last Updated:** 2026-10-15T21:52:35+00:00
+**Last Updated:** 2026-11-25T18:05:53+00:00
 ---
 
 With the LinkedIn app, it's possible to display the latest posts from your LinkedIn Company Page on your screens. Share company news, job openings and announcements with everyone in the room, and let the wall update as you post. You can view a [live example here](https://social-player.optisigns.com/linkedin/?asset_id=yjBTTG49Nz9uaurhp).
@@ -92,6 +92,16 @@ The **Select Asset** window will open. Search for your LinkedIn app, click it, t
 Back in **Edit Screen**, hit **Save**. Your LinkedIn posts will now display on your screen.
 
 Your LinkedIn app can also be displayed in a Playlist or Schedule, or as one zone of a [Split Screen](https://support.optisigns.com/hc/en-us/articles/360026559573).
+
+---
+
+## Related Articles
+
+* [How to Use the Instagram App](https://support.optisigns.com/hc/en-us/articles/360016388733?ref=related)
+* [How to Use the Social Mix App](https://support.optisigns.com/hc/en-us/articles/4403267825171?ref=related)
+* [How to Use the Instagram Business App](https://support.optisigns.com/hc/en-us/articles/360051495193?ref=related)
+* [How to Use the Facebook Page App](https://support.optisigns.com/hc/en-us/articles/360023848334?ref=related)
+* [How to Moderate Your Social Media Feeds](https://support.optisigns.com/hc/en-us/articles/4403015887763?ref=related)
 
 ### That’s all!
 

@@ -3,7 +3,7 @@
 **Article ID:** 42526907045651
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/42526907045651-Photos-GIFs-and-QR-Codes-in-Designer
-**Last Updated:** 2026-09-10T10:46:45+00:00
+**Last Updated:** 2026-11-25T18:01:16+00:00
 ---
 
 Using Designer, you can use a wide array of stock Photos, GIFs from GIPHY, and customizable QR codes to make your designs more dynamic.
@@ -264,6 +264,16 @@ When a GIF is added to a [Split Screen app](https://support.optisigns.com/hc/en-
 To fix this issue, follow the instructions in our [**How to Fix the Scaling Issue on OptiSticks**](https://support.optisigns.com/hc/en-us/articles/28026588373139-How-to-Fix-The-Scaling-Issue-on-OptiSigns-Android-Device-Gen-3)article. When you reach the **Display Size** menu, change the display size to **Smallest:**
 
 This will fix the GIF and it will display properly.
+
+---
+
+## Related Articles
+
+* [Brand Kit and Enforcing Brand Guidelines](https://support.optisigns.com/hc/en-us/articles/42313875427859?ref=related)
+* [Customize Text](https://support.optisigns.com/hc/en-us/articles/42157810188179?ref=related)
+* [Widgets in Designer](https://support.optisigns.com/hc/en-us/articles/42436941395475?ref=related)
+* [Getting Started with Designer](https://support.optisigns.com/hc/en-us/articles/42087942047379?ref=related)
+* [How to Set Up Dynamic Data Mapping with OptiSync](https://support.optisigns.com/hc/en-us/articles/29217646663187?ref=related)
 
 ### **That’s all!**
 

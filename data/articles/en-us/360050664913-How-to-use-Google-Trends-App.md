@@ -3,7 +3,7 @@
 **Article ID:** 360050664913
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360050664913-How-to-use-Google-Trends-App
-**Last Updated:** 2026-09-16T03:55:59+00:00
+**Last Updated:** 2026-11-25T18:07:51+00:00
 ---
 
 [Google Trends](https://trends.google.com/trends/) show search, interest trend for certain keywords, topic, it is a good way to create interesting, engaging content for your viewers.  
@@ -36,6 +36,14 @@ Go back to OptiSigns and paste it in the Google Trends app:
 
 Click Save.  
 After Saving, you can Preview the wall. It may take several seconds for the app to fetch posts and prepare your wall, so please be patient.
+
+---
+
+## Related Articles
+
+* [How to Use the Data Studio App](https://support.optisigns.com/hc/en-us/articles/360052088413?ref=related)
+* [How to Use the Google Search Console App](https://support.optisigns.com/hc/en-us/articles/48656950622227?ref=related)
+* [How to Use the News App](https://support.optisigns.com/hc/en-us/articles/360022393473?ref=related)
 
 ## **That's all! Congratulation!**
 

@@ -3,7 +3,7 @@
 **Article ID:** 360060676993
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360060676993-How-to-manually-install-activate-OptiSigns-AI-Add-on-on-Linux-or-Raspberry-Pi
-**Last Updated:** 2026-09-10T16:39:47+00:00
+**Last Updated:** 2026-11-25T17:55:49+00:00
 ---
 
 OptiSigns AI Add-on is a background service running on your Linux, Raspberry Pi device to use a Camera to detect & count people passing by.
@@ -76,3 +76,12 @@ Open Terminal and run:
 ```
 
 If you have any additional questions, concerns, or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+
+---
+
+## Related Articles
+
+* [AI Camera App - Quick Start](https://support.optisigns.com/hc/en-us/articles/27690296225555?ref=related)
+* [Audience Intelligence (AI Camera) FAQs](https://support.optisigns.com/hc/en-us/articles/360058259834?ref=related)
+* [How to run OptiSigns AI Add-on on start up in Windows](https://support.optisigns.com/hc/en-us/articles/360058345334?ref=related)
+* [Advanced: How to Install & Activate OptiSigns Remote Agent on Windows](https://support.optisigns.com/hc/en-us/articles/360057327693?ref=related)

@@ -3,7 +3,7 @@
 **Article ID:** 360034883113
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360034883113-Working-with-Teams-and-Security-Levels
-**Last Updated:** 2026-11-03T15:01:24+00:00
+**Last Updated:** 2026-11-25T17:18:22+00:00
 ---
 
 With OptiSigns, you can set up Teams, invite other users / account members and set security levels.  
@@ -85,3 +85,13 @@ To delete a user, click on the ... button next to the user and select Delete Use
 
 If you belong to more than 1 team, you can switch between teams to manage screens for each team.  
 To do so, simply click on your name on the top right, then in the drop-down click the team name to expand and select the team you want to switch to.
+
+---
+
+## Related Articles
+
+* [Folder Level Permissions](https://support.optisigns.com/hc/en-us/articles/360044600474?ref=related)
+* [Advanced Security: Managing User Roles](https://support.optisigns.com/hc/en-us/articles/360046356113?ref=related)
+* [Multi-users: Invite your team members to your account](https://support.optisigns.com/hc/en-us/articles/360016990233?ref=related)
+* [How to Share Contents with Other Users/Teams](https://support.optisigns.com/hc/en-us/articles/18986181635859?ref=related)
+* [User Management Example - Chain Restaurant or Retail Store with Multiple Locations](https://support.optisigns.com/hc/en-us/articles/43657735780627?ref=related)

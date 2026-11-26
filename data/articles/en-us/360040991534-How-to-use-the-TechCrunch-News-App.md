@@ -3,7 +3,7 @@
 **Article ID:** 360040991534
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360040991534-How-to-use-the-TechCrunch-News-App
-**Last Updated:** 2026-09-10T09:41:37+00:00
+**Last Updated:** 2026-11-25T18:09:06+00:00
 ---
 
 The OptiSigns TechCrunch app allows you to display TechCrunch News on your digital signs. It covers the most up-to-date Startups, AI, Venture, Security, Crypto, Apps, Fintech, Hardware news and more.
@@ -52,6 +52,15 @@ Clicking **Advanced**opens up additional options:
 After you've configured the TechCrunch News app to your liking, hit **Save**.
 
 Your TechCrunch app will appear as an Asset in OptiSigns, and it can now be directly assigned to a screen or used in a Playlist. This asset can then be edited at any time from the Files/Assets tab.
+
+---
+
+## Related Articles
+
+* [How to Use the Guardian News App](https://support.optisigns.com/hc/en-us/articles/360044613874?ref=related)
+* [How to Use the ESPN News App](https://support.optisigns.com/hc/en-us/articles/360040991474?ref=related)
+* [How to Use the News App](https://support.optisigns.com/hc/en-us/articles/360022393473?ref=related)
+* [How to Use RSS feeds with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360037965133?ref=related)
 
 ## **That's all!**
 

@@ -3,7 +3,7 @@
 **Article ID:** 29232460955539
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/29232460955539-How-to-Create-an-Attract-Screen-for-Your-Kiosk
-**Last Updated:** 2025-09-04T14:01:30+00:00
+**Last Updated:** 2026-11-25T17:32:24+00:00
 ---
 
 #### Are you looking to bring your interactive kiosk to life and engage passersby with your product? Or, do you have promotional content that you'd like to showcase while the kiosk is idle? Let’s create an appealing visual display to enhance engagement and capture the attention of your audience.
@@ -91,3 +91,12 @@ Explore other ways to use our Kiosk features and how to bring your interactive d
 * [How to use Kiosk Lite (formerly known as Interactive Kiosk app)](https://support.optisigns.com/hc/en-us/articles/360053993934)
 * [How to Create a Content Library Kiosk](https://support.optisigns.com/hc/en-us/articles/17604055961747)
 * [How to use the QR Scan-to-Interact (Touchless QR) app](https://support.optisigns.com/hc/en-us/articles/8899727608083)
+
+---
+
+## Related Articles
+
+* [How to Create a Content Library Kiosk](https://support.optisigns.com/hc/en-us/articles/17604055961747?ref=related)
+* [Getting Started with Touch Screen Kiosks](https://support.optisigns.com/hc/en-us/articles/31449657955347?ref=related)
+* [How to Design Kiosk Apps Using Kiosk Designer Pro](https://support.optisigns.com/hc/en-us/articles/15313086319763?ref=related)
+* [Enabling Lock Down Mode on Touch Screen Devices](https://support.optisigns.com/hc/en-us/articles/30310366838803?ref=related)

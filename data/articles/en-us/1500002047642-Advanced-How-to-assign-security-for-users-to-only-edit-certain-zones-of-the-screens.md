@@ -3,7 +3,7 @@
 **Article ID:** 1500002047642
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/1500002047642-Advanced-How-to-assign-security-for-users-to-only-edit-certain-zones-of-the-screens
-**Last Updated:** 2026-09-10T08:00:57+00:00
+**Last Updated:** 2026-11-25T18:00:11+00:00
 ---
 
 This article will guide you through how to assign security for users to only edit certain zones of the screens.  
@@ -51,3 +51,13 @@ DepartmentB User can see the
 * Department B Playlist Folder in the Playlist
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+
+---
+
+## Related Articles
+
+* [Advanced Security: Managing User Roles](https://support.optisigns.com/hc/en-us/articles/360046356113?ref=related)
+* [User Management Example - Chain Restaurant or Retail Store with Multiple Locations](https://support.optisigns.com/hc/en-us/articles/43657735780627?ref=related)
+* [How to use Approval Workflow feature](https://support.optisigns.com/hc/en-us/articles/360063693093?ref=related)
+* [How to Create and Use the Split Screen App](https://support.optisigns.com/hc/en-us/articles/360026559573?ref=related)
+* [Folder Level Permissions](https://support.optisigns.com/hc/en-us/articles/360044600474?ref=related)

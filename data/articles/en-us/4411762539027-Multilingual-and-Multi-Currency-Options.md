@@ -3,7 +3,7 @@
 **Article ID:** 4411762539027
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/4411762539027-Multilingual-and-Multi-Currency-Options
-**Last Updated:** 2026-09-21T17:51:53+00:00
+**Last Updated:** 2026-11-25T18:01:32+00:00
 ---
 
 #### **Multi-Currency Options**
@@ -68,3 +68,12 @@ Currently, we only have 5 languages in our Designer widget:
 * Español (Spanish)
 * Français (French)
 * Svenska (Swedish)
+
+---
+
+## Related Articles
+
+* [Billing Details, Failed Payments & Receipts](https://support.optisigns.com/hc/en-us/articles/360041587014?ref=related)
+* [Billing: Changing Plans or Screen Counts](https://support.optisigns.com/hc/en-us/articles/1500000493782?ref=related)
+* [Billing: Purchase Orders, Invoices and Tax Exemption](https://support.optisigns.com/hc/en-us/articles/57730354923923?ref=related)
+* [Billing for Multiple Locations: Sub-Accounts and Team Billing](https://support.optisigns.com/hc/en-us/articles/17129313173395?ref=related)

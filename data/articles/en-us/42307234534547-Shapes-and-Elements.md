@@ -3,7 +3,7 @@
 **Article ID:** 42307234534547
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/42307234534547-Shapes-and-Elements
-**Last Updated:** 2026-03-30T20:09:57+00:00
+**Last Updated:** 2026-11-25T18:02:28+00:00
 ---
 
 Adding shapes and elements to a design is a simple matter, but with Designer, there are tons of options to make your words really pop. From
@@ -212,6 +212,16 @@ This is useful when dealing with many elements after getting the shape or elemen
 The **Copy Style** button allows you to quickly apply the style of the selected shape or element to another.
 
 This is useful for quickly formatting numerous elements.
+
+---
+
+## Related Articles
+
+* [Customize Text](https://support.optisigns.com/hc/en-us/articles/42157810188179?ref=related)
+* [Photos, GIFs, and QR Codes in Designer](https://support.optisigns.com/hc/en-us/articles/42526907045651?ref=related)
+* [Brand Kit and Enforcing Brand Guidelines](https://support.optisigns.com/hc/en-us/articles/42313875427859?ref=related)
+* [Designer 2.0 New Features](https://support.optisigns.com/hc/en-us/articles/41432385864595?ref=related)
+* [How to Use Coordinate-Based Positioning and Sizing of Elements in OptiSigns' Designer](https://support.optisigns.com/hc/en-us/articles/20428606424723?ref=related)
 
 ### That’s all!
 

@@ -3,7 +3,7 @@
 **Article ID:** 360063693093
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360063693093-How-to-use-Approval-Workflow-feature
-**Last Updated:** 2026-09-10T09:45:08+00:00
+**Last Updated:** 2026-11-25T18:01:00+00:00
 ---
 
 With OptiSigns Pro or Enterprise Plan, you can set up Approval Workflow so that you can have:
@@ -88,3 +88,13 @@ Content Proposer cannot Edit Screens, Change Assets, Schedule.
 We would like to keep the process simple for both the Proposers and Approvers. Imagine if an approver needs to look at a change in an asset that belong to a Playlist that's in a Schedule 2 weeks from now. It would not be easy for the approver to figure out what's the actual impact of the change.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+
+---
+
+## Related Articles
+
+* [Advanced Security: Managing User Roles](https://support.optisigns.com/hc/en-us/articles/360046356113?ref=related)
+* [User Management Example - Chain Restaurant or Retail Store with Multiple Locations](https://support.optisigns.com/hc/en-us/articles/43657735780627?ref=related)
+* [How to Share Contents with Other Users/Teams](https://support.optisigns.com/hc/en-us/articles/18986181635859?ref=related)
+* [Advanced: How to assign security for users to only edit certain zones of the screens](https://support.optisigns.com/hc/en-us/articles/1500002047642?ref=related)
+* [Working with Teams and Security Levels](https://support.optisigns.com/hc/en-us/articles/360034883113?ref=related)

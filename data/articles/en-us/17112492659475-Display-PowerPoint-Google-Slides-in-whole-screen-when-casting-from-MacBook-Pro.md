@@ -3,7 +3,7 @@
 **Article ID:** 17112492659475
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/17112492659475-Display-PowerPoint-Google-Slides-in-whole-screen-when-casting-from-MacBook-Pro
-**Last Updated:** 2026-09-10T09:49:30+00:00
+**Last Updated:** 2026-11-25T17:34:49+00:00
 ---
 
 Here is the suggestion:
@@ -17,3 +17,12 @@ Here is a how-to video: [Link](https://www.loom.com/share/48181e8a857342b5b890c9
 Here is a how-to article: [Link](https://support.apple.com/guide/mac-help/change-your-displays-resolution-mchl86d72b76/)
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+
+---
+
+## Related Articles
+
+* [Present or Share Your Screen with OptiSigns and the AeriCast Add-on](https://support.optisigns.com/hc/en-us/articles/14502378549907?ref=related)
+* [How to setup AeriCast Meet (Wireless Video Conferencing)](https://support.optisigns.com/hc/en-us/articles/23030445716883?ref=related)
+* [How to Use Google Slides with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360050642833?ref=related)
+* [How to Use Microsoft PowerPoint with OptiSigns](https://support.optisigns.com/hc/en-us/articles/4414355658899?ref=related)

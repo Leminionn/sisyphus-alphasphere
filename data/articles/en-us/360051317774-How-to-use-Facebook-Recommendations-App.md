@@ -3,7 +3,7 @@
 **Article ID:** 360051317774
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360051317774-How-to-use-Facebook-Recommendations-App
-**Last Updated:** 2026-09-10T09:43:31+00:00
+**Last Updated:** 2026-11-25T18:07:20+00:00
 ---
 
 This article will guide you through how to create and use Facebook Recommendation App.
@@ -41,6 +41,15 @@ You can click Advanced and set:
 
 Click Save.  
 After Saving, you can Preview the wall. It may take several seconds for the app to fetch posts and prepare your wall, so please be patient.
+
+---
+
+## Related Articles
+
+* [How to Use the Facebook Page App](https://support.optisigns.com/hc/en-us/articles/360023848334?ref=related)
+* [How to Use the Google Reviews App](https://support.optisigns.com/hc/en-us/articles/360037463934?ref=related)
+* [How to Create and Use the Yelp App](https://support.optisigns.com/hc/en-us/articles/360038769394?ref=related)
+* [Your Facebook Page Doesn't Show in The Dropdown List](https://support.optisigns.com/hc/en-us/articles/20750060900883?ref=related)
 
 ## **That's all! Congratulation!**
 

@@ -3,7 +3,7 @@
 **Article ID:** 13097501958291
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/13097501958291-OptiSigns-IoT-Sensor-Add-on-Quick-Start
-**Last Updated:** 2026-09-14T18:49:07+00:00
+**Last Updated:** 2026-11-25T17:53:21+00:00
 ---
 
 ### How to quickly get your IoT sensors up and running on any screens you wish.
@@ -183,6 +183,16 @@ Once you've configured your Command, press **Save**.
 Next, navigate back to **Lift and Learn** and click on your IoT app to edit it. Click the empty box under **"Commands"** and you should be able to select your tag:
 
 As long as everything is configured correctly, this will allow you to send commands to external devices.
+
+---
+
+## Related Articles
+
+* [Event logging and analytics for External Communication(RS-232)](https://support.optisigns.com/hc/en-us/articles/17342932920211?ref=related)
+* [AI Camera App - Quick Start](https://support.optisigns.com/hc/en-us/articles/27690296225555?ref=related)
+* [Audience Intelligence (AI Camera) FAQs](https://support.optisigns.com/hc/en-us/articles/360058259834?ref=related)
+* [How to use the QR Scan-to-Interact (Touchless QR) app](https://support.optisigns.com/hc/en-us/articles/8899727608083?ref=related)
+* [How to use Kiosk Lite (formerly known as Interactive Kiosk app)](https://support.optisigns.com/hc/en-us/articles/360053993934?ref=related)
 
 ---
 

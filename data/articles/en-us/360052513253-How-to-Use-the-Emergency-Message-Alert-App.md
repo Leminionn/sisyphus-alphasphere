@@ -3,7 +3,7 @@
 **Article ID:** 360052513253
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360052513253-How-to-Use-the-Emergency-Message-Alert-App
-**Last Updated:** 2026-11-05T21:58:11+00:00
+**Last Updated:** 2026-11-25T18:07:13+00:00
 ---
 
 Push a ready-made emergency message to your screens in seconds. Set up one Emergency Message for each situation ahead of time, then activate it from your computer or phone when you need it.

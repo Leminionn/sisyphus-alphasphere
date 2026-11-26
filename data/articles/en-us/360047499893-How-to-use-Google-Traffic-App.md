@@ -3,7 +3,7 @@
 **Article ID:** 360047499893
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360047499893-How-to-use-Google-Traffic-App
-**Last Updated:** 2026-09-15T11:32:26+00:00
+**Last Updated:** 2026-11-25T18:08:21+00:00
 ---
 
 You can use OptiSigns to show Traffic around your locations, this could be helpful for your employees, customers, visitors as they are coming in and out of your location.
@@ -28,6 +28,15 @@ Click Google Traffic:
 * Show Marker (Optional): if you want to show the market for the Location you selected above.
 
 After Saving, you can Preview the Google Traffic app.
+
+---
+
+## Related Articles
+
+* [How to Use Weather Apps in OptiSigns](https://support.optisigns.com/hc/en-us/articles/360017964153?ref=related)
+* [Using the Flight Schedule App](https://support.optisigns.com/hc/en-us/articles/55669121864979?ref=related)
+* [Using the Japan Transit App](https://support.optisigns.com/hc/en-us/articles/55640830295187?ref=related)
+* [How to Create and Use the Split Screen App](https://support.optisigns.com/hc/en-us/articles/360026559573?ref=related)
 
 ## **That's all! Congratulations!**
 

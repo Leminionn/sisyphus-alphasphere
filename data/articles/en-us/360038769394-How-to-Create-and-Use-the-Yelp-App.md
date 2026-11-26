@@ -3,7 +3,7 @@
 **Article ID:** 360038769394
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360038769394-How-to-Create-and-Use-the-Yelp-App
-**Last Updated:** 2026-09-10T06:59:29+00:00
+**Last Updated:** 2026-11-25T18:09:21+00:00
 ---
 
 If you are a business with a lot of reviews on Yelp, you can display these reviews on your big screen TVs to show case your business and also incentive, and make it easy for customers to post more reviews.
@@ -35,6 +35,15 @@ Enter your Yelp Reviews wall information:
 
 Click **Save**.  
 After Saving, you can Preview the wall. It may take several seconds for the app to fetch posts and prepare your wall, so please be patient.
+
+---
+
+## Related Articles
+
+* [How to Use the Google Reviews App](https://support.optisigns.com/hc/en-us/articles/360037463934?ref=related)
+* [How to Use the Facebook Page App](https://support.optisigns.com/hc/en-us/articles/360023848334?ref=related)
+* [How to Use the Social Mix App](https://support.optisigns.com/hc/en-us/articles/4403267825171?ref=related)
+* [How to Use the Follow Us App](https://support.optisigns.com/hc/en-us/articles/360049875794?ref=related)
 
 ---
 

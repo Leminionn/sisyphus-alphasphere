@@ -3,7 +3,7 @@
 **Article ID:** 31960461758611
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/31960461758611-How-to-Order-a-Preconfigured-OptiSigns-Android-Stick
-**Last Updated:** 2026-09-10T09:51:37+00:00
+**Last Updated:** 2026-11-25T17:31:43+00:00
 ---
 
 OptiSigns devices are designed for easy, fast deployment. To support it, OptiSigns Android Sticks can be ordered with pre-configuration. You can order your devices directly through our portal, which will pair it to your account and pre-configure the device with screen name, Wi-Fi, and time zone.
@@ -43,3 +43,13 @@ You can also order devices through other channels:
 * Buy from [Amazon.com](https://links.optisigns.com/optistick-amazon-us) ([CA](https://links.optisigns.com/optistick-amazon-ca), [UK](https://links.optisigns.com/optistick-amazon-uk), [DE](https://links.optisigns.com/optistick-amazon-de))
 
 #### That's it! Now, you can bring your screens to life with OptiSigns!
+
+---
+
+## Related Articles
+
+* [Where to Buy OptiSigns Devices](https://support.optisigns.com/hc/en-us/articles/32129032857875?ref=related)
+* [Pre-configure Wi-Fi with OptiSigns devices](https://support.optisigns.com/hc/en-us/articles/360055549854?ref=related)
+* [How does pre-configured devices labeled in shipping package?](https://support.optisigns.com/hc/en-us/articles/360055546594?ref=related)
+* [How to Perform Mass Provisioning with OptiSigns](https://support.optisigns.com/hc/en-us/articles/4416542923667?ref=related)
+* [OptiStick Troubleshooting Guide](https://support.optisigns.com/hc/en-us/articles/40147900639891?ref=related)

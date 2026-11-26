@@ -3,7 +3,7 @@
 **Article ID:** 5119724468371
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/5119724468371-How-to-Use-the-Notion-App
-**Last Updated:** 2026-10-13T17:37:02+00:00
+**Last Updated:** 2026-11-25T18:04:59+00:00
 ---
 
 With the Notion app, it's possible to display any Notion page on your digital signs. Share team notes, announcements, menus or project updates straight from Notion, and let your screens refresh as the page changes.
@@ -55,6 +55,15 @@ The **Select Asset** window will open. Search for your Notion app, click it, the
 Back in **Edit Screen**, hit **Save**. Your Notion page will now display on your screen.
 
 Your Notion app can also be displayed in a Playlist or Schedule, or as one zone of a [Split Screen](https://support.optisigns.com/hc/en-us/articles/360026559573).
+
+---
+
+## Related Articles
+
+* [How to Use the MindMeister App](https://support.optisigns.com/hc/en-us/articles/1500005889381?ref=related)
+* [How to Use the Slack App](https://support.optisigns.com/hc/en-us/articles/4407335862931?ref=related)
+* [How to Use the Asana App](https://support.optisigns.com/hc/en-us/articles/1500002233221?ref=related)
+* [How to Use the Trello App](https://support.optisigns.com/hc/en-us/articles/360050244454?ref=related)
 
 ### That’s all!
 

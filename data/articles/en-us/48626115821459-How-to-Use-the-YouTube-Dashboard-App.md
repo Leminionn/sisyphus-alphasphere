@@ -3,7 +3,7 @@
 **Article ID:** 48626115821459
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/48626115821459-How-to-Use-the-YouTube-Dashboard-App
-**Last Updated:** 2026-02-02T15:32:55+00:00
+**Last Updated:** 2026-11-25T17:03:44+00:00
 ---
 
 With the YouTube Dashboard app, it's possible to display near real-time dashboards of information pulled straight from YouTube Dashboard. These dashboards are created in Google Looker Studio and can be customized, then communicated throughout the company via digital signage.
@@ -106,6 +106,15 @@ Now hit **Save**. Your Google Analytics asset will now display on screen.
 | You may need to alter the Width and Height on the Embed Code to get it to display exactly the way you want it. Be sure to push it to the intended screen first to test it - the Preview sometimes looks odd. |
 
 You can also deploy it as part of a split screen, allowing you to show other assets at the same time. See how in our [Split Screen app article.](https://support.optisigns.com/hc/en-us/articles/360026559573-How-to-Create-and-Use-the-Split-Screen-App) It can also be displayed in a Playlist or Schedule.
+
+---
+
+## Related Articles
+
+* [How to Use the Google Search Console App](https://support.optisigns.com/hc/en-us/articles/48656950622227?ref=related)
+* [How to Use the Google Ads Dashboard App](https://support.optisigns.com/hc/en-us/articles/48751096814995?ref=related)
+* [How to Use YouTube with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360051014713?ref=related)
+* [How to use YouTube Channel with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360060202914?ref=related)
 
 ### That's all!
 

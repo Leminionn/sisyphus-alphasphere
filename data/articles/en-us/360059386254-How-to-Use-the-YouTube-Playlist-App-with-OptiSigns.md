@@ -3,7 +3,7 @@
 **Article ID:** 360059386254
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360059386254-How-to-Use-the-YouTube-Playlist-App-with-OptiSigns
-**Last Updated:** 2026-09-14T18:47:59+00:00
+**Last Updated:** 2026-11-25T17:55:35+00:00
 ---
 
 Putting YouTube playlist on your digital signs screens is easy with OptiSigns.  
@@ -29,6 +29,14 @@ Enter your YouTube Playlist information:
 * Shuffle: Toggle Shuffle on or off. This will randomize the videos within the Playlist.
 
 Click **Save**.
+
+---
+
+## Related Articles
+
+* [How to use YouTube Channel with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360060202914?ref=related)
+* [How to Use YouTube with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360051014713?ref=related)
+* [How to Use the YouTube Dashboard App](https://support.optisigns.com/hc/en-us/articles/48626115821459?ref=related)
 
 ---
 

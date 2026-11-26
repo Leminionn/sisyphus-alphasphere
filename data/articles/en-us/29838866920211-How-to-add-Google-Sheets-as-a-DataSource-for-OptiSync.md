@@ -3,7 +3,7 @@
 **Article ID:** 29838866920211
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/29838866920211-How-to-add-Google-Sheets-as-a-DataSource-for-OptiSync
-**Last Updated:** 2026-09-28T19:13:38+00:00
+**Last Updated:** 2026-11-25T17:59:53+00:00
 ---
 
 #### Using our new OptiSync feature in Designer, you can add your Google Sheets to your DataSources and apply to your designs or our prebuilt Repeater Templates or Components. For a breakdown on OptiSync, please visit our guide **[here](https://support.optisigns.com/hc/en-us/articles/29217646663187)**.
@@ -69,3 +69,13 @@ There are two different methods to adding Google Sheets to your DataSources:
 ## That's it!
 
 Now you've successfully added your Excel spreadsheet as a DataSource to be used for data mapping with OptiSync!
+
+---
+
+## Related Articles
+
+* [How to Set Up Dynamic Data Mapping with OptiSync](https://support.optisigns.com/hc/en-us/articles/29217646663187?ref=related)
+* [How to Display Birthday Lists with OptiSync Data Mapping and Google Sheets](https://support.optisigns.com/hc/en-us/articles/29979283289235?ref=related)
+* [How to add a Microsoft 365 Excel Spreadsheet as a DataSource for OptiSync](https://support.optisigns.com/hc/en-us/articles/29863080711059?ref=related)
+* [How to Display Dynamic Event Schedules Using OptiSync](https://support.optisigns.com/hc/en-us/articles/33468569218067?ref=related)
+* [How to Use Google Sheets with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360056977214?ref=related)

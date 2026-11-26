@@ -3,7 +3,7 @@
 **Article ID:** 360051014713
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-Use-YouTube-with-OptiSigns
-**Last Updated:** 2026-10-30T20:44:00+00:00
+**Last Updated:** 2026-11-25T18:07:32+00:00
 ---
 
 With the YouTube app, you can play any public YouTube video or Short on your digital signs. Paste the video's link, choose which part of it to play, and assign it to your screens or add it to a Playlist.

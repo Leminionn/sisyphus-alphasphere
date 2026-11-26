@@ -3,7 +3,7 @@
 **Article ID:** 1500002383502
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/1500002383502-How-to-install-OptiSigns-as-Screensaver-on-Roku
-**Last Updated:** 2026-09-10T09:45:30+00:00
+**Last Updated:** 2026-11-25T17:55:24+00:00
 ---
 
 Updated Sep 2023. After Roku OS 12.0.0 updates, Roku is enforcing stricter to power management & screensaver.
@@ -53,3 +53,11 @@ Once the Roku is idle, your screen will run Optisigns app.
 Then you are all set.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+
+---
+
+## Related Articles
+
+* [Install OptiSigns as Channel or App on Roku](https://support.optisigns.com/hc/en-us/articles/360039566974?ref=related)
+* [Roku Release Notes & Limitation](https://support.optisigns.com/hc/en-us/articles/360042143333?ref=related)
+* [Set Up, Add, or Unpair a Screen](https://support.optisigns.com/hc/en-us/articles/360016374813?ref=related)

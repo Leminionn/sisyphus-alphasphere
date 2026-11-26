@@ -3,7 +3,7 @@
 **Article ID:** 360045120133
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360045120133-How-to-Use-the-Wall-Street-Journal-App
-**Last Updated:** 2026-09-10T20:57:02+00:00
+**Last Updated:** 2026-11-25T18:08:40+00:00
 ---
 
 The OptiSigns Wall Street Journal app allows you to display The Wall Street Journal on your digital signs. It covers the most up-to-date Opinion pieces, World News stories, US Business pieces, Market news, Technology, and Lifestyle pieces.
@@ -48,6 +48,15 @@ Clicking **Advanced**opens up additional options:
 * Scrolling Strip Font Size: If you put the Wall Street Journal app to a SplitScreen zone that is a scrolling strip, you can set how big you want the scrolling text to be.
 
 After you've configured the Wall Street Journal app to your liking, hit **Save**. Your Wall Street Journal app will appear as an Asset in OptiSigns, and it can now be directly assigned to a screen or used in a Playlist. This asset can then be edited at any time from the Files/Assets tab.
+
+---
+
+## Related Articles
+
+* [How to use Market Index App](https://support.optisigns.com/hc/en-us/articles/360049155994?ref=related)
+* [How to Use the Stock App](https://support.optisigns.com/hc/en-us/articles/360044115513?ref=related)
+* [How to Use the New York Times app](https://support.optisigns.com/hc/en-us/articles/360045121233?ref=related)
+* [How to Display Content From Websites That Require a Login](https://support.optisigns.com/hc/en-us/articles/360037391854?ref=related)
 
 ## **That's all!**
 

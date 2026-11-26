@@ -3,7 +3,7 @@
 **Article ID:** 4403616315539
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/4403616315539-How-to-approve-OptiSigns-as-Enterprise-App-on-Microsoft-Azure-for-Power-BI-Calendar-etc-access
-**Last Updated:** 2026-09-10T09:46:30+00:00
+**Last Updated:** 2026-11-25T17:54:42+00:00
 ---
 
 With OptiSigns, you can use Power BI, Microsoft Outlook Calendar, OneDrive app to integrate your Dashboard, calendar or content from your OneDrive on to your digital signage screens.
@@ -49,6 +49,16 @@ Click "Review permission & consent"
 Review the permissions requested by OptiSigns. OptiSigns, as a digital signage application, only reads and displays assets. It will not modify, move, or delete objects. See our [Privacy Policy](https://www.optisigns.com/privacy-policy) for more information.
 
 Click **Accept:**
+
+---
+
+## Related Articles
+
+* [How to Set Up a Power BI Service Principal for Use in OptiSigns](https://support.optisigns.com/hc/en-us/articles/32860569148819?ref=related)
+* [How to Display Microsoft Power BI Dashboards & Reports with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360024859713?ref=related)
+* [How to Use Microsoft Outlook Calendar with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360036250853?ref=related)
+* [How to Use Microsoft Excel Online with OptiSigns](https://support.optisigns.com/hc/en-us/articles/4529298306963?ref=related)
+* [How to Set Up an Outlook Calendar App with Shared Permissions](https://support.optisigns.com/hc/en-us/articles/45619214182803?ref=related)
 
 **That's all!** You have reviewed and approve OptiSigns to be used as Enterprise App in your organization.
 

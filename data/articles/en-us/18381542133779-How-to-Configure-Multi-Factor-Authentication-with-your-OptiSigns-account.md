@@ -3,7 +3,7 @@
 **Article ID:** 18381542133779
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/18381542133779-How-to-Configure-Multi-Factor-Authentication-with-your-OptiSigns-account
-**Last Updated:** 2026-09-10T09:49:48+00:00
+**Last Updated:** 2026-11-25T17:34:32+00:00
 ---
 
 Nowadays, digital security is critical in the world because both businesses and users store sensitive information online. You can set up Multi-Factor Authentication with your OptiSigns account. This increases your account's security.  
@@ -46,3 +46,13 @@ You can download the Backup Codes.
 You can turn off the **Text Message (SMS)** at any time, you can just click the "**Turn Off**" button.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+
+---
+
+## Related Articles
+
+* [Advanced: Enforce SSO login for your account](https://support.optisigns.com/hc/en-us/articles/360061576673?ref=related)
+* [SAML Integration Strategies & Best Practices](https://support.optisigns.com/hc/en-us/articles/4407128433299?ref=related)
+* [Disk Encryption](https://support.optisigns.com/hc/en-us/articles/40212027797523?ref=related)
+* [Data Residency and OptiSigns](https://support.optisigns.com/hc/en-us/articles/9169378546195?ref=related)
+* [Setting Up Audit Logging](https://support.optisigns.com/hc/en-us/articles/4403332894867?ref=related)

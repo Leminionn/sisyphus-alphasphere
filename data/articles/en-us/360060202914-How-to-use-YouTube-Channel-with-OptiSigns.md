@@ -3,7 +3,7 @@
 **Article ID:** 360060202914
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360060202914-How-to-use-YouTube-Channel-with-OptiSigns
-**Last Updated:** 2026-09-10T09:44:55+00:00
+**Last Updated:** 2026-11-25T18:06:45+00:00
 ---
 
 Putting YouTube Channel on your digital signs screens is easy with OptiSigns.  
@@ -39,6 +39,14 @@ Here is how to obtain it.
 * Right-click on the page and select the "View Source" option
 * You will be directed to a page with the same URL as before just containing the "view-source:" prefix. Press (CTRL+F) on your keyboard to use the find function.
 * Copy and Paste "<https://www.youtube.com/channel/>" into the find function search window. The first result highlighted by the find function will be the correct URL with the channel ID that is needed for the OptiSigns YouTube application.
+
+---
+
+## Related Articles
+
+* [How to use YouTube Live Schedule with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360060284174?ref=related)
+* [How to Use YouTube with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360051014713?ref=related)
+* [How to Use the YouTube Playlist App with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360059386254?ref=related)
 
 ## **That's all! Congratulation!**
 

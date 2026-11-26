@@ -3,7 +3,7 @@
 **Article ID:** 360016174554
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360016174554-How-to-Set-Up-and-Manage-OptiSigns-on-Amazon-FireTV-and-Firesticks
-**Last Updated:** 2026-11-04T17:44:59+00:00
+**Last Updated:** 2026-11-25T18:02:50+00:00
 ---
 
 Turn a TV with an Amazon Fire TV Stick into a digital sign. Install the OptiSigns app from the Amazon Appstore, pair it with your account, and manage what it shows from the OptiSigns portal.

@@ -3,7 +3,7 @@
 **Article ID:** 1500003161182
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/1500003161182-How-to-move-screen-to-other-team
-**Last Updated:** 2026-09-10T09:45:32+00:00
+**Last Updated:** 2026-11-25T17:55:20+00:00
 ---
 
 This article will guide you through how to move the screen to another team.
@@ -35,3 +35,12 @@ It means you need to update the **Number of screens limit** for your team.
 Then you are good to move the screen to the team.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+
+---
+
+## Related Articles
+
+* [Working with Teams and Security Levels](https://support.optisigns.com/hc/en-us/articles/360034883113?ref=related)
+* [Advanced Security: Managing User Roles](https://support.optisigns.com/hc/en-us/articles/360046356113?ref=related)
+* [Folder Level Permissions](https://support.optisigns.com/hc/en-us/articles/360044600474?ref=related)
+* [Move Screens or Devices from One Account to Another](https://support.optisigns.com/hc/en-us/articles/27458261258387?ref=related)

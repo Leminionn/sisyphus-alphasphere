@@ -3,7 +3,7 @@
 **Article ID:** 30304278652563
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/30304278652563-How-to-Use-the-Mobile-App-for-Remote-Control
-**Last Updated:** 2026-09-10T09:51:30+00:00
+**Last Updated:** 2026-11-25T17:32:10+00:00
 ---
 
 OptiSigns Admin Mobile App is a powerful tool that allows you to control your OptiSigns devices directly from your smartphone. We recommend following this guide for device setup, especially if your device is not pre-configured.
@@ -79,3 +79,13 @@ Once connected, you will see a virtual remote interface with various control but
 Using the OptiSigns Admin Mobile App's remote control feature makes managing your OptiSigns Android Stick easy and efficient. With simple installation, pairing, and intuitive controls, you can effortlessly navigate and control your device settings.
 
 By following these steps, you'll be able to fully leverage the remote control capabilities of the OptiSigns Admin Mobile App, ensuring smooth operation and management of your OptiSigns Android Stick.
+
+---
+
+## Related Articles
+
+* [How to Use the OptiSigns Mobile Admin App](https://support.optisigns.com/hc/en-us/articles/30003143806099?ref=related)
+* [Remotely Control and Command OptiSigns Devices](https://support.optisigns.com/hc/en-us/articles/360055486554?ref=related)
+* [About the OnHold Devices Folder](https://support.optisigns.com/hc/en-us/articles/1500003244381?ref=related)
+* [How to setup WIFI with OptiSigns Admin mobile app on OptiSigns Pre-Configured Android Player](https://support.optisigns.com/hc/en-us/articles/4409607912211?ref=related)
+* [OptiStick Troubleshooting Guide](https://support.optisigns.com/hc/en-us/articles/40147900639891?ref=related)

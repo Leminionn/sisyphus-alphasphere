@@ -3,7 +3,7 @@
 **Article ID:** 360058855273
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360058855273-How-to-use-Google-Docs-with-OptiSigns
-**Last Updated:** 2026-09-10T09:44:45+00:00
+**Last Updated:** 2026-11-25T18:06:52+00:00
 ---
 
 You can set up Google Docs with OptiSigns so that whenever changes are made on Google Docs it will automatically show up on your screen.
@@ -55,6 +55,15 @@ Click **Publish** -> **OK** and you will get a link. Copy that published link.
 
 Click Save.  
 After Saving, you can Preview it.
+
+---
+
+## Related Articles
+
+* [How to Use Google Slides with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360050642833?ref=related)
+* [How to Use Google Sheets with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360056977214?ref=related)
+* [How to Use the Google Drive App](https://support.optisigns.com/hc/en-us/articles/360049518313?ref=related)
+* [Assign content to your screens](https://support.optisigns.com/hc/en-us/articles/360016375153?ref=related)
 
 ### **That's all! Congratulations!**
 

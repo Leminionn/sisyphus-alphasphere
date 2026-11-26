@@ -3,7 +3,7 @@
 **Article ID:** 25127398699667
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/25127398699667-How-to-add-a-QR-Code-in-designs-using-OptiSigns-Designer
-**Last Updated:** 2026-09-10T21:45:48+00:00
+**Last Updated:** 2026-11-25T17:33:19+00:00
 ---
 
 With OptiSigns you can add QR Code directly in the Designer tool without the need of another QR Code generator.
@@ -26,6 +26,15 @@ Go to  [canvas.optisigns.com](https://canvas.optisigns.com/). Choose your own t
 Choose the QR code style for your design, input the necessary information, and click 'Update QR Code' to generate.
 
 Finally, don’t forget to click on the save button before closing the design.
+
+---
+
+## Related Articles
+
+* [Navigating Through OptiSigns' Template Library](https://support.optisigns.com/hc/en-us/articles/20425113117459?ref=related)
+* [Getting Started with Designer](https://support.optisigns.com/hc/en-us/articles/42087942047379?ref=related)
+* [How to Use OptiSigns' Template & Designer to Make Your Digital Signs in Minutes](https://support.optisigns.com/hc/en-us/articles/4404151402899?ref=related)
+* [How to create and use QR Code, Call To Action app](https://support.optisigns.com/hc/en-us/articles/360039264133?ref=related)
 
 ### That's all!
 

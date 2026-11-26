@@ -3,7 +3,7 @@
 **Article ID:** 1500004699122
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/1500004699122-Android-TV-ChromeCast
-**Last Updated:** 2026-10-28T21:05:51+00:00
+**Last Updated:** 2026-11-25T18:00:56+00:00
 ---
 
 Turn any Android TV, Google TV or Chromecast with Google TV into a digital sign. You install the free OptiSigns Digital Signage app from the Google Play Store, pair it with your OptiSigns account, and then manage what it shows from the OptiSigns portal.

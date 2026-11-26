@@ -3,7 +3,7 @@
 **Article ID:** 4409673381011
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/4409673381011-How-to-Use-the-Emergency-Feed-App
-**Last Updated:** 2026-09-14T21:00:39+00:00
+**Last Updated:** 2026-11-25T18:12:20+00:00
 ---
 
 Some Emergency Alert Systems or Emergency Mass Notification Systems push out RSS feeds.
@@ -68,6 +68,15 @@ Click **Advanced** to expand the field and provide a slate of additional options
 Click **Save**.
 
 After Saving, the app will start listening to the RSS feed. If the conditions match based on your settings, they will take over the screens you targeted and display the emergency messages from the RSS feed.
+
+---
+
+## Related Articles
+
+* [How to Use the Flash Message App](https://support.optisigns.com/hc/en-us/articles/360052827713?ref=related)
+* [How to Use the CAP Alert App](https://support.optisigns.com/hc/en-us/articles/6604468198291?ref=related)
+* [How to Use the Emergency Message/Alert App](https://support.optisigns.com/hc/en-us/articles/360052513253?ref=related)
+* [Feeds and How to Use Them](https://support.optisigns.com/hc/en-us/articles/24338756617747?ref=related)
 
 ### That's all!
 

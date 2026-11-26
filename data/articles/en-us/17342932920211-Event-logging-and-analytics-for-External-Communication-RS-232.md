@@ -3,7 +3,7 @@
 **Article ID:** 17342932920211
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/17342932920211-Event-logging-and-analytics-for-External-Communication-RS-232
-**Last Updated:** 2026-09-10T09:49:39+00:00
+**Last Updated:** 2026-11-25T17:34:44+00:00
 ---
 
 With OptiSigns you can enable track of the data communication between the digital signage player and external devices through external communication (RS232). The feature is available for customers on Enterprise plan.
@@ -63,6 +63,15 @@ You can also go to the report history tab and download the historical data expor
 ## **Summary:**
 
 The RS-232 logging and analytics will collect the event data and make it available to customers. The data is available in JSON format, you can automate the data export and build your own data pipeline to process the data for further analysis.
+
+---
+
+## Related Articles
+
+* [OptiSigns IoT Sensor Add-on - Quick Start](https://support.optisigns.com/hc/en-us/articles/13097501958291?ref=related)
+* [Advanced: Proof of Play (or Playback report)](https://support.optisigns.com/hc/en-us/articles/360058936513?ref=related)
+* [Setting Up Audit Logging](https://support.optisigns.com/hc/en-us/articles/4403332894867?ref=related)
+* [AI Camera App - Quick Start](https://support.optisigns.com/hc/en-us/articles/27690296225555?ref=related)
 
 **That's all!**
 

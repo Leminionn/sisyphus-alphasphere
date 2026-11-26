@@ -3,7 +3,7 @@
 **Article ID:** 32129032857875
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/32129032857875-Where-to-Buy-OptiSigns-Devices
-**Last Updated:** 2026-10-29T15:32:35+00:00
+**Last Updated:** 2026-11-25T18:03:24+00:00
 ---
 
 |  |  |  |
@@ -116,3 +116,13 @@ The OptiSigns ProMax Player has all the capabilities of a Pro Player, but also a
 **International Customers:**
 
 * [Log in & order from your account](https://app.optisigns.com/app/s/order-device/promax-player) - An additional $30 shipping fee will be levied, in addition to any relevant customs and tariff fees.
+
+---
+
+## Related Articles
+
+* [OptiStick](https://support.optisigns.com/hc/en-us/articles/27267311796243?ref=related)
+* [ProPlayer](https://support.optisigns.com/hc/en-us/articles/32272215514131?ref=related)
+* [Kiosk Setup Hub](https://support.optisigns.com/hc/en-us/articles/44650391786131?ref=related)
+* [What hardware and devices are supported?](https://support.optisigns.com/hc/en-us/articles/360021855653?ref=related)
+* [Billing: Changing Plans or Screen Counts](https://support.optisigns.com/hc/en-us/articles/1500000493782?ref=related)

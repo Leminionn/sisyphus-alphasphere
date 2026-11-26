@@ -3,7 +3,7 @@
 **Article ID:** 360049155994
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360049155994-How-to-use-Market-Index-App
-**Last Updated:** 2026-09-10T09:42:51+00:00
+**Last Updated:** 2026-11-25T18:08:05+00:00
 ---
 
 Beside the [Stock Apps](https://support.optisigns.com/hc/en-us/articles/360044115513), where you can select a list of your own Stock Tickers, you can use Marked Index app for quicker, more general market prices update. You can add one of these app:
@@ -35,6 +35,15 @@ Enter the details needed.
 Click **Save**.
 
 After Saving, you can preview the wall. It may take several seconds for the app prepare your wall.
+
+---
+
+## Related Articles
+
+* [How to Use the Crypto Index & Crypto Exchange App](https://support.optisigns.com/hc/en-us/articles/360049919933?ref=related)
+* [How to Use the Stock App](https://support.optisigns.com/hc/en-us/articles/360044115513?ref=related)
+* [How to Use the Currency Exchange App](https://support.optisigns.com/hc/en-us/articles/360049156234?ref=related)
+* [How to Use the Wall Street Journal App](https://support.optisigns.com/hc/en-us/articles/360045120133?ref=related)
 
 ## **That's all! Congratulations!**
 

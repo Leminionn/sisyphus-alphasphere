@@ -3,7 +3,7 @@
 **Article ID:** 20428606424723
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/20428606424723-How-to-Use-Coordinate-Based-Positioning-and-Sizing-of-Elements-in-OptiSigns-Designer
-**Last Updated:** 2026-09-10T09:50:08+00:00
+**Last Updated:** 2026-11-25T16:55:27+00:00
 ---
 
 If you want to craft visually appealing and professional designs, achieving pixel-perfect layouts and precise element positioning is essential.
@@ -31,6 +31,15 @@ Under the **Advanced** section, you will see the following options:
 * **Maintain Aspect Ratio link (for images or graphical elements only)** - This feature is a convenient tool for maintaining the original proportions of the selected element while adjusting its width and height.
   + When activated (with the link set to "Vertical," as shown above), changing one dimension (width or height) will automatically adjust the other dimension to preserve the aspect ratio.
   + This ensures that the element doesn't become distorted when resized.
+
+---
+
+## Related Articles
+
+* [Getting Started with Designer](https://support.optisigns.com/hc/en-us/articles/42087942047379?ref=related)
+* [How to Use OptiSigns' Template & Designer to Make Your Digital Signs in Minutes](https://support.optisigns.com/hc/en-us/articles/4404151402899?ref=related)
+* [Widgets in Designer](https://support.optisigns.com/hc/en-us/articles/42436941395475?ref=related)
+* [The New Designer: Complete Feature Guide](https://support.optisigns.com/hc/en-us/articles/57645638683411?ref=related)
 
 ## **That's all!**
 

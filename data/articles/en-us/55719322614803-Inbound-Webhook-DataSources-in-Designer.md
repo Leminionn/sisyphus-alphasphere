@@ -3,7 +3,7 @@
 **Article ID:** 55719322614803
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/55719322614803-Inbound-Webhook-DataSources-in-Designer
-**Last Updated:** 2026-11-23T16:23:26+00:00
+**Last Updated:** 2026-11-25T17:02:55+00:00
 ---
 
 Most DataSources in Designer go out and fetch your data on a schedule. An **Inbound Webhook** works the other way round. Your own system sends data to a private URL the moment something happens, and your screens show it within seconds. You don't need a spreadsheet, a polling interval or a manual refresh.

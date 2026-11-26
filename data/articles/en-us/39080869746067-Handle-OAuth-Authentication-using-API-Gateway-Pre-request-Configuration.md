@@ -3,7 +3,7 @@
 **Article ID:** 39080869746067
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/39080869746067-Handle-OAuth-Authentication-using-API-Gateway-Pre-request-Configuration
-**Last Updated:** 2026-09-10T10:46:28+00:00
+**Last Updated:** 2026-11-25T16:53:06+00:00
 ---
 
 OptiSigns API Gateway allows for OAuth authentication via Pre-request. This gives users the capability to consume API that requires OAuth authentication or similar.
@@ -43,6 +43,15 @@ Now configure the **Header**:
 With this and the rest of the required fields filled out, you've properly configured your Pre-request. Hitting **Run Test** should return a **200 OK** Response.
 
 If so, hit **Save**to finish your API Request.
+
+---
+
+## Related Articles
+
+* [Integrating Point-of-Sale (POS) Systems to Build Digital Menu Boards with OptiSync](https://support.optisigns.com/hc/en-us/articles/31860170199955?ref=related)
+* [How to Integrate API and Publish API Data via OptiSync](https://support.optisigns.com/hc/en-us/articles/22875592994195?ref=related)
+* [How to Set Up Dynamic Data Mapping with OptiSync](https://support.optisigns.com/hc/en-us/articles/29217646663187?ref=related)
+* [How to Use Toast API Data with OptiSigns](https://support.optisigns.com/hc/en-us/articles/31113088917907?ref=related)
 
 ### That's all!
 

@@ -3,7 +3,7 @@
 **Article ID:** 1500005889381
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/1500005889381-How-to-Use-the-MindMeister-App
-**Last Updated:** 2026-10-02T18:17:46+00:00
+**Last Updated:** 2026-11-25T18:06:16+00:00
 ---
 
 Mind maps are highly visual, engaging ways to organize and communicate your thoughts. These can be created with MindMeister, then displayed and shared using OptiSigns.
@@ -36,6 +36,15 @@ Then come back to OptiSigns and enter in your MindMeister info.
 * Update Interval: default is 10 minutes. This means the app will refresh the link every 10 mins for any changes in your presentation. You can also input an interval here on how often you want to refresh the content.
 
 Click Save.
+
+---
+
+## Related Articles
+
+* [How to Use the Asana App](https://support.optisigns.com/hc/en-us/articles/1500002233221?ref=related)
+* [How to Use the Slack App](https://support.optisigns.com/hc/en-us/articles/4407335862931?ref=related)
+* [How to Use the Trello App](https://support.optisigns.com/hc/en-us/articles/360050244454?ref=related)
+* [How to Use the Notion App](https://support.optisigns.com/hc/en-us/articles/5119724468371?ref=related)
 
 ---
 

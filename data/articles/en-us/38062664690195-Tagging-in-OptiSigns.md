@@ -3,7 +3,7 @@
 **Article ID:** 38062664690195
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/38062664690195-Tagging-in-OptiSigns
-**Last Updated:** 2025-09-09T19:34:07+00:00
+**Last Updated:** 2026-11-25T17:04:27+00:00
 ---
 
 Tagging is an essential tool for keeping your content and screens organized. They can be applied to any asset to allow for seamless sorting, and applied to screens to help identify screen location, screen type, hardware, and far more.
@@ -149,6 +149,15 @@ These “location” tags allow screens in a specific spot to receive commands q
 As we’ve mentioned before, setting these tags allows you to quickly push Assets, Playlists, or Schedules to screens, but there’s more to it. It also lets you batch update your hardware with the latest version of OptiSigns
 
 Don’t forget: it’s possible to add as many tags as you’d like to any given screen or asset, so don’t hesitate to create complex webs or simple notation as you like. Feel free to experiment with the feature to make the easiest experience for your business.
+
+---
+
+## Related Articles
+
+* [How to Use Content Tags in The Playlist](https://support.optisigns.com/hc/en-us/articles/20879903340947?ref=related)
+* [Advanced Playlist Item Playback Control & Campaign Management](https://support.optisigns.com/hc/en-us/articles/22474034993043?ref=related)
+* [Add 1 or multiple assets to many playlists at the same time](https://support.optisigns.com/hc/en-us/articles/4404616139411?ref=related)
+* [Organizing your files, assets, playlists and schedules by using Folders](https://support.optisigns.com/hc/en-us/articles/360043670633?ref=related)
 
 ### That’s all!
 

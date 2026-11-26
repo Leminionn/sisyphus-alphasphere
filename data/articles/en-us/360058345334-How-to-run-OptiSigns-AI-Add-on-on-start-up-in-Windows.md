@@ -3,7 +3,7 @@
 **Article ID:** 360058345334
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360058345334-How-to-run-OptiSigns-AI-Add-on-on-start-up-in-Windows
-**Last Updated:** 2026-09-10T09:44:40+00:00
+**Last Updated:** 2026-11-25T17:21:26+00:00
 ---
 
 In Windows, you can use Windows' Task Scheduler to set up OptiSigns AI Add-on to run on start up.
@@ -26,6 +26,15 @@ Next in Action section select "**Start a program**"
 Click Browse and browse to optisigns-ai-detection.exe that you've downloaded.
 
 Then click **Finish**
+
+---
+
+## Related Articles
+
+* [AI Camera App - Quick Start](https://support.optisigns.com/hc/en-us/articles/27690296225555?ref=related)
+* [How to manually install & activate OptiSigns AI Add-on on Linux or Raspberry Pi](https://support.optisigns.com/hc/en-us/articles/360060676993?ref=related)
+* [Audience Intelligence (AI Camera) FAQs](https://support.optisigns.com/hc/en-us/articles/360058259834?ref=related)
+* [Windows](https://support.optisigns.com/hc/en-us/articles/360034379293?ref=related)
 
 That's all!
 

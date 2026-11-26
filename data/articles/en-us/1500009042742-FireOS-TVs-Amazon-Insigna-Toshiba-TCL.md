@@ -3,7 +3,7 @@
 **Article ID:** 1500009042742
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/1500009042742-FireOS-TVs-Amazon-Insigna-Toshiba-TCL
-**Last Updated:** 2026-10-28T21:12:21+00:00
+**Last Updated:** 2026-11-25T18:03:12+00:00
 ---
 
 TVs with Amazon's FireOS built in, such as Amazon Fire TV, Insignia, Toshiba and TCL models, can run the OptiSigns Digital Signage app from the Amazon Appstore.

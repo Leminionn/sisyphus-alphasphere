@@ -3,7 +3,7 @@
 **Article ID:** 27356288211859
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/27356288211859-How-to-Use-iCloud-Calendar-with-OptiSigns
-**Last Updated:** 2026-10-01T19:37:52+00:00
+**Last Updated:** 2026-11-25T17:33:07+00:00
 ---
 
 ## This article will show you how to display an iCloud Calendar on your display screens with OptiSigns.
@@ -75,3 +75,12 @@ The auto-sync will be every hour on the iCloud Calendar.
 You then can assign this newly created asset to your screens to display, or you can also use it in playlists, schedules, etc. like any other assets. If you need more information on how to set up & assign content to your screens [click here.](https://www.optisigns.com/post/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv)
 
 If you have feedback on how to make the how-to guides better, please let us know at: support@optisigns.com
+
+---
+
+## Related Articles
+
+* [How to use Google Calendar with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360019517953?ref=related)
+* [How to Use Microsoft Outlook Calendar with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360036250853?ref=related)
+* [How to Use the Calendar Mix app](https://support.optisigns.com/hc/en-us/articles/4408052949139?ref=related)
+* [How to Use the Simple Calendar App](https://support.optisigns.com/hc/en-us/articles/360041481553?ref=related)

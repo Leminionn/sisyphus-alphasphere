@@ -3,7 +3,7 @@
 **Article ID:** 22875592994195
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/22875592994195-How-to-Integrate-API-and-Publish-API-Data-via-OptiSync
-**Last Updated:** 2026-09-10T09:50:23+00:00
+**Last Updated:** 2026-11-25T17:33:45+00:00
 ---
 
 ### Integrating your API with OptiSigns has many uses and allows easy display of auto-updating data on your screens. In this guide, we'll walk you through how to connect your API - no software engineering background required.
@@ -258,6 +258,16 @@ If you'd like more detail on API integration use cases, we have several addition
 * [Integrating Toast API Systems](https://support.optisigns.com/hc/en-us/articles/31113088917907-How-to-use-Toast-API-data-with-OptiSigns)
 * Custom RSS Feeds
 * [Dynamic Data-Mapping](https://support.optisigns.com/hc/en-us/articles/4404511767571-How-to-use-Dynamic-Data-Mapping-feature-with-Google-Sheets)
+
+---
+
+## Related Articles
+
+* [How to Set Up Dynamic Data Mapping with OptiSync](https://support.optisigns.com/hc/en-us/articles/29217646663187?ref=related)
+* [Handle OAuth Authentication using API Gateway Pre-request Configuration](https://support.optisigns.com/hc/en-us/articles/39080869746067?ref=related)
+* [How to Use Toast API Data with OptiSigns](https://support.optisigns.com/hc/en-us/articles/31113088917907?ref=related)
+* [Integrating Point-of-Sale (POS) Systems to Build Digital Menu Boards with OptiSync](https://support.optisigns.com/hc/en-us/articles/31860170199955?ref=related)
+* [Get Started with OptiSigns API](https://support.optisigns.com/hc/en-us/articles/4414563863827?ref=related)
 
 ---
 

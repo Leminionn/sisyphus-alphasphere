@@ -3,7 +3,7 @@
 **Article ID:** 32860569148819
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/32860569148819-How-to-Set-Up-a-Power-BI-Service-Principal-for-Use-in-OptiSigns
-**Last Updated:** 2026-09-28T20:24:07+00:00
+**Last Updated:** 2026-11-25T17:31:38+00:00
 ---
 
 Using a Power BI service principal with app registration is a preferred option for companies with strict information security rules that don't want to use individual user accounts for Power BI integration.
@@ -103,6 +103,15 @@ Check **Use Service Principal** and select the service principal you set up in t
 Finally, input the URL of whatever report you want to share. Name the app whatever you like, then hit **Preview** to view your report.
 
 Hit **Save**, then this Power BI app will exist as an asset. It can be pushed to any of your screens individually, scheduled, or added to a Playlist.
+
+---
+
+## Related Articles
+
+* [How to Display Microsoft Power BI Dashboards & Reports with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360024859713?ref=related)
+* [How to approve OptiSigns as Enterprise App on Microsoft Azure (for Power BI, Calendar, etc. access)](https://support.optisigns.com/hc/en-us/articles/4403616315539?ref=related)
+* [How to Set Up SAML 2.0 with OptiSigns and MS Entra ID (formerly Azure AD)](https://support.optisigns.com/hc/en-us/articles/4407252213395?ref=related)
+* [Handle OAuth Authentication using API Gateway Pre-request Configuration](https://support.optisigns.com/hc/en-us/articles/39080869746067?ref=related)
 
 ### **That’s all!**
 

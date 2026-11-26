@@ -3,7 +3,7 @@
 **Article ID:** 16364134190355
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/16364134190355-How-to-use-Streaming-App-with-OptiSigns
-**Last Updated:** 2026-09-14T16:05:11+00:00
+**Last Updated:** 2026-11-25T17:34:52+00:00
 ---
 
 Putting a Streaming video on your digital signs screens is easy with OptiSigns.
@@ -29,6 +29,16 @@ Enter your Streaming App information:
 
 Click **Save**.  
 After Saving, you can Preview the video to verify.
+
+---
+
+## Related Articles
+
+* [How to use the Video Stream app](https://support.optisigns.com/hc/en-us/articles/8369526604435?ref=related)
+* [How to Use RTSP Streams on OptiSigns Devices](https://support.optisigns.com/hc/en-us/articles/8098889840531?ref=related)
+* [How to use HDMI & other video input sources in with OptiSigns](https://support.optisigns.com/hc/en-us/articles/1500002042241?ref=related)
+* [How to put Live TV on your screens with OptiSigns](https://support.optisigns.com/hc/en-us/articles/10159088954387?ref=related)
+* [How to use livestream.com app](https://support.optisigns.com/hc/en-us/articles/4410655948563?ref=related)
 
 ---
 

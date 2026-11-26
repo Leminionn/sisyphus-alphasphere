@@ -3,7 +3,7 @@
 **Article ID:** 23274673797139
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/23274673797139-How-to-enable-auto-start-on-FireOS-8-devices-like-Amazon-Fire-TV-Stick-4K-Gen-2-2023-model
-**Last Updated:** 2026-09-10T09:50:28+00:00
+**Last Updated:** 2026-11-25T17:33:37+00:00
 ---
 
 Amazon recently released their new Gen 2 Fire Sticks that come with many changes including to its hardware and OS. While OptiSigns will run great on these new devices, there is an issue where the auto-start feature will not function properly, likely due to the updated version of Fire OS.
@@ -65,3 +65,13 @@ This command will now be sent to your Firestick in order to allow OptiSigns to h
 And that’s it! You’re all set!
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+
+---
+
+## Related Articles
+
+* [Amazon TV / FireStick Troubleshooting Guide](https://support.optisigns.com/hc/en-us/articles/27463953562899?ref=related)
+* [Amazon Signage Devices: Signage Sticks and Signage Displays](https://support.optisigns.com/hc/en-us/articles/34087061669523?ref=related)
+* [How to Set Up and Manage OptiSigns on Amazon FireTV and Firesticks](https://support.optisigns.com/hc/en-us/articles/360016174554?ref=related)
+* [FireOS TVs (Amazon, Insigna, Toshiba, TCL)](https://support.optisigns.com/hc/en-us/articles/1500009042742?ref=related)
+* [How to start OptiSigns automatically when devices boot up](https://support.optisigns.com/hc/en-us/articles/360025626853?ref=related)

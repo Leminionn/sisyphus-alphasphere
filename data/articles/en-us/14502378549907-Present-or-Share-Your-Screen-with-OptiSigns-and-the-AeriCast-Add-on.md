@@ -3,7 +3,7 @@
 **Article ID:** 14502378549907
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/14502378549907-Present-or-Share-Your-Screen-with-OptiSigns-and-the-AeriCast-Add-on
-**Last Updated:** 2026-11-05T17:28:46+00:00
+**Last Updated:** 2026-11-25T18:02:41+00:00
 ---
 
 Share your laptop, phone or tablet to any screen running OptiSigns with the AeriCast Wireless Presentation app. There are no cables to connect: enter the code shown on the screen and start presenting.
@@ -78,6 +78,14 @@ The AeriCast Wireless Presentation app isn't playing on that screen. Assign it t
 #### The Share dialog doesn't appear in my browser
 
 Use Chrome or Firefox, and allow present.aericast.com to share your screen if the browser asks.
+
+---
+
+## Related Articles
+
+* [How to setup AeriCast Meet (Wireless Video Conferencing)](https://support.optisigns.com/hc/en-us/articles/23030445716883?ref=related)
+* [Display PowerPoint/Google Slides in whole screen when casting from MacBook Pro](https://support.optisigns.com/hc/en-us/articles/17112492659475?ref=related)
+* [How to Create and Use the Split Screen App](https://support.optisigns.com/hc/en-us/articles/360026559573?ref=related)
 
 ### That’s all!
 

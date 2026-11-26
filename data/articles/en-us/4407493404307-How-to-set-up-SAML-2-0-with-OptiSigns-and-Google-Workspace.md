@@ -3,7 +3,7 @@
 **Article ID:** 4407493404307
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/4407493404307-How-to-set-up-SAML-2-0-with-OptiSigns-and-Google-Workspace
-**Last Updated:** 2025-09-04T15:06:32+00:00
+**Last Updated:** 2026-11-25T20:20:38+00:00
 ---
 
 With Pro Plus and Enterprise plan, you can configure SAML 2.0 with OptiSigns via Google Workspace. The Google Workspace will be acting as the IDP (Identify Provider), and OptiSigns will be working as the SP(Service Provider).
@@ -133,3 +133,12 @@ Now your users can log in using the subdomain that you configured (in this case 
 You can share the URL with your users and they can log in with their SSO credentials.
 
 If you have any additional questions or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+
+---
+
+## Related Articles
+
+* [SAML Integration Strategies & Best Practices](https://support.optisigns.com/hc/en-us/articles/4407128433299?ref=related)
+* [Advanced: Enforce SSO login for your account](https://support.optisigns.com/hc/en-us/articles/360061576673?ref=related)
+* [How to Set Up SAML 2.0 with OptiSigns and MS Entra ID (formerly Azure AD)](https://support.optisigns.com/hc/en-us/articles/4407252213395?ref=related)
+* [How to Set Up SAML 2.0 with OptiSigns and Okta](https://support.optisigns.com/hc/en-us/articles/4404590815635?ref=related)

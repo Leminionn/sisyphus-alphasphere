@@ -3,7 +3,7 @@
 **Article ID:** 40147900639891
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/40147900639891-OptiStick-Troubleshooting-Guide
-**Last Updated:** 2026-06-26T13:52:36+00:00
+**Last Updated:** 2026-11-25T17:04:18+00:00
 ---
 
 If you’ve got an OptiStick Player and you’re having issues, you’ve come to the right place. For first time setup, see our article on how to [Set Up the OptiStick Player](https://support.optisigns.com/hc/en-us/articles/27267311796243-OptiSigns-OptiStick-Digital-Signage-Player).

@@ -3,7 +3,7 @@
 **Article ID:** 28424138317971
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/28424138317971-Samsung-Tizen-TVs-Troubleshooting-Guide
-**Last Updated:** 2026-10-31T18:30:08+00:00
+**Last Updated:** 2026-11-25T17:32:40+00:00
 ---
 
 ### **IMPORTANT NOTE:**
@@ -51,3 +51,13 @@ Here are a few known workarounds:
 * Keep all videos encoded in h264, but ensure the resolution for all videos are the same.
   + In other words, don't switch between HD (1980x1080) and 4K (3840x2160) videos.
 * Re-encode all videos to h265 (we recommend [**Handbrake**](https://handbrake.fr/)for this). This way, all the videos can keep their resolution.
+
+---
+
+## Related Articles
+
+* [Installing OptiSigns on Samsung Tizen Smart TVs](https://support.optisigns.com/hc/en-us/articles/14726570281875?ref=related)
+* [Setting Up Your Samsung Smart Signage Platform (SSSP - Commercial Grade)](https://support.optisigns.com/hc/en-us/articles/11116333259283?ref=related)
+* [Samsung Smart Signage Platform (SSSP) Supported Model List](https://support.optisigns.com/hc/en-us/articles/17882306279315?ref=related)
+* [Cannot find the OptiSigns app on Your Samsung Smart TV](https://support.optisigns.com/hc/en-us/articles/15268811715347?ref=related)
+* [Whitelist OptiSigns IP Addresses & Ports](https://support.optisigns.com/hc/en-us/articles/360047275934?ref=related)

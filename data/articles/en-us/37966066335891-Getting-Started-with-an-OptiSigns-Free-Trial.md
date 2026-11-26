@@ -3,7 +3,7 @@
 **Article ID:** 37966066335891
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/37966066335891-Getting-Started-with-an-OptiSigns-Free-Trial
-**Last Updated:** 2026-11-19T20:21:58+00:00
+**Last Updated:** 2026-11-25T17:04:30+00:00
 ---
 
 Every new OptiSigns account starts with a 14-day free trial of our Pro Plus plan. No credit card is required. To start one, [sign up](https://app.optisigns.com/signUp) and you're in.
@@ -78,6 +78,16 @@ No. Your content is kept. Subscribe, or move to the Free Plan, to start using it
 #### I Chose the Wrong Currency
 
 If you haven't subscribed yet, change it on the plan step of the subscription wizard. After you've subscribed, contact our [support team](https://support.optisigns.com/hc/en-us/articles/35626165056787-How-to-Contact-OptiSigns-Support).
+
+---
+
+## Related Articles
+
+* [What Do I Get With an OptiSigns Free Plan?](https://support.optisigns.com/hc/en-us/articles/33940834613139?ref=related)
+* [OptiSigns - Getting Started Guide](https://support.optisigns.com/hc/en-us/articles/18823504383891?ref=related)
+* [What hardware and devices are supported?](https://support.optisigns.com/hc/en-us/articles/360021855653?ref=related)
+* [Set Up, Add, or Unpair a Screen](https://support.optisigns.com/hc/en-us/articles/360016374813?ref=related)
+* [Billing: Changing Plans or Screen Counts](https://support.optisigns.com/hc/en-us/articles/1500000493782?ref=related)
 
 ### That’s all!
 

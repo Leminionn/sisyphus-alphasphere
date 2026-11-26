@@ -3,7 +3,7 @@
 **Article ID:** 36558469962643
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/36558469962643-Subscription-Function-in-GraphQL
-**Last Updated:** 2026-09-10T10:46:20+00:00
+**Last Updated:** 2026-11-25T18:03:40+00:00
 ---
 
 Subscriptions are a query type that allows you to be notified when any changes are made to a device, asset, or playlist.
@@ -84,3 +84,12 @@ When we perform this Mutation, we can switch over to where our Subscription is L
 **Previous Article - [Error Handling](https://support.optisigns.com/hc/en-us/articles/4414564078995-Error-Handling)**
 
 **Next Article - [API Reference](https://support.optisigns.com/hc/en-us/articles/4414558392339-API-Reference)**
+
+---
+
+## Related Articles
+
+* [API Reference](https://support.optisigns.com/hc/en-us/articles/4414558392339?ref=related)
+* [GraphQL API Tutorial: Pair and Assign Content to Screen](https://support.optisigns.com/hc/en-us/articles/4414553099667?ref=related)
+* [Error Handling](https://support.optisigns.com/hc/en-us/articles/4414564078995?ref=related)
+* [Get Started with OptiSigns API](https://support.optisigns.com/hc/en-us/articles/4414563863827?ref=related)

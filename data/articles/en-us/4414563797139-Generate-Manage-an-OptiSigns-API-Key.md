@@ -3,7 +3,7 @@
 **Article ID:** 4414563797139
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/4414563797139-Generate-Manage-an-OptiSigns-API-Key
-**Last Updated:** 2026-09-10T09:47:50+00:00
+**Last Updated:** 2026-11-25T17:58:26+00:00
 ---
 
 In order to use the API, you will need first get an API key. To get an API key, you can either use the link below, or click the **API Keys** button in the side menu of account management on the OptiSigns portal.
@@ -40,3 +40,13 @@ In the OptiSigns GraphQL playground, you will be able to query your data if the 
 **Previous Article -** [**Introduction**](https://support.optisigns.com/hc/en-us/articles/4414552808467-Introduction)
 
 **Next Article -** [**Get Started**](https://support.optisigns.com/hc/en-us/articles/4414563863827-Get-Started)
+
+---
+
+## Related Articles
+
+* [Get Started with OptiSigns API](https://support.optisigns.com/hc/en-us/articles/4414563863827?ref=related)
+* [GraphQL API Tutorial: Pair and Assign Content to Screen](https://support.optisigns.com/hc/en-us/articles/4414553099667?ref=related)
+* [API Reference](https://support.optisigns.com/hc/en-us/articles/4414558392339?ref=related)
+* [Introduction](https://support.optisigns.com/hc/en-us/articles/4414552808467?ref=related)
+* [Error Handling](https://support.optisigns.com/hc/en-us/articles/4414564078995?ref=related)

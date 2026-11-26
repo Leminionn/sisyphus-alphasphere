@@ -3,7 +3,7 @@
 **Article ID:** 360058936513
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360058936513-Advanced-Proof-of-Play-or-Playback-report
-**Last Updated:** 2026-09-10T09:44:49+00:00
+**Last Updated:** 2026-11-25T17:55:57+00:00
 ---
 
 With OptiSigns you can enable tracking of playback of your contents.
@@ -104,3 +104,13 @@ Here's how a data export looks like:
 OptiSigns' Proof of play or Playback Report give you real-time insight into playback of your assets on screens. You have the flexibility of slice & dice the data in your the Portal or schedule raw data export for your own analysis.
 
 You can also schedule report to be automatically sent to your emails.
+
+---
+
+## Related Articles
+
+* [How to set up Monitoring Alert feature](https://support.optisigns.com/hc/en-us/articles/4403306341523?ref=related)
+* [Advanced Playlist Item Playback Control & Campaign Management](https://support.optisigns.com/hc/en-us/articles/22474034993043?ref=related)
+* [Remotely Control and Command OptiSigns Devices](https://support.optisigns.com/hc/en-us/articles/360055486554?ref=related)
+* [Setting Up Audit Logging](https://support.optisigns.com/hc/en-us/articles/4403332894867?ref=related)
+* [Broadcast: Send Scheduled Snapshots of Your Dashboards](https://support.optisigns.com/hc/en-us/articles/55416185869331?ref=related)

@@ -3,7 +3,7 @@
 **Article ID:** 34379983350163
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/34379983350163-Accepted-Payment-Methods-and-Currencies
-**Last Updated:** 2026-11-19T20:30:22+00:00
+**Last Updated:** 2026-11-25T17:31:25+00:00
 ---
 
 OptiSigns bills in five currencies: US dollars, euros, British pounds, Canadian dollars and Australian dollars. Every currency accepts credit and debit cards. US-dollar accounts can also pay from a US bank account, and euro accounts can pay by SEPA Direct Debit, iDEAL | Wero or Bancontact. You choose your currency when you first subscribe. To change it later, contact support.
@@ -128,6 +128,14 @@ Some banks ask you to confirm a payment, for example in your banking app. Click 
 #### Does Changing My Payment Method Change My Plan?
 
 No. Changing your payment method doesn't change your plan, screens or billing date. To change those, see [Billing: Changing Plans or Screen Counts](https://support.optisigns.com/hc/en-us/articles/1500000493782). To stop paying, see [Cancel, Pause or Downgrade Your Subscription](https://support.optisigns.com/hc/en-us/articles/17639078588691).
+
+---
+
+## Related Articles
+
+* [Billing: Changing Plans or Screen Counts](https://support.optisigns.com/hc/en-us/articles/1500000493782?ref=related)
+* [Does OptiSigns offer Non-profit/Education discount?](https://support.optisigns.com/hc/en-us/articles/360016252654?ref=related)
+* [Is there storage limit for my account?](https://support.optisigns.com/hc/en-us/articles/360016253694?ref=related)
 
 ### That’s all!
 

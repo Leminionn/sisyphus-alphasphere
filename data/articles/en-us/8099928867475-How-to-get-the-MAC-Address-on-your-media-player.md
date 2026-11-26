@@ -3,7 +3,7 @@
 **Article ID:** 8099928867475
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/8099928867475-How-to-get-the-MAC-Address-on-your-media-player
-**Last Updated:** 2026-09-10T09:48:36+00:00
+**Last Updated:** 2026-11-25T17:25:30+00:00
 ---
 
 If your IT team is looking for the MAC address on your media player, you can follow this article to get the MAC Address on your devices.
@@ -58,6 +58,15 @@ ipconfig /all
 ```
 
 3. Navigate to the section “Wireless LAN adapter Wi-Fi” or "Ethernet adapter Ethernet" depending on whether you connect through wireless or wire network. The MAC Address will be shown next to “Physical Address”.
+
+---
+
+## Related Articles
+
+* [Whitelist OptiSigns IP Addresses & Ports](https://support.optisigns.com/hc/en-us/articles/360047275934?ref=related)
+* [Pre-configure Wi-Fi with OptiSigns devices](https://support.optisigns.com/hc/en-us/articles/360055549854?ref=related)
+* [What happen if internet connection is lost?](https://support.optisigns.com/hc/en-us/articles/360016376793?ref=related)
+* [Why Does My Screen Show as "Offline" on the Web Portal?](https://support.optisigns.com/hc/en-us/articles/360016484473?ref=related)
 
 ## That's all!
 

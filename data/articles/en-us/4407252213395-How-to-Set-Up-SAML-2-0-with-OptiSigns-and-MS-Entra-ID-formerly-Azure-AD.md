@@ -3,7 +3,7 @@
 **Article ID:** 4407252213395
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/4407252213395-How-to-Set-Up-SAML-2-0-with-OptiSigns-and-MS-Entra-ID-formerly-Azure-AD
-**Last Updated:** 2026-02-05T20:23:47+00:00
+**Last Updated:** 2026-11-25T20:20:43+00:00
 ---
 
 |  |
@@ -237,6 +237,16 @@ https://app.optisigns.com/signIn/<accountId>
 ```
 
 Go ahead and follow the steps outlined [**here**](#Office.com) and this issue should resolve itself.
+
+---
+
+## Related Articles
+
+* [Advanced: Enforce SSO login for your account](https://support.optisigns.com/hc/en-us/articles/360061576673?ref=related)
+* [SAML Integration Strategies & Best Practices](https://support.optisigns.com/hc/en-us/articles/4407128433299?ref=related)
+* [Advanced: Custom Domain Mapping](https://support.optisigns.com/hc/en-us/articles/1500000480302?ref=related)
+* [Advanced Security: Managing User Roles](https://support.optisigns.com/hc/en-us/articles/360046356113?ref=related)
+* [How to Set Up SAML 2.0 with OptiSigns and Okta](https://support.optisigns.com/hc/en-us/articles/4404590815635?ref=related)
 
 ### **That's all!**
 

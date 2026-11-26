@@ -3,7 +3,7 @@
 **Article ID:** 40671590645651
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/40671590645651-How-to-Play-Licensed-Background-Music-on-Digital-Signs-with-OptiSound
-**Last Updated:** 2026-10-14T21:03:18+00:00
+**Last Updated:** 2026-11-25T17:22:36+00:00
 ---
 
 With OptiSound, you can stream curated background music legally in commercial environments, seamlessly alongside your digital signage content.
@@ -133,6 +133,16 @@ To play the music through your business’s sound system you can either:
 * Pair the device via **Bluetooth** to your speaker setup.
 
 Double-check your device’s audio output settings to make sure it matches your connection type.
+
+---
+
+## Related Articles
+
+* [Push Contents to your Screens](https://support.optisigns.com/hc/en-us/articles/18988049363859?ref=related)
+* [How to Manage and Edit Your Playlist Settings](https://support.optisigns.com/hc/en-us/articles/28295074995859?ref=related)
+* [How to Use Overlay layers with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360050602413?ref=related)
+* [Making a Video Wall with OptiSigns (Video Wall App)](https://support.optisigns.com/hc/en-us/articles/33382537925267?ref=related)
+* [How to Use the OptiSigns Mobile Admin App](https://support.optisigns.com/hc/en-us/articles/30003143806099?ref=related)
 
 ### That’s all!
 

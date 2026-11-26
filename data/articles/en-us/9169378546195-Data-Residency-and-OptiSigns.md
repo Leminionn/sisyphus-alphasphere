@@ -3,7 +3,7 @@
 **Article ID:** 9169378546195
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/9169378546195-Data-Residency-and-OptiSigns
-**Last Updated:** 2026-11-17T16:37:00+00:00
+**Last Updated:** 2026-11-25T17:53:30+00:00
 ---
 
 Customers on the **Engage** plan or above can request that their content be stored in a specific country or region to meet data residency requirements.
@@ -58,6 +58,15 @@ Your account information, such as users, screens, playlists and schedules, conti
 ## How to Request Data Residency
 
 Data residency is enabled by our team; there is no setting for it in the portal. Contact [support@optisigns.com](mailto:support@optisigns.com) or your sales rep if you're interested in pricing or would like to enable data residency on your account.
+
+---
+
+## Related Articles
+
+* [Setting Up Audit Logging](https://support.optisigns.com/hc/en-us/articles/4403332894867?ref=related)
+* [Disk Encryption](https://support.optisigns.com/hc/en-us/articles/40212027797523?ref=related)
+* [What Access Does OptiSigns Have to My Account and Devices?](https://support.optisigns.com/hc/en-us/articles/53216900345875?ref=related)
+* [How to Configure Multi-Factor Authentication with your OptiSigns account.](https://support.optisigns.com/hc/en-us/articles/18381542133779?ref=related)
 
 ### That’s all!
 

@@ -3,7 +3,7 @@
 **Article ID:** 19589190970771
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/19589190970771-How-to-use-Secured-Dashboard-App
-**Last Updated:** 2026-09-10T09:50:01+00:00
+**Last Updated:** 2026-11-25T17:34:14+00:00
 ---
 
 Displaying KPIs and reports on the screen is a common use case for enterprise customers, however, companies are using different reporting systems, which makes this a difficult task to accomplish. OptiSigns has delivered a [Web Scripting App](https://support.optisigns.com/hc/en-us/articles/1500012522362) for customers to access their password-protected reporting systems without coding, it also supports Multi-Factor Authentication, for details please follow this [article](https://support.optisigns.com/hc/en-us/articles/19145077187859).
@@ -37,6 +37,16 @@ There are a few settings that allow you to control how the scripts are executed.
 After completing all the settings, you can assign it to the screens, the screenshots will update at the set interval.
 
 **Note:** If your reporting systems have firewall rules or using CAPTCHA to block bots, you can contact us to get the IP address that you can use for whitelisting
+
+---
+
+## Related Articles
+
+* [How to use the Web Scripting App](https://support.optisigns.com/hc/en-us/articles/1500012522362?ref=related)
+* [How to Display Content From Websites That Require a Login](https://support.optisigns.com/hc/en-us/articles/360037391854?ref=related)
+* [How to use OptiSigns Screen Capture app](https://support.optisigns.com/hc/en-us/articles/6086986017299?ref=related)
+* [How to Display Microsoft Power BI Dashboards & Reports with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360024859713?ref=related)
+* [How to Use the Website App and Display URLs on OptiSigns](https://support.optisigns.com/hc/en-us/articles/360016382473?ref=related)
 
 ## **That's all!**
 

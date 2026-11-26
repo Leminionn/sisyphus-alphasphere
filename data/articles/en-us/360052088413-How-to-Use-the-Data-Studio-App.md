@@ -3,7 +3,7 @@
 **Article ID:** 360052088413
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360052088413-How-to-Use-the-Data-Studio-App
-**Last Updated:** 2026-06-12T19:57:31+00:00
+**Last Updated:** 2026-11-25T18:07:17+00:00
 ---
 
 With the Data Studio app, it's possible to display near real-time dashboards of information, allowing simple visualization of data. These dashboards can be customized then communicated throughout the company via digital signage.
@@ -72,6 +72,15 @@ Now hit **Save**. Your Data Studio asset will now display on screen.
 | You may need to alter the Width and Height on the Embed Code to get it to display exactly the way you want it. Be sure to push it to the intended screen first to test it - the Preview sometimes looks odd. |
 
 You can also deploy it as part of a split screen, allowing you to show other assets at the same time. See how in our [Split Screen app article.](https://support.optisigns.com/hc/en-us/articles/360026559573-How-to-Create-and-Use-the-Split-Screen-App) It can also be displayed in a Playlist or Schedule.
+
+---
+
+## Related Articles
+
+* [How to Use Google Sheets with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360056977214?ref=related)
+* [How to Display Microsoft Power BI Dashboards & Reports with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360024859713?ref=related)
+* [How to use Google Trends App](https://support.optisigns.com/hc/en-us/articles/360050664913?ref=related)
+* [How to Use the Google Ads Dashboard App](https://support.optisigns.com/hc/en-us/articles/48751096814995?ref=related)
 
 ### That's all!
 

@@ -3,7 +3,7 @@
 **Article ID:** 360040991474
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360040991474-How-to-Use-the-ESPN-News-App
-**Last Updated:** 2026-09-10T09:41:36+00:00
+**Last Updated:** 2026-11-25T18:09:10+00:00
 ---
 
 The OptiSigns ESPN app allows you to display ESPN News on your digital signs. It covers the most up-to-date Top Headlines, NFL, NBA, MLB, NHL, College Sports, and more.
@@ -50,6 +50,15 @@ Clicking **Advanced**opens up additional options:
 After you've configured the ESPN News app to your liking, hit **Save**.
 
 Your ESPN app will appear as an Asset in OptiSigns, and it can now be directly assigned to a screen or used in a Playlist. This asset can then be edited at any time from the Files/Assets tab.
+
+---
+
+## Related Articles
+
+* [How to use the TechCrunch News App](https://support.optisigns.com/hc/en-us/articles/360040991534?ref=related)
+* [How to use the CNN Wall App](https://support.optisigns.com/hc/en-us/articles/360041476213?ref=related)
+* [How to Use the News App](https://support.optisigns.com/hc/en-us/articles/360022393473?ref=related)
+* [How to Use RSS feeds with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360037965133?ref=related)
 
 ---
 

@@ -3,7 +3,7 @@
 **Article ID:** 31860170199955
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/31860170199955-Integrating-Point-of-Sale-POS-Systems-to-Build-Digital-Menu-Boards-with-OptiSync
-**Last Updated:** 2026-09-10T09:51:36+00:00
+**Last Updated:** 2026-11-25T17:31:47+00:00
 ---
 
 ### OptiSync allows you to create dynamic digital menus through API integration. Your POS systems can interface directly with OptiSigns to automatically update prices, track inventory, and more.
@@ -213,6 +213,15 @@ Finally, you're ready to Name and **Save** your Design.
 Getting your new DMB onto a screen is relatively simple. Go back to the screens you set up with substitution parameters earlier. Then, hit **Edit Screen.**
 
 Under **Type**, choose asset, then select your DMB asset to play.
+
+---
+
+## Related Articles
+
+* [Handle OAuth Authentication using API Gateway Pre-request Configuration](https://support.optisigns.com/hc/en-us/articles/39080869746067?ref=related)
+* [How to Integrate API and Publish API Data via OptiSync](https://support.optisigns.com/hc/en-us/articles/22875592994195?ref=related)
+* [How to Set Up Dynamic Data Mapping with OptiSync](https://support.optisigns.com/hc/en-us/articles/29217646663187?ref=related)
+* [How to Use Toast API Data with OptiSigns](https://support.optisigns.com/hc/en-us/articles/31113088917907?ref=related)
 
 ## That's all!
 

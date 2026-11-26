@@ -3,7 +3,7 @@
 **Article ID:** 21708242980755
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/21708242980755-Sharing-Playlists-and-Folders-with-External-Users
-**Last Updated:** 2026-09-11T17:02:25+00:00
+**Last Updated:** 2026-11-25T17:23:11+00:00
 ---
 
 Making it effortless to share playlists and folders with external users has become a must. Exclusive to our Pro Plus and higher plans, this feature opens the door to a wide array of content contributions, encompassing images, videos, and documents—essential for enhancing collaboration.
@@ -81,6 +81,16 @@ In the pop-up, click on 'Create Share Link'
 Enter the email addresses of the external users you'd like to share it with and hit 'Enter'.
 
 **NOTE:** The features, functionality, and settings for sharing, general access, and advanced options remain consistent with those of sharing a playlist.
+
+---
+
+## Related Articles
+
+* [How to Share Contents with Other Users/Teams](https://support.optisigns.com/hc/en-us/articles/18986181635859?ref=related)
+* [How to Create and Use Nested Playlists](https://support.optisigns.com/hc/en-us/articles/360043621953?ref=related)
+* [Folder Level Permissions](https://support.optisigns.com/hc/en-us/articles/360044600474?ref=related)
+* [How to use Approval Workflow feature](https://support.optisigns.com/hc/en-us/articles/360063693093?ref=related)
+* [User Management Example - Chain Restaurant or Retail Store with Multiple Locations](https://support.optisigns.com/hc/en-us/articles/43657735780627?ref=related)
 
 ### **That's all!**
 

@@ -3,7 +3,7 @@
 **Article ID:** 22474034993043
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/22474034993043-Advanced-Playlist-Item-Playback-Control-Campaign-Management
-**Last Updated:** 2026-09-10T09:50:21+00:00
+**Last Updated:** 2026-11-25T17:33:50+00:00
 ---
 
 |  |
@@ -75,6 +75,16 @@ To first use content tags, you will need to assign tags to either individual ass
 Now, you can head over to your desired screen and create Content Tag Rules on the edit screen level. By using the inclusion and exclusion boxes, you can choose which tagged assets appear or don't appear when content is pushed to your screen. For example below, by using "Inclusion > And > Front-Lobby", when that specific playlist is pushed to the screen, it will only show content tagged as Front-Lobby, it will exclude or skip over anything tagged something else.  
   
 See our full article on **[Content Tagging in Playlists](https://support.optisigns.com/hc/en-us/articles/20879903340947-How-to-Use-Content-Tags-in-The-Playlist)** for more information.
+
+---
+
+## Related Articles
+
+* [How to Use Content Tags in The Playlist](https://support.optisigns.com/hc/en-us/articles/20879903340947?ref=related)
+* [How to Create and Use Nested Playlists](https://support.optisigns.com/hc/en-us/articles/360043621953?ref=related)
+* [How to Control and Schedule Playlist Items](https://support.optisigns.com/hc/en-us/articles/20062273670163?ref=related)
+* [Manually control playlist playback with OptiSigns](https://support.optisigns.com/hc/en-us/articles/4416704273811?ref=related)
+* [Synchronized playback (Sync Play) feature](https://support.optisigns.com/hc/en-us/articles/4412065189267?ref=related)
 
 **That's all!**
 

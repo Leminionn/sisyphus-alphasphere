@@ -3,7 +3,7 @@
 **Article ID:** 39488874989587
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/39488874989587-Fixing-Unexpected-Screen-Rotation-Incorrect-Orientation-with-OptiSigns-Android-Stick
-**Last Updated:** 2026-09-10T10:46:30+00:00
+**Last Updated:** 2026-11-25T17:47:10+00:00
 ---
 
 Some Smart TVs have auto-rotation enabled by default, which can also affect devices connected via HDMI, including OptiSigns Android Stick players.
@@ -30,3 +30,11 @@ If you experience unexpected screen rotation or incorrect orientation when using
       * Change the device name/type to “PC”
 
 This will ensure that the device follows the orientation settings configured in the OptiSigns web portal. If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
+
+---
+
+## Related Articles
+
+* [How to Fix the Scaling Issue on OptiSigns Android Devices](https://support.optisigns.com/hc/en-us/articles/28026588373139?ref=related)
+* [Screen Calibration: Fix Content Bleeding off the Screen](https://support.optisigns.com/hc/en-us/articles/360041570153?ref=related)
+* [OptiStick Troubleshooting Guide](https://support.optisigns.com/hc/en-us/articles/40147900639891?ref=related)

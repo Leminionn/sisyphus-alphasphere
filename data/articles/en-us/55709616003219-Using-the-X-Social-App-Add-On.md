@@ -3,7 +3,7 @@
 **Article ID:** 55709616003219
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/55709616003219-Using-the-X-Social-App-Add-On
-**Last Updated:** 2026-09-23T19:58:50+00:00
+**Last Updated:** 2026-11-25T17:14:54+00:00
 ---
 
 Show what people are saying on X, right on your screens. The X Social app turns the posts from an X profile or a hashtag into a live wall for your lobby, store or event: each post's text, author, avatar, time and image, kept up to date on its own.
@@ -151,6 +151,15 @@ Your account has used this month's 1,000 post updates, or the add-on is no longe
 #### A new post isn't on screen yet.
 
 New posts are collected up to twice a day, so a post can take several hours to appear. If **Always show new posts** is off, the post also waits for you to approve it in **Moderation**.
+
+---
+
+## Related Articles
+
+* [How to Use the Social Mix App](https://support.optisigns.com/hc/en-us/articles/4403267825171?ref=related)
+* [How to Moderate Your Social Media Feeds](https://support.optisigns.com/hc/en-us/articles/4403015887763?ref=related)
+* [How far back or how many posts will be fetched for my Social Walls?](https://support.optisigns.com/hc/en-us/articles/360042424294?ref=related)
+* [How to Use the LinkedIn App](https://support.optisigns.com/hc/en-us/articles/4406180781203?ref=related)
 
 ---
 

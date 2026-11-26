@@ -3,7 +3,7 @@
 **Article ID:** 360050602413
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360050602413-How-to-Use-Overlay-layers-with-OptiSigns
-**Last Updated:** 2026-09-10T21:51:12+00:00
+**Last Updated:** 2026-11-25T17:56:29+00:00
 ---
 
 With OptiSigns Split Screen, you can overlay items on top of each other.  

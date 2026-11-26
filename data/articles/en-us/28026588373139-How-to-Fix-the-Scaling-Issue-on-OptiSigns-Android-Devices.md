@@ -3,7 +3,7 @@
 **Article ID:** 28026588373139
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/28026588373139-How-to-Fix-the-Scaling-Issue-on-OptiSigns-Android-Devices
-**Last Updated:** 2026-11-06T21:29:15+00:00
+**Last Updated:** 2026-11-25T17:58:15+00:00
 ---
 
 If text, charts or web pages look too large or too small on your OptiSigns Android Stick, the device's display size setting is the cause. You can change it from the device's own Settings menu in a minute.
@@ -67,6 +67,15 @@ Open the OptiSigns app again. Your content now shows at the new scale. If it sti
 | --- |
 | **TIP** |
 | If the edges of your content are cut off rather than too big or too small, the TV is zooming the picture (overscan). Look in your TV's picture settings for a zoom, aspect or overscan option. For other players, see [My Image Is Bleeding off the Screen](https://support.optisigns.com/hc/en-us/articles/360041570153). |
+
+---
+
+## Related Articles
+
+* [Screen Calibration: Fix Content Bleeding off the Screen](https://support.optisigns.com/hc/en-us/articles/360041570153?ref=related)
+* [Fixing Unexpected Screen Rotation & Incorrect Orientation with OptiSigns Android Stick](https://support.optisigns.com/hc/en-us/articles/39488874989587?ref=related)
+* [Performance/Stability issues on Android devices and Best Practices](https://support.optisigns.com/hc/en-us/articles/28427819992979?ref=related)
+* [OptiStick Troubleshooting Guide](https://support.optisigns.com/hc/en-us/articles/40147900639891?ref=related)
 
 ### That’s all!
 

@@ -3,7 +3,7 @@
 **Article ID:** 31113088917907
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/31113088917907-How-to-Use-Toast-API-Data-with-OptiSigns
-**Last Updated:** 2026-10-12T18:49:12+00:00
+**Last Updated:** 2026-11-25T17:32:02+00:00
 ---
 
 ### Toast is one of the most common Point-of-Sale systems in North America. In this article, we'll explain how to set up API integration between your Toast system and OptiSigns.
@@ -99,6 +99,16 @@ You should receive a *(200 OK)* response, with data returning from the API. Thi
 Now that your API request data source is ready for use, you can build your DMB using Designer with OptiSync. OptiSync allows you to map the API data to an element in the designer, either text or images. Using Repeaters, this data can be used to build out multiple item menus, and you're also able to define how you'd like to handle sold-out items, specials, and more.
 
 For a step-by-step guide and more examples, please see our article on [Building Digital Menu Boards Using OptiSync](https://support.optisigns.com/hc/en-us/articles/31860170199955-Integrating-Point-of-Sale-POS-Systems-to-Build-Digital-Menu-Boards-with-OptiSync).
+
+---
+
+## Related Articles
+
+* [How to Integrate API and Publish API Data via OptiSync](https://support.optisigns.com/hc/en-us/articles/22875592994195?ref=related)
+* [Integrating Point-of-Sale (POS) Systems to Build Digital Menu Boards with OptiSync](https://support.optisigns.com/hc/en-us/articles/31860170199955?ref=related)
+* [Handle OAuth Authentication using API Gateway Pre-request Configuration](https://support.optisigns.com/hc/en-us/articles/39080869746067?ref=related)
+* [How to Set Up Dynamic Data Mapping with OptiSync](https://support.optisigns.com/hc/en-us/articles/29217646663187?ref=related)
+* [Get Started with OptiSigns API](https://support.optisigns.com/hc/en-us/articles/4414563863827?ref=related)
 
 ## That's all!
 

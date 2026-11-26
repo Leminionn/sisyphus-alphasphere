@@ -3,7 +3,7 @@
 **Article ID:** 4410655948563
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/4410655948563-How-to-use-livestream-com-app
-**Last Updated:** 2026-09-10T09:47:31+00:00
+**Last Updated:** 2026-11-25T18:05:25+00:00
 ---
 
 You can broadcast your live events with livestream.com to your OptiSigns digital signs screens.
@@ -35,6 +35,15 @@ Click Copy to copy the link
 Then paste in the URL field of the Livestream.com app in OptiSigns.
 
 Click Save.
+
+---
+
+## Related Articles
+
+* [How to use the Video Stream app](https://support.optisigns.com/hc/en-us/articles/8369526604435?ref=related)
+* [How to put Live TV on your screens with OptiSigns](https://support.optisigns.com/hc/en-us/articles/10159088954387?ref=related)
+* [How to use YouTube Live Schedule with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360060284174?ref=related)
+* [How to use Streaming App with OptiSigns](https://support.optisigns.com/hc/en-us/articles/16364134190355?ref=related)
 
 ## **That's all! Congratulation!**
 

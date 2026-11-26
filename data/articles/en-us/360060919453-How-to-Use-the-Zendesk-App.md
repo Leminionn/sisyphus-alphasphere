@@ -3,7 +3,7 @@
 **Article ID:** 360060919453
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360060919453-How-to-Use-the-Zendesk-App
-**Last Updated:** 2026-10-14T18:07:38+00:00
+**Last Updated:** 2026-11-25T18:06:49+00:00
 ---
 
 Zendesk is a customer service platform for managing support tickets, chat and help centers. With the Zendesk app, it's possible to display your Zendesk dashboards and views on your digital signs, so your support team can keep an eye on queues and performance without opening a laptop.
@@ -66,6 +66,15 @@ The **Select Asset** window will open. Search for your Zendesk app, click it, th
 Back in **Edit Screen**, hit **Save**. Your Zendesk dashboard will now display on your screen.
 
 Your Zendesk app can also be displayed in a Playlist or Schedule, or as one zone of a [Split Screen](https://support.optisigns.com/hc/en-us/articles/360026559573).
+
+---
+
+## Related Articles
+
+* [How to Use the Jira App](https://support.optisigns.com/hc/en-us/articles/360037416494?ref=related)
+* [How to Use the Trello App](https://support.optisigns.com/hc/en-us/articles/360050244454?ref=related)
+* [How to Use the Slack App](https://support.optisigns.com/hc/en-us/articles/4407335862931?ref=related)
+* [How to Use the Monday.com App](https://support.optisigns.com/hc/en-us/articles/11032964830227?ref=related)
 
 ### That’s all!
 

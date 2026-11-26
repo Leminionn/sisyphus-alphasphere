@@ -3,7 +3,7 @@
 **Article ID:** 360048914673
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360048914673-Edit-Screen-What-does-each-option-do
-**Last Updated:** 2026-10-14T18:02:17+00:00
+**Last Updated:** 2026-11-25T17:56:32+00:00
 ---
 
 ### OptiSigns gives you unparalleled customization options for your digital signs with its Edit Screen feature. Each setting will be thoroughly explained to ensure you can effectively manage and customize your digital signage.
@@ -152,3 +152,13 @@ At the bottom of the window, you will see several options, including **Help, Pre
 ## **That's It!**
 
 Click **Save** when you are completed; otherwise, you will lose all changes.
+
+---
+
+## Related Articles
+
+* [Why Does My Screen Show as "Offline" on the Web Portal?](https://support.optisigns.com/hc/en-us/articles/360016484473?ref=related)
+* [Show Offline Indicator Feature](https://support.optisigns.com/hc/en-us/articles/12498801963027?ref=related)
+* [How To Create and Use Operational Schedules (HDMI-CEC, RS-232)](https://support.optisigns.com/hc/en-us/articles/28598173096723?ref=related)
+* [Remotely Control and Command OptiSigns Devices](https://support.optisigns.com/hc/en-us/articles/360055486554?ref=related)
+* [Synchronized playback (Sync Play) feature](https://support.optisigns.com/hc/en-us/articles/4412065189267?ref=related)

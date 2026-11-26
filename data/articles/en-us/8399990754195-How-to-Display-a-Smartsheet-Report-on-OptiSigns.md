@@ -3,7 +3,7 @@
 **Article ID:** 8399990754195
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/8399990754195-How-to-Display-a-Smartsheet-Report-on-OptiSigns
-**Last Updated:** 2026-10-12T18:33:37+00:00
+**Last Updated:** 2026-11-25T18:11:59+00:00
 ---
 
 Smartsheet is a popular SaaS platform for project & work management.
@@ -36,6 +36,15 @@ Next, enter details for your Smartsheet report:
 Click **Save**.
 
 To get the Smartsheet report URL, you can go to your Smartsheet report and click "Share". Then you can get the URL from the Sheet Link section.
+
+---
+
+## Related Articles
+
+* [How to Use the Monday.com App](https://support.optisigns.com/hc/en-us/articles/11032964830227?ref=related)
+* [How to use Airtable with OptiSigns](https://support.optisigns.com/hc/en-us/articles/9392587446675?ref=related)
+* [How to Use the Trello App](https://support.optisigns.com/hc/en-us/articles/360050244454?ref=related)
+* [How to Use the Asana App](https://support.optisigns.com/hc/en-us/articles/1500002233221?ref=related)
 
 ---
 

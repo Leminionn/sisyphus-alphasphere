@@ -3,7 +3,7 @@
 **Article ID:** 20879903340947
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/20879903340947-How-to-Use-Content-Tags-in-The-Playlist
-**Last Updated:** 2026-09-14T02:42:33+00:00
+**Last Updated:** 2026-11-25T17:33:56+00:00
 ---
 
 ## Want more control over which assets and tags in your playlist display on your screen? Follow this guide to learn more!
@@ -99,3 +99,13 @@ You also have the option to set an exclusion rule, which will prevent any assets
 By following these steps, you can efficiently manage and customize tags for playlists and individual assets.
 
 **That's it!**
+
+---
+
+## Related Articles
+
+* [Tagging in OptiSigns](https://support.optisigns.com/hc/en-us/articles/38062664690195?ref=related)
+* [Advanced Playlist Item Playback Control & Campaign Management](https://support.optisigns.com/hc/en-us/articles/22474034993043?ref=related)
+* [How to Create and Use Nested Playlists](https://support.optisigns.com/hc/en-us/articles/360043621953?ref=related)
+* [Creating and Using Schedules with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360016981853?ref=related)
+* [How to Control and Schedule Playlist Items](https://support.optisigns.com/hc/en-us/articles/20062273670163?ref=related)

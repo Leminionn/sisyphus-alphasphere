@@ -3,7 +3,7 @@
 **Article ID:** 360037416494
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360037416494-How-to-Use-the-Jira-App
-**Last Updated:** 2026-11-18T16:23:19+00:00
+**Last Updated:** 2026-11-25T17:57:16+00:00
 ---
 
 Jira is Atlassian's project management tool for planning and tracking work. With the Jira app, it's possible to display your Jira boards and dashboards on your digital signs, so your team can see what's in progress without opening a laptop.
@@ -90,6 +90,15 @@ The **Select Asset** window will open. Search for your Jira app, click it, then 
 Back in **Edit Screen**, hit **Save**. Your Jira board will now display on your screen.
 
 Your Jira app can also be displayed in a Playlist or Schedule, or as one zone of a [Split Screen](https://support.optisigns.com/hc/en-us/articles/360026559573).
+
+---
+
+## Related Articles
+
+* [How to Use the Asana App](https://support.optisigns.com/hc/en-us/articles/1500002233221?ref=related)
+* [How to Use the Trello App](https://support.optisigns.com/hc/en-us/articles/360050244454?ref=related)
+* [How to Use the Monday.com App](https://support.optisigns.com/hc/en-us/articles/11032964830227?ref=related)
+* [How to Use the Zendesk App](https://support.optisigns.com/hc/en-us/articles/360060919453?ref=related)
 
 ### That’s all!
 

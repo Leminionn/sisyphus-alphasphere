@@ -3,7 +3,7 @@
 **Article ID:** 360022393473
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360022393473-How-to-Use-the-News-App
-**Last Updated:** 2026-09-09T21:52:52+00:00
+**Last Updated:** 2026-11-25T18:09:54+00:00
 ---
 
 Our News app allows you to display news on your digital signs from a wide range of topics and regions. Such topics include Business, Technology, World, Politics, and Sports, and you can specify the country or region to focus your news app on.
@@ -52,6 +52,15 @@ Clicking **Advanced**opens up additional options:
 * Continue Playing Content in Playlist: Check this box to keep this content playing when added to a playlist.
 
 After you've configured the News app to your liking, hit **Save**. Your News app will appear as an Asset in OptiSigns, and it can now be directly assigned to a screen or used in a Playlist. This asset can then be edited at any time from the Files/Assets tab.
+
+---
+
+## Related Articles
+
+* [How to Use RSS feeds with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360037965133?ref=related)
+* [How to use the CNN Wall App](https://support.optisigns.com/hc/en-us/articles/360041476213?ref=related)
+* [How to Create a Scrolling Strip or Bar](https://support.optisigns.com/hc/en-us/articles/360026559613?ref=related)
+* [How to Create Custom News Feeds with OptiSync](https://support.optisigns.com/hc/en-us/articles/35337746613139?ref=related)
 
 ---
 

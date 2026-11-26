@@ -3,7 +3,7 @@
 **Article ID:** 17604055961747
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/17604055961747-How-to-Create-a-Content-Library-Kiosk
-**Last Updated:** 2026-09-10T09:49:41+00:00
+**Last Updated:** 2026-11-25T17:34:40+00:00
 ---
 
 ### Transform your catalogs of products or library of videos and documents into an interactive kiosk within minutes! This step-by-step guide will help you get your Content Library Kiosk set up in no time.
@@ -104,6 +104,16 @@ The content library kiosk app typically uses folder names as titles on the scree
 To add one, click the three dots in the top right corner of the folder containing the individual files or assets, then choose '**Edit Folder Description**.'
 
 This description will appear on the kiosk screen to describe the list of individual files.
+
+---
+
+## Related Articles
+
+* [Kiosk Setup Hub](https://support.optisigns.com/hc/en-us/articles/44650391786131?ref=related)
+* [How to Design Kiosk Apps Using Kiosk Designer Pro](https://support.optisigns.com/hc/en-us/articles/15313086319763?ref=related)
+* [Enabling Lock Down Mode on Touch Screen Devices](https://support.optisigns.com/hc/en-us/articles/30310366838803?ref=related)
+* [How to Create an Attract Screen for Your Kiosk](https://support.optisigns.com/hc/en-us/articles/29232460955539?ref=related)
+* [How to use the QR Scan-to-Interact (Touchless QR) app](https://support.optisigns.com/hc/en-us/articles/8899727608083?ref=related)
 
 ## **That's all! It's just that simple!**
 

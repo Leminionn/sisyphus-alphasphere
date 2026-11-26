@@ -3,7 +3,7 @@
 **Article ID:** 35184720136595
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/35184720136595-How-to-Install-a-Root-Certificate-and-Display-an-Internal-Website-on-Screens
-**Last Updated:** 2025-09-04T16:54:34+00:00
+**Last Updated:** 2026-11-25T17:31:20+00:00
 ---
 
 OptiSigns digital signage software is an extremely valuable tool for internal communication, capable of displaying internal memos, communications, and announcements across numerous locations and offices. Messaging can be tailored to specific audiences, scheduled, and automatically synced to data sources.
@@ -232,6 +232,15 @@ Once the Website asset is created, it can be assigned to a screen.
 Many internal websites require logins to work. In this case, the Website app will not be sufficient to access them on the OptiSigns app. In this case, we recommend our Web Scripting app.
 
 Follow our complete [guide to using the Web Scripting app](https://support.optisigns.com/hc/en-us/articles/1500012522362-How-to-use-the-Web-Scripting-App) to set that up.
+
+---
+
+## Related Articles
+
+* [How to Use the Website App and Display URLs on OptiSigns](https://support.optisigns.com/hc/en-us/articles/360016382473?ref=related)
+* [How to use the Web Scripting App](https://support.optisigns.com/hc/en-us/articles/1500012522362?ref=related)
+* [How to Display Content From Websites That Require a Login](https://support.optisigns.com/hc/en-us/articles/360037391854?ref=related)
+* [Whitelist OptiSigns IP Addresses & Ports](https://support.optisigns.com/hc/en-us/articles/360047275934?ref=related)
 
 ### That’s all!
 

@@ -3,7 +3,7 @@
 **Article ID:** 360050665253
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360050665253-How-to-Use-the-OneDrive-App
-**Last Updated:** 2026-10-16T16:30:48+00:00
+**Last Updated:** 2026-11-25T18:07:47+00:00
 ---
 
 With the OneDrive app, it's possible to play the images and videos in a OneDrive folder on your screens. The app turns the folder into a playlist and keeps it in sync, so when you add, change or remove a file in OneDrive, your screens update too. Your team can update what's on screen without ever signing in to OptiSigns.
@@ -97,6 +97,16 @@ Any other files in the folder, such as documents or spreadsheets, are skipped. F
 * To keep the app running smoothly, keep each file to 100 MB or less, and keep up to 200 files per folder. For large videos, we recommend uploading them directly to OptiSigns. For more than 200 files, split them across several folders.
 * Microsoft doesn't publish a service level for its change notifications, so a change can sometimes take a while to reach OptiSigns. That's why OptiSigns also runs a full sync on the **Force Sync Interval**.
 * You can create up to 100 OneDrive apps per account. If you need more, contact [support@optisigns.com](mailto:support@optisigns.com) to discuss an Enterprise Plan.
+
+---
+
+## Related Articles
+
+* [How to Use Microsoft Excel Online with OptiSigns](https://support.optisigns.com/hc/en-us/articles/4529298306963?ref=related)
+* [How to Use Microsoft PowerPoint with OptiSigns](https://support.optisigns.com/hc/en-us/articles/4414355658899?ref=related)
+* [How to Use the Google Drive App](https://support.optisigns.com/hc/en-us/articles/360049518313?ref=related)
+* [How to Use the Dropbox App](https://support.optisigns.com/hc/en-us/articles/360050665413?ref=related)
+* [Displaying SharePoint Sites on OptiSigns](https://support.optisigns.com/hc/en-us/articles/4414539282067?ref=related)
 
 ### That’s all!
 

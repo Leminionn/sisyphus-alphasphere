@@ -3,7 +3,7 @@
 **Article ID:** 1500009492202
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/1500009492202-How-to-Use-the-On-This-Day-App
-**Last Updated:** 2026-09-14T20:35:04+00:00
+**Last Updated:** 2026-11-25T18:06:09+00:00
 ---
 
 The On This Day app provides small trivia information by getting highlights from Wikipedia's database of what happens on this date. Usually it's birthday a birthday, some historical events, or some sort of worldwide holiday. This works as fun filler content for digital signs.
@@ -34,6 +34,15 @@ After inputting the information, you can **Preview** the app on the box in the s
 Then, hit **Save**.
 
 After Saving, you can Preview the wall. It may take several seconds for the app to fetch posts and prepare your wall, so please be patient.
+
+---
+
+## Related Articles
+
+* [How to use the Motivational Quote App](https://support.optisigns.com/hc/en-us/articles/360049030453?ref=related)
+* [How to create and use Virtual Screen App](https://support.optisigns.com/hc/en-us/articles/360055900513?ref=related)
+* [How to Use the CountDown App](https://support.optisigns.com/hc/en-us/articles/360041638433?ref=related)
+* [How to Use the News App](https://support.optisigns.com/hc/en-us/articles/360022393473?ref=related)
 
 ---
 

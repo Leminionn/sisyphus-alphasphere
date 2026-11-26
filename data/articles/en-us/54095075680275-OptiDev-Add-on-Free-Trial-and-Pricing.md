@@ -3,7 +3,7 @@
 **Article ID:** 54095075680275
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/54095075680275-OptiDev-Add-on-Free-Trial-and-Pricing
-**Last Updated:** 2026-11-18T17:12:24+00:00
+**Last Updated:** 2026-11-25T18:11:48+00:00
 ---
 
 The OptiDev add-on lets you build custom, AI-powered apps and put them straight on your screens. This includes, but is not limited to, dashboards, directories, menus, and kiosks.
@@ -164,6 +164,15 @@ When you cancel:
 * OptiDev access is removed from the account.
 * Screens showing an OptiDev app stop showing it, and your published apps are paused — so plan to assign replacement content to those screens.
 * **Your OptiDev projects aren’t deleted.**
+
+---
+
+## Related Articles
+
+* [AI Tools in OptiSigns: OptiBot, AI Designer, OptiDev and the AI Connector](https://support.optisigns.com/hc/en-us/articles/57688527779219?ref=related)
+* [Connect ChatGPT, Claude and Grok to OptiSigns Digital Signage with AI Connector](https://support.optisigns.com/hc/en-us/articles/56987330525587?ref=related)
+* [Host your HTML/JS or Create your own Web App with Hosted Website](https://support.optisigns.com/hc/en-us/articles/7592123111699?ref=related)
+* [Build Integrations Using the OptiSigns Enterprise App](https://support.optisigns.com/hc/en-us/articles/13320135306515?ref=related)
 
 ### That's all!
 

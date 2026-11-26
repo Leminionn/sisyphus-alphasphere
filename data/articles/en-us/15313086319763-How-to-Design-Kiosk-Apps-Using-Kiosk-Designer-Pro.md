@@ -3,7 +3,7 @@
 **Article ID:** 15313086319763
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/15313086319763-How-to-Design-Kiosk-Apps-Using-Kiosk-Designer-Pro
-**Last Updated:** 2026-07-14T07:45:20+00:00
+**Last Updated:** 2026-11-25T17:53:11+00:00
 ---
 
 ### In this guide, we'll show you how to effortlessly customize templates into interactive kiosk apps with just a few clicks, perfectly tailored to your unique requirements.
@@ -117,6 +117,16 @@ For **assets**, you will have all the [**same link options**](#link) as explaine
   + Zoom
 
 Click **Save**.
+
+---
+
+## Related Articles
+
+* [How to Create a Content Library Kiosk](https://support.optisigns.com/hc/en-us/articles/17604055961747?ref=related)
+* [Getting Started with Touch Screen Kiosks](https://support.optisigns.com/hc/en-us/articles/31449657955347?ref=related)
+* [How to use Kiosk Lite (formerly known as Interactive Kiosk app)](https://support.optisigns.com/hc/en-us/articles/360053993934?ref=related)
+* [How to use the QR Scan-to-Interact (Touchless QR) app](https://support.optisigns.com/hc/en-us/articles/8899727608083?ref=related)
+* [How to Create an Attract Screen for Your Kiosk](https://support.optisigns.com/hc/en-us/articles/29232460955539?ref=related)
 
 ## **That's all!**
 

@@ -3,7 +3,7 @@
 **Article ID:** 4403306341523
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/4403306341523-How-to-set-up-Monitoring-Alert-feature
-**Last Updated:** 2025-09-04T18:20:07+00:00
+**Last Updated:** 2026-11-25T17:54:49+00:00
 ---
 
 Monitoring & Alert is a Pro Plus and Enterprise feature that will allow you to receive notifications when devices are down.
@@ -48,3 +48,12 @@ You can click "Manage Alert Rules" to go to manage alert rule pages and update y
 You have created Monitoring Alert rule to help you get notifications when your screens are down, so you can take actions.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+
+---
+
+## Related Articles
+
+* [Remotely Control and Command OptiSigns Devices](https://support.optisigns.com/hc/en-us/articles/360055486554?ref=related)
+* [Advanced: Proof of Play (or Playback report)](https://support.optisigns.com/hc/en-us/articles/360058936513?ref=related)
+* [Setting Up Audit Logging](https://support.optisigns.com/hc/en-us/articles/4403332894867?ref=related)
+* [Using RS232 to Schedule TV Power On/Off or other commands](https://support.optisigns.com/hc/en-us/articles/9061950942995?ref=related)

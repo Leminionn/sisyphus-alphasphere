@@ -3,7 +3,7 @@
 **Article ID:** 360040943374
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360040943374-Assign-Default-Content-for-Schedules
-**Last Updated:** 2026-09-10T09:41:35+00:00
+**Last Updated:** 2026-11-25T17:19:24+00:00
 ---
 
 If you create a schedule, at times when there's no content scheduled, the display will default to a black screen.  
@@ -34,3 +34,12 @@ Then select if you want to use:
 Sometime, you would want to set a default content so that when nothing is scheduled the default content will be displayed. There are 2 ways to set default content, one is at each schedule level, and one is at whole account level and will be applied to all newly created schedule.
 
 If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
+
+---
+
+## Related Articles
+
+* [Creating and Using Schedules with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360016981853?ref=related)
+* [How to set an asset to Live or Expire at specific time](https://support.optisigns.com/hc/en-us/articles/360042736794?ref=related)
+* [How to Control and Schedule Playlist Items](https://support.optisigns.com/hc/en-us/articles/20062273670163?ref=related)
+* [How To Create and Use Operational Schedules (HDMI-CEC, RS-232)](https://support.optisigns.com/hc/en-us/articles/28598173096723?ref=related)

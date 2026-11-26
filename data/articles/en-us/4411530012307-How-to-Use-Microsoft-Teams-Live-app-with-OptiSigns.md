@@ -3,7 +3,7 @@
 **Article ID:** 4411530012307
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/4411530012307-How-to-Use-Microsoft-Teams-Live-app-with-OptiSigns
-**Last Updated:** 2026-09-30T18:46:41+00:00
+**Last Updated:** 2026-11-25T18:05:20+00:00
 ---
 
 You can broadcast a Microsoft Teams Live on your digital signs with OptiSigns.
@@ -53,3 +53,12 @@ Have the host start the event a few mins before screens are joining automaticall
 It will take a device 10-15s to join the event, so it's not a good idea to put the MS Teams Live in a playlist. It's better to use it as single asset to take up full screen or be part of a [SplitScreen zone](https://support.optisigns.com/hc/en-us/articles/360026559573).
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+
+---
+
+## Related Articles
+
+* [How to Use the Microsoft Teams Meeting App](https://support.optisigns.com/hc/en-us/articles/4404053129619?ref=related)
+* [How to Use the Microsoft Meeting Room App](https://support.optisigns.com/hc/en-us/articles/4406214738707?ref=related)
+* [How to Display Microsoft Teams Chat on OptiSigns](https://support.optisigns.com/hc/en-us/articles/4417940565139?ref=related)
+* [How to Use OptiSigns with Microsoft Teams Rooms](https://support.optisigns.com/hc/en-us/articles/36911639377683?ref=related)

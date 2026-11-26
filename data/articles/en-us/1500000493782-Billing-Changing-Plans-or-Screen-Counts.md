@@ -3,7 +3,7 @@
 **Article ID:** 1500000493782
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/1500000493782-Billing-Changing-Plans-or-Screen-Counts
-**Last Updated:** 2026-11-23T18:19:02+00:00
+**Last Updated:** 2026-11-25T17:55:39+00:00
 ---
 
 You can change your plan, add or remove screens, and switch between Monthly and Yearly billing at any time from **Subscription Plan** in your account settings. Click **Update subscription**, make your changes, and confirm on the payment step. Adding screens or moving to a higher plan is charged right away for the rest of your current billing period; removing screens or moving to a lower plan turns the unused time into account credit.
@@ -118,6 +118,16 @@ See [Does OptiSigns Offer a Non-profit/Education Discount?](https://support.opti
 #### How Do I Cancel My Subscription?
 
 Click **Cancel Subscription** on the screen count step of **Update subscription**. Your subscription stays active until the end of your billing period. See [How to Cancel or Pause Your Subscription](https://support.optisigns.com/hc/en-us/articles/17639078588691-How-to-cancel-subscription-or-pause-subscription-for-Seasonal-Use-Case).
+
+---
+
+## Related Articles
+
+* [Billing Details, Failed Payments & Receipts](https://support.optisigns.com/hc/en-us/articles/360041587014?ref=related)
+* [Cancel, Pause or Downgrade Your Subscription](https://support.optisigns.com/hc/en-us/articles/17639078588691?ref=related)
+* [Billing for Multiple Locations: Sub-Accounts and Team Billing](https://support.optisigns.com/hc/en-us/articles/17129313173395?ref=related)
+* [Where to Buy OptiSigns Devices](https://support.optisigns.com/hc/en-us/articles/32129032857875?ref=related)
+* [What Do I Get With an OptiSigns Free Plan?](https://support.optisigns.com/hc/en-us/articles/33940834613139?ref=related)
 
 ### That’s all!
 

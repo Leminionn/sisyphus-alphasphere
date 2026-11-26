@@ -3,7 +3,7 @@
 **Article ID:** 36911639377683
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/36911639377683-How-to-Use-OptiSigns-with-Microsoft-Teams-Rooms
-**Last Updated:** 2026-09-30T21:54:02+00:00
+**Last Updated:** 2026-11-25T17:11:15+00:00
 ---
 
 Microsoft has released a new Digital Signage option for their [Microsoft Teams Rooms](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms) application, which allows digital signage to be displayed on a Microsoft Teams Rooms device. This will cause Teams Rooms screens and devices to display digital signage content when idle.
@@ -96,6 +96,16 @@ Second, the **Share Type** should be set to **URL Link**. It is this URL you wil
 Now, hit **Save**. Your Virtual Screen window URL will now appear and can be shared.
 
 This Virtual Room app will now be saved as an Asset on OptiSigns. By clicking on it, you will be able to access the URL anytime. You'll want to enter this into your Custom source within the Teams Rooms Pro Management portal.
+
+---
+
+## Related Articles
+
+* [Connect Microsoft Teams Rooms to OptiSigns Digital Signage](https://support.optisigns.com/hc/en-us/articles/52350277262483?ref=related)
+* [How to Display Microsoft Teams Chat on OptiSigns](https://support.optisigns.com/hc/en-us/articles/4417940565139?ref=related)
+* [How to Use the Microsoft Teams Meeting App](https://support.optisigns.com/hc/en-us/articles/4404053129619?ref=related)
+* [How to Use Microsoft Excel Online with OptiSigns](https://support.optisigns.com/hc/en-us/articles/4529298306963?ref=related)
+* [Room Integrations: Turn Your Meeting Rooms into Digital Signage](https://support.optisigns.com/hc/en-us/articles/52113036672403?ref=related)
 
 ---
 

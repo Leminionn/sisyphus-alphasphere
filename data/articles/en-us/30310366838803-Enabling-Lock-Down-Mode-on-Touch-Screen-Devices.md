@@ -3,7 +3,7 @@
 **Article ID:** 30310366838803
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/30310366838803-Enabling-Lock-Down-Mode-on-Touch-Screen-Devices
-**Last Updated:** 2026-09-10T09:51:32+00:00
+**Last Updated:** 2026-11-25T17:32:06+00:00
 ---
 
 #### Lock Down mode is essential for ensuring users only interact with the intended content without interfering with any OptiSigns settings on your device. This guide will walk you through enabling this mode for the OptiSigns app on various devices and their limitations.
@@ -176,3 +176,13 @@ If you have many devices and would like to easier manage them, you can use the A
 ## That's it!
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
+
+---
+
+## Related Articles
+
+* [Kiosk Setup Hub](https://support.optisigns.com/hc/en-us/articles/44650391786131?ref=related)
+* [Kiosk10](https://support.optisigns.com/hc/en-us/articles/44652521310099?ref=related)
+* [How to Lockdown iPad/Single App with Guided Accessibility](https://support.optisigns.com/hc/en-us/articles/25273043501587?ref=related)
+* [How to Use the Mobile App for Remote Control](https://support.optisigns.com/hc/en-us/articles/30304278652563?ref=related)
+* [Remotely Control and Command OptiSigns Devices](https://support.optisigns.com/hc/en-us/articles/360055486554?ref=related)

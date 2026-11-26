@@ -3,7 +3,7 @@
 **Article ID:** 43657735780627
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/43657735780627-User-Management-Example-Chain-Restaurant-or-Retail-Store-with-Multiple-Locations
-**Last Updated:** 2025-08-28T19:28:55+00:00
+**Last Updated:** 2026-11-25T17:23:05+00:00
 ---
 
 Using OptiSigns, it’s possible to create a sophisticated setup for your OptiSigns portal to manage users, permissions, and screens. Securely configuring the OptiSigns portal to your needs during the initial onboarding process can save time and prevent issues down the line.
@@ -184,6 +184,16 @@ To add users via OptiSigns, go back to where you created the Teams. You can **Ad
 However, for our example, our hypothetical restaurant chain wants to enforce SSO via SAML.
 
 To do this, go to our [**SSO & SAML**](https://support.optisigns.com/hc/en-us/sections/26319189062803-SSO-SAML)section and follow the appropriate article. We highly recommend reading our [**SAML best practices**](https://support.optisigns.com/hc/en-us/articles/4407128433299-SAML-integration-strategy-best-practice)article, as well.
+
+---
+
+## Related Articles
+
+* [Folder Level Permissions](https://support.optisigns.com/hc/en-us/articles/360044600474?ref=related)
+* [Advanced Security: Managing User Roles](https://support.optisigns.com/hc/en-us/articles/360046356113?ref=related)
+* [Working with Teams and Security Levels](https://support.optisigns.com/hc/en-us/articles/360034883113?ref=related)
+* [Billing for Multiple Locations: Sub-Accounts and Team Billing](https://support.optisigns.com/hc/en-us/articles/17129313173395?ref=related)
+* [Sharing Playlists and Folders with External Users](https://support.optisigns.com/hc/en-us/articles/21708242980755?ref=related)
 
 ### That’s all!
 

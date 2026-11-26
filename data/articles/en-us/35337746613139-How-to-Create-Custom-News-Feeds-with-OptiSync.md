@@ -1,9 +1,9 @@
-# How to Create Custom News Feeds with  OptiSync
+# How to Create Custom News Feeds with OptiSync
 
 **Article ID:** 35337746613139
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/35337746613139-How-to-Create-Custom-News-Feeds-with-OptiSync
-**Last Updated:** 2025-10-01T19:04:05+00:00
+**Last Updated:** 2026-11-25T20:19:52+00:00
 ---
 
 It is common for companies to share their internal communications, including memos, news, announcements and more via intranet. Digital signage will heighten employee awareness of published company news and announcements.
@@ -241,6 +241,16 @@ There are dozens of possibilities using the OptiSync filter to show even more pr
 | --- |
 | **TIP** |
 | Remember the “promotionKind” data value from before? If you want to make sure only custom news articles appear on your screen, try setting the Filter to state:  **promotionKind - Equals - newsPost**  This should filter out any other pieces of data received from the API. |
+
+---
+
+## Related Articles
+
+* [How to Set Up Dynamic Data Mapping with OptiSync](https://support.optisigns.com/hc/en-us/articles/29217646663187?ref=related)
+* [How to add a Microsoft 365 Excel Spreadsheet as a DataSource for OptiSync](https://support.optisigns.com/hc/en-us/articles/29863080711059?ref=related)
+* [How to Display Birthday Lists with OptiSync Data Mapping and Google Sheets](https://support.optisigns.com/hc/en-us/articles/29979283289235?ref=related)
+* [How to Integrate API and Publish API Data via OptiSync](https://support.optisigns.com/hc/en-us/articles/22875592994195?ref=related)
+* [Shapes and Elements](https://support.optisigns.com/hc/en-us/articles/42307234534547?ref=related)
 
 ### That’s all!
 

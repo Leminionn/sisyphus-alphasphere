@@ -3,7 +3,7 @@
 **Article ID:** 1500008112642
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/1500008112642-How-to-install-OptiSigns-Player-on-Android-Boxes
-**Last Updated:** 2026-09-10T09:45:51+00:00
+**Last Updated:** 2026-11-25T18:01:35+00:00
 ---
 
 There are many cost effective Android Boxes or Sticks on the market, such as Xiaomi boxes, sticks, Onn TV box, Mecool, etc.
@@ -56,3 +56,13 @@ Once you go to our portal at: <https://app.optisigns.com/>to pair the screen and
 * [Create and Using Schedules with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360016981853)
 
 If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
+
+---
+
+## Related Articles
+
+* [How to Install OptiSigns as an APK File on Android Devices](https://support.optisigns.com/hc/en-us/articles/1500011891542?ref=related)
+* [Set Up, Add, or Unpair a Screen](https://support.optisigns.com/hc/en-us/articles/360016374813?ref=related)
+* [Android TV / ChromeCast](https://support.optisigns.com/hc/en-us/articles/1500004699122?ref=related)
+* [Resolve Autostart issues on your Android TV devices](https://support.optisigns.com/hc/en-us/articles/1500009937122?ref=related)
+* [Performance/Stability issues on Android devices and Best Practices](https://support.optisigns.com/hc/en-us/articles/28427819992979?ref=related)

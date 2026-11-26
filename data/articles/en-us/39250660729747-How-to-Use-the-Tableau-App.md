@@ -3,7 +3,7 @@
 **Article ID:** 39250660729747
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/39250660729747-How-to-Use-the-Tableau-App
-**Last Updated:** 2026-01-06T22:36:49+00:00
+**Last Updated:** 2026-11-25T17:04:22+00:00
 ---
 
 With the Tableau app, it’s possible to securely display Tableau dashboards on your large TVs and screens. This can dramatically increase communication and information across office spaces.
@@ -151,6 +151,15 @@ There are a few critical points to note here.
 
 * Tableau limits your refreshes to **12 per day**. This means that, if you set it to 10 minutes for example, you'll refresh your report every ten minutes for the first two hours, then you'll have to wait another 22 hours before it refreshes again.
 * This means the minimum refresh timer we recommend is **2 hours.** This means your data will be refreshed consistently every two hours. This can be tuned further depending on your use case - for example, if you don't need it to update after 6pm, you can set it to **90 minutes**.
+
+---
+
+## Related Articles
+
+* [How to Display Microsoft Power BI Dashboards & Reports with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360024859713?ref=related)
+* [How to Display Salesforce Dashboards and Reports on OptiSigns](https://support.optisigns.com/hc/en-us/articles/55895814798739?ref=related)
+* [How to Display Databricks Dashboards on OptiSigns](https://support.optisigns.com/hc/en-us/articles/53952018650515?ref=related)
+* [How to use the Web Scripting App](https://support.optisigns.com/hc/en-us/articles/1500012522362?ref=related)
 
 ### That’s all!
 

@@ -3,7 +3,7 @@
 **Article ID:** 20750060900883
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/20750060900883-Your-Facebook-Page-Doesn-t-Show-in-The-Dropdown-List
-**Last Updated:** 2026-09-10T09:50:14+00:00
+**Last Updated:** 2026-11-25T17:34:00+00:00
 ---
 
 **First, you can go to the Facebook Business Integrations page:**
@@ -23,3 +23,11 @@ Then you can recreate the Facebook app in the OptiSigns portal: <https://app.opt
 You should be able to see your Facebook page in the dropdown list.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+
+---
+
+## Related Articles
+
+* [How to Use the Facebook Page App](https://support.optisigns.com/hc/en-us/articles/360023848334?ref=related)
+* [How to Set up an Instagram Business/Creator account](https://support.optisigns.com/hc/en-us/articles/360051745633?ref=related)
+* [How to use Facebook Video App](https://support.optisigns.com/hc/en-us/articles/360049872414?ref=related)

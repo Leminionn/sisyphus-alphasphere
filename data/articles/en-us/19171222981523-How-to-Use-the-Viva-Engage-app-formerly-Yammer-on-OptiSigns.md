@@ -3,7 +3,7 @@
 **Article ID:** 19171222981523
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/19171222981523-How-to-Use-the-Viva-Engage-app-formerly-Yammer-on-OptiSigns
-**Last Updated:** 2026-09-24T08:59:57+00:00
+**Last Updated:** 2026-11-25T18:12:10+00:00
 ---
 
 You can display your Viva Engage Posts on your digital signs screen with OptiSigns.
@@ -37,6 +37,15 @@ You can click Advanced and set:
 
 Click Save.  
 After Saving, you can Preview the wall. It may take several seconds for the app to fetch posts and prepare your wall, so please be patient.
+
+---
+
+## Related Articles
+
+* [How to Display Microsoft Teams Chat on OptiSigns](https://support.optisigns.com/hc/en-us/articles/4417940565139?ref=related)
+* [Displaying SharePoint Sites on OptiSigns](https://support.optisigns.com/hc/en-us/articles/4414539282067?ref=related)
+* [Connect SharePoint News to OptiSigns Digital Signage](https://support.optisigns.com/hc/en-us/articles/55450681344915?ref=related)
+* [How to Use the Slack App](https://support.optisigns.com/hc/en-us/articles/4407335862931?ref=related)
 
 ## **That's all! Congratulations!**
 

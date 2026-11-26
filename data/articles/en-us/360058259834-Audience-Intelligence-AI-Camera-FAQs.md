@@ -3,7 +3,7 @@
 **Article ID:** 360058259834
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360058259834-Audience-Intelligence-AI-Camera-FAQs
-**Last Updated:** 2026-02-04T16:18:32+00:00
+**Last Updated:** 2026-11-25T17:55:54+00:00
 ---
 
 ### OptiSigns Audience Intelligence allows you to tailor your digital signs toward a specific demographic and collect and analyze customer demographic data.
@@ -106,3 +106,13 @@ For the AI Detection program:
 #### **How much does OptiSigns Audience Intelligence cost?**
 
 The Audience Intelligence feature is part of our **Engage** subscription plan, which costs $30/month per screen.
+
+---
+
+## Related Articles
+
+* [AI Camera App - Quick Start](https://support.optisigns.com/hc/en-us/articles/27690296225555?ref=related)
+* [OptiSigns IoT Sensor Add-on - Quick Start](https://support.optisigns.com/hc/en-us/articles/13097501958291?ref=related)
+* [How to run OptiSigns AI Add-on on start up in Windows](https://support.optisigns.com/hc/en-us/articles/360058345334?ref=related)
+* [How to manually install & activate OptiSigns AI Add-on on Linux or Raspberry Pi](https://support.optisigns.com/hc/en-us/articles/360060676993?ref=related)
+* [Advanced: Proof of Play (or Playback report)](https://support.optisigns.com/hc/en-us/articles/360058936513?ref=related)

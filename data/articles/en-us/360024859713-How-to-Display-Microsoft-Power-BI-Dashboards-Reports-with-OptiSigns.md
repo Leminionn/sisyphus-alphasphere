@@ -3,7 +3,7 @@
 **Article ID:** 360024859713
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360024859713-How-to-Display-Microsoft-Power-BI-Dashboards-Reports-with-OptiSigns
-**Last Updated:** 2026-11-11T20:29:28+00:00
+**Last Updated:** 2026-11-25T18:09:41+00:00
 ---
 
 Put live Power BI reports and dashboards on any screen. OptiSigns signs in to Power BI through Microsoft's official APIs, keeps the report up to date, and can rotate through the report pages you pick or turn a report into a touch-screen kiosk.
@@ -252,6 +252,16 @@ Large reports need more memory and processing power than many built-in TV player
 ### Does this work with Power BI for US Government (GCC / GCC High)?
 
 Not directly. Government-cloud Power BI URLs aren't supported by the Power BI app. As a workaround, display the report with the [SharePoint app](https://support.optisigns.com/hc/en-us/articles/4414539282067-Displaying-SharePoint-Sites-on-OptiSigns).
+
+---
+
+## Related Articles
+
+* [How to Set Up a Power BI Service Principal for Use in OptiSigns](https://support.optisigns.com/hc/en-us/articles/32860569148819?ref=related)
+* [How to approve OptiSigns as Enterprise App on Microsoft Azure (for Power BI, Calendar, etc. access)](https://support.optisigns.com/hc/en-us/articles/4403616315539?ref=related)
+* [Displaying SharePoint Sites on OptiSigns](https://support.optisigns.com/hc/en-us/articles/4414539282067?ref=related)
+* [How to Use Microsoft PowerPoint with OptiSigns](https://support.optisigns.com/hc/en-us/articles/4414355658899?ref=related)
+* [Broadcast: Send Scheduled Snapshots of Your Dashboards](https://support.optisigns.com/hc/en-us/articles/55416185869331?ref=related)
 
 ### That’s all!
 

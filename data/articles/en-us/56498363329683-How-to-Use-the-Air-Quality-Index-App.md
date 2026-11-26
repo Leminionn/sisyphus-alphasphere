@@ -3,7 +3,7 @@
 **Article ID:** 56498363329683
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/56498363329683-How-to-Use-the-Air-Quality-Index-App
-**Last Updated:** 2026-10-16T21:10:49+00:00
+**Last Updated:** 2026-11-25T17:15:29+00:00
 ---
 
 With the Air Quality Index app, it's possible to display the current air quality and the coming days' forecast for any location on your digital signs. Show the US AQI, the level of each pollutant, and simple advice, so visitors and staff know at a glance whether it's a good day to be outside.
@@ -79,6 +79,15 @@ The **Select Asset** window will open. Search for your Air Quality Index app, cl
 Back in **Edit Screen**, hit **Save**. Your air quality readings will now display on your screen.
 
 Your Air Quality Index app can also be displayed in a Playlist or Schedule, or as one zone of a [Split Screen](https://support.optisigns.com/hc/en-us/articles/360026559573).
+
+---
+
+## Related Articles
+
+* [How to Use Weather Apps in OptiSigns](https://support.optisigns.com/hc/en-us/articles/360017964153?ref=related)
+* [How to Use the Weather Alert App](https://support.optisigns.com/hc/en-us/articles/6757989639827?ref=related)
+* [How to Use the Weather Radar App](https://support.optisigns.com/hc/en-us/articles/55906396437523?ref=related)
+* [How to Use Weather Apps Based on Device Location](https://support.optisigns.com/hc/en-us/articles/4408052029587?ref=related)
 
 ### That’s all!
 

@@ -3,7 +3,7 @@
 **Article ID:** 53952018650515
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/53952018650515-How-to-Display-Databricks-Dashboards-on-OptiSigns
-**Last Updated:** 2026-08-11T19:04:29+00:00
+**Last Updated:** 2026-11-25T17:12:45+00:00
 ---
 
 With the Databricks app, you can display a live **Databricks AI/BI dashboard** on any OptiSigns screen.
@@ -224,6 +224,15 @@ You can always refresh your screen manually to get the latest update.
 #### My Databricks dashboard used to display fine, but stopped all of a sudden! What's wrong?
 
 Usually, this has to do with an expired or rotated service principal secret. Try generating a new secret within Databricks and updating your OptiSigns connection.
+
+---
+
+## Related Articles
+
+* [How to Display a Snowflake Dashboard with OptiSigns](https://support.optisigns.com/hc/en-us/articles/53028011485715?ref=related)
+* [How to Display Grafana Dashboards on OptiSigns](https://support.optisigns.com/hc/en-us/articles/55447693635731?ref=related)
+* [Broadcast: Send Scheduled Snapshots of Your Dashboards](https://support.optisigns.com/hc/en-us/articles/55416185869331?ref=related)
+* [How to Display Microsoft Power BI Dashboards & Reports with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360024859713?ref=related)
 
 ### That’s all!
 

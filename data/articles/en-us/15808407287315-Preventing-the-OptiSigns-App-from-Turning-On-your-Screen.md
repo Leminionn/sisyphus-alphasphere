@@ -3,7 +3,7 @@
 **Article ID:** 15808407287315
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/15808407287315-Preventing-the-OptiSigns-App-from-Turning-On-your-Screen
-**Last Updated:** 2026-10-28T18:52:26+00:00
+**Last Updated:** 2026-11-25T17:34:57+00:00
 ---
 
 If you turn off your TV and it turns itself back on with OptiSigns playing, a setting on the screen is waking it up. This article explains which settings can do that and how to turn each one off.
@@ -71,6 +71,15 @@ If a schedule is selected, either:
 * Check your TV's own settings for HDMI-CEC (it may be called Anynet+, SimpLink, Bravia Sync or similar). If CEC is off on the TV, the app can't turn the TV on over HDMI. CEC also controls the Operational Schedule's power-off, so turning it off disables that too.
 
 If you have more questions or feedback about OptiSigns, contact our support team at support@optisigns.com.
+
+---
+
+## Related Articles
+
+* [How To Create and Use Operational Schedules (HDMI-CEC, RS-232)](https://support.optisigns.com/hc/en-us/articles/28598173096723?ref=related)
+* [Operational Schedule Troubleshooting](https://support.optisigns.com/hc/en-us/articles/48241081473043?ref=related)
+* [OptiSigns Side Menu Options](https://support.optisigns.com/hc/en-us/articles/360056090593?ref=related)
+* [Edit Screen: What does each option do?](https://support.optisigns.com/hc/en-us/articles/360048914673?ref=related)
 
 ### That’s all!
 

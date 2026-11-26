@@ -3,7 +3,7 @@
 **Article ID:** 11784310183571
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/11784310183571-How-to-use-Waitwhile-App
-**Last Updated:** 2026-09-10T09:49:03+00:00
+**Last Updated:** 2026-11-25T18:03:26+00:00
 ---
 
 Waitwhile is a great platform to display and manage your in location waitlist and more.  
@@ -43,6 +43,14 @@ Set up your Waitwhile App:
 Click Save to save your asset.
 
 You can preview how it look by clicking the "Preview button".
+
+---
+
+## Related Articles
+
+* [How to Use the MustHaveMenus App](https://support.optisigns.com/hc/en-us/articles/12454101966355?ref=related)
+* [How to use Kiosk Lite (formerly known as Interactive Kiosk app)](https://support.optisigns.com/hc/en-us/articles/360053993934?ref=related)
+* [Assign content to your screens](https://support.optisigns.com/hc/en-us/articles/360016375153?ref=related)
 
 ## That's all!
 

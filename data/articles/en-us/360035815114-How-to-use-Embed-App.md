@@ -3,7 +3,7 @@
 **Article ID:** 360035815114
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360035815114-How-to-use-Embed-App
-**Last Updated:** 2026-09-10T09:41:14+00:00
+**Last Updated:** 2026-11-25T18:09:38+00:00
 ---
 
 Embed app is used to display embed codes that you get from the internet for sharing content such as YouTube videos, Google Slides, Calendar, or social media posts.
@@ -27,3 +27,13 @@ Then give it a name and paste your embed code there.
 Now, you can assign this newly created asset to your screens to display, or you can also use it in playlists, schedules, etc like any other assets. If you need more information on how to set up & assign content to your screens [click here](https://support.optisigns.com/hc/en-us/articles/360016174554-How-to-set-up-Digital-Signs-with-OptiSigns-and-Amazon-Fire-TV).
 
 If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
+
+---
+
+## Related Articles
+
+* [How to Use the Website App and Display URLs on OptiSigns](https://support.optisigns.com/hc/en-us/articles/360016382473?ref=related)
+* [How to use the Web Scripting App](https://support.optisigns.com/hc/en-us/articles/1500012522362?ref=related)
+* [How to Use the Advanced Website App](https://support.optisigns.com/hc/en-us/articles/5149077938835?ref=related)
+* [Host your HTML/JS or Create your own Web App with Hosted Website](https://support.optisigns.com/hc/en-us/articles/7592123111699?ref=related)
+* [How to use Scrolling Website App](https://support.optisigns.com/hc/en-us/articles/360056356414?ref=related)

@@ -3,7 +3,7 @@
 **Article ID:** 1500005467601
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/1500005467601-Clean-install-of-OptiSigns-Player-on-Windows
-**Last Updated:** 2026-09-10T09:45:38+00:00
+**Last Updated:** 2026-11-25T20:02:43+00:00
 ---
 
 Performing a clean install of OptiSigns on Windows could help to resolve issues you experiencing.
@@ -31,6 +31,17 @@ Then you can download the latest OptiSigns Windows version here:
 
 And install it again.
 
-That's all you have performed a clean uninstall and reinstall of OptiSigns player.
+---
 
-If you still experiencing issues, please contact us at support@optisigns.com
+## Related Articles
+
+* [Windows](https://support.optisigns.com/hc/en-us/articles/360034379293?ref=related)
+* [Silent Installation process for OptiSigns Player on Windows](https://support.optisigns.com/hc/en-us/articles/15861880059283?ref=related)
+* [Set Up, Add, or Unpair a Screen](https://support.optisigns.com/hc/en-us/articles/360016374813?ref=related)
+* [Advanced: How to Install & Activate OptiSigns Remote Agent on Windows](https://support.optisigns.com/hc/en-us/articles/360057327693?ref=related)
+
+### That's all!
+
+You have performed a clean uninstall and reinstall of OptiSigns player.
+
+If you're still experiencing issues, please contact us at support@optisigns.com

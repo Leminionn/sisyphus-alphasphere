@@ -3,7 +3,7 @@
 **Article ID:** 35577511423635
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/35577511423635-OptiSigns-Pro-Player-Advanced-Features
-**Last Updated:** 2026-09-21T15:11:34+00:00
+**Last Updated:** 2026-11-25T18:02:36+00:00
 ---
 
 |  |
@@ -188,6 +188,16 @@ You’ll need to enter your **admin password.**
 Once entered, you’ll see a screen like this:
 
 Afterwards, your factory defaults will be restored.
+
+---
+
+## Related Articles
+
+* [ProPlayer](https://support.optisigns.com/hc/en-us/articles/32272215514131?ref=related)
+* [ProMax](https://support.optisigns.com/hc/en-us/articles/38680194603155?ref=related)
+* [OptiSigns Pro/ProMax Player Troubleshooting Guide](https://support.optisigns.com/hc/en-us/articles/40736654972563?ref=related)
+* [Remotely Control and Command OptiSigns Devices](https://support.optisigns.com/hc/en-us/articles/360055486554?ref=related)
+* [Update OptiSigns player on OptiSigns Pro Player (Gen 2) via script](https://support.optisigns.com/hc/en-us/articles/21449362442003?ref=related)
 
 ### **That’s all!**
 

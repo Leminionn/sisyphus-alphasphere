@@ -3,7 +3,7 @@
 **Article ID:** 1500002042241
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/1500002042241-How-to-use-HDMI-other-video-input-sources-in-with-OptiSigns
-**Last Updated:** 2026-09-10T09:45:25+00:00
+**Last Updated:** 2026-11-25T18:06:33+00:00
 ---
 
 It can be useful to split up your screens with part of Live TV, HDMI in, and part display of other information.
@@ -30,6 +30,16 @@ Then find the Live TV app:
 Give it a name & click Save
 
 Then you can put this TV app in a Playlist or a Zone of your [SplitScreen](https://support.optisigns.com/hc/en-us/articles/360026559573).
+
+---
+
+## Related Articles
+
+* [How to put Live TV on your screens with OptiSigns](https://support.optisigns.com/hc/en-us/articles/10159088954387?ref=related)
+* [How to Use the Live TV with Ads App](https://support.optisigns.com/hc/en-us/articles/1500006130902?ref=related)
+* [How to Create and Use the Split Screen App](https://support.optisigns.com/hc/en-us/articles/360026559573?ref=related)
+* [How to use the Video Stream app](https://support.optisigns.com/hc/en-us/articles/8369526604435?ref=related)
+* [How To Create and Use Operational Schedules (HDMI-CEC, RS-232)](https://support.optisigns.com/hc/en-us/articles/28598173096723?ref=related)
 
 ### **That's all! Congratulations!**
 

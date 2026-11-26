@@ -3,7 +3,7 @@
 **Article ID:** 41432385864595
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/41432385864595-Designer-2-0-New-Features
-**Last Updated:** 2026-05-12T14:17:09+00:00
+**Last Updated:** 2026-11-25T17:20:32+00:00
 ---
 
 ### Now introducing our sleek new Designer 2.0! We have optimized many of the previous functions to allow for a cleaner, more streamlined user experience. Our user-friendly design tool just got even friendlier!
@@ -280,6 +280,16 @@ To add a QR code:
 * **Select** Add a QR Code
 * **Choose** any of the available options
 * **Select** Update QR Code
+
+---
+
+## Related Articles
+
+* [The New Designer: Complete Feature Guide](https://support.optisigns.com/hc/en-us/articles/57645638683411?ref=related)
+* [Customize Text](https://support.optisigns.com/hc/en-us/articles/42157810188179?ref=related)
+* [Animation](https://support.optisigns.com/hc/en-us/articles/42305104960147?ref=related)
+* [Photos, GIFs, and QR Codes in Designer](https://support.optisigns.com/hc/en-us/articles/42526907045651?ref=related)
+* [Shapes and Elements](https://support.optisigns.com/hc/en-us/articles/42307234534547?ref=related)
 
 ### **That's all!**
 

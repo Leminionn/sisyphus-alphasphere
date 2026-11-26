@@ -3,7 +3,7 @@
 **Article ID:** 4414553099667
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/4414553099667-GraphQL-API-Tutorial-Pair-and-Assign-Content-to-Screen
-**Last Updated:** 2026-09-10T09:47:43+00:00
+**Last Updated:** 2026-11-25T18:00:49+00:00
 ---
 
 In this tutorial, we will walk through how to get a new screen paired and assign content making it ready to use through the API. Generally, it involves 2 steps.  Firstly, you will need to get the screen paired to your account. Then you will need to update the screen to rename it, and assign the content to be played on the screen.
@@ -69,3 +69,13 @@ mutation {
 **Previous Article - [Get Started](https://support.optisigns.com/hc/en-us/articles/4414563863827-Get-Started)**
 
 **Next Article - [Tutorial: Create, Update, Add, Remove Items from Playlists](https://support.optisigns.com/hc/en-us/articles/4414558295955-Tutorial-Create-Update-Add-Remove-items-from-Playlists)**
+
+---
+
+## Related Articles
+
+* [Tutorial: Create, Update, Add, Remove items from Playlists](https://support.optisigns.com/hc/en-us/articles/4414558295955?ref=related)
+* [Tutorial: Creating Schedules and Adding Schedule Items Using GraphQL](https://support.optisigns.com/hc/en-us/articles/36558834998291?ref=related)
+* [API Reference](https://support.optisigns.com/hc/en-us/articles/4414558392339?ref=related)
+* [Get Started with OptiSigns API](https://support.optisigns.com/hc/en-us/articles/4414563863827?ref=related)
+* [Tutorial: Creating or Updating Website Assets Using GraphQL](https://support.optisigns.com/hc/en-us/articles/36562094987795?ref=related)

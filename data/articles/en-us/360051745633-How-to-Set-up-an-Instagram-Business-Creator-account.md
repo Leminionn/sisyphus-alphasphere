@@ -3,7 +3,7 @@
 **Article ID:** 360051745633
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360051745633-How-to-Set-up-an-Instagram-Business-Creator-account
-**Last Updated:** 2026-10-30T17:23:15+00:00
+**Last Updated:** 2026-11-25T17:56:25+00:00
 ---
 
 To show Instagram content on your screens, your Instagram account must be a professional account: either **Business** or **Creator**. Personal accounts can't connect to OptiSigns. Since December 2024, Meta only lets apps like OptiSigns read Instagram content from professional accounts.

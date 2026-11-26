@@ -3,7 +3,7 @@
 **Article ID:** 360033693534
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360033693534-PowerPoint-Resolution-Size-for-use-with-Digital-Signage
-**Last Updated:** 2026-10-06T06:37:46+00:00
+**Last Updated:** 2026-11-25T17:24:03+00:00
 ---
 
 One of the common question we got is what's the optimal page size, resolution for PowerPoint slides to use on big screens TVs.
@@ -49,3 +49,12 @@ You may ask: "But wait, my 4K TV is 65', why set resolution to 40in x 22.5in?"
 Yes in theory, you can calculate 65' diagonal = 56.65' × 31.87', but your resolution is still 4K, it will not display higher resolution better, and making bigger media files will make it slower to load and have to scale back to 4K resolution.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+
+---
+
+## Related Articles
+
+* [How to Use Microsoft PowerPoint with OptiSigns](https://support.optisigns.com/hc/en-us/articles/4414355658899?ref=related)
+* [PowerPoint Transition and Animation effect](https://support.optisigns.com/hc/en-us/articles/360034219593?ref=related)
+* [Video Codec or Video Playback Issues and How to Re-encode Videos](https://support.optisigns.com/hc/en-us/articles/360038992973?ref=related)
+* [Display PowerPoint/Google Slides in whole screen when casting from MacBook Pro](https://support.optisigns.com/hc/en-us/articles/17112492659475?ref=related)

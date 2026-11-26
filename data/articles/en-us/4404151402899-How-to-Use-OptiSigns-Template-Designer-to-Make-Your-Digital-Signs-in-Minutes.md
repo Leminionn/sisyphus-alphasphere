@@ -3,7 +3,7 @@
 **Article ID:** 4404151402899
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/4404151402899-How-to-Use-OptiSigns-Template-Designer-to-Make-Your-Digital-Signs-in-Minutes
-**Last Updated:** 2026-06-20T07:00:26+00:00
+**Last Updated:** 2026-11-25T17:54:38+00:00
 ---
 
 |  |
@@ -136,3 +136,13 @@ This will make a copy of your current design and set it as template. Now other u
 |  |  |
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+
+---
+
+## Related Articles
+
+* [Navigating Through OptiSigns' Template Library](https://support.optisigns.com/hc/en-us/articles/20425113117459?ref=related)
+* [Getting Started with Designer](https://support.optisigns.com/hc/en-us/articles/42087942047379?ref=related)
+* [How to Set Up Dynamic Data Mapping with OptiSync](https://support.optisigns.com/hc/en-us/articles/29217646663187?ref=related)
+* [Brand Kit and Enforcing Brand Guidelines](https://support.optisigns.com/hc/en-us/articles/42313875427859?ref=related)
+* [How to Create and Use the Split Screen App](https://support.optisigns.com/hc/en-us/articles/360026559573?ref=related)

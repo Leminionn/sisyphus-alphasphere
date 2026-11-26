@@ -3,7 +3,7 @@
 **Article ID:** 27463953562899
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/27463953562899-Amazon-TV-FireStick-Troubleshooting-Guide
-**Last Updated:** 2026-11-22T17:46:38+00:00
+**Last Updated:** 2026-11-25T17:33:02+00:00
 ---
 
 If you are experiencing black screens, device not powering up, not connected to network, etc.
@@ -63,3 +63,11 @@ If you already have a newer model and still want to try to use it, and you can 
 **Factory Reset:**
 
 Lastly, you can try [Factory Reset the device](https://support.optisigns.com/hc/en-us/articles/360054298754-How-to-Factory-Reset-Your-Fire-Stick-device).
+
+---
+
+## Related Articles
+
+* [How to enable auto-start on FireOS 8 devices like Amazon Fire TV Stick 4K Gen 2 (2023 model)](https://support.optisigns.com/hc/en-us/articles/23274673797139?ref=related)
+* [How to Set Up and Manage OptiSigns on Amazon FireTV and Firesticks](https://support.optisigns.com/hc/en-us/articles/360016174554?ref=related)
+* [How to access the Troubleshooting page of the OptiSigns Player](https://support.optisigns.com/hc/en-us/articles/36501302096915?ref=related)

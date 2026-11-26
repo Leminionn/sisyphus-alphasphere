@@ -3,7 +3,7 @@
 **Article ID:** 4412065189267
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/4412065189267-Synchronized-playback-Sync-Play-feature
-**Last Updated:** 2026-09-10T09:47:37+00:00
+**Last Updated:** 2026-11-25T16:54:43+00:00
 ---
 
 With OptiSigns you can enable screens to play in-sync. This means:
@@ -41,3 +41,13 @@ Another option: If you cannot find any server, you can set all devices to Google
 ### That's it. All screens will sync up.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at[support@optisigns.com](mailto:support@optisigns.com)
+
+---
+
+## Related Articles
+
+* [Making a Video Wall with OptiSigns (Video Wall App)](https://support.optisigns.com/hc/en-us/articles/33382537925267?ref=related)
+* [Manually control playlist playback with OptiSigns](https://support.optisigns.com/hc/en-us/articles/4416704273811?ref=related)
+* [Edit Screen: What does each option do?](https://support.optisigns.com/hc/en-us/articles/360048914673?ref=related)
+* [Advanced Playlist Item Playback Control & Campaign Management](https://support.optisigns.com/hc/en-us/articles/22474034993043?ref=related)
+* [Advanced: Proof of Play (or Playback report)](https://support.optisigns.com/hc/en-us/articles/360058936513?ref=related)

@@ -3,7 +3,7 @@
 **Article ID:** 4404616314515
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/4404616314515-How-to-Change-Account-Owners
-**Last Updated:** 2026-11-16T19:20:05+00:00
+**Last Updated:** 2026-11-25T18:02:14+00:00
 ---
 
 Account Owner is a special role. Only Account Owners can request deletion of accounts.  
@@ -29,6 +29,15 @@ You can change back by asking the new Owner to make you Owner again.
 In some cases, the person who owns the account may leave the organization they are managing OptiSigns for, suddenly or otherwise. In this case, it is necessary for someone else to assume account ownership.
 
 To do this, an authorized representative will need to fill out [this form](https://app-na1.hubspotdocuments.com/documents/20629229/view/1117090375?accessId=0b4807) and submit it to [support@optisigns.com](mailto:support@optisigns).
+
+---
+
+## Related Articles
+
+* [Advanced Security: Managing User Roles](https://support.optisigns.com/hc/en-us/articles/360046356113?ref=related)
+* [How to Delete Your Account from OptiSigns](https://support.optisigns.com/hc/en-us/articles/4404608957075?ref=related)
+* [Multi-users: Invite your team members to your account](https://support.optisigns.com/hc/en-us/articles/360016990233?ref=related)
+* [Advanced: How to assign security for users to only edit certain zones of the screens](https://support.optisigns.com/hc/en-us/articles/1500002047642?ref=related)
 
 ### **That's all!**
 

@@ -3,7 +3,7 @@
 **Article ID:** 360049919933
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360049919933-How-to-Use-the-Crypto-Index-Crypto-Exchange-App
-**Last Updated:** 2026-09-10T09:43:01+00:00
+**Last Updated:** 2026-11-25T18:08:02+00:00
 ---
 
 With OptiSigns you can display up to date information on Cryptocurrency market. We offer 2 apps:
@@ -34,6 +34,14 @@ Enter the details needed.
 Click **Save**.
 
 After Saving, you can preview the wall. It may take several seconds for the app prepare your wall.
+
+---
+
+## Related Articles
+
+* [How to Use the Currency Exchange App](https://support.optisigns.com/hc/en-us/articles/360049156234?ref=related)
+* [How to use Market Index App](https://support.optisigns.com/hc/en-us/articles/360049155994?ref=related)
+* [How to Use the Stock App](https://support.optisigns.com/hc/en-us/articles/360044115513?ref=related)
 
 ---
 

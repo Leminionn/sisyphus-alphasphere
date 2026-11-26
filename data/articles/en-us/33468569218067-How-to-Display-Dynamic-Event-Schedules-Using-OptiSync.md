@@ -3,7 +3,7 @@
 **Article ID:** 33468569218067
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/33468569218067-How-to-Display-Dynamic-Event-Schedules-Using-OptiSync
-**Last Updated:** 2026-09-10T12:22:46+00:00
+**Last Updated:** 2026-11-25T18:00:37+00:00
 ---
 
 ### With OptiSync, you can dynamically map data from sources such as Google Sheets, Microsoft Excel, APIs, and more to display updating event schedules on your screens. In this article, we will walk you through the steps.
@@ -180,6 +180,16 @@ Or, you can create individual repeaters for each day of the week, allowing them 
 Then, when you’re ready, you can attach it to your split screen app, creating a beautiful event schedule without getting in the way of anything else you'd like to display.
 
 For a step-by-step walkthrough on putting together a split screen, see our guide on [how to create and use the Split Screen app](https://support.optisigns.com/hc/en-us/articles/360026559573-How-to-Create-and-Use-the-Split-Screen-App).
+
+---
+
+## Related Articles
+
+* [How to Set Up Dynamic Data Mapping with OptiSync](https://support.optisigns.com/hc/en-us/articles/29217646663187?ref=related)
+* [How to add a Microsoft 365 Excel Spreadsheet as a DataSource for OptiSync](https://support.optisigns.com/hc/en-us/articles/29863080711059?ref=related)
+* [How to add Google Sheets as a DataSource for OptiSync](https://support.optisigns.com/hc/en-us/articles/29838866920211?ref=related)
+* [How to Create Custom News Feeds with OptiSync](https://support.optisigns.com/hc/en-us/articles/35337746613139?ref=related)
+* [Creating and Using Schedules with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360016981853?ref=related)
 
 ### That’s all!
 

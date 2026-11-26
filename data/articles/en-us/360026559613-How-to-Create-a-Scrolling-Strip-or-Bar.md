@@ -3,7 +3,7 @@
 **Article ID:** 360026559613
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360026559613-How-to-Create-a-Scrolling-Strip-or-Bar
-**Last Updated:** 2026-09-11T08:02:40+00:00
+**Last Updated:** 2026-11-25T17:57:35+00:00
 ---
 
 This article will guide you through how to create Scrolling Strip / Bar, that normally accompany a Split Screen design like below:
@@ -35,3 +35,13 @@ You then can assign the scrolling strip to your split screen zone.
 For your convenient, if you use one of our Split Screen Templates, we already label Zone name with "Scrolling Strip" and you just need to assign the newly create Scrolling Strip there.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+
+---
+
+## Related Articles
+
+* [How to Create and Use the Split Screen App](https://support.optisigns.com/hc/en-us/articles/360026559573?ref=related)
+* [How to Use RSS feeds with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360037965133?ref=related)
+* [How to Use the Stock App](https://support.optisigns.com/hc/en-us/articles/360044115513?ref=related)
+* [How to Use Overlay layers with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360050602413?ref=related)
+* [How to Use the OptiSigns Mobile Admin App](https://support.optisigns.com/hc/en-us/articles/30003143806099?ref=related)

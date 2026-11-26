@@ -3,7 +3,7 @@
 **Article ID:** 360049875794
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360049875794-How-to-Use-the-Follow-Us-App
-**Last Updated:** 2026-10-15T21:48:40+00:00
+**Last Updated:** 2026-11-25T18:07:35+00:00
 ---
 
 With the Follow Us app, it's possible to invite viewers to follow you on social media, right from your screens. Show your Facebook, Instagram or X profile with a scannable QR code, plus your website, email and phone number, and grow your follower base.
@@ -59,6 +59,15 @@ The **Select Asset** window will open. Search for your Follow Us app, click it, 
 Back in **Edit Screen**, hit **Save**. Your Follow Us app will now display on your screen.
 
 Your Follow Us app can also be displayed in a Playlist or Schedule, or as one zone of a [Split Screen](https://support.optisigns.com/hc/en-us/articles/360026559573).
+
+---
+
+## Related Articles
+
+* [How to Use the Instagram Business App](https://support.optisigns.com/hc/en-us/articles/360051495193?ref=related)
+* [How to Use the LinkedIn App](https://support.optisigns.com/hc/en-us/articles/4406180781203?ref=related)
+* [How to Use the Google Reviews App](https://support.optisigns.com/hc/en-us/articles/360037463934?ref=related)
+* [How to Use the Taggbox Display App](https://support.optisigns.com/hc/en-us/articles/1500009343862?ref=related)
 
 ### That’s all!
 

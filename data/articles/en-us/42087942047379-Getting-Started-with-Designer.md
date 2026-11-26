@@ -3,7 +3,7 @@
 **Article ID:** 42087942047379
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/42087942047379-Getting-Started-with-Designer
-**Last Updated:** 2026-09-10T10:46:39+00:00
+**Last Updated:** 2026-11-25T17:20:27+00:00
 ---
 
 The OptiSigns Designer app is our most feature-rich application, allowing complete creation of content for display on digital signs. This guide will get you started on creating content within the OptiSigns platform.
@@ -301,6 +301,16 @@ To go back to the old 1.0 version of Designer, simply click the **Use Designer 1
 | --- |
 | **NOTE** |
 | Designer 1.0 is planned to be obsoleted by end-of-year 2025, and all designs created going forward will use Designer 2.0. |
+
+---
+
+## Related Articles
+
+* [Your Templates](https://support.optisigns.com/hc/en-us/articles/42830652820115?ref=related)
+* [Widgets in Designer](https://support.optisigns.com/hc/en-us/articles/42436941395475?ref=related)
+* [Animation](https://support.optisigns.com/hc/en-us/articles/42305104960147?ref=related)
+* [Customize Text](https://support.optisigns.com/hc/en-us/articles/42157810188179?ref=related)
+* [How to Set Up Dynamic Data Mapping with OptiSync](https://support.optisigns.com/hc/en-us/articles/29217646663187?ref=related)
 
 ### **That’s all!**
 

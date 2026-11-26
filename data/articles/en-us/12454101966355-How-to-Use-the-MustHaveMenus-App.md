@@ -3,7 +3,7 @@
 **Article ID:** 12454101966355
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/12454101966355-How-to-Use-the-MustHaveMenus-App
-**Last Updated:** 2026-10-13T20:53:34+00:00
+**Last Updated:** 2026-11-25T18:03:04+00:00
 ---
 
 [MustHaveMenus](https://www.musthavemenus.com/) makes it easy to design professional menus for restaurants, cafes and bars. With the MustHaveMenus app, it's possible to put those menu designs on your digital signs as a digital menu board, and have the screen pick up your changes whenever you edit the design.
@@ -61,6 +61,15 @@ The **Select Asset** window will open. Search for your MustHaveMenus app, click 
 Back in **Edit Screen**, hit **Save**. Your menu will now display on your screen.
 
 Your MustHaveMenus app can also be displayed in a Playlist or Schedule, or as one zone of a [Split Screen](https://support.optisigns.com/hc/en-us/articles/360026559573).
+
+---
+
+## Related Articles
+
+* [Integrating Point-of-Sale (POS) Systems to Build Digital Menu Boards with OptiSync](https://support.optisigns.com/hc/en-us/articles/31860170199955?ref=related)
+* [How to Use Toast API Data with OptiSigns](https://support.optisigns.com/hc/en-us/articles/31113088917907?ref=related)
+* [How to use Waitwhile App](https://support.optisigns.com/hc/en-us/articles/11784310183571?ref=related)
+* [How to mix playlists and maintain screen time share with OptiSigns Content Rotation App](https://support.optisigns.com/hc/en-us/articles/1500001561861?ref=related)
 
 ### That’s all!
 

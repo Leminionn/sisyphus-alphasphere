@@ -3,7 +3,7 @@
 **Article ID:** 18823504383891
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/18823504383891-OptiSigns-Getting-Started-Guide
-**Last Updated:** 2026-11-12T17:59:51+00:00
+**Last Updated:** 2026-11-25T17:34:27+00:00
 ---
 
 New to OptiSigns, or need a refresher? This is your one-stop guide to getting your screens ready to go. In three steps, you'll set up your hardware, upload your content and push it to your screen.
@@ -78,6 +78,16 @@ Now that your screens are set up and ready to go, here are some guides to take t
 * Make a [Split Screen app](https://support.optisigns.com/hc/en-us/articles/360026559573).
 * Automate your screen with [Schedules](https://support.optisigns.com/hc/en-us/articles/360016981853), or use the [Live & Expire](https://support.optisigns.com/hc/en-us/articles/360042736794) feature.
 * [Invite a team member](https://support.optisigns.com/hc/en-us/articles/360016990233) to help you manage your screens.
+
+---
+
+## Related Articles
+
+* [OptiStick](https://support.optisigns.com/hc/en-us/articles/27267311796243?ref=related)
+* [Set Up, Add, or Unpair a Screen](https://support.optisigns.com/hc/en-us/articles/360016374813?ref=related)
+* [How to Create & Use Playlists](https://support.optisigns.com/hc/en-us/articles/28295104605843?ref=related)
+* [Guide for Creating Content with OptiSigns](https://support.optisigns.com/hc/en-us/articles/29792081890323?ref=related)
+* [Creating and Using Schedules with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360016981853?ref=related)
 
 ### That’s all!
 

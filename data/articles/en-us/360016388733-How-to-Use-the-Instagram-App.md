@@ -3,7 +3,7 @@
 **Article ID:** 360016388733
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360016388733-How-to-Use-the-Instagram-App
-**Last Updated:** 2026-10-30T20:24:26+00:00
+**Last Updated:** 2026-11-25T18:00:22+00:00
 ---
 
 With the Instagram app, it's possible to display the posts from your own Instagram profile on your digital signs. Sign in with Instagram once, and your screens will keep up as you post.
@@ -95,6 +95,16 @@ The **Select Asset** window will open. Search for your Instagram app, click it, 
 Back in **Edit Screen**, hit **Save**. Your Instagram posts will now display on your screen.
 
 Your Instagram app can also be displayed in a Playlist or Schedule, or as one zone of a [Split Screen](https://support.optisigns.com/hc/en-us/articles/360026559573).
+
+---
+
+## Related Articles
+
+* [How to Set up an Instagram Business/Creator account](https://support.optisigns.com/hc/en-us/articles/360051745633?ref=related)
+* [How to Use the Instagram Business App](https://support.optisigns.com/hc/en-us/articles/360051495193?ref=related)
+* [How to Use the Facebook Page App](https://support.optisigns.com/hc/en-us/articles/360023848334?ref=related)
+* [How to Moderate Your Social Media Feeds](https://support.optisigns.com/hc/en-us/articles/4403015887763?ref=related)
+* [How to Use the LinkedIn App](https://support.optisigns.com/hc/en-us/articles/4406180781203?ref=related)
 
 ### That’s all!
 

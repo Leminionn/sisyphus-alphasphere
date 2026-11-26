@@ -3,7 +3,7 @@
 **Article ID:** 12947300131731
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/12947300131731-Show-Hide-downloading-status-on-your-Player
-**Last Updated:** 2026-09-10T09:49:09+00:00
+**Last Updated:** 2026-11-25T16:56:40+00:00
 ---
 
 With Android, Fire TV, Windows, Linux, and Raspberry Pi players, you can set to show/hide downloads.
@@ -23,3 +23,12 @@ Or on the player, you can open Side Menu -> Advanced Options -> and uncheck Show
 That's it!
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at[support@optisigns.com](mailto:support@optisigns.com)
+
+---
+
+## Related Articles
+
+* [Show Offline Indicator Feature](https://support.optisigns.com/hc/en-us/articles/12498801963027?ref=related)
+* [OptiSigns Pro Player Advanced Features](https://support.optisigns.com/hc/en-us/articles/35577511423635?ref=related)
+* [Edit Screen: What does each option do?](https://support.optisigns.com/hc/en-us/articles/360048914673?ref=related)
+* [Why Does My Screen Show as "Offline" on the Web Portal?](https://support.optisigns.com/hc/en-us/articles/360016484473?ref=related)

@@ -3,7 +3,7 @@
 **Article ID:** 20062273670163
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/20062273670163-How-to-Control-and-Schedule-Playlist-Items
-**Last Updated:** 2026-09-10T09:50:02+00:00
+**Last Updated:** 2026-11-25T16:54:24+00:00
 ---
 
 It's possible to apply schedules to individual Playlist items. This feature is now available on Windows, Linux, Android, and ChromeOS devices.
@@ -34,6 +34,16 @@ You can control the target screens that the playlist item can be played on by us
 You can control the schedule of each playlist item.
 
 Click on the "Item Schedule", then click on "+New". It will pop up the schedule configuration dialogue, you can set the schedule and also define custom occurrences.
+
+---
+
+## Related Articles
+
+* [Creating and Using Schedules with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360016981853?ref=related)
+* [How to set an asset to Live or Expire at specific time](https://support.optisigns.com/hc/en-us/articles/360042736794?ref=related)
+* [How to Use Content Tags in The Playlist](https://support.optisigns.com/hc/en-us/articles/20879903340947?ref=related)
+* [Advanced Playlist Item Playback Control & Campaign Management](https://support.optisigns.com/hc/en-us/articles/22474034993043?ref=related)
+* [How to Manage and Edit Your Playlist Settings](https://support.optisigns.com/hc/en-us/articles/28295074995859?ref=related)
 
 **That's all!**
 

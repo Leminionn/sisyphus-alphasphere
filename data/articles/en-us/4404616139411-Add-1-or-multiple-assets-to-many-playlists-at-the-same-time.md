@@ -3,7 +3,7 @@
 **Article ID:** 4404616139411
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/4404616139411-Add-1-or-multiple-assets-to-many-playlists-at-the-same-time
-**Last Updated:** 2026-09-10T08:31:46+00:00
+**Last Updated:** 2026-11-25T16:55:08+00:00
 ---
 
 Sometimes you just create new assets and want to add them to several playlists, you can do it quickly:
@@ -19,3 +19,13 @@ The assets will be added to the end of the playlists.
 That's it, you have added assets to many playlists at the same time.
 
 If you have any additional questions or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+
+---
+
+## Related Articles
+
+* [How to Create & Use Playlists](https://support.optisigns.com/hc/en-us/articles/28295104605843?ref=related)
+* [Tutorial: Create, Update, Add, Remove items from Playlists](https://support.optisigns.com/hc/en-us/articles/4414558295955?ref=related)
+* [How to Upload & Manage Your Files/ Assets](https://support.optisigns.com/hc/en-us/articles/360016247974?ref=related)
+* [Organizing your files, assets, playlists and schedules by using Folders](https://support.optisigns.com/hc/en-us/articles/360043670633?ref=related)
+* [Tagging in OptiSigns](https://support.optisigns.com/hc/en-us/articles/38062664690195?ref=related)

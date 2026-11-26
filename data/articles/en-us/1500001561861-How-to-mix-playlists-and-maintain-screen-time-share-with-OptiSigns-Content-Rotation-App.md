@@ -3,7 +3,7 @@
 **Article ID:** 1500001561861
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/1500001561861-How-to-mix-playlists-and-maintain-screen-time-share-with-OptiSigns-Content-Rotation-App
-**Last Updated:** 2026-09-10T09:45:23+00:00
+**Last Updated:** 2026-11-25T17:55:28+00:00
 ---
 
 |  |
@@ -40,6 +40,15 @@ Click Add Playlist to add the playlist you want to rotate, in this example we pu
 
 Click Save.  
 After Saving, you can Preview the Content Rotation to see how the system mix the playlist.
+
+---
+
+## Related Articles
+
+* [Advanced Playlist Item Playback Control & Campaign Management](https://support.optisigns.com/hc/en-us/articles/22474034993043?ref=related)
+* [How to Create and Use Nested Playlists](https://support.optisigns.com/hc/en-us/articles/360043621953?ref=related)
+* [How to Use Content Tags in The Playlist](https://support.optisigns.com/hc/en-us/articles/20879903340947?ref=related)
+* [Creating and Using Schedules with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360016981853?ref=related)
 
 ## **That's all! Congratulation!**
 

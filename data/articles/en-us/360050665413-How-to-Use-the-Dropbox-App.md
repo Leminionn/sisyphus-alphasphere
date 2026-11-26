@@ -3,7 +3,7 @@
 **Article ID:** 360050665413
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360050665413-How-to-Use-the-Dropbox-App
-**Last Updated:** 2026-10-16T16:32:20+00:00
+**Last Updated:** 2026-11-25T18:07:42+00:00
 ---
 
 With the Dropbox app, it's possible to play the images and videos in a Dropbox folder on your screens. The app turns the folder into a playlist and keeps it in sync, so when you add, change or remove a file in Dropbox, your screens update too. Your team can update what's on screen without ever signing in to OptiSigns.
@@ -94,6 +94,15 @@ Any other files in the folder, such as documents or spreadsheets, are skipped. F
 * Sub-folders aren't supported. Only files directly inside the folder you choose are synced.
 * To keep the app running smoothly, keep each file to 100 MB or less, and keep up to 200 files per folder. For large videos, we recommend uploading them directly to OptiSigns. For more than 200 files, split them across several folders.
 * Dropbox Teams folders use a different API from personal accounts. As a workaround, create a folder in your personal Dropbox space, upload your content there, and choose that folder in OptiSigns.
+
+---
+
+## Related Articles
+
+* [How to tell which Dropbox account that I linked to OptiSigns?](https://support.optisigns.com/hc/en-us/articles/360019588654?ref=related)
+* [How to Use the OneDrive App](https://support.optisigns.com/hc/en-us/articles/360050665253?ref=related)
+* [How to Use the Google Drive App](https://support.optisigns.com/hc/en-us/articles/360049518313?ref=related)
+* [How to Use the Local Folder App in OptiSigns](https://support.optisigns.com/hc/en-us/articles/1500001985341?ref=related)
 
 ### That’s all!
 

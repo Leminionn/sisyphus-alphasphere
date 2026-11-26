@@ -3,7 +3,7 @@
 **Article ID:** 1500000480302
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/1500000480302-Advanced-Custom-Domain-Mapping
-**Last Updated:** 2026-10-28T20:58:49+00:00
+**Last Updated:** 2026-11-25T17:55:46+00:00
 ---
 
 * [What You'll Need](#WhatYouNeed)
@@ -86,6 +86,16 @@ Then click Activate.
 This will trigger the process on OptiSigns side to activate SSL for your sub-domain. This will ensure that your user can use HTTPS: i.e. <https://login.abcmedia.com> to use the app.
 
 This process can take up to 24-48 hours to complete. You will be notified via email once it's done.
+
+---
+
+## Related Articles
+
+* [Custom Branding Settings and Branded Portals](https://support.optisigns.com/hc/en-us/articles/1500000485202?ref=related)
+* [How to Set Up SAML 2.0 with OptiSigns and MS Entra ID (formerly Azure AD)](https://support.optisigns.com/hc/en-us/articles/4407252213395?ref=related)
+* [Advanced: Enforce SSO login for your account](https://support.optisigns.com/hc/en-us/articles/360061576673?ref=related)
+* [Brand Kit and Enforcing Brand Guidelines](https://support.optisigns.com/hc/en-us/articles/42313875427859?ref=related)
+* [SAML Integration Strategies & Best Practices](https://support.optisigns.com/hc/en-us/articles/4407128433299?ref=related)
 
 #### **That's all!**
 

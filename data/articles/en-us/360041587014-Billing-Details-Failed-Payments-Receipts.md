@@ -3,7 +3,7 @@
 **Article ID:** 360041587014
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360041587014-Billing-Details-Failed-Payments-Receipts
-**Last Updated:** 2026-11-23T18:20:03+00:00
+**Last Updated:** 2026-11-25T20:26:20+00:00
 ---
 
 Your billing details live under **Billing & Orders** in your account settings. **Payment Settings** holds your billing email, payment method, billing address and tax ID. **Billing History** lists your invoices and receipts. If a payment fails, update your payment method in **Payment Settings**: saving a new card pays your outstanding invoice right away.
@@ -179,6 +179,15 @@ See [Billing: Changing Plans or Screen Counts](https://support.optisigns.com/hc/
 #### Do You Offer a Non-Profit or Education Discount?
 
 See [Does OptiSigns Offer a Non-profit/Education Discount?](https://support.optisigns.com/hc/en-us/articles/360016252654-Does-OptiSigns-offer-Non-profit-Education-discount)
+
+---
+
+## Related Articles
+
+* [Billing: Changing Plans or Screen Counts](https://support.optisigns.com/hc/en-us/articles/1500000493782?ref=related)
+* [Billing for Multiple Locations: Sub-Accounts and Team Billing](https://support.optisigns.com/hc/en-us/articles/17129313173395?ref=related)
+* [Billing: Purchase Orders, Invoices and Tax Exemption](https://support.optisigns.com/hc/en-us/articles/57730354923923?ref=related)
+* [Cancel, Pause or Downgrade Your Subscription](https://support.optisigns.com/hc/en-us/articles/17639078588691?ref=related)
 
 ### That’s all!
 

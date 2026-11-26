@@ -3,7 +3,7 @@
 **Article ID:** 4409607912211
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/4409607912211-How-to-setup-WIFI-with-OptiSigns-Admin-mobile-app-on-OptiSigns-Pre-Configured-Android-Player
-**Last Updated:** 2026-09-10T09:47:22+00:00
+**Last Updated:** 2026-11-25T18:05:32+00:00
 ---
 
 In some cases, you may need to setup wifi on the OptiSigns pre-configured android player. For example, you choose not to pre-configure wifi at the time of ordering, or if you are planning to move the devices from one location to another location with different wifi network.
@@ -37,3 +37,12 @@ You're ready to go.
 And the screen should show you the screen pairing code. Then you can enter this pairing code on your web portal. If you want to learn more, you can click [here](https://support.optisigns.com/hc/en-us/articles/360016374813-Set-up-add-a-screen). Or you can simply add the screens to your account by scanning the QR code.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+
+---
+
+## Related Articles
+
+* [Pre-configure Wi-Fi with OptiSigns devices](https://support.optisigns.com/hc/en-us/articles/360055549854?ref=related)
+* [How to Use the OptiSigns Mobile Admin App](https://support.optisigns.com/hc/en-us/articles/30003143806099?ref=related)
+* [How does pre-configured devices labeled in shipping package?](https://support.optisigns.com/hc/en-us/articles/360055546594?ref=related)
+* [How to Use the Mobile App for Remote Control](https://support.optisigns.com/hc/en-us/articles/30304278652563?ref=related)

@@ -3,7 +3,7 @@
 **Article ID:** 360055900513
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360055900513-How-to-create-and-use-Virtual-Screen-App
-**Last Updated:** 2026-09-18T11:46:30+00:00
+**Last Updated:** 2026-11-25T18:07:01+00:00
 ---
 
 This article will guide you through how to create and use a Virtual Screen app.
@@ -34,6 +34,15 @@ Enter your Virtual Screen information:
   + Embed is useful if you want to embed in your company internal portals.
 
 Click Save.
+
+---
+
+## Related Articles
+
+* [How to use OptiSigns Screen Capture app](https://support.optisigns.com/hc/en-us/articles/6086986017299?ref=related)
+* [Host your HTML/JS or Create your own Web App with Hosted Website](https://support.optisigns.com/hc/en-us/articles/7592123111699?ref=related)
+* [How to use Embed App](https://support.optisigns.com/hc/en-us/articles/360035815114?ref=related)
+* [Assign content to your screens](https://support.optisigns.com/hc/en-us/articles/360016375153?ref=related)
 
 ## **That's all! Congratulation!**
 

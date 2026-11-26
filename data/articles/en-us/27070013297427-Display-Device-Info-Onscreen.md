@@ -3,7 +3,7 @@
 **Article ID:** 27070013297427
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/27070013297427-Display-Device-Info-Onscreen
-**Last Updated:** 2025-09-04T15:08:40+00:00
+**Last Updated:** 2026-11-25T18:01:24+00:00
 ---
 
 Displaying your device's information onscreen has various advantages. Information like the screen name, assigned contents, and more can be helpful when:
@@ -77,6 +77,15 @@ Once the mapping is complete, you can simply assign it to a screen. The asset wi
 For the above example, let's assign it to a screen called "Demo Laptop". We've configured the "assetId" through Device Additional Attributes to be 123, and the rest of the data has been mapped appropriately. It should display like so:
 
 If we were to assign it to another screen, these values would change. This makes the Device Info asset highly valuable as a troubleshooting tool.
+
+---
+
+## Related Articles
+
+* [How to Set Up Dynamic Data Mapping with OptiSync](https://support.optisigns.com/hc/en-us/articles/29217646663187?ref=related)
+* [Edit Screen: What does each option do?](https://support.optisigns.com/hc/en-us/articles/360048914673?ref=related)
+* [Build Integrations Using the OptiSigns Enterprise App](https://support.optisigns.com/hc/en-us/articles/13320135306515?ref=related)
+* [Get Started with OptiSigns API](https://support.optisigns.com/hc/en-us/articles/4414563863827?ref=related)
 
 **That's all!**
 

@@ -3,7 +3,7 @@
 **Article ID:** 52113036672403
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/52113036672403-Room-Integrations-Turn-Your-Meeting-Rooms-into-Digital-Signage
-**Last Updated:** 2026-07-08T14:58:11+00:00
+**Last Updated:** 2026-11-25T17:03:33+00:00
 ---
 
 Your meeting rooms sit idle most of the day. OptiSigns **Room Integrations** put that screen time to work: when a room is between meetings, OptiSigns plays your content — announcements, dashboards, branding, menus, or emergency messages — right on the room display, and clears it the instant a meeting starts.

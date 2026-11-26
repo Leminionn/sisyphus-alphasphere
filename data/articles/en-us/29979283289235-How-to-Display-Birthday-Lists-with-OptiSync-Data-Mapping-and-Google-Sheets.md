@@ -3,7 +3,7 @@
 **Article ID:** 29979283289235
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/29979283289235-How-to-Display-Birthday-Lists-with-OptiSync-Data-Mapping-and-Google-Sheets
-**Last Updated:** 2026-09-10T09:51:28+00:00
+**Last Updated:** 2026-11-25T18:01:21+00:00
 ---
 
 **With OptiSync, you can dynamically map data from various sources such as Google Sheets, Microsoft Excel, HR systems, and more to display employee birthday celebrations on your screens. This article explains how to connect your data source to the Designer app and automatically update birthday celebrants on your screens.**
@@ -198,6 +198,16 @@ You will now be brought to this page:
 2. **Push** to the screen.
 
 Here is what your design will look like when pushed to screens.
+
+---
+
+## Related Articles
+
+* [How to Set Up Dynamic Data Mapping with OptiSync](https://support.optisigns.com/hc/en-us/articles/29217646663187?ref=related)
+* [How to add Google Sheets as a DataSource for OptiSync](https://support.optisigns.com/hc/en-us/articles/29838866920211?ref=related)
+* [Widgets in Designer](https://support.optisigns.com/hc/en-us/articles/42436941395475?ref=related)
+* [How to add a Microsoft 365 Excel Spreadsheet as a DataSource for OptiSync](https://support.optisigns.com/hc/en-us/articles/29863080711059?ref=related)
+* [How to Display Dynamic Event Schedules Using OptiSync](https://support.optisigns.com/hc/en-us/articles/33468569218067?ref=related)
 
 ## That's all!
 

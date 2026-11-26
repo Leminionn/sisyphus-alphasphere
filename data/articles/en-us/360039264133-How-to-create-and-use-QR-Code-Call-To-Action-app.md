@@ -3,7 +3,7 @@
 **Article ID:** 360039264133
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360039264133-How-to-create-and-use-QR-Code-Call-To-Action-app
-**Last Updated:** 2026-09-10T09:41:28+00:00
+**Last Updated:** 2026-11-25T18:12:36+00:00
 ---
 
 QR Codes is a great way to connect with your customers. By displaying a Call To Action QR Code as part of your digital signs, customer can scan it and take variety number of actions such as open a website, send a SMS Text, follow your Instagram, etc. that you can customize.
@@ -40,6 +40,16 @@ Enter information for your QR Code.
 Click Save to create the QR Code.
 
 You can Preview and use your phone to Scan and test to make sure the QR code is doing the actions you want it to do.
+
+---
+
+## Related Articles
+
+* [How to use the QR Scan-to-Interact (Touchless QR) app](https://support.optisigns.com/hc/en-us/articles/8899727608083?ref=related)
+* [How to use Embed App](https://support.optisigns.com/hc/en-us/articles/360035815114?ref=related)
+* [How to Use QR Overlay App in Engage](https://support.optisigns.com/hc/en-us/articles/28140190892307?ref=related)
+* [Photos, GIFs, and QR Codes in Designer](https://support.optisigns.com/hc/en-us/articles/42526907045651?ref=related)
+* [How to Use Overlay layers with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360050602413?ref=related)
 
 ## **That's all! Congratulation!**
 

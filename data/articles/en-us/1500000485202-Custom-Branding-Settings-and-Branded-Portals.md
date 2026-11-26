@@ -3,7 +3,7 @@
 **Article ID:** 1500000485202
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/1500000485202-Custom-Branding-Settings-and-Branded-Portals
-**Last Updated:** 2026-10-28T16:37:29+00:00
+**Last Updated:** 2026-11-25T17:55:42+00:00
 ---
 
 It's possible to customize the OptiSigns Portal experience to match your brand. It's also possible to hide OptiSigns branding apps and features.
@@ -167,6 +167,15 @@ Every custom portal has a few menu items that are hidden, with no setting to tur
 * Sub-Account Billing
 * AI Analytics, Get Started, Help & Resources, the Add-ons button, "Upgrade Now" prompts, promo banners
 * The Branding Settings menu entry (users must edit branding from [app.optisigns.com](http://app.optisigns.com) instead)
+
+---
+
+## Related Articles
+
+* [Advanced: Custom Domain Mapping](https://support.optisigns.com/hc/en-us/articles/1500000480302?ref=related)
+* [Brand Kit and Enforcing Brand Guidelines](https://support.optisigns.com/hc/en-us/articles/42313875427859?ref=related)
+* [How to Set Up SAML 2.0 with OptiSigns and MS Entra ID (formerly Azure AD)](https://support.optisigns.com/hc/en-us/articles/4407252213395?ref=related)
+* [How to Perform Mass Provisioning with OptiSigns](https://support.optisigns.com/hc/en-us/articles/4416542923667?ref=related)
 
 ### That's all!
 

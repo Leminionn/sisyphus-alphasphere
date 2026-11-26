@@ -3,7 +3,7 @@
 **Article ID:** 360044115513
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360044115513-How-to-Use-the-Stock-App
-**Last Updated:** 2026-09-10T11:36:53+00:00
+**Last Updated:** 2026-11-25T18:08:44+00:00
 ---
 
 ### The Stock app allows you to display your choice of stock tickers on screen, or as part of a Split Screen configuration as a ticker.
@@ -79,6 +79,15 @@ Then, select your created Stock Asset:
 Configure the rest of the app - see our article on [**How to Create a Scrolling Strip**](https://support.optisigns.com/hc/en-us/articles/360026559613-How-to-create-a-scrolling-strip-bars) for more information on these options.
 
 That's it! It is now ready to be part of a Split Screen. See our article on [**Creating and Using Split Screens**](https://support.optisigns.com/hc/en-us/articles/360026559573-How-to-Create-and-Use-the-Split-Screen-App) for more information on how to set that up.
+
+---
+
+## Related Articles
+
+* [How to use Market Index App](https://support.optisigns.com/hc/en-us/articles/360049155994?ref=related)
+* [How to Use the Wall Street Journal App](https://support.optisigns.com/hc/en-us/articles/360045120133?ref=related)
+* [How to Use the Crypto Index & Crypto Exchange App](https://support.optisigns.com/hc/en-us/articles/360049919933?ref=related)
+* [How to Create a Scrolling Strip or Bar](https://support.optisigns.com/hc/en-us/articles/360026559613?ref=related)
 
 ### That's all!
 

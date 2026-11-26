@@ -3,7 +3,7 @@
 **Article ID:** 28115946505107
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/28115946505107-How-to-Change-Engage-Kiosk-Style-Preferences
-**Last Updated:** 2026-11-16T19:20:08+00:00
+**Last Updated:** 2026-11-25T17:21:35+00:00
 ---
 
 When you change your Engage/Kiosk Styles Preferences, it will adjust the default options set for your Kiosk Lite and Kiosk Designer Pro.
@@ -27,6 +27,16 @@ You can adjust these settings by:
 * **Default Opacity:** Adjust the transparency of the navigation bar for subtle or bold visibility.
 
 Click **Save Changes**.
+
+---
+
+## Related Articles
+
+* [Engage Plan - FAQs](https://support.optisigns.com/hc/en-us/articles/23565267463315?ref=related)
+* [How to Design Kiosk Apps Using Kiosk Designer Pro](https://support.optisigns.com/hc/en-us/articles/15313086319763?ref=related)
+* [Getting Started with Touch Screen Kiosks](https://support.optisigns.com/hc/en-us/articles/31449657955347?ref=related)
+* [Kiosk Setup Hub](https://support.optisigns.com/hc/en-us/articles/44650391786131?ref=related)
+* [How to use Kiosk Lite (formerly known as Interactive Kiosk app)](https://support.optisigns.com/hc/en-us/articles/360053993934?ref=related)
 
 ---
 

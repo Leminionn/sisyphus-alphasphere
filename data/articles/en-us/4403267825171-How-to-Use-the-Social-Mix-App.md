@@ -3,7 +3,7 @@
 **Article ID:** 4403267825171
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/4403267825171-How-to-Use-the-Social-Mix-App
-**Last Updated:** 2026-10-15T21:07:28+00:00
+**Last Updated:** 2026-11-25T18:06:01+00:00
 ---
 
 With the Social Mix app, it's possible to combine posts from your Facebook, Instagram and Instagram Business apps into a single social wall. Bring all of your social channels together on one screen, and let it keep up as new posts come in.
@@ -72,6 +72,16 @@ The **Select Asset** window will open. Search for your Social Mix app, click it,
 Back in **Edit Screen**, hit **Save**. Your social wall will now display on your screen.
 
 Your Social Mix app can also be displayed in a Playlist or Schedule, or as one zone of a [Split Screen](https://support.optisigns.com/hc/en-us/articles/360026559573).
+
+---
+
+## Related Articles
+
+* [How to Use the LinkedIn App](https://support.optisigns.com/hc/en-us/articles/4406180781203?ref=related)
+* [How to Use the Taggbox Display App](https://support.optisigns.com/hc/en-us/articles/1500009343862?ref=related)
+* [How to Moderate Your Social Media Feeds](https://support.optisigns.com/hc/en-us/articles/4403015887763?ref=related)
+* [How far back or how many posts will be fetched for my Social Walls?](https://support.optisigns.com/hc/en-us/articles/360042424294?ref=related)
+* [Using the X Social App / Add-On](https://support.optisigns.com/hc/en-us/articles/55709616003219?ref=related)
 
 ### That’s all!
 

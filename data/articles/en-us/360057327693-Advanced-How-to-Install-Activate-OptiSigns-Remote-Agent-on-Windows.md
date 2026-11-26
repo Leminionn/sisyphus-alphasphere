@@ -3,7 +3,7 @@
 **Article ID:** 360057327693
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360057327693-Advanced-How-to-Install-Activate-OptiSigns-Remote-Agent-on-Windows
-**Last Updated:** 2026-09-10T09:44:35+00:00
+**Last Updated:** 2026-11-25T17:56:09+00:00
 ---
 
 If you are running OptiSigns on a Windows, Linux or Raspberry Pi device, you can install the optisigns-remote-agent add-on that will allow you to remotely control your device from the portal.
@@ -34,6 +34,15 @@ Then click **Activate.**
 It will take a moment to activate (15-30 seconds) to download & install the agent, depending on your internet connection. After successful activation, click **Open** to begin a remote session with your device.
 
 That's it, your remote session will be open in a new browser tab for you to use.
+
+---
+
+## Related Articles
+
+* [Remotely Control and Command OptiSigns Devices](https://support.optisigns.com/hc/en-us/articles/360055486554?ref=related)
+* [Advanced: How to Manually Install & Activate OptiSigns Remote Agent on Linux or Raspberry Pi](https://support.optisigns.com/hc/en-us/articles/360057146573?ref=related)
+* [Windows](https://support.optisigns.com/hc/en-us/articles/360034379293?ref=related)
+* [Whitelist OptiSigns IP Addresses & Ports](https://support.optisigns.com/hc/en-us/articles/360047275934?ref=related)
 
 ### That's all!
 

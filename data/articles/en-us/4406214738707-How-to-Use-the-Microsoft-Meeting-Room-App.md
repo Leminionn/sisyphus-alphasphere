@@ -3,7 +3,7 @@
 **Article ID:** 4406214738707
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/4406214738707-How-to-Use-the-Microsoft-Meeting-Room-App
-**Last Updated:** 2026-09-10T09:46:46+00:00
+**Last Updated:** 2026-11-25T18:05:49+00:00
 ---
 
 * [What You'll Need](#WhatYouNeed)
@@ -127,6 +127,16 @@ You can also deploy it as part of a split screen, allowing you to show other ass
 OptiSigns uses Microsoft APIs for integration. In order for our integrations to work, the integration has to be approved by an administrator. This is the same across all integrations using Microsoft APIs.
 
 This administrator access is only needed for first time access. Once the OptiSigns app is approved for use, other users can use OptiSigns directly.
+
+---
+
+## Related Articles
+
+* [How to Use the Microsoft Teams Meeting App](https://support.optisigns.com/hc/en-us/articles/4404053129619?ref=related)
+* [How to Use Microsoft Outlook Calendar with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360036250853?ref=related)
+* [Room Integrations: Turn Your Meeting Rooms into Digital Signage](https://support.optisigns.com/hc/en-us/articles/52113036672403?ref=related)
+* [How to Set Up an Outlook Calendar App with Shared Permissions](https://support.optisigns.com/hc/en-us/articles/45619214182803?ref=related)
+* [How to approve OptiSigns as Enterprise App on Microsoft Azure (for Power BI, Calendar, etc. access)](https://support.optisigns.com/hc/en-us/articles/4403616315539?ref=related)
 
 ### **That's all!**
 

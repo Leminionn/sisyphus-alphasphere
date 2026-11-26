@@ -3,7 +3,7 @@
 **Article ID:** 360038992973
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360038992973-Video-Codec-or-Video-Playback-Issues-and-How-to-Re-encode-Videos
-**Last Updated:** 2026-11-05T22:37:38+00:00
+**Last Updated:** 2026-11-25T17:57:13+00:00
 ---
 
 Videos are compressed with a codec, such as H.264, HEVC (H.265), VP9, MPEG-4 or AV1. Whether a device can play a codec depends on its hardware. When your device can't decode a video, OptiSigns shows this message instead of the video:
@@ -55,6 +55,16 @@ Next to **Save As**, click **Browse** and choose where to save the new file. The
 Encoding can take a while, depending on the video's length and quality and how fast your computer is.
 
 When it's done, upload the new file to OptiSigns and add it to your playlists or screens. See [How to Upload & Manage Your Files and Assets](https://support.optisigns.com/hc/en-us/articles/360016247974).
+
+---
+
+## Related Articles
+
+* [What types of files are supported?](https://support.optisigns.com/hc/en-us/articles/360016342373?ref=related)
+* [PowerPoint Resolution, Size for use with Digital Signage](https://support.optisigns.com/hc/en-us/articles/360033693534?ref=related)
+* [How to Upload & Manage Your Files/ Assets](https://support.optisigns.com/hc/en-us/articles/360016247974?ref=related)
+* [Performance/Stability issues on Android devices and Best Practices](https://support.optisigns.com/hc/en-us/articles/28427819992979?ref=related)
+* [How to use HDMI & other video input sources in with OptiSigns](https://support.optisigns.com/hc/en-us/articles/1500002042241?ref=related)
 
 ### That’s all!
 

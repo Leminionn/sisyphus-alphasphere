@@ -3,7 +3,7 @@
 **Article ID:** 4408946045715
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/4408946045715-How-to-Integrate-Bonusly-Digital-Signage-with-Optisigns
-**Last Updated:** 2026-10-01T20:21:01+00:00
+**Last Updated:** 2026-11-25T17:54:02+00:00
 ---
 
 Some companies use [Bonusly](bonus.ly) for internal communication channels and want to show the Messages sent between agents on signage across their work spaces.
@@ -44,3 +44,11 @@ Now you can use the website app and assign it to your screens to show the [Bonus
 Thanks for your time.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+
+---
+
+## Related Articles
+
+* [How to Use the Viva Engage app (formerly Yammer) on OptiSigns](https://support.optisigns.com/hc/en-us/articles/19171222981523?ref=related)
+* [How to Use the Slack App](https://support.optisigns.com/hc/en-us/articles/4407335862931?ref=related)
+* [How to Display Birthday Lists with OptiSync Data Mapping and Google Sheets](https://support.optisigns.com/hc/en-us/articles/29979283289235?ref=related)

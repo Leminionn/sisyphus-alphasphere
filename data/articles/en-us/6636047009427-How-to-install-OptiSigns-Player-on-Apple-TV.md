@@ -3,7 +3,7 @@
 **Article ID:** 6636047009427
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/6636047009427-How-to-install-OptiSigns-Player-on-Apple-TV
-**Last Updated:** 2026-09-11T11:00:02+00:00
+**Last Updated:** 2026-11-25T18:00:03+00:00
 ---
 
 Apple TV is one of the most cost efficient ways to get your digital signs going if you're just starting.
@@ -55,3 +55,12 @@ Once you go to our portal at: <https://app.optisigns.com/>to pair the screen and
 * [Create and Using Schedules with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360016981853)
 
 If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
+
+---
+
+## Related Articles
+
+* [Set Up, Add, or Unpair a Screen](https://support.optisigns.com/hc/en-us/articles/360016374813?ref=related)
+* [Apple TV player release notes & limitations](https://support.optisigns.com/hc/en-us/articles/6605515731603?ref=related)
+* [Configuring Mass Deployment with Jamf Pro MDM on Apple Devices](https://support.optisigns.com/hc/en-us/articles/31695220475283?ref=related)
+* [Use Your Mac/Windows Device as a Test Screen](https://support.optisigns.com/hc/en-us/articles/360021856013?ref=related)

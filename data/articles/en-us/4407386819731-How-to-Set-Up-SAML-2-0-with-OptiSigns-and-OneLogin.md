@@ -3,7 +3,7 @@
 **Article ID:** 4407386819731
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/4407386819731-How-to-Set-Up-SAML-2-0-with-OptiSigns-and-OneLogin
-**Last Updated:** 2026-11-05T16:05:04+00:00
+**Last Updated:** 2026-11-25T17:54:18+00:00
 ---
 
 Let your team sign in to OptiSigns with their OneLogin accounts. OneLogin acts as the Identity Provider (IdP) and OptiSigns as the Service Provider (SP).

@@ -3,7 +3,7 @@
 **Article ID:** 17639078588691
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/17639078588691-Cancel-Pause-or-Downgrade-Your-Subscription
-**Last Updated:** 2026-11-19T20:34:02+00:00
+**Last Updated:** 2026-11-25T17:59:59+00:00
 ---
 
 You can change your subscription at any time from **Subscription Plan** in your account settings. To **pause** for the off season, move the screens you won't use to **OnHold Devices** and lower your number of screens, so you pay only for the screens you keep. To **downgrade**, switch to the Free plan and keep your account with up to 3 screens. To **cancel**, click **Cancel Subscription**: your plan stays active until the end of your billing period, and you can undo it until then.
@@ -123,6 +123,15 @@ Only if you want to remove everything for good. Deleting your account cancels yo
 #### How Do I Change My Plan or Add Screens?
 
 See [Billing: Changing Plans or Screen Counts](https://support.optisigns.com/hc/en-us/articles/1500000493782). For payment and invoice questions, see [Billing Details, Failed Payments & Receipts](https://support.optisigns.com/hc/en-us/articles/360041587014).
+
+---
+
+## Related Articles
+
+* [Billing: Changing Plans or Screen Counts](https://support.optisigns.com/hc/en-us/articles/1500000493782?ref=related)
+* [How to Delete Your Account from OptiSigns](https://support.optisigns.com/hc/en-us/articles/4404608957075?ref=related)
+* [What Do I Get With an OptiSigns Free Plan?](https://support.optisigns.com/hc/en-us/articles/33940834613139?ref=related)
+* [Billing Details, Failed Payments & Receipts](https://support.optisigns.com/hc/en-us/articles/360041587014?ref=related)
 
 ### That’s all!
 

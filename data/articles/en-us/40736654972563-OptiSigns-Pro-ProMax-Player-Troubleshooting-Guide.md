@@ -3,7 +3,7 @@
 **Article ID:** 40736654972563
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/40736654972563-OptiSigns-Pro-ProMax-Player-Troubleshooting-Guide
-**Last Updated:** 2026-01-13T21:20:16+00:00
+**Last Updated:** 2026-11-25T17:47:14+00:00
 ---
 
 If you’ve got an OptiSigns Pro or ProMax Player and you’re having issues, you’ve come to the right place. For first time setup, see our [**Set Up the OptiSigns Pro Player**](https://support.optisigns.com/hc/en-us/articles/32272215514131-Optisigns-Pro-Digital-Signage-Player) or [**Set Up the OptiSigns ProMax Player**](https://support.optisigns.com/hc/en-us/articles/38680194603155-OptiSigns-ProMax-Player) articles. For more on the Pro or ProMax player features, see our [**Advanced Features**](https://support.optisigns.com/hc/en-us/articles/35577511423635-OptiSigns-Pro-Player-Advanced-Features) article.
@@ -157,6 +157,16 @@ Our RMA process is as follows:
 * RMA request is reviewed within 3 business days.
 * New device ships within 3-5 business days to most places in the U.S.
 * Return the old device within 30 days.
+
+---
+
+## Related Articles
+
+* [OptiSigns Pro Player Advanced Features](https://support.optisigns.com/hc/en-us/articles/35577511423635?ref=related)
+* [ProPlayer](https://support.optisigns.com/hc/en-us/articles/32272215514131?ref=related)
+* [Whitelist OptiSigns IP Addresses & Ports](https://support.optisigns.com/hc/en-us/articles/360047275934?ref=related)
+* [Operational Schedule Troubleshooting](https://support.optisigns.com/hc/en-us/articles/48241081473043?ref=related)
+* [Update OptiSigns player on OptiSigns Pro Player (Gen 2) via script](https://support.optisigns.com/hc/en-us/articles/21449362442003?ref=related)
 
 ### That's all!
 

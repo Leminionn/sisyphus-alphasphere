@@ -3,7 +3,7 @@
 **Article ID:** 4414558295955
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/4414558295955-Tutorial-Create-Update-Add-Remove-items-from-Playlists
-**Last Updated:** 2026-09-11T10:15:55+00:00
+**Last Updated:** 2026-11-25T18:01:29+00:00
 ---
 
 In this tutorial, we will walk through how to create a playlist and manage the assets assigned to the playlist through the API. Generally, it involves 4 steps.  Firstly, you will need to create a playlist. Secondly, you will need to add content to the playlist. Then you can update the playlist items to change the setting of the playlist items, e.g. change the play duration. Lastly, you can remove the contents from the playlist.
@@ -92,3 +92,13 @@ Now you can see, the first 2 assets in the playlist are removed from the playlis
 **Previous Article - [Tutorial: Pair and Assign Content to Screen](https://support.optisigns.com/hc/en-us/articles/4414553099667-GraphQL-API-Tutorial-Pair-and-Assign-Content-to-Screen)**
 
 **Next Article - [Tutorial: Creating or Updating Website Assets Using GraphQL](https://support.optisigns.com/hc/en-us/articles/36562094987795-Tutorial-Creating-or-Updating-Website-Assets-Using-GraphQL)**
+
+---
+
+## Related Articles
+
+* [Tutorial: Creating or Updating Website Assets Using GraphQL](https://support.optisigns.com/hc/en-us/articles/36562094987795?ref=related)
+* [Tutorial: Creating Schedules and Adding Schedule Items Using GraphQL](https://support.optisigns.com/hc/en-us/articles/36558834998291?ref=related)
+* [GraphQL API Tutorial: Pair and Assign Content to Screen](https://support.optisigns.com/hc/en-us/articles/4414553099667?ref=related)
+* [API Reference](https://support.optisigns.com/hc/en-us/articles/4414558392339?ref=related)
+* [How to Create & Use Playlists](https://support.optisigns.com/hc/en-us/articles/28295104605843?ref=related)

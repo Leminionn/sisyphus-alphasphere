@@ -3,7 +3,7 @@
 **Article ID:** 53095698149011
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/53095698149011-Using-the-Japan-Earthquake-App
-**Last Updated:** 2026-08-12T14:38:37+00:00
+**Last Updated:** 2026-11-25T17:12:31+00:00
 ---
 
 * [What You'll Need](#WhatYouNeed)
@@ -77,6 +77,15 @@ Then, select your created Japan Earthquake Asset:
 Now hit **Save**. Your Japan Earthquake asset will now display on screen.
 
 You can also deploy it as part of a split screen, allowing you to show other assets at the same time. See how in our [Split Screen app article.](https://support.optisigns.com/hc/en-us/articles/360026559573-How-to-Create-and-Use-the-Split-Screen-App) It can also be displayed in a Playlist or Schedule.
+
+---
+
+## Related Articles
+
+* [Using the Japan Transit App](https://support.optisigns.com/hc/en-us/articles/55640830295187?ref=related)
+* [How to Use the CAP Alert App](https://support.optisigns.com/hc/en-us/articles/6604468198291?ref=related)
+* [How to Use the Emergency Message/Alert App](https://support.optisigns.com/hc/en-us/articles/360052513253?ref=related)
+* [How to Use the Emergency Feed App](https://support.optisigns.com/hc/en-us/articles/4409673381011?ref=related)
 
 ### That's all!
 

@@ -3,7 +3,7 @@
 **Article ID:** 360049030453
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360049030453-How-to-use-the-Motivational-Quote-App
-**Last Updated:** 2026-09-10T09:42:45+00:00
+**Last Updated:** 2026-11-25T16:59:09+00:00
 ---
 
 This article will show you how to set up and display the Motivational Quote app on your digital signs.
@@ -22,6 +22,15 @@ The following window will pop-up and you will need to enter the details and quot
 * Duration (sec): Enter the duration you'd like to have for each quote to be displayed.
 * Show Date/Time: Enable a center justified date and time to be displayed above the quotes.
 * Shuffle Play: play quotes in random orders.
+
+---
+
+## Related Articles
+
+* [How to Use the On This Day App](https://support.optisigns.com/hc/en-us/articles/1500009492202?ref=related)
+* [How to Use the CountDown App](https://support.optisigns.com/hc/en-us/articles/360041638433?ref=related)
+* [How to Use the News App](https://support.optisigns.com/hc/en-us/articles/360022393473?ref=related)
+* [How to Create and Use the Split Screen App](https://support.optisigns.com/hc/en-us/articles/360026559573?ref=related)
 
 ## **That's all! Congratulations!**
 

@@ -3,7 +3,7 @@
 **Article ID:** 360047501233
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360047501233-How-to-use-Instagram-Counter-App
-**Last Updated:** 2026-09-10T09:42:34+00:00
+**Last Updated:** 2026-11-25T18:08:18+00:00
 ---
 
 |  |
@@ -37,6 +37,14 @@ Click Instagram Counter:
 * QR Code: Select whether you want the QR code to link to the Instagram Profile or you can select a Custom URL which you can determine what type of code type you want to generate and link to.
 
 After Saving, you can Preview the Instagram Counter app.
+
+---
+
+## Related Articles
+
+* [How to Use the Instagram Business App](https://support.optisigns.com/hc/en-us/articles/360051495193?ref=related)
+* [How to Use the Facebook Counter App](https://support.optisigns.com/hc/en-us/articles/360044619014?ref=related)
+* [How to Set up an Instagram Business/Creator account](https://support.optisigns.com/hc/en-us/articles/360051745633?ref=related)
 
 ## **That's all! Congratulations!**
 

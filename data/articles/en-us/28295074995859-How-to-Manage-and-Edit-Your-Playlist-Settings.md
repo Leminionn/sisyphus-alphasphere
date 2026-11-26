@@ -3,7 +3,7 @@
 **Article ID:** 28295074995859
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/28295074995859-How-to-Manage-and-Edit-Your-Playlist-Settings
-**Last Updated:** 2026-10-14T18:00:33+00:00
+**Last Updated:** 2026-11-25T17:58:11+00:00
 ---
 
 ### This guide will show you how to manage and edit your playlist settings in OptiSigns.
@@ -161,6 +161,16 @@ The available colors are shown below:
 **2.** Click the **"Share Link"** button on the left-hand side.
 
 To learn more about this feature, click [here](https://support.optisigns.com/hc/en-us/articles/21708242980755-How-to-Share-Playlist-and-Folder-with-External-Users)
+
+---
+
+## Related Articles
+
+* [How to Create & Use Playlists](https://support.optisigns.com/hc/en-us/articles/28295104605843?ref=related)
+* [How to Create and Use Nested Playlists](https://support.optisigns.com/hc/en-us/articles/360043621953?ref=related)
+* [Advanced Playlist Item Playback Control & Campaign Management](https://support.optisigns.com/hc/en-us/articles/22474034993043?ref=related)
+* [How to set an asset to Live or Expire at specific time](https://support.optisigns.com/hc/en-us/articles/360042736794?ref=related)
+* [How to Use Content Tags in The Playlist](https://support.optisigns.com/hc/en-us/articles/20879903340947?ref=related)
 
 ---
 

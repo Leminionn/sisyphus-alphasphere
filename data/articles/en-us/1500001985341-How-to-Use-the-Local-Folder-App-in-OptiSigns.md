@@ -3,7 +3,7 @@
 **Article ID:** 1500001985341
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/1500001985341-How-to-Use-the-Local-Folder-App-in-OptiSigns
-**Last Updated:** 2026-09-22T15:01:01+00:00
+**Last Updated:** 2026-11-25T18:12:04+00:00
 ---
 
 Sometimes, due to network limitations or security reasons, you'll have content you'd rather keep locally at your device. The Local Folder app allows you to access content stored locally.
@@ -117,6 +117,15 @@ Examples (Assuming 3 USB drives named USB1, USB2, USB3, and an SD card named SDC
 | 2 USBs Connected | /home/optisigns/external/USB1-sdb1  /home/optisigns/external/USB2-sdc1 | /home/optisigns/external/USB1-sda1  /home/optisigns/external/USB2-sdb1 |
 | 3 USBs Connected | /home/optisigns/external/USB1-sdb1  /home/optisigns/external/USB2-sdc1  /home/optisigns/external/USB3-sdd1 | /home/optisigns/external/USB1-sda1  /home/optisigns/external/USB2-sdb1  /home/optisigns/external/USB3-sdc1 |
 | SD card connectd | /home/optisigns/external/SDCARD-mmcblk0p1 | |
+
+---
+
+## Related Articles
+
+* [How to Use the Dropbox App](https://support.optisigns.com/hc/en-us/articles/360050665413?ref=related)
+* [How to Use the Google Drive App](https://support.optisigns.com/hc/en-us/articles/360049518313?ref=related)
+* [How to Use the OneDrive App](https://support.optisigns.com/hc/en-us/articles/360050665253?ref=related)
+* [What happen if internet connection is lost?](https://support.optisigns.com/hc/en-us/articles/360016376793?ref=related)
 
 ### **That's all!**
 

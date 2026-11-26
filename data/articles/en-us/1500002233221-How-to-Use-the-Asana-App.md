@@ -3,7 +3,7 @@
 **Article ID:** 1500002233221
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/1500002233221-How-to-Use-the-Asana-App
-**Last Updated:** 2026-10-13T16:34:14+00:00
+**Last Updated:** 2026-11-25T18:06:27+00:00
 ---
 
 With the Asana app, it's possible to display your team's Asana projects on your digital signs. Keep tasks, deadlines and project progress in front of everyone, in the office, on the shop floor or in the break room, and let the screen refresh itself as the project changes.
@@ -60,6 +60,15 @@ The **Select Asset** window will open. Search for your Asana app, click it, then
 Back in **Edit Screen**, hit **Save**. Your Asana project will now display on your screen.
 
 Your Asana app can also be displayed in a Playlist or Schedule, or as one zone of a [Split Screen](https://support.optisigns.com/hc/en-us/articles/360026559573).
+
+---
+
+## Related Articles
+
+* [How to Use the MindMeister App](https://support.optisigns.com/hc/en-us/articles/1500005889381?ref=related)
+* [How to Use the Trello App](https://support.optisigns.com/hc/en-us/articles/360050244454?ref=related)
+* [How to Use the Monday.com App](https://support.optisigns.com/hc/en-us/articles/11032964830227?ref=related)
+* [How to Use the Jira App](https://support.optisigns.com/hc/en-us/articles/360037416494?ref=related)
 
 ### That’s all!
 

@@ -3,7 +3,7 @@
 **Article ID:** 360037965133
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360037965133-How-to-Use-RSS-feeds-with-OptiSigns
-**Last Updated:** 2026-09-10T21:50:57+00:00
+**Last Updated:** 2026-11-25T18:09:34+00:00
 ---
 
 RSS feeds is a popular way for organization to push out information. Whether you have a well-know RSS feeds like from the [New York Times](https://archive.nytimes.com/www.nytimes.com/services/xml/rss/index.html) or one from your local community or company, you can put the feed on big screens TV with OptiSigns.
@@ -52,6 +52,16 @@ You can click Advanced and set:
 Click **Save**.
 
 After Saving, you can Preview the wall. It may take several seconds for the app to fetch the RSS items and prepare your feed, so please be patient.
+
+---
+
+## Related Articles
+
+* [How to use MRSS feeds with OptiSigns](https://support.optisigns.com/hc/en-us/articles/4409448788499?ref=related)
+* [How to Create a Scrolling Strip or Bar](https://support.optisigns.com/hc/en-us/articles/360026559613?ref=related)
+* [Feeds and How to Use Them](https://support.optisigns.com/hc/en-us/articles/24338756617747?ref=related)
+* [How to Create Custom News Feeds with OptiSync](https://support.optisigns.com/hc/en-us/articles/35337746613139?ref=related)
+* [How to Use the News App](https://support.optisigns.com/hc/en-us/articles/360022393473?ref=related)
 
 ---
 

@@ -3,7 +3,7 @@
 **Article ID:** 360016484393
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360016484393-How-can-I-improve-stability-of-Fire-TV-as-Digital-Signage-player
-**Last Updated:** 2025-09-04T15:33:49+00:00
+**Last Updated:** 2026-11-25T18:03:38+00:00
 ---
 
 We have a great whitepaper:

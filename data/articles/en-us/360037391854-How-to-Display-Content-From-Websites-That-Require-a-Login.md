@@ -3,7 +3,7 @@
 **Article ID:** 360037391854
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360037391854-How-to-Display-Content-From-Websites-That-Require-a-Login
-**Last Updated:** 2026-10-16T17:01:33+00:00
+**Last Updated:** 2026-11-25T17:57:19+00:00
 ---
 
 A lot of the content worth showing on your screens sits behind a login: a project board in Jira, a sales dashboard in Salesforce, a report in Tableau or Power BI. OptiSigns gives you several ways to display it, and each one keeps your screens signed in without anyone standing at the device.
@@ -136,6 +136,16 @@ We recommend this only as a last resort:
 * If the device's cache is cleared, or the website signs you out, someone has to sign in again.
 
 If you can, use one of the options above instead.
+
+---
+
+## Related Articles
+
+* [How to use the Web Scripting App](https://support.optisigns.com/hc/en-us/articles/1500012522362?ref=related)
+* [How to use Secured Dashboard App](https://support.optisigns.com/hc/en-us/articles/19589190970771?ref=related)
+* [How to use OptiSigns Screen Capture app](https://support.optisigns.com/hc/en-us/articles/6086986017299?ref=related)
+* [How to Use the Website App and Display URLs on OptiSigns](https://support.optisigns.com/hc/en-us/articles/360016382473?ref=related)
+* [How to Install a Root Certificate and Display an Internal Website on Screens](https://support.optisigns.com/hc/en-us/articles/35184720136595?ref=related)
 
 ### That’s all!
 

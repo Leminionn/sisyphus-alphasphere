@@ -3,7 +3,7 @@
 **Article ID:** 360042736794
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360042736794-How-to-set-an-asset-to-Live-or-Expire-at-specific-time
-**Last Updated:** 2026-11-24T22:08:04+00:00
+**Last Updated:** 2026-11-25T17:19:20+00:00
 ---
 
 * [When to Use Live and Expire](#WhentoUse)
@@ -80,6 +80,16 @@ This provides:
 * The asset's location in the playlist (item position) or schedule (event date)
 * Type of asset (video, image, app, playlist, etc.)
 * The ability to delete the item from the Playlist or Schedule to keep it clean easily.
+
+---
+
+## Related Articles
+
+* [Assign Default Content for Schedules](https://support.optisigns.com/hc/en-us/articles/360040943374?ref=related)
+* [Creating and Using Schedules with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360016981853?ref=related)
+* [How To Create and Use Operational Schedules (HDMI-CEC, RS-232)](https://support.optisigns.com/hc/en-us/articles/28598173096723?ref=related)
+* [How to Control and Schedule Playlist Items](https://support.optisigns.com/hc/en-us/articles/20062273670163?ref=related)
+* [How to Create & Use Playlists](https://support.optisigns.com/hc/en-us/articles/28295104605843?ref=related)
 
 ### **That's all!**
 

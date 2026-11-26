@@ -3,7 +3,7 @@
 **Article ID:** 360046356113
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360046356113-Advanced-Security-Managing-User-Roles
-**Last Updated:** 2026-02-04T16:01:54+00:00
+**Last Updated:** 2026-11-25T17:56:42+00:00
 ---
 
 |  |
@@ -112,6 +112,16 @@ As you can see, we have the option to add our additional account to this team, a
 If you want to manage all accounts at once, hit **Show All Members**.
 
 Now these members can be removed from this Team, and have their user permissions changed.
+
+---
+
+## Related Articles
+
+* [Working with Teams and Security Levels](https://support.optisigns.com/hc/en-us/articles/360034883113?ref=related)
+* [Folder Level Permissions](https://support.optisigns.com/hc/en-us/articles/360044600474?ref=related)
+* [What Access Does OptiSigns Have to My Account and Devices?](https://support.optisigns.com/hc/en-us/articles/53216900345875?ref=related)
+* [User Management Example - Chain Restaurant or Retail Store with Multiple Locations](https://support.optisigns.com/hc/en-us/articles/43657735780627?ref=related)
+* [Advanced: Enforce SSO login for your account](https://support.optisigns.com/hc/en-us/articles/360061576673?ref=related)
 
 ### That's all!
 

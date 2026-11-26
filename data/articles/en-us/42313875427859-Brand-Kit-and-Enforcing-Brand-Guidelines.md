@@ -3,7 +3,7 @@
 **Article ID:** 42313875427859
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/42313875427859-Brand-Kit-and-Enforcing-Brand-Guidelines
-**Last Updated:** 2025-09-04T17:25:47+00:00
+**Last Updated:** 2026-11-25T18:02:57+00:00
 ---
 
 OptiSigns’ Designer tool comes with a fully-functional Brand Kit, capable of enforcing corporate brand guidelines across multiple users.
@@ -87,6 +87,16 @@ The checkmark denotes the default color. This can be altered by hovering over ot
 | --- |
 | **NOTE** |
 | Once Enforce Branding is enabled, background and text colors will be evaluated at the time of saving. If you are using a default white background or black text, ensure these are added to the accepted brand colors. Otherwise, you will receive an error message at the time of saving. |
+
+---
+
+## Related Articles
+
+* [How to Use OptiSigns' Template & Designer to Make Your Digital Signs in Minutes](https://support.optisigns.com/hc/en-us/articles/4404151402899?ref=related)
+* [Custom Branding Settings and Branded Portals](https://support.optisigns.com/hc/en-us/articles/1500000485202?ref=related)
+* [Getting Started with Designer](https://support.optisigns.com/hc/en-us/articles/42087942047379?ref=related)
+* [Shapes and Elements](https://support.optisigns.com/hc/en-us/articles/42307234534547?ref=related)
+* [User Management Example - Chain Restaurant or Retail Store with Multiple Locations](https://support.optisigns.com/hc/en-us/articles/43657735780627?ref=related)
 
 ### That’s all!
 

@@ -3,7 +3,7 @@
 **Article ID:** 360042450514
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360042450514-How-to-use-World-Clock-App
-**Last Updated:** 2026-09-10T09:42:04+00:00
+**Last Updated:** 2026-11-25T18:08:52+00:00
 ---
 
 World Clock App allow you to show up to 6 clocks of different cities, locations on your screen.  
@@ -28,6 +28,15 @@ Enter your World Clock wall information:
 
 Click Save.  
 After Saving, you can Preview the wall. It may take several seconds for the app prepare your wall.
+
+---
+
+## Related Articles
+
+* [How to Use the Simple Clock App](https://support.optisigns.com/hc/en-us/articles/360042950593?ref=related)
+* [How to Use the Simple Calendar App](https://support.optisigns.com/hc/en-us/articles/360041481553?ref=related)
+* [How to Create and Use the Split Screen App](https://support.optisigns.com/hc/en-us/articles/360026559573?ref=related)
+* [Assign content to your screens](https://support.optisigns.com/hc/en-us/articles/360016375153?ref=related)
 
 ## **That's all! Congratulation!**
 

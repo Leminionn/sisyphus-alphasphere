@@ -3,7 +3,7 @@
 **Article ID:** 360056090593
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360056090593-OptiSigns-Side-Menu-Options
-**Last Updated:** 2026-09-10T09:44:24+00:00
+**Last Updated:** 2026-11-25T17:24:23+00:00
 ---
 
 * [OptiSigns Devices](#OptiSigns)
@@ -134,3 +134,13 @@ Click the three-bar button on the top right of a screen, then your screen will p
 Here you go, you know more what these settings mean.
 
 If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
+
+---
+
+## Related Articles
+
+* [Edit Screen: What does each option do?](https://support.optisigns.com/hc/en-us/articles/360048914673?ref=related)
+* [How to access the Troubleshooting page of the OptiSigns Player](https://support.optisigns.com/hc/en-us/articles/36501302096915?ref=related)
+* [OptiStick Troubleshooting Guide](https://support.optisigns.com/hc/en-us/articles/40147900639891?ref=related)
+* [Preventing the OptiSigns App from Turning On your Screen](https://support.optisigns.com/hc/en-us/articles/15808407287315?ref=related)
+* [Device Management and Mass Provisioning](https://support.optisigns.com/hc/en-us/articles/53497007807251?ref=related)

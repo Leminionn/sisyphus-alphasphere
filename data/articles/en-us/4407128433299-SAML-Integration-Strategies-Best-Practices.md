@@ -3,7 +3,7 @@
 **Article ID:** 4407128433299
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/4407128433299-SAML-Integration-Strategies-Best-Practices
-**Last Updated:** 2026-09-10T09:46:50+00:00
+**Last Updated:** 2026-11-25T20:20:48+00:00
 ---
 
 There are many ways to implement SAML to manage users and access OptiSigns with your IDP.
@@ -82,3 +82,13 @@ You can also map **Unmapped users/groups** to **No Team (Disable)**. This way, i
 This way you can keep the system clean and only users needing access to the app are replicated.
 
 If you have any questions or need help with SAML integration please feel free to reach out to us at [support@optisigns.com](mailto:support@optisigns.com)
+
+---
+
+## Related Articles
+
+* [How to Set Up SAML 2.0 with OptiSigns and MS Entra ID (formerly Azure AD)](https://support.optisigns.com/hc/en-us/articles/4407252213395?ref=related)
+* [How to Set Up SAML 2.0 with OptiSigns and Okta](https://support.optisigns.com/hc/en-us/articles/4404590815635?ref=related)
+* [How to set up SAML 2.0 with OptiSigns and Google Workspace](https://support.optisigns.com/hc/en-us/articles/4407493404307?ref=related)
+* [Advanced: Enforce SSO login for your account](https://support.optisigns.com/hc/en-us/articles/360061576673?ref=related)
+* [Advanced Security: Managing User Roles](https://support.optisigns.com/hc/en-us/articles/360046356113?ref=related)

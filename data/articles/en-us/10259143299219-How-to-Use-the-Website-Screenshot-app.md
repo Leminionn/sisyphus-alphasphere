@@ -3,7 +3,7 @@
 **Article ID:** 10259143299219
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/10259143299219-How-to-Use-the-Website-Screenshot-app
-**Last Updated:** 2026-09-10T09:48:50+00:00
+**Last Updated:** 2026-11-25T18:04:09+00:00
 ---
 
 With the Website Screenshot App, you can capture a screenshot on the URL link and send it to a digital signage screen.
@@ -28,6 +28,16 @@ Enter your Website Screenshot app information:
 * Delay: in second. The delay will be applied to allow to take the screenshot.
 
 Click **Save**.
+
+---
+
+## Related Articles
+
+* [How to Use the Advanced Website App](https://support.optisigns.com/hc/en-us/articles/5149077938835?ref=related)
+* [How to use the Web Scripting App](https://support.optisigns.com/hc/en-us/articles/1500012522362?ref=related)
+* [How to Use the Website App and Display URLs on OptiSigns](https://support.optisigns.com/hc/en-us/articles/360016382473?ref=related)
+* [How to use OptiSigns Screen Capture app](https://support.optisigns.com/hc/en-us/articles/6086986017299?ref=related)
+* [How to use Embed App](https://support.optisigns.com/hc/en-us/articles/360035815114?ref=related)
 
 ### **That's all!**
 

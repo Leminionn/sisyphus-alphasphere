@@ -3,7 +3,7 @@
 **Article ID:** 30003143806099
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/30003143806099-How-to-Use-the-OptiSigns-Mobile-Admin-App
-**Last Updated:** 2026-10-16T14:31:48+00:00
+**Last Updated:** 2026-11-25T17:58:04+00:00
 ---
 
 #### The OptiSigns Mobile Admin App offers remote control over your digital signage assets. Whether you're without a laptop, misplaced your remote, or far from your screen, this app provides a streamlined, user-friendly solution. This guide will help you set up and use the app effectively.
@@ -211,3 +211,13 @@ For more detailed instructions, see [How to use the Mobile App for Remote Contro
 OptiSigns Mobile Admin App makes managing your digital displays effortless!
 
 If you have any additional questions, concerns, or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
+
+---
+
+## Related Articles
+
+* [How to Use the Mobile App for Remote Control](https://support.optisigns.com/hc/en-us/articles/30304278652563?ref=related)
+* [How to setup WIFI with OptiSigns Admin mobile app on OptiSigns Pre-Configured Android Player](https://support.optisigns.com/hc/en-us/articles/4409607912211?ref=related)
+* [Push Contents to your Screens](https://support.optisigns.com/hc/en-us/articles/18988049363859?ref=related)
+* [How to Create a Scrolling Strip or Bar](https://support.optisigns.com/hc/en-us/articles/360026559613?ref=related)
+* [How to Play Licensed Background Music on Digital Signs with OptiSound](https://support.optisigns.com/hc/en-us/articles/40671590645651?ref=related)

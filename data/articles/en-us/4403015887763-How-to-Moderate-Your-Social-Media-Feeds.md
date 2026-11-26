@@ -3,7 +3,7 @@
 **Article ID:** 4403015887763
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/4403015887763-How-to-Moderate-Your-Social-Media-Feeds
-**Last Updated:** 2026-10-19T20:31:54+00:00
+**Last Updated:** 2026-11-25T18:00:52+00:00
 ---
 
 When you display a social media feed on your screens, you may want to check posts before your audience sees them. This is especially useful for hashtag feeds, where anyone can post content that shows up on your wall.
@@ -77,6 +77,15 @@ Your changes apply as soon as you make them. Close the window when you are done.
 | --- |
 | **NOTE** |
 | If you use the [Social Mix](https://support.optisigns.com/hc/en-us/articles/4403267825171-How-to-Use-the-Social-Mix-App) app, posts you hide or delete in a source app are also removed from your Social Mix. |
+
+---
+
+## Related Articles
+
+* [How far back or how many posts will be fetched for my Social Walls?](https://support.optisigns.com/hc/en-us/articles/360042424294?ref=related)
+* [How to Use the Social Mix App](https://support.optisigns.com/hc/en-us/articles/4403267825171?ref=related)
+* [Feeds and How to Use Them](https://support.optisigns.com/hc/en-us/articles/24338756617747?ref=related)
+* [Using the X Social App / Add-On](https://support.optisigns.com/hc/en-us/articles/55709616003219?ref=related)
 
 ### That’s all!
 

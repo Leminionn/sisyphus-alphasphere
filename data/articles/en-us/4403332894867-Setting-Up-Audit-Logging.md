@@ -3,7 +3,7 @@
 **Article ID:** 4403332894867
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/4403332894867-Setting-Up-Audit-Logging
-**Last Updated:** 2026-09-21T20:44:11+00:00
+**Last Updated:** 2026-11-25T17:54:46+00:00
 ---
 
 With the Pro Plus, Engage, or Enterprise Plan, you can enable our Audit Log feature. This will log who has made what changes to your account.
@@ -52,3 +52,13 @@ You can also export the data out to CSV, Excel or PDF:
 You have activated and learned how to use the Audit Log feature.
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
+
+---
+
+## Related Articles
+
+* [Advanced: Proof of Play (or Playback report)](https://support.optisigns.com/hc/en-us/articles/360058936513?ref=related)
+* [Data Residency and OptiSigns](https://support.optisigns.com/hc/en-us/articles/9169378546195?ref=related)
+* [How to set up Monitoring Alert feature](https://support.optisigns.com/hc/en-us/articles/4403306341523?ref=related)
+* [Advanced Security: Managing User Roles](https://support.optisigns.com/hc/en-us/articles/360046356113?ref=related)
+* [Get Started with OptiSigns API](https://support.optisigns.com/hc/en-us/articles/4414563863827?ref=related)

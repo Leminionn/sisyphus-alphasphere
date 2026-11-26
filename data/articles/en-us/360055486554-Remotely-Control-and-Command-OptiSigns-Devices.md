@@ -3,7 +3,7 @@
 **Article ID:** 360055486554
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360055486554-Remotely-Control-and-Command-OptiSigns-Devices
-**Last Updated:** 2026-11-05T22:33:29+00:00
+**Last Updated:** 2026-11-25T17:56:12+00:00
 ---
 
 Reboot a screen, take a screenshot of what it's showing, change its Wi-Fi or time zone, or see it live, all from the OptiSigns portal. You can also send the same command to many screens at once.
@@ -176,6 +176,16 @@ The device has remote commands turned off. On the device, open **Advanced Option
 #### "Command Rate Limit Exceeded"
 
 You sent too many commands in a short time. Wait a moment, then submit the command again.
+
+---
+
+## Related Articles
+
+* [Advanced: How to Install & Activate OptiSigns Remote Agent on Windows](https://support.optisigns.com/hc/en-us/articles/360057327693?ref=related)
+* [How to Use the Mobile App for Remote Control](https://support.optisigns.com/hc/en-us/articles/30304278652563?ref=related)
+* [How To Create and Use Operational Schedules (HDMI-CEC, RS-232)](https://support.optisigns.com/hc/en-us/articles/28598173096723?ref=related)
+* [How to set up Monitoring Alert feature](https://support.optisigns.com/hc/en-us/articles/4403306341523?ref=related)
+* [Edit Screen: What does each option do?](https://support.optisigns.com/hc/en-us/articles/360048914673?ref=related)
 
 ### That’s all!
 

@@ -3,7 +3,7 @@
 **Article ID:** 4428997257491
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/4428997257491-How-to-organize-templates-and-share-across-teams
-**Last Updated:** 2026-09-10T09:47:56+00:00
+**Last Updated:** 2026-11-25T16:55:52+00:00
 ---
 
 When there is a large number of templates and a complex structure of teams/departments, how to manage templates and share them with others could be difficult. For example, there are hundreds of templates of different themes, some should only be available to team A and some should be available to other teams. How that should be managed with OptiSigns?
@@ -25,6 +25,15 @@ The template will be available to users from Team1.
 The users will be able to open the template and make changes, however when they try to save it, it will be declined because of permission. Users have to use click "Save As" to save it to a location they have permission.
 
 Users can save it to a location they have edit permission by choosing a folder and clicking the "Save As" button.
+
+---
+
+## Related Articles
+
+* [How to hide certain templates categories in Designers](https://support.optisigns.com/hc/en-us/articles/7865572050195?ref=related)
+* [Your Templates](https://support.optisigns.com/hc/en-us/articles/42830652820115?ref=related)
+* [Working with Teams and Security Levels](https://support.optisigns.com/hc/en-us/articles/360034883113?ref=related)
+* [How to Share Contents with Other Users/Teams](https://support.optisigns.com/hc/en-us/articles/18986181635859?ref=related)
 
 ### **That's all!**
 

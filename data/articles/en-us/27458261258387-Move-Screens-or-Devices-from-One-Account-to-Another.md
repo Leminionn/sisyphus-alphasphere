@@ -3,7 +3,7 @@
 **Article ID:** 27458261258387
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/27458261258387-Move-Screens-or-Devices-from-One-Account-to-Another
-**Last Updated:** 2026-09-10T09:50:47+00:00
+**Last Updated:** 2026-11-25T17:26:29+00:00
 ---
 
 To move screens, devices from one account to another account, you will need to:
@@ -55,6 +55,15 @@ Now, log in to your other account. Navigate to the **Screens**tab, then hit **Ad
 Type in the Pairing Code you obtained in Step 1, then hit **Pair**:
 
 Your screen will now be linked to this account.
+
+---
+
+## Related Articles
+
+* [How to move screen to other team](https://support.optisigns.com/hc/en-us/articles/1500003161182?ref=related)
+* [Billing for Multiple Locations: Sub-Accounts and Team Billing](https://support.optisigns.com/hc/en-us/articles/17129313173395?ref=related)
+* [Set Up, Add, or Unpair a Screen](https://support.optisigns.com/hc/en-us/articles/360016374813?ref=related)
+* [How to Contact OptiSigns Support](https://support.optisigns.com/hc/en-us/articles/35626165056787?ref=related)
 
 ### That's all!
 

@@ -3,7 +3,7 @@
 **Article ID:** 28140190892307
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/28140190892307-How-to-Use-QR-Overlay-App-in-Engage
-**Last Updated:** 2026-09-10T21:35:58+00:00
+**Last Updated:** 2026-11-25T17:32:52+00:00
 ---
 
 With OptiSigns’s QR Overlay, you can create custom QR codes that overlay your content, allowing you to easily share links, videos, contacts, and much more.
@@ -62,6 +62,16 @@ Change the QR Code's location with preset locations in the corners of the screen
 Also, adjust the QR Code to your preferred size, making it bigger or smaller.
 
 Lastly, click **Save** and **Assign** your QR Overlay to your Screen or Tags, or you can assign it later.
+
+---
+
+## Related Articles
+
+* [Engage Plan - FAQs](https://support.optisigns.com/hc/en-us/articles/23565267463315?ref=related)
+* [How to use the QR Scan-to-Interact (Touchless QR) app](https://support.optisigns.com/hc/en-us/articles/8899727608083?ref=related)
+* [How to create and use QR Code, Call To Action app](https://support.optisigns.com/hc/en-us/articles/360039264133?ref=related)
+* [How to Use Overlay layers with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360050602413?ref=related)
+* [How to Design Kiosk Apps Using Kiosk Designer Pro](https://support.optisigns.com/hc/en-us/articles/15313086319763?ref=related)
 
 ## **That's all! Congratulations!**
 

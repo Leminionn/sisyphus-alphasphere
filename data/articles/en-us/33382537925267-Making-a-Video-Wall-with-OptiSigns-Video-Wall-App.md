@@ -3,7 +3,7 @@
 **Article ID:** 33382537925267
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/33382537925267-Making-a-Video-Wall-with-OptiSigns-Video-Wall-App
-**Last Updated:** 2026-10-13T04:44:01+00:00
+**Last Updated:** 2026-11-25T17:31:33+00:00
 ---
 
 ### In this guide, we’ll show you how to set up a video wall in the OptiSigns app using the Video Wall app and an OptiSigns Pro or ProMax Player, or a makeshift video wall.
@@ -277,6 +277,16 @@ Then you can plug in FireStick, or any other player running OptiSigns and have i
 Note that if your wall is big, you should use a Video Controller with 4K support, and use FireStick 4K or equivalent devices to output 4K high-resolution content, which will help the quality of your video wall.
 
 If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
+
+---
+
+## Related Articles
+
+* [Synchronized playback (Sync Play) feature](https://support.optisigns.com/hc/en-us/articles/4412065189267?ref=related)
+* [How to Create and Use the Split Screen App](https://support.optisigns.com/hc/en-us/articles/360026559573?ref=related)
+* [Advanced Playlist Item Playback Control & Campaign Management](https://support.optisigns.com/hc/en-us/articles/22474034993043?ref=related)
+* [ProMax](https://support.optisigns.com/hc/en-us/articles/38680194603155?ref=related)
+* [ProPlayer](https://support.optisigns.com/hc/en-us/articles/32272215514131?ref=related)
 
 ---
 

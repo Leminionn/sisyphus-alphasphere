@@ -3,7 +3,7 @@
 **Article ID:** 13320135306515
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/13320135306515-Build-Integrations-Using-the-OptiSigns-Enterprise-App
-**Last Updated:** 2026-10-30T17:06:59+00:00
+**Last Updated:** 2026-11-25T17:53:17+00:00
 ---
 
 The Enterprise App lets your own systems send live data to your screens. You build a web page that shows the data, and your system sends the data to a screen whenever it needs to. The screen switches to your page straight away and shows what you sent.

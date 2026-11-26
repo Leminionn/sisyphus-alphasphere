@@ -3,7 +3,7 @@
 **Article ID:** 14726570281875
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/14726570281875-Installing-OptiSigns-on-Samsung-Tizen-Smart-TVs
-**Last Updated:** 2026-10-29T20:45:27+00:00
+**Last Updated:** 2026-11-25T18:00:46+00:00
 ---
 
 The OptiSigns app is available in the Samsung Smart TV app store, so you can run your signage straight from a Samsung Tizen TV without any extra hardware.

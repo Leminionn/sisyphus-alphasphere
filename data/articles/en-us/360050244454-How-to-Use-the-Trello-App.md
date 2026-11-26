@@ -3,7 +3,7 @@
 **Article ID:** 360050244454
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360050244454-How-to-Use-the-Trello-App
-**Last Updated:** 2026-10-13T21:49:36+00:00
+**Last Updated:** 2026-11-25T18:07:28+00:00
 ---
 
 With the Trello app, it's possible to display your Trello boards on your digital signs. Keep your team's tasks, priorities and progress in view in the office, on the shop floor or in a meeting room, and let the screen refresh itself as cards move.
@@ -73,6 +73,15 @@ The **Select Asset** window will open. Search for your Trello app, click it, the
 Back in **Edit Screen**, hit **Save**. Your Trello board will now display on your screen.
 
 Your Trello app can also be displayed in a Playlist or Schedule, or as one zone of a [Split Screen](https://support.optisigns.com/hc/en-us/articles/360026559573).
+
+---
+
+## Related Articles
+
+* [How to Use the Asana App](https://support.optisigns.com/hc/en-us/articles/1500002233221?ref=related)
+* [How to Use the Monday.com App](https://support.optisigns.com/hc/en-us/articles/11032964830227?ref=related)
+* [How to Use the Jira App](https://support.optisigns.com/hc/en-us/articles/360037416494?ref=related)
+* [How to Use the Zendesk App](https://support.optisigns.com/hc/en-us/articles/360060919453?ref=related)
 
 ### That’s all!
 

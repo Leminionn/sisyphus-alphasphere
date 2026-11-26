@@ -3,7 +3,7 @@
 **Article ID:** 17129313173395
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/17129313173395-Billing-for-Multiple-Locations-Sub-Accounts-and-Team-Billing
-**Last Updated:** 2026-11-19T20:30:08+00:00
+**Last Updated:** 2026-11-25T18:00:42+00:00
 ---
 
 If you run OptiSigns across several locations, franchises or departments, you can decide who pays for which screens. Each location can have its own OptiSigns account that you manage from yours (Sub-Account Billing), or its own bill inside your one account (Team Billing). You can also keep one bill and simply split your screens between teams.
@@ -154,6 +154,16 @@ Yes. When you create the sub-account, choose **Email invoice to** and put your P
 #### I Don't See Enable Team Based Billing
 
 Team Billing needs to be turned on for your account first, and only the Owner or a Super Admin sees the toggle. It isn't available on a Free Plan or during a trial. Email [billing@optisigns.com](mailto:billing@optisigns.com) to ask for it.
+
+---
+
+## Related Articles
+
+* [Working with Teams and Security Levels](https://support.optisigns.com/hc/en-us/articles/360034883113?ref=related)
+* [Billing: Changing Plans or Screen Counts](https://support.optisigns.com/hc/en-us/articles/1500000493782?ref=related)
+* [Billing Details, Failed Payments & Receipts](https://support.optisigns.com/hc/en-us/articles/360041587014?ref=related)
+* [Multi-users: Invite your team members to your account](https://support.optisigns.com/hc/en-us/articles/360016990233?ref=related)
+* [How to move screen to other team](https://support.optisigns.com/hc/en-us/articles/1500003161182?ref=related)
 
 ### That’s all!
 

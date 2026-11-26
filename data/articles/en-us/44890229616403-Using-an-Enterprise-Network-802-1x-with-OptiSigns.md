@@ -3,7 +3,7 @@
 **Article ID:** 44890229616403
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/44890229616403-Using-an-Enterprise-Network-802-1x-with-OptiSigns
-**Last Updated:** 2026-05-20T18:11:11+00:00
+**Last Updated:** 2026-11-25T17:03:53+00:00
 ---
 
 If your organization uses an 802.1x Enterprise Network, many devices will not be compatible with OptiSigns. Here, we'll let you know which ones are, and how to connect to it on OptiSigns devices.
@@ -72,6 +72,16 @@ On the **About** menu, go to **Advanced Settings:**
 Next, click the **802.1x Ethernet** switch to enable it. Several additional options will become available:
 
 You'll need to enter a **Username** and **Password**, and upload a certificate depending on the needs of your security network. Simply locate this certificate, place it on a USB or MicroSD card, attach it to the Pro Player, and select it here. The certificate will automatically be downloaded to the appropriate location.
+
+---
+
+## Related Articles
+
+* [Whitelist OptiSigns IP Addresses & Ports](https://support.optisigns.com/hc/en-us/articles/360047275934?ref=related)
+* [How to Connect to 802.1x Enterprise WiFi on Raspberry Pi](https://support.optisigns.com/hc/en-us/articles/4411743936147?ref=related)
+* [Raspberry Pi](https://support.optisigns.com/hc/en-us/articles/360034379693?ref=related)
+* [How to Perform Mass Provisioning with OptiSigns](https://support.optisigns.com/hc/en-us/articles/4416542923667?ref=related)
+* [Silent Installation process for OptiSigns Player on Windows](https://support.optisigns.com/hc/en-us/articles/15861880059283?ref=related)
 
 ### That's all!
 

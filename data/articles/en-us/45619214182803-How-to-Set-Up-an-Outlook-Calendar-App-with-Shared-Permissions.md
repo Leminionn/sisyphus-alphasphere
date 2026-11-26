@@ -3,7 +3,7 @@
 **Article ID:** 45619214182803
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/45619214182803-How-to-Set-Up-an-Outlook-Calendar-App-with-Shared-Permissions
-**Last Updated:** 2025-10-17T16:01:18+00:00
+**Last Updated:** 2026-11-25T17:47:35+00:00
 ---
 
 When using Outlook calendar in an organization, you are often granted access to various calendars. These may be for other individuals, or they may show the availability of certain shared resources, such as Rooms or Equipment.
@@ -61,6 +61,15 @@ When you try and exit, you'll be asked to Save changes. Do so.
 Now the Resource's calendar will populate on this User's calendar display.
 
 From here, follow the normal instructions on [Setting Up a Microsoft Outlook Calendar with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360036250853-How-to-use-Microsoft-Outlook-Office-365-Calendar-with-OptiSigns) to get your Calendar up and running.
+
+---
+
+## Related Articles
+
+* [How to Use Microsoft Outlook Calendar with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360036250853?ref=related)
+* [How to approve OptiSigns as Enterprise App on Microsoft Azure (for Power BI, Calendar, etc. access)](https://support.optisigns.com/hc/en-us/articles/4403616315539?ref=related)
+* [How to Use the Calendar Mix app](https://support.optisigns.com/hc/en-us/articles/4408052949139?ref=related)
+* [How to Use iCloud Calendar with OptiSigns](https://support.optisigns.com/hc/en-us/articles/27356288211859?ref=related)
 
 ### That's all!
 

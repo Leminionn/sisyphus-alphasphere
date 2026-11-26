@@ -3,7 +3,7 @@
 **Article ID:** 360056356414
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360056356414-How-to-use-Scrolling-Website-App
-**Last Updated:** 2026-09-11T16:16:33+00:00
+**Last Updated:** 2026-11-25T17:16:02+00:00
 ---
 
 Sometimes you have requirement to show a certain website and have it scroll or zoom in a certain way.  
@@ -32,6 +32,16 @@ Set up your Scrolling Web App:
 Click **Save** to save your asset.
 
 You can preview how it looks on the right, and change between **Landscape** and **Portrait**.
+
+---
+
+## Related Articles
+
+* [How to Use the Advanced Website App](https://support.optisigns.com/hc/en-us/articles/5149077938835?ref=related)
+* [How to Use the Website App and Display URLs on OptiSigns](https://support.optisigns.com/hc/en-us/articles/360016382473?ref=related)
+* [How to Create a Scrolling Strip or Bar](https://support.optisigns.com/hc/en-us/articles/360026559613?ref=related)
+* [How to use Embed App](https://support.optisigns.com/hc/en-us/articles/360035815114?ref=related)
+* [How to Use the Website Screenshot app](https://support.optisigns.com/hc/en-us/articles/10259143299219?ref=related)
 
 ---
 

@@ -3,7 +3,7 @@
 **Article ID:** 55450681344915
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/55450681344915-Connect-SharePoint-News-to-OptiSigns-Digital-Signage
-**Last Updated:** 2026-09-15T23:09:01+00:00
+**Last Updated:** 2026-11-25T17:10:32+00:00
 ---
 
 Put your intranet on the wall. SharePoint News reads the news posts already published on a Microsoft SharePoint site and displays them on your screens, refreshing on its own as your team publishes.
@@ -227,6 +227,15 @@ Your organization enabled MFA for the signed-in account. Reconnect it, or switch
 #### "Microsoft is rate-limiting requests for this tenant. This usually clears on its own."
 
 This means that too many requests have been sent to the Microsoft tenant recently, and it is being overloaded. No action needed.
+
+---
+
+## Related Articles
+
+* [Displaying SharePoint Sites on OptiSigns](https://support.optisigns.com/hc/en-us/articles/4414539282067?ref=related)
+* [How to Create Custom News Feeds with OptiSync](https://support.optisigns.com/hc/en-us/articles/35337746613139?ref=related)
+* [How to Get a Microsoft Teams Webhook URL for OptiSigns Broadcast](https://support.optisigns.com/hc/en-us/articles/55416186918163?ref=related)
+* [How to Use RSS feeds with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360037965133?ref=related)
 
 ---
 

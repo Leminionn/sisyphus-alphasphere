@@ -3,7 +3,7 @@
 **Article ID:** 29217646663187
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/29217646663187-How-to-Set-Up-Dynamic-Data-Mapping-with-OptiSync
-**Last Updated:** 2026-09-10T09:51:11+00:00
+**Last Updated:** 2026-11-25T17:32:28+00:00
 ---
 
 ### In today's fast-paced digital environment, manually updating digital displays can be both tedious and error-prone. This guide will show you how to integrate live data into your digital screens, allowing for seamless automatic updates across your displays.
@@ -239,3 +239,13 @@ Your screen will automatically update based on your connected data source.
 You no longer need to manually update your data, which is time consuming and prone to errors.
 
 ## That's it! Now, you can set and forget it with OptiSync, an automated data mapping feature!
+
+---
+
+## Related Articles
+
+* [How to add Google Sheets as a DataSource for OptiSync](https://support.optisigns.com/hc/en-us/articles/29838866920211?ref=related)
+* [How to add a Microsoft 365 Excel Spreadsheet as a DataSource for OptiSync](https://support.optisigns.com/hc/en-us/articles/29863080711059?ref=related)
+* [How to Integrate API and Publish API Data via OptiSync](https://support.optisigns.com/hc/en-us/articles/22875592994195?ref=related)
+* [How to Create Custom News Feeds with OptiSync](https://support.optisigns.com/hc/en-us/articles/35337746613139?ref=related)
+* [How to Display Birthday Lists with OptiSync Data Mapping and Google Sheets](https://support.optisigns.com/hc/en-us/articles/29979283289235?ref=related)

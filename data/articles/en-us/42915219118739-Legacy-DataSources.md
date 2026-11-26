@@ -3,7 +3,7 @@
 **Article ID:** 42915219118739
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/42915219118739-Legacy-DataSources
-**Last Updated:** 2026-09-10T11:36:55+00:00
+**Last Updated:** 2026-11-25T18:02:24+00:00
 ---
 
 Using Designer, it’s possible to assign a key value to an element, then map it to a Google Sheet or Microsoft Excel document. This will create a new spreadsheet directly mapped to the individual design. The values on this new spreadsheet can be modified to change what the design displays.
@@ -91,6 +91,16 @@ Some best practices:
 * If you change your screen's name, be sure to update your spreadsheet at the same time. If updated later, it could cause issues with data mapping on the screen at the next update interval.
 * \*\*\*ALL\*\*\* tells OptiSigns that if a screen is not specifically assigned values, it will take value from this row of data. This is equivalent to the "Default Value" mentioned earlier in the article.
   + If a value is detected, it will override the \*\*\*ALL\*\*\* value, like in the example above.
+
+---
+
+## Related Articles
+
+* [How to Set Up Dynamic Data Mapping with OptiSync](https://support.optisigns.com/hc/en-us/articles/29217646663187?ref=related)
+* [How to add Google Sheets as a DataSource for OptiSync](https://support.optisigns.com/hc/en-us/articles/29838866920211?ref=related)
+* [How to Display Dynamic Event Schedules Using OptiSync](https://support.optisigns.com/hc/en-us/articles/33468569218067?ref=related)
+* [Inbound Webhook DataSources in Designer](https://support.optisigns.com/hc/en-us/articles/55719322614803?ref=related)
+* [Widgets in Designer](https://support.optisigns.com/hc/en-us/articles/42436941395475?ref=related)
 
 ### **That’s all!**
 

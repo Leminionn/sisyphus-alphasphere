@@ -3,7 +3,7 @@
 **Article ID:** 1500011891542
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/1500011891542-How-to-Install-OptiSigns-as-an-APK-File-on-Android-Devices
-**Last Updated:** 2025-09-04T14:06:18+00:00
+**Last Updated:** 2026-11-25T18:02:18+00:00
 ---
 
 * [Enabling Unknown Source Downloads](#ManagingPermissions)
@@ -102,3 +102,13 @@ Either route you've taken, you'll need to [pair your screen to your account](htt
 ---
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+
+---
+
+## Related Articles
+
+* [How to install OptiSigns Player on Android Boxes](https://support.optisigns.com/hc/en-us/articles/1500008112642?ref=related)
+* [Set Up, Add, or Unpair a Screen](https://support.optisigns.com/hc/en-us/articles/360016374813?ref=related)
+* [Resolve Autostart issues on your Android TV devices](https://support.optisigns.com/hc/en-us/articles/1500009937122?ref=related)
+* [Performance/Stability issues on Android devices and Best Practices](https://support.optisigns.com/hc/en-us/articles/28427819992979?ref=related)
+* [How to Fix the Scaling Issue on OptiSigns Android Devices](https://support.optisigns.com/hc/en-us/articles/28026588373139?ref=related)

@@ -3,7 +3,7 @@
 **Article ID:** 360044600474
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360044600474-Folder-Level-Permissions
-**Last Updated:** 2026-09-10T09:42:14+00:00
+**Last Updated:** 2026-11-25T17:56:47+00:00
 ---
 
 Folder permission options give account Admins access to granular permissions structuring. It provides many options for controlling and managing who has access to what content.
@@ -121,6 +121,16 @@ When dealing with Playlists and Schedules, there are some specific nuances.
 * Anyone with access to this playlist or asset will be able to see the schedule
 * Users without the proper permissions will see that something is scheduled, but will not be able to select it (grayed-out). It will display as a "Non-accessible item" instead of the name of the asset or playlist.
 * A warning message will display for Users stating "There are items in this schedule that you do not have access to"
+
+---
+
+## Related Articles
+
+* [User Management Example - Chain Restaurant or Retail Store with Multiple Locations](https://support.optisigns.com/hc/en-us/articles/43657735780627?ref=related)
+* [Advanced Security: Managing User Roles](https://support.optisigns.com/hc/en-us/articles/360046356113?ref=related)
+* [Working with Teams and Security Levels](https://support.optisigns.com/hc/en-us/articles/360034883113?ref=related)
+* [Multi-users: Invite your team members to your account](https://support.optisigns.com/hc/en-us/articles/360016990233?ref=related)
+* [Advanced: How to assign security for users to only edit certain zones of the screens](https://support.optisigns.com/hc/en-us/articles/1500002047642?ref=related)
 
 ### That's all!
 

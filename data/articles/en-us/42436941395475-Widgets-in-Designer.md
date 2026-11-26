@@ -3,7 +3,7 @@
 **Article ID:** 42436941395475
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/42436941395475-Widgets-in-Designer
-**Last Updated:** 2026-06-03T15:53:35+00:00
+**Last Updated:** 2026-11-25T18:00:33+00:00
 ---
 
 Using Designer, you can add Widgets to make your designs more dynamic. Widgets display complex content from various sources, including other apps, allowing unparalleled customization for your designs.
@@ -345,6 +345,16 @@ To customize a Scrolling Vertical widget, select it, then click **Settings**.
 Simply select an existing AeriCast add-on app to place it in the design.
 
 For more information on setting up AeriCast, see our article on [**How to Use AeriCast for Wireless Presentation and Video Conferencing**](https://support.optisigns.com/hc/en-us/articles/14502723487379-How-to-use-AeriCast-Add-on-for-Wireless-Presentation-and-Video-Conferencing).
+
+---
+
+## Related Articles
+
+* [Legacy DataSources](https://support.optisigns.com/hc/en-us/articles/42915219118739?ref=related)
+* [How to Set Up Dynamic Data Mapping with OptiSync](https://support.optisigns.com/hc/en-us/articles/29217646663187?ref=related)
+* [How to Use Weather Apps in OptiSigns](https://support.optisigns.com/hc/en-us/articles/360017964153?ref=related)
+* [Your Templates](https://support.optisigns.com/hc/en-us/articles/42830652820115?ref=related)
+* [Photos, GIFs, and QR Codes in Designer](https://support.optisigns.com/hc/en-us/articles/42526907045651?ref=related)
 
 ### That’s all!
 

@@ -3,7 +3,7 @@
 **Article ID:** 23030445716883
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/23030445716883-How-to-setup-AeriCast-Meet-Wireless-Video-Conferencing
-**Last Updated:** 2026-09-11T17:16:28+00:00
+**Last Updated:** 2026-11-25T17:33:41+00:00
 ---
 
 With the AeriCast add-on, you can turn any conference room TV into a digital sign. Aericast also allows user to present from their laptops to those screens without needing cables, dongles or extra hardware.

@@ -3,7 +3,7 @@
 **Article ID:** 360041222994
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360041222994-How-to-Use-the-CountUp-App
-**Last Updated:** 2026-10-15T16:20:51+00:00
+**Last Updated:** 2026-11-25T18:08:55+00:00
 ---
 
 With the CountUp app, it's possible to display a timer that counts up from any date and time you choose. Show how long it's been since your grand opening, your last safety incident, or a project kickoff, and let your screens keep the count running.
@@ -83,6 +83,14 @@ The **Select Asset** window will open. Search for your CountUp app, click it, th
 Back in **Edit Screen**, hit **Save**. Your CountUp timer will now display on your screen.
 
 Your CountUp app can also be displayed in a Playlist or Schedule, or as one zone of a [Split Screen](https://support.optisigns.com/hc/en-us/articles/360026559573).
+
+---
+
+## Related Articles
+
+* [How to Use the CountDown App](https://support.optisigns.com/hc/en-us/articles/360041638433?ref=related)
+* [How to Use the Facebook Counter App](https://support.optisigns.com/hc/en-us/articles/360044619014?ref=related)
+* [How to use Instagram Counter App](https://support.optisigns.com/hc/en-us/articles/360047501233?ref=related)
 
 ### That’s all!
 

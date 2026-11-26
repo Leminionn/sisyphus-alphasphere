@@ -3,7 +3,7 @@
 **Article ID:** 360044619014
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/360044619014-How-to-Use-the-Facebook-Counter-App
-**Last Updated:** 2026-09-10T14:23:21+00:00
+**Last Updated:** 2026-11-25T18:08:29+00:00
 ---
 
 * [What You'll Need](#WhatYouNeed)
@@ -69,6 +69,15 @@ Then, select your created Facebook Counter Asset:
 Now hit **Save**. Your Facebook Counter asset will now display on screen.
 
 You can also deploy it as part of a split screen, allowing you to show other assets at the same time. See how in our [Split Screen app article.](https://support.optisigns.com/hc/en-us/articles/360026559573-How-to-Create-and-Use-the-Split-Screen-App) It can also be displayed in a Playlist or Schedule.
+
+---
+
+## Related Articles
+
+* [How to use Instagram Counter App](https://support.optisigns.com/hc/en-us/articles/360047501233?ref=related)
+* [How to Use the Facebook Page App](https://support.optisigns.com/hc/en-us/articles/360023848334?ref=related)
+* [Your Facebook Page Doesn't Show in The Dropdown List](https://support.optisigns.com/hc/en-us/articles/20750060900883?ref=related)
+* [How to Use the CountUp App](https://support.optisigns.com/hc/en-us/articles/360041222994?ref=related)
 
 ### That's all!
 

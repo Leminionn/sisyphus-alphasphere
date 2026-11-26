@@ -3,7 +3,7 @@
 **Article ID:** 5149077938835
 **Locale:** en-us
 **Article URL:** https://support.optisigns.com/hc/en-us/articles/5149077938835-How-to-Use-the-Advanced-Website-App
-**Last Updated:** 2026-11-18T16:21:38+00:00
+**Last Updated:** 2026-11-25T16:51:45+00:00
 ---
 
 The Advanced Website app shows any web page on your screens, including long pages and pages that refuse to be embedded. You choose how the page is displayed, have it scroll up and down on its own, and can even show a different page on each screen from a single asset.
@@ -124,6 +124,16 @@ Check that the screen has a **Device Additional Attribute** with exactly the sam
 #### The page looks too small, too big or cut off
 
 Adjust **Zoom** under **Display Settings**. If the page shows its mobile layout, make sure **Request Desktop Site** is on under **Advanced**.
+
+---
+
+## Related Articles
+
+* [How to use the Web Scripting App](https://support.optisigns.com/hc/en-us/articles/1500012522362?ref=related)
+* [How to Display Content From Websites That Require a Login](https://support.optisigns.com/hc/en-us/articles/360037391854?ref=related)
+* [How to Use the Website App and Display URLs on OptiSigns](https://support.optisigns.com/hc/en-us/articles/360016382473?ref=related)
+* [How to Use the Website Screenshot app](https://support.optisigns.com/hc/en-us/articles/10259143299219?ref=related)
+* [How to use Embed App](https://support.optisigns.com/hc/en-us/articles/360035815114?ref=related)
 
 ### That’s all!
 
